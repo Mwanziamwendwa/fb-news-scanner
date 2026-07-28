@@ -30,12 +30,7 @@ POSTED_LOG_FILE = "posted_log.json"
 MAX_LOG_SIZE_PER_AGENT = 300
 LOOKBACK_HOURS = 24
 
-# Safety cap: total posts across ALL agents in a single run.
-# Keeps the Page from posting too much at once (avoids spam flags).
 TOTAL_MAX_POSTS_PER_RUN = 10
-
-# How many agents to actively try each run (rotation window).
-# Over multiple runs, every agent eventually gets a turn.
 AGENTS_PER_RUN = 20
 
 
@@ -125,8 +120,6 @@ LOAN_TARGET_AGENTS = [
 ]
 
 # ---------- GOVERNMENT MINISTRIES AGENT ----------
-# Note: ministry names/portfolios can change after Cabinet reshuffles —
-# double check against the current Executive Order if you want to fine-tune.
 
 MINISTRY_NAMES = [
     "Ministry of Interior and National Administration Kenya",
@@ -181,7 +174,6 @@ GOVERNMENT_AGENTS.append({
 })
 
 # ---------- COMBINE ALL AGENTS ----------
-# Each agent gets a default max_posts_per_run if not specified individually.
 
 ALL_AGENTS = FINANCE_AGENTS + LOAN_TARGET_AGENTS + GOVERNMENT_AGENTS
 
@@ -214,27 +206,8 @@ def is_recent(published_parsed):
     cutoff = datetime.now(pytz.utc) - timedelta(hours=LOOKBACK_HOURS)
     return published_dt >= cutoff
 
-def nairobi_time_label():
-    now = datetime.now(NAIROBI_TZ)
-    return now.strftime("%A, %d %B %Y — %I:%M %p (Nairobi time)")
-
-def extract_source_name(entry):
-    source = entry.get("source")
-    if source and hasattr(source, "get"):
-        return source.get("title", "")
-    if isinstance(source, str):
-        return source
-    return ""
-
-def build_post_text(title, source_name, hashtags):
-    time_label = nairobi_time_label()
-    source_line = f"\n📰 Source: {source_name}" if source_name else ""
-    return (
-        f"📢 {title}\n\n"
-        f"🕒 {time_label}\n\n"
-        f"Here's what you need to know today.{source_line}\n\n"
-        f"{hashtags}"
-    )
+def build_post_text(title, hashtags):
+    return f"📢 {title}\n\n{hashtags}"
 
 def post_to_facebook(message):
     payload = {"message": message, "access_token": PAGE_ACCESS_TOKEN}
@@ -285,8 +258,7 @@ def run_agent(agent, full_log, remaining_total):
             if not is_recent(published_parsed):
                 continue
 
-            source_name = extract_source_name(entry)
-            message = build_post_text(title, source_name, agent["hashtags"])
+            message = build_post_text(title, agent["hashtags"])
             success = post_to_facebook(message)
 
             already_posted.add(title)
@@ -304,7 +276,6 @@ def main():
     full_log = load_posted_log()
     rotation_index = full_log.get("_rotation_index", 0)
 
-    # Rotate the agent list so a different slice gets priority each run
     ordered_agents = ALL_AGENTS[rotation_index:] + ALL_AGENTS[:rotation_index]
     agents_to_try = ordered_agents[:AGENTS_PER_RUN]
 
@@ -318,7 +289,6 @@ def main():
         full_log[agent["name"]] = (existing + newly_posted)[-MAX_LOG_SIZE_PER_AGENT:]
         remaining_total -= made
 
-    # advance rotation pointer for next run
     new_index = (rotation_index + AGENTS_PER_RUN) % len(ALL_AGENTS)
     full_log["_rotation_index"] = new_index
 

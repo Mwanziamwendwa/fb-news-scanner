@@ -1,17 +1,23 @@
 {
   "teachers": [
     "TSC to promote 34,016 teachers, applications close August - Daily Nation",
-    "TSC to hire 20,000 Junior School teachers - the-star.co.ke"
+    "TSC to hire 20,000 Junior School teachers - the-star.co.ke",
+    "TSC advertises over 54,000 junior schools teaching jobs and other senior positions - People Daily",
+    "TSC Announces 34,016 Job Vacancies for Senior Teachers, Gives Deadline for Applications - Tuko News"
   ],
   "civil_servants": [],
   "sacco_chama": [
     "Kenversity Sacco raises Fahari loan limit to Ksh 8 million - Sacco Review",
-    "NSSF Sacco eyes Tier I status as it opens membership to more Kenyans - the-star.co.ke"
+    "NSSF Sacco eyes Tier I status as it opens membership to more Kenyans - the-star.co.ke",
+    "Govt Weighs In On Imposing Term Limits For SACCO Top Officials - The Kenya Times",
+    "Court ruling boosts Saccos’ edge over unlicensed lenders - Sacco Review"
   ],
   "banking_microfinance": [],
   "sme_business": [
     "KCB Bank Secures KSh12.9 Billion EBRD Facility to Boost SME Lending in Kenya - Bizna Kenya",
-    "KRA moves VAT filing fully online with pre-filled returns - People Daily"
+    "KRA moves VAT filing fully online with pre-filled returns - People Daily",
+    "Kenya’s tax on foreign digital platforms doubled to 3%. Here is what actually changed - tech-ish.com",
+    "KRA eTIMS outage: How downtime affects businesses and tax compliance - People Daily"
   ],
   "world_economy": [],
   "nhif_health_insurance": [
@@ -35,5 +41,9 @@
   "government_ministries": [
     "Kenya • Defence Ministry alarmed by resurgence of Somali pirates - Africa Intelligence"
   ],
-  "_rotation_index": 0
+  "_rotation_index": 0,
+  "county_news": [
+    "Mombasa County unveils maritime and hospitality training to boost youth employment - The Eastleigh Voice",
+    "Full List Of Public And Private SHA-Approved Hospitals In Kitui County - The Kenya Times"
+  ]
 }

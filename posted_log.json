@@ -18,19 +18,30 @@
     "7 Factors TSC Considers When Promoting Teachers Across All Grades - The Kenya Times",
     "TSC invites applications for 20,000 permanent teaching vacancies - Bizna Kenya",
     "KUPPET Bomet Gender Secretary urges TSC to reduce three‑year promotion rule for teachers in C5, D1 - Education News",
-    "TSC Advertises 34,016 Teacher Promotion Vacancies - Money254"
+    "TSC Advertises 34,016 Teacher Promotion Vacancies - Money254",
+    "How TSC Scores Teachers For Promotion And What Actually Counts - Soko Directory",
+    "TSC invites applications for 20,000 permanent teaching vacancies - biznakenya.com",
+    "What The TSC Code Demands Of Teachers During Elections - The Kenya Times",
+    "Court awards 122 teachers Ksh100,000 each over unfair Mandera reposting - Education News",
+    "TSC Extends Teachers’ Mandatory Pension Portal Registration Deadline - The Kenya Times"
   ],
-  "civil_servants": [],
+  "civil_servants": [
+    "FCT Minister Nyesom Wike Approves Immediate Promotion For 3,592 Capital Civil Servants - streamlinefeed.co.ke"
+  ],
   "sacco_chama": [
     "Kenversity Sacco raises Fahari loan limit to Ksh 8 million - Sacco Review",
     "NSSF Sacco eyes Tier I status as it opens membership to more Kenyans - the-star.co.ke",
     "Govt Weighs In On Imposing Term Limits For SACCO Top Officials - The Kenya Times",
     "Court ruling boosts Saccos’ edge over unlicensed lenders - Sacco Review",
-    "New Bill Seeks To Change How Saccos Handle Members’ Money In Kenya - NewsTrendsKE - newstrends.co.ke"
+    "New Bill Seeks To Change How Saccos Handle Members’ Money In Kenya - NewsTrendsKE - newstrends.co.ke",
+    "Why Kenya Police SACCO was named country’s best deposit-taking SACCO - Financial Fortune Media",
+    "Mentor SACCO wins Member Management Award - Financial Fortune Media"
   ],
   "banking_microfinance": [
     "KCB takes Sh13 billion European bank credit to loan women and youth - Business Daily",
-    "CBK Lists Banks Offering Kenyans Cheapest Loans In Latest Report - The Kenya Times"
+    "CBK Lists Banks Offering Kenyans Cheapest Loans In Latest Report - The Kenya Times",
+    "Uniform cost of credit as base loan rates converge at 8.75pc - Business Daily",
+    "Bank loan demand and supply are highly price, risk-sensitive - Business Daily"
   ],
   "sme_business": [
     "KCB Bank Secures KSh12.9 Billion EBRD Facility to Boost SME Lending in Kenya - Bizna Kenya",
@@ -41,7 +52,11 @@
     "KRA Breaks Five-Year Record With Massive Tax Collection - Kenyans.co.ke",
     "KNCCI welcomes one-month delay to higher cargo tax changes - Capitalfm.co.ke",
     "KRA Reveals Why Taxpayers Still See Penalties on iTax Despite Amnesty - Kenyans.co.ke",
-    "Willis Otieno proposes 5% sales tax to replace current KRA system - People Daily"
+    "Willis Otieno proposes 5% sales tax to replace current KRA system - People Daily",
+    "KCB Bank Secures KSh12.9 Billion EBRD Facility to Boost SME Lending in Kenya - biznakenya.com",
+    "Tax amnesty confusion: Why thousands still see iTax penalties despite KRA's automatic waiver promise - People Daily",
+    "KRA Explains What Happens To A Tax PIN After Death - The Kenya Times",
+    "KRA explains how to deregister deceased person’s PIN and register estate PIN - People Daily"
   ],
   "world_economy": [],
   "nhif_health_insurance": [
@@ -51,27 +66,36 @@
   "nssf_pension": [],
   "hustler_fund_youth": [
     "Ruto: 28 million Kenyans have accessed Sh90 billion Hustler Fund loans - The Eastleigh Voice",
-    "Hustler Fund disburses Sh90 billion as Ruto pledges more support for affordable credit - the-star.co.ke"
+    "Hustler Fund disburses Sh90 billion as Ruto pledges more support for affordable credit - the-star.co.ke",
+    "Hustler Fund: 28 million Kenyans have accessed Ksh90B since 2022 - KBC Digital",
+    "Hustler Fund disbursements hit Sh90bn as repeat borrowing, savings rise - Capitalfm.co.ke",
+    "Ruto Pledges Bigger Hustler Fund Loans - Kenyans.co.ke",
+    "Ruto: Hustler Fund has disbursed Ksh90B to 28M borrowers, saved Kenyans Ksh7B - People Daily"
   ],
   "matatu_boda_transport": [],
   "real_estate_mortgage": [
     "Affordable Housing Owners to Face Faster Loan Recovery Timelines Under New Bill - Kenyans.co.ke",
-    "Affordable Housing Owners to Face Faster Loan Recovery Timelines in New Bill - Kenyans.co.ke"
+    "Affordable Housing Owners to Face Faster Loan Recovery Timelines in New Bill - Kenyans.co.ke",
+    "Real estate, law firms top Kenya’s money laundering risk list - Business Daily"
   ],
   "school_fees_education": [],
-  "agriculture_farmers": [],
+  "agriculture_farmers": [
+    "A farmer harvesting tomatoes in an irrigated farm in Kandeki, Kirinyaga County. - facebook.com"
+  ],
   "women_table_banking": [],
   "digital_mobile_loans": [],
   "motor_vehicle_logbook": [],
   "fuel_cost_of_living": [
-    "Government has worked very hard to cushion Kenyans from high fuel prices - DP Kindiki - the-star.co.ke"
+    "Government has worked very hard to cushion Kenyans from high fuel prices - DP Kindiki - the-star.co.ke",
+    "Rising cost of living, youth joblessness fuel growing public unrest, UN warns - the-star.co.ke"
   ],
   "county_business_permits": [],
   "government_ministries": [
     "Kenya • Defence Ministry alarmed by resurgence of Somali pirates - Africa Intelligence",
     "Earlier today, Principal Secretary, State Department for Broadcasting and Telecommunications, Stephen Isaboke, accompanied Cabinet Secretary for Information, Communications and the Digital Economy, William Kabogo, to the Oracle Ministerial Public Servi - facebook.com",
     "TRADITION HERALDS THE NEXT GENERATION OF STRATEGIC MILITARY LEADERS - Kenya Ministry of Defence",
-    "Ministry of Mining Orders the Closure of Tata Chemicals Magadi Limited - Dawan Africa"
+    "Ministry of Mining Orders the Closure of Tata Chemicals Magadi Limited - Dawan Africa",
+    "Interior Ministry Launches Drive to Trace Owners of Uncollected National Identity Cards - Kenyans.co.ke"
   ],
   "_rotation_index": 0,
   "county_news": [
@@ -88,6 +112,18 @@
     "A farmer harvesting tomatoes in an irrigated farm in Kandeki, Kirinyaga County. - facebook.com",
     "COFEK sues Murang’a University, CUE over Didmus Barasa’s disputed PhD award - Education News",
     "Uasin Gishu Governor Jonathan Bii's press statement issued on Monday July 27, 2026, announcing plans to pursue an Alternative Justice System (AJS) to seek a lasting resolution for victims of the Finland and Canada Overseas Education Programme, followi - facebook.com",
-    "‘Ghost worker’ label costs Homa Bay County Sh1m in defamation case - Daily Nation"
+    "‘Ghost worker’ label costs Homa Bay County Sh1m in defamation case - Daily Nation",
+    "Governor Issa Timamy Hosts The Church of Jesus Christ of Latter-day S - news-africa.churchofjesuschrist.org",
+    "At least 2,700 people in Garissa town have benefited from a free medical camp organized by the M-Pesa foundation at the sidelines of the 2026 devolution week. - facebook.com",
+    "Nyandarua Governor Kiarie Badilisha defects to DCP - the-star.co.ke",
+    "Nyandarua Governor Badilisha ditches UDA for Gachagua’s DCP - citizen.digital",
+    "Nyandarua Governor Badilisha Dumps UDA for Gachagua’s DCP - Capitalfm.co.ke",
+    "Nyandarua Governor Kiarie Badlisha defects to Gachagua's DCP days after Ol Kalou by-election - People Daily",
+    "Another UDA Governor Quits, Joins Gachagua's DCP - Kenyans.co.ke",
+    "Nyandarua Governor Badilisha defects from UDA to Gachagua’s DCP ahead of 2027 polls - The Eastleigh Voice",
+    "Irrigation Principal Secretary (PS) Ephantus Kimotho chats with farmers during a visit to the Kandeki Irrigation Scheme in Kirinyaga County. - facebook.com",
+    "Irrigation Principal Secretary (PS) Ephantus Kimotho (second from right) chats with farmers during a visit to the Kandeki Irrigation Scheme in Kirinyaga County. - facebook.com",
+    "Governor Kihika Explains Viral Images of People Sleeping Outside Nakuru Referral Hospital - Kenyans.co.ke",
+    "Kisumu Senator Prof. Tom Ojienda addressing more than 500 Community Health during a consultative meeting at his residence in God Abuoro, Muhoroni Sub-county. He donated Sh1.6 million to support their welfare and facilitate their work in delivering healt - facebook.com"
   ]
 }

@@ -5,16 +5,26 @@
     "TSC advertises over 54,000 junior schools teaching jobs and other senior positions - People Daily",
     "TSC Announces 34,016 Job Vacancies for Senior Teachers, Gives Deadline for Applications - Tuko News",
     "TSC Announces Mass Recruitment & Promotion of Teachers - Kenyans.co.ke",
-    "TSC opens recruitment for 20,000 permanent and pensionable JSS teachers - Education News"
+    "TSC opens recruitment for 20,000 permanent and pensionable JSS teachers - Education News",
+    "TSC launches major teacher recruitment drive with 54,016 vacancies - The Eastleigh Voice",
+    "TSC Opens 54,016 Teaching Vacancies in Largest-Ever Recruitment Drive - Dawan Africa",
+    "CSOs give TSC 7-day ultimatum as only 34 of 34,000 promotion vacancies go to their cadre - Education News",
+    "Uncertainty deepens as teachers await TSC’s new internship recruitment guidelines - Education News",
+    "Explained: How TSC Awards Marks During Recruitment of Junior Secondary Teacher Interns - The Kenya Times",
+    "TSC under pressure as JSS teachers protest exclusion from promotion exercise - Education News",
+    "TSC Announces Recruitment Of 20,000 Teachers On Permanent Terms: How To Apply - The Kenya Times"
   ],
   "civil_servants": [],
   "sacco_chama": [
     "Kenversity Sacco raises Fahari loan limit to Ksh 8 million - Sacco Review",
     "NSSF Sacco eyes Tier I status as it opens membership to more Kenyans - the-star.co.ke",
     "Govt Weighs In On Imposing Term Limits For SACCO Top Officials - The Kenya Times",
-    "Court ruling boosts Saccos’ edge over unlicensed lenders - Sacco Review"
+    "Court ruling boosts Saccos’ edge over unlicensed lenders - Sacco Review",
+    "New Bill Seeks To Change How Saccos Handle Members’ Money In Kenya - NewsTrendsKE - newstrends.co.ke"
   ],
-  "banking_microfinance": [],
+  "banking_microfinance": [
+    "KCB takes Sh13 billion European bank credit to loan women and youth - Business Daily"
+  ],
   "sme_business": [
     "KCB Bank Secures KSh12.9 Billion EBRD Facility to Boost SME Lending in Kenya - Bizna Kenya",
     "KRA moves VAT filing fully online with pre-filled returns - People Daily",
@@ -23,13 +33,15 @@
   ],
   "world_economy": [],
   "nhif_health_insurance": [
-    "Britam Unveils Ksh336 Medical Cover for Domestic and Informal Workers - Business Today Kenya"
+    "Britam Unveils Ksh336 Medical Cover for Domestic and Informal Workers - Business Today Kenya",
+    "Closed clinics cash in: DCI exposes massive fraud in Kenya’s SHA scheme - People Daily"
   ],
   "nssf_pension": [],
   "hustler_fund_youth": [],
   "matatu_boda_transport": [],
   "real_estate_mortgage": [
-    "Affordable Housing Owners to Face Faster Loan Recovery Timelines Under New Bill - Kenyans.co.ke"
+    "Affordable Housing Owners to Face Faster Loan Recovery Timelines Under New Bill - Kenyans.co.ke",
+    "Affordable Housing Owners to Face Faster Loan Recovery Timelines in New Bill - Kenyans.co.ke"
   ],
   "school_fees_education": [],
   "agriculture_farmers": [],
@@ -41,13 +53,16 @@
   ],
   "county_business_permits": [],
   "government_ministries": [
-    "Kenya • Defence Ministry alarmed by resurgence of Somali pirates - Africa Intelligence"
+    "Kenya • Defence Ministry alarmed by resurgence of Somali pirates - Africa Intelligence",
+    "Earlier today, Principal Secretary, State Department for Broadcasting and Telecommunications, Stephen Isaboke, accompanied Cabinet Secretary for Information, Communications and the Digital Economy, William Kabogo, to the Oracle Ministerial Public Servi - facebook.com"
   ],
   "_rotation_index": 0,
   "county_news": [
     "Mombasa County unveils maritime and hospitality training to boost youth employment - The Eastleigh Voice",
     "Full List Of Public And Private SHA-Approved Hospitals In Kitui County - The Kenya Times",
     "TSC County Director Dr William Yator hands over Siaya office as he moves to Bungoma - Education News",
-    "Nairobi County allocates Sh20 million for Raila statue, monument - the-star.co.ke"
+    "Nairobi County allocates Sh20 million for Raila statue, monument - the-star.co.ke",
+    "Stanbic Kenya Foundation Launches Digital Learning Centre in Embu County - The Coast Media Group",
+    "Nairobi County Assembly Sets Aside Sh20 Million for Raila Odinga Monument in 2026/27 Budget - Signs Tv"
   ]
 }

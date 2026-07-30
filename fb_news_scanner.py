@@ -10,26 +10,33 @@ Runs ONLY when triggered (manual workflow_dispatch in GitHub Actions).
 Each run posts at most ONE story and hands the turn to the next agent,
 so agents genuinely take turns rather than all firing on autopilot.
 
-State (whose turn it is, which stories are already posted) lives in
-state.json, which the GitHub Actions workflow commits back to the repo
-after every run.
+STATE (whose turn it is, which stories are already posted) is stored
+directly inside THIS FILE, between the STATE START / STATE END markers
+below. No separate JSON file is used. After each run, the script rewrites
+its own STATE block, and the GitHub Actions workflow commits the updated
+.py file back to the repo.
 """
 
 import os
 import re
-import json
-import time
 import hashlib
 import feedparser
 import requests
-from datetime import datetime, timedelta, timezone
+from datetime import timedelta, timezone
+
+# ============================================================
+# STATE START -- do not hand-edit the layout of this block,
+# only the values, if you ever need to reset something manually.
+NEXT_AGENT_INDEX = 0
+POSTED_IDS = []
+# STATE END
+# ============================================================
 
 # --------------------------------------------------------------------------
 # CONFIG
 # --------------------------------------------------------------------------
 
 NAIROBI_TZ = timezone(timedelta(hours=3))
-STATE_FILE = "state.json"
 MAX_POSTED_HISTORY = 500  # how many old story IDs we remember, to avoid re-posting
 
 FEEDS = [
@@ -39,14 +46,11 @@ FEEDS = [
     "https://news.google.com/rss/search?q=TSC+Kenya+teachers&hl=en-KE&gl=KE&ceid=KE:en",
 ]
 
-# Keywords that mean "ordinary teacher news" (used just to pull relevant items)
 RELEVANT_KEYWORDS = [
     "tsc", "knut", "kuppet", "cba", "payslip", "teacher recruitment",
     "teacher", "promotion", "salary", "delocalization", "internship",
 ]
 
-# Keywords that bump a story into "MAJOR" territory -- only these get posted.
-# Weighted so a story needs a real signal, not just an incidental mention.
 MAJOR_KEYWORDS = {
     "payslip": 3,
     "cba": 3,
@@ -66,8 +70,6 @@ MAJOR_KEYWORDS = {
 }
 MAJOR_THRESHOLD = 3  # total weighted score needed to count as a "major story"
 
-# Agents that take turns. Each has its own voice so the page doesn't sound
-# like the same template repeated -- but all stay factual and on-brand.
 AGENTS = [
     {
         "name": "TeacherDesk Kenya",
@@ -89,21 +91,35 @@ FB_PAGE_ACCESS_TOKEN = os.environ.get("FB_PAGE_ACCESS_TOKEN")
 
 
 # --------------------------------------------------------------------------
-# STATE HANDLING
+# SELF-REWRITING STATE (stored inside this .py file, no JSON needed)
 # --------------------------------------------------------------------------
 
-def load_state():
-    if os.path.exists(STATE_FILE):
-        with open(STATE_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {"next_agent_index": 0, "posted_ids": []}
+_THIS_FILE = os.path.abspath(__file__)
 
 
-def save_state(state):
-    # keep posted_ids from growing forever
-    state["posted_ids"] = state["posted_ids"][-MAX_POSTED_HISTORY:]
-    with open(STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump(state, f, indent=2)
+def save_state(next_agent_index, posted_ids):
+    """Rewrite the STATE START / STATE END block inside this very file."""
+    posted_ids = posted_ids[-MAX_POSTED_HISTORY:]
+
+    with open(_THIS_FILE, "r", encoding="utf-8") as f:
+        source = f.read()
+
+    new_block = (
+        "# STATE START -- do not hand-edit the layout of this block,\n"
+        "# only the values, if you ever need to reset something manually.\n"
+        f"NEXT_AGENT_INDEX = {next_agent_index}\n"
+        f"POSTED_IDS = {posted_ids!r}\n"
+        "# STATE END"
+    )
+
+    pattern = re.compile(
+        r"# STATE START.*?# STATE END",
+        re.DOTALL,
+    )
+    updated_source = pattern.sub(new_block, source, count=1)
+
+    with open(_THIS_FILE, "w", encoding="utf-8") as f:
+        f.write(updated_source)
 
 
 def story_id(entry):
@@ -170,7 +186,7 @@ def fetch_candidates(posted_ids):
 
 
 # --------------------------------------------------------------------------
-# PROMPT + LLM CALL (fixed version)
+# PROMPT + LLM CALL
 # --------------------------------------------------------------------------
 
 def build_prompt(agent, title, summary):
@@ -265,8 +281,7 @@ def post_to_facebook(message):
 # --------------------------------------------------------------------------
 
 def main():
-    state = load_state()
-    posted_ids = set(state.get("posted_ids", []))
+    posted_ids = set(POSTED_IDS)
 
     candidates = fetch_candidates(posted_ids)
     major = [c for c in candidates if c["score"] >= MAJOR_THRESHOLD]
@@ -278,7 +293,7 @@ def main():
     top_story = major[0]
     print(f"Selected story (score={top_story['score']}): {top_story['title']}")
 
-    agent_index = state.get("next_agent_index", 0) % len(AGENTS)
+    agent_index = NEXT_AGENT_INDEX % len(AGENTS)
     agent = AGENTS[agent_index]
     print(f"Agent for this turn: {agent['name']}")
 
@@ -291,10 +306,10 @@ def main():
     post_to_facebook(post_text)
     print("Posted to Facebook successfully.")
 
-    # update state: advance turn, remember this story as posted
-    state["next_agent_index"] = (agent_index + 1) % len(AGENTS)
-    state["posted_ids"] = list(posted_ids) + [top_story["id"]]
-    save_state(state)
+    # advance turn, remember this story as posted -- rewrite this file's state block
+    new_agent_index = (agent_index + 1) % len(AGENTS)
+    new_posted_ids = list(posted_ids) + [top_story["id"]]
+    save_state(new_agent_index, new_posted_ids)
 
 
 if __name__ == "__main__":

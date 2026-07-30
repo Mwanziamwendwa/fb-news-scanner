@@ -1,18 +1,22 @@
-name: FB News Scanner
+name: Facebook News Scanner
 
-# Manual trigger ONLY -- no schedule. This runs exclusively when you press
-# "Run workflow" in the Actions tab (or via the GitHub app/API).
 on:
-  workflow_dispatch: {}
+  schedule:
+    # Times are in UTC. Nairobi is UTC+3.
+    # Runs at 07:00, 13:00, 18:00 Nairobi time = 04:00, 10:00, 15:00 UTC
+    - cron: "0 4 * * *"
+    - cron: "0 10 * * *"
+    - cron: "0 15 * * *"
+  workflow_dispatch: {}   # lets you manually trigger a run from the Actions tab
 
 permissions:
-  contents: write   # needed so the workflow can commit state.json back
+  contents: write   # needed so the workflow can commit the updated log file
 
 jobs:
   scan-and-post:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -21,19 +25,18 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install feedparser requests
+        run: pip install feedparser requests pytz
 
       - name: Run scanner
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
         run: python fb_news_scanner.py
 
-      - name: Commit updated state
+      - name: Commit updated posted log
         run: |
-          git config user.name "fb-news-bot"
-          git config user.email "fb-news-bot@users.noreply.github.com"
-          git add fb_news_scanner.py
-          git diff --staged --quiet || git commit -m "Update agent turn / posted story state"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add posted_log.json
+          git diff --quiet --cached || git commit -m "Update posted log [skip ci]"
           git push

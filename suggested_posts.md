@@ -1,78 +1,71 @@
-# 📋 Suggested Posts — updated Sunday, 16 August 2026 — 06:53 PM (Nairobi time)
+# 📋 Suggested Posts — updated Sunday, 16 August 2026 — 07:15 PM (Nairobi time)
 
-Copy any of these into Facebook manually. Newest scan at the top.
-
----
-
-## Teachers
-
-**📢 Teachers protest TSC social media gag - Daily Nation**
-
-#TSC #Teachers #KenyaEducation
+Copy any of these into Facebook manually at the suggested time (Nairobi time), or whenever suits you. Newest scan at the top.
 
 ---
 
-## Banking Microfinance
+## 🕒 7:00 AM — County News
 
-**📢 High Court suspends Treasury approval on loan rate hikes - Sacco Review**
+**Topic:** 𝗔𝗕𝗗𝗜 𝗦𝗛𝗔𝗞𝗨𝗥-𝗕𝗜𝗡𝗧𝗜 𝗗𝗜𝗚𝗜𝗧𝗔𝗟 𝗟𝗜𝗧𝗘𝗥𝗔𝗖𝗬 𝗛𝗨𝗕 𝗦𝗧𝗨𝗗𝗘𝗡𝗧 Laikipia County have been challenged to embrace digital learning to protect themselves from online predators. The call was made during the official launch of a digital literacy programme t - facebook.com
 
-#CBK #BankLoans #Microfinance
+**Raw text (~100 words):**
+𝗔𝗕𝗗𝗜 𝗦𝗛𝗔𝗞𝗨𝗥-𝗕𝗜𝗡𝗧𝗜 𝗗𝗜𝗚𝗜𝗧𝗔𝗟 𝗟𝗜𝗧𝗘𝗥𝗔𝗖𝗬 𝗛𝗨𝗕 𝗦𝗧𝗨𝗗𝗘𝗡𝗧 Laikipia County have been challenged to embrace digital learning to protect themselves from online predators. The call was made during the official launch of a digital literacy programme t &nbsp;&nbsp; facebook.com
 
----
+**Hashtags:** #CountyNews #Kenya47Counties #Devolution
 
-## Real Estate Mortgage
-
-**📢 KMRC to Host Affordable Housing Conference Focused on Financing Gap - Mjengo Hub**
-
-#RealEstate #Mortgage #Housing
+_Paste the Topic + Raw text above to Claude to get a rewritten, engaging version, then post to Facebook._
 
 ---
 
-## Government Ministries
+## 🕒 9:00 AM — County News
 
-**📢 STRENGTHENING HEALTHCARE CAPACITY - Kenya Ministry of Defence**
+**Topic:** Kericho Governor Dr. Erick Mutai addresses participants during the closing ceremony of the 2026 WASPA Games at Kericho Teacher Training College, challenging water sector institutions to turn the spirit of teamwork and partnership into improved WASH serv - facebook.com
 
-#KenyaGovernment #Ministries #PublicPolicy
+**Raw text (~100 words):**
+Kericho Governor Dr. Erick Mutai addresses participants during the closing ceremony of the 2026 WASPA Games at Kericho Teacher Training College, challenging water sector institutions to turn the spirit of teamwork and partnership into improved WASH serv &nbsp;&nbsp; facebook.com
 
----
+**Hashtags:** #CountyNews #Kenya47Counties #Devolution
 
-## County News
-
-**📢 Some members of the public follow proceedings during an empowerment forum at Gathera Social Hall in Maragua Constituency, Murang’a County, where residents were urged to maintain peace, unity and tolerance ahead of the 2027 General Election. - facebook.com**
-
-#CountyNews #Kenya47Counties #Devolution
+_Paste the Topic + Raw text above to Claude to get a rewritten, engaging version, then post to Facebook._
 
 ---
 
-**📢 Graduates who successfully completed treatment at the Uasin Gishu County Rehabilitation and Treatment Centre in Moiben, Uasin Gishu County, pose for a group photo during their graduation ceremony on Friday. The 14 graduates were among clients who c - facebook.com**
+## 🕒 11:00 AM — Breaking Kenya General
 
-#CountyNews #Kenya47Counties #Devolution
+**Topic:** Kirinyaga Woman Rep challenges DCI, NCIC to arrest Kaluma over alleged hate speech
 
----
+**Raw text (~100 words):**
+NAIROBI, Kenya, Aug 16- Kirinyaga Woman Representative Njeri Maina has called on the Directorate of Criminal Investigations (DCI), the National Cohesion and Integration Commission (NCIC) and the Office of the&#8230;
 
-**📢 Kenya News Agency - KNA. . Laikipia East Deputy County Commissioner Patrick Muli has encouraged youth to acquire digital skills that will enable them to safely navigate online work environments and earn a living. Muli spoke during the official launch of a di - facebook.com**
+**Hashtags:** #KenyaNews #BreakingNews
 
-#CountyNews #Kenya47Counties #Devolution
-
----
-
-## Breaking Kenya General
-
-**📢 Gachagua to Kindiki: ‘If you want me to be your brother, stop being used by Ruto to divide Mt Kenya’**
-
-#KenyaNews #BreakingNews
+_Paste the Topic + Raw text above to Claude to get a rewritten, engaging version, then post to Facebook._
 
 ---
 
-**📢 Muturi demands mandatory election technology disclosure as required by the Supreme Court**
+## 🕒 1:00 PM — Breaking Kenya General
 
-#KenyaNews #BreakingNews
+**Topic:** Karungo calls on Ruto to resign over rising political violence and goonism
+
+**Raw text (~100 words):**
+NAIROBI, Kenya, Aug 16-Kiambu Senator Karungo wa Thang’wa has called on President William Ruto to resign, accusing his administration of failing to contain political violence, goonism and insecurity as tensions&#8230;
+
+**Hashtags:** #KenyaNews #BreakingNews
+
+_Paste the Topic + Raw text above to Claude to get a rewritten, engaging version, then post to Facebook._
 
 ---
 
-**📢 Sifuna-led Linda Mwananchi faction defies Homa Bay roadblocks, vows to keep fighting for democracy**
+## 🕒 3:00 PM — Breaking Kenya General
 
-#KenyaNews #BreakingNews
+**Topic:** Police warn political actors against incitement, order officers to uphold law and order
+
+**Raw text (~100 words):**
+NAIROBI, Kenya, Aug 16-The National Police Service (NPS) has issued a stern warning to politicians, rally organisers and other individuals against incitement, provocation and any conduct likely to undermine peace&#8230;
+
+**Hashtags:** #KenyaNews #BreakingNews
+
+_Paste the Topic + Raw text above to Claude to get a rewritten, engaging version, then post to Facebook._
 
 ---
 

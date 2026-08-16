@@ -1,4 +1,4 @@
-# 📋 All Suggested Posts — updated Sunday, 16 August 2026 — 07:30 PM (Nairobi time)
+# 📋 All Suggested Posts — updated Sunday, 16 August 2026 — 08:00 PM (Nairobi time)
 
 Copy any Topic + Raw text below and paste it to Claude to get a rewritten version, then post to Facebook whenever you like.
 
@@ -6,10 +6,10 @@ Copy any Topic + Raw text below and paste it to Claude to get a rewritten versio
 
 ## County News
 
-**Topic:** Homa Bay county gets new deputy governor - standardmedia.co.ke
+**Topic:** Governor Gladys Wanga Addresses Homa Bay Roads Amid 'Yemen' Comparisons - Kenyans.co.ke
 
 **Raw text (~100 words):**
-Homa Bay county gets new deputy governor &nbsp;&nbsp; standardmedia.co.ke
+Governor Gladys Wanga Addresses Homa Bay Roads Amid 'Yemen' Comparisons &nbsp;&nbsp; Kenyans.co.ke
 
 **Hashtags:** #CountyNews #Kenya47Counties #Devolution
 
@@ -17,10 +17,10 @@ Homa Bay county gets new deputy governor &nbsp;&nbsp; standardmedia.co.ke
 
 ## Breaking Kenya General
 
-**Topic:** 15 suspected gang members arrested, crude weapons seized in Kisumu
+**Topic:** Oilers end Kabras’ title defence, beat Dala Champions 12-7 in Kabeberi 7s quarter-final
 
 **Raw text (~100 words):**
-NAIROBI, Kenya, Aug 16— Police have arrested 15 suspected gang members and recovered an assortment of crude weapons during a coordinated operation along the Kisumu–Kericho highway, the Directorate of Criminal&#8230;
+Menengai Oilers eliminated Kabras Sugar 12-7 in the final quarter-final of the 2026 Kabeberi 7s at the RFUEA Grounds in Nairobi on Sunday, knocking out a side that had won the previous leg of the National 7s Circuit, the Dala 7s in Kisumu, at Oilers&#8217; own expense. Glacious Owino opened the scoring and converted his [&#8230;] The post Oilers end Kabras&#8217; title defence, beat Dala Champions 12-7 in Kabeberi 7s quarter-final appeared first on KBC Digital .
 
 **Hashtags:** #KenyaNews #BreakingNews
 
@@ -28,10 +28,10 @@ NAIROBI, Kenya, Aug 16— Police have arrested 15 suspected gang members and rec
 
 ## Breaking Kenya General
 
-**Topic:** Rowdy youths raid Homa Bay hotel, destroy and steal property ahead of Linda Mwananchi rally
+**Topic:** Garissa regional immigration office a game changer for northern region, officials say
 
 **Raw text (~100 words):**
-NAIROBI, Kenya, Aug 16 — A group of youths allegedly attacked a hotel in Homa Bay on Saturday night, destroying and stealing property of unknown value as political tensions escalated&#8230;
+Barely one and half years after the reopening by President William Ruto, the Garissa regional immigration office has made tremendous strides in bringing and delivering the immigration services closer to the people. According to the Deputy Officer In-Charge Abdi Sheikh Ali, the Office which serves at least six counties including Tana River, Garissa, Wajir, Mandera, [&#8230;] The post Garissa regional immigration office a game changer for northern region, officials say appeared first on KBC Digital .
 
 **Hashtags:** #KenyaNews #BreakingNews
 
@@ -39,10 +39,10 @@ NAIROBI, Kenya, Aug 16 — A group of youths allegedly attacked a hotel in Homa 
 
 ## Breaking Kenya General
 
-**Topic:** Tension rises in Homa Bay as roads blocked ahead of Linda Mwananchi rally
+**Topic:** NPS warns against political incitement
 
 **Raw text (~100 words):**
-NAIROBI,Kenya, Aug 16-Tension gripped Homa Bay Town on Sunday morning after roads leading into and out of the town were reportedly blocked with large stones ahead of a planned Linda&#8230;
+The National Police Service urged the public to report any criminal or suspicious activity at the nearest police station. The post NPS warns against political incitement appeared first on KBC Digital .
 
 **Hashtags:** #KenyaNews #BreakingNews
 

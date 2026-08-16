@@ -9,6 +9,7 @@ No API keys, tokens, or Facebook permissions needed at all for this version.
 
 import os
 import json
+import re
 from datetime import datetime, timedelta
 import pytz
 import feedparser
@@ -19,6 +20,23 @@ SUGGESTIONS_FILE = "suggested_posts.md"
 MAX_LOG_SIZE_PER_AGENT = 300
 LOOKBACK_HOURS = 24
 MAX_SUGGESTIONS_PER_AGENT = 3
+
+def strip_html(text):
+    clean = re.sub(r"<[^>]+>", " ", text or "")
+    clean = re.sub(r"\s+", " ", clean).strip()
+    return clean
+
+def truncate_words(text, max_words=100):
+    words = text.split()
+    if len(words) <= max_words:
+        return text
+    return " ".join(words[:max_words]).rstrip(",.;:") + "..."
+
+def extract_clean_text(summary_raw):
+    text = strip_html(summary_raw)
+    if not text:
+        return ""
+    return truncate_words(text, max_words=100)
 
 
 def gnews(query):
@@ -127,7 +145,6 @@ GENERAL_KENYA_AGENT = [
         "hashtags": "#KenyaNews #BreakingNews",
         "feeds": [
             "https://ntvkenya.co.ke/feed/",
-            "https://nation.africa/kenya/rss",
             "https://www.the-star.co.ke/rss/",
             "https://www.standardmedia.co.ke/rss/headlines.php",
             "https://www.citizen.digital/feed",
@@ -183,7 +200,8 @@ def main():
     for agent in ALL_AGENTS:
         name = agent["name"]
         already_suggested = set(full_log.get(name, []))
-        found = []
+        found = []       # titles only, for the log (dedup tracking)
+        found_items = [] # (title, summary) pairs, for building the post text
 
         for feed_url in agent["feeds"]:
             if len(found) >= MAX_SUGGESTIONS_PER_AGENT:
@@ -211,12 +229,13 @@ def main():
                     continue
 
                 found.append(title)
+                found_items.append((title, summary))
                 already_suggested.add(title)
 
-        if found:
+        if found_items:
             suggestions_by_agent[name] = {
                 "hashtags": agent["hashtags"],
-                "titles": found,
+                "items": found_items,
             }
 
         existing = full_log.get(name, [])
@@ -224,22 +243,36 @@ def main():
 
     save_posted_log(full_log)
 
-    # Write the suggestions file
+    # Write the suggestions file, organized into suggested posting time slots
+    time_slots = ["7:00 AM", "9:00 AM", "11:00 AM", "1:00 PM",
+                  "3:00 PM", "5:00 PM", "7:00 PM", "9:00 PM"]
+
     with open(SUGGESTIONS_FILE, "w", encoding="utf-8") as f:
         f.write(f"# 📋 Suggested Posts — updated {nairobi_time_label()}\n\n")
-        f.write("Copy any of these into Facebook manually. Newest scan at the top.\n\n---\n\n")
+        f.write("Copy any of these into Facebook manually at the suggested time (Nairobi time), or whenever suits you. Newest scan at the top.\n\n---\n\n")
 
         if not suggestions_by_agent:
             f.write("No new relevant stories found this run. Check back next run.\n")
         else:
+            # Flatten all suggestions into one list, then assign time slots round-robin
+            all_items = []
             for name, data in suggestions_by_agent.items():
-                f.write(f"## {name.replace('_', ' ').title()}\n\n")
-                for title in data["titles"]:
-                    f.write(f"**📢 {title}**\n\n")
-                    f.write(f"{data['hashtags']}\n\n")
-                    f.write("---\n\n")
+                for title, summary in data["items"]:
+                    all_items.append((name, title, summary, data["hashtags"]))
 
-    total = sum(len(v["titles"]) for v in suggestions_by_agent.values())
+            for i, (name, title, summary, hashtags) in enumerate(all_items):
+                slot = time_slots[i % len(time_slots)]
+                extract = extract_clean_text(summary)
+
+                f.write(f"## 🕒 {slot} — {name.replace('_', ' ').title()}\n\n")
+                f.write(f"**Topic:** {title}\n\n")
+                if extract:
+                    f.write(f"**Raw text (~100 words):**\n{extract}\n\n")
+                f.write(f"**Hashtags:** {hashtags}\n\n")
+                f.write("_Paste the Topic + Raw text above to Claude to get a rewritten, engaging version, then post to Facebook._\n\n")
+                f.write("---\n\n")
+
+    total = sum(len(v["items"]) for v in suggestions_by_agent.values())
     print(f"Done. {total} new post suggestions written to {SUGGESTIONS_FILE}")
 
 if __name__ == "__main__":

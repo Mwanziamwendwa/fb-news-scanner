@@ -243,33 +243,26 @@ def main():
 
     save_posted_log(full_log)
 
-    # Write the suggestions file, organized into suggested posting time slots
-    time_slots = ["7:00 AM", "9:00 AM", "11:00 AM", "1:00 PM",
-                  "3:00 PM", "5:00 PM", "7:00 PM", "9:00 PM"]
-
     with open(SUGGESTIONS_FILE, "w", encoding="utf-8") as f:
-        f.write(f"# 📋 Suggested Posts — updated {nairobi_time_label()}\n\n")
-        f.write("Copy any of these into Facebook manually at the suggested time (Nairobi time), or whenever suits you. Newest scan at the top.\n\n---\n\n")
+        f.write(f"# 📋 All Suggested Posts — updated {nairobi_time_label()}\n\n")
+        f.write("Copy any Topic + Raw text below and paste it to Claude to get a rewritten version, then post to Facebook whenever you like.\n\n---\n\n")
 
         if not suggestions_by_agent:
             f.write("No new relevant stories found this run. Check back next run.\n")
         else:
-            # Flatten all suggestions into one list, then assign time slots round-robin
             all_items = []
             for name, data in suggestions_by_agent.items():
                 for title, summary in data["items"]:
                     all_items.append((name, title, summary, data["hashtags"]))
 
-            for i, (name, title, summary, hashtags) in enumerate(all_items):
-                slot = time_slots[i % len(time_slots)]
+            for name, title, summary, hashtags in all_items:
                 extract = extract_clean_text(summary)
 
-                f.write(f"## 🕒 {slot} — {name.replace('_', ' ').title()}\n\n")
+                f.write(f"## {name.replace('_', ' ').title()}\n\n")
                 f.write(f"**Topic:** {title}\n\n")
                 if extract:
                     f.write(f"**Raw text (~100 words):**\n{extract}\n\n")
                 f.write(f"**Hashtags:** {hashtags}\n\n")
-                f.write("_Paste the Topic + Raw text above to Claude to get a rewritten, engaging version, then post to Facebook._\n\n")
                 f.write("---\n\n")
 
     total = sum(len(v["items"]) for v in suggestions_by_agent.values())

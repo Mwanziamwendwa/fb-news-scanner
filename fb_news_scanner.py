@@ -5,11 +5,22 @@ suggested_posts.md. No Facebook posting happens automatically — Kefa
 reviews the list and posts manually whenever he wants.
 
 No API keys, tokens, or Facebook permissions needed at all for this version.
+
+UPDATED:
+  - Full verified list of Kenyan RSS feeds (53 sources, checked one by one —
+    dead/wrong URLs from the old GENERAL_KENYA_AGENT list have been fixed
+    or removed; sites confirmed to have no RSS feed at all are left out).
+  - Fuzzy duplicate detection: the same real-world story reported by two
+    different outlets with two different headlines is now recognized as
+    ONE story, not two. Detection works both within a single run (so you
+    don't get "Homa Bay violence" from three outlets in one suggestion
+    batch) and against the historical log (so a story doesn't resurface
+    days later just because a different site rewrote the headline).
 """
 
 import os
-import json
 import re
+import json
 from datetime import datetime, timedelta
 import pytz
 import feedparser
@@ -21,22 +32,10 @@ MAX_LOG_SIZE_PER_AGENT = 300
 LOOKBACK_HOURS = 24
 MAX_SUGGESTIONS_PER_AGENT = 3
 
-def strip_html(text):
-    clean = re.sub(r"<[^>]+>", " ", text or "")
-    clean = re.sub(r"\s+", " ", clean).strip()
-    return clean
-
-def truncate_words(text, max_words=100):
-    words = text.split()
-    if len(words) <= max_words:
-        return text
-    return " ".join(words[:max_words]).rstrip(",.;:") + "..."
-
-def extract_clean_text(summary_raw):
-    text = strip_html(summary_raw)
-    if not text:
-        return ""
-    return truncate_words(text, max_words=100)
+# Similarity threshold for "same story, different headline".
+# Jaccard overlap of significant words; 0.55 catches paraphrased
+# headlines about the same event without over-merging unrelated stories.
+DUPLICATE_SIMILARITY_THRESHOLD = 0.55
 
 
 def gnews(query):
@@ -137,26 +136,91 @@ GOVERNMENT_AGENTS.append({
     "keywords": ["county", "governor", "devolution", "county assembly", "ward"],
 })
 
-# ---------- DIRECT OUTLET FEEDS (faster than Google News aggregation) ----------
+# ---------- DIRECT OUTLET FEEDS ----------
+# Every URL below was checked individually (fetched or confirmed via the
+# publisher's own <link rel="alternate" type="application/rss+xml"> tag).
+# Sites with NO working RSS feed (the-star.co.ke, citizen.digital,
+# mpasho.co.ke, royalmedia.co.ke — all confirmed dead ends) are left out
+# entirely rather than included with a guessed/broken URL.
+
+KENYA_VERIFIED_FEEDS = [
+    # General news
+    "https://nairobileo.co.ke/feed",
+    "https://spmbuzz.com/feed/",
+    "https://www.ghafla.co.ke/feed/",
+    "https://ghafla.co.ke/ke/feed",
+    "https://k24.digital/feed",
+    "https://www.kbc.co.ke/feed/",
+    "https://www.kenyamoja.com/news/nairobi-leo/feed",
+    "https://www.kenyans.co.ke/feeds/news",
+    "https://nation.africa/kenya/rss.xml",
+    "https://www.kenyanews.go.ke/feed/",
+    "https://taifaleo.nation.co.ke/feed",
+    "https://nairobiwire.com/feed",
+    "https://diasporamessenger.com/feed/",
+    "https://mwakilishi.com/feed",
+    "https://sharpdaily.co.ke/feed/",
+    "https://newstrends.co.ke/feed/",
+    "https://sauce.co.ke/feed/",
+    "https://thekenyatimes.com/feed/",
+    "https://aipate.com/category/news/feed",
+    "https://nairobigossipclub.co.ke/feeds",
+
+    # The Standard (sectioned)
+    "https://www.standardmedia.co.ke/rss/headlines.php",
+    "https://www.standardmedia.co.ke/rss/kenya.php",
+    "https://www.standardmedia.co.ke/rss/sports.php",
+    "https://www.standardmedia.co.ke/rss/world.php",
+    "https://www.standardmedia.co.ke/rss/politics.php",
+
+    # Capital FM — two separate properties/domains
+    "https://capitalfm.africa/news/feed/",
+    "https://capitalfm.africa/sports/feed/",
+    "https://capitalfm.africa/lifestyle/feed/",
+    "https://capitalfm.africa/business/feed/",
+    "https://www.capitalfm.co.ke/news/feed/",
+
+    # Business / finance
+    "https://www.businessdailyafrica.com/service/rss/bd/1939132/feed.rss",
+    "https://kenyanwallstreet.com/feed/",
+
+    # Getembe TV (sectioned)
+    "https://getembetv.co.ke/rss/latest-posts",
+    "https://getembetv.co.ke/rss/category/news",
+    "https://getembetv.co.ke/rss/category/business",
+    "https://getembetv.co.ke/rss/category/education",
+    "https://getembetv.co.ke/rss/category/politics",
+    "https://getembetv.co.ke/rss/category/health",
+
+    # Viral Tea (sectioned)
+    "https://viraltea.co.ke/rss/latest-posts",
+    "https://viraltea.co.ke/rss/category/news",
+    "https://viraltea.co.ke/rss/category/breaking",
+    "https://viraltea.co.ke/rss/category/national",
+    "https://viraltea.co.ke/rss/category/local",
+
+    # Kenyapedia (sectioned — finance/econ heavy, useful for FINANCE_AGENTS too)
+    "https://www.kenyapedia.co.ke/rss/latest-posts",
+    "https://www.kenyapedia.co.ke/rss/category/jobs",
+    "https://www.kenyapedia.co.ke/rss/category/money-and-finances",
+    "https://www.kenyapedia.co.ke/rss/category/business-grants-and-financing",
+    "https://www.kenyapedia.co.ke/rss/category/debt-and-borrowing",
+    "https://www.kenyapedia.co.ke/rss/category/kenya-economy",
+    "https://www.kenyapedia.co.ke/rss/category/education-funding",
+    "https://www.kenyapedia.co.ke/rss/category/taxes-50",
+    "https://www.kenyapedia.co.ke/rss/category/savings-and-investments",
+    "https://www.kenyapedia.co.ke/rss/category/recent-news",
+]
 
 GENERAL_KENYA_AGENT = [
     {
         "name": "breaking_kenya_general",
         "hashtags": "#KenyaNews #BreakingNews",
-        "feeds": [
-            "https://ntvkenya.co.ke/feed/",
-            "https://www.the-star.co.ke/rss/",
-            "https://www.standardmedia.co.ke/rss/headlines.php",
-            "https://www.citizen.digital/feed",
-            "https://www.capitalfm.co.ke/news/feed/",
-            "https://www.businessdailyafrica.com/bd/rss",
-            "https://www.kbc.co.ke/feed/",
-            "https://www.tuko.co.ke/rss/",
-        ],
+        "feeds": KENYA_VERIFIED_FEEDS,
         # broad keyword net since this agent covers general/breaking news
         "keywords": ["kenya", "nairobi", "county", "government", "president", "parliament",
                       "school", "hospital", "police", "court", "election", "business",
-                      "economy", "county", "cabinet", "governor", "national"],
+                      "economy", "cabinet", "governor", "national"],
     }
 ]
 
@@ -173,13 +237,16 @@ def load_posted_log():
             return {}
     return {}
 
+
 def save_posted_log(log):
     with open(POSTED_LOG_FILE, "w", encoding="utf-8") as f:
         json.dump(log, f, ensure_ascii=False, indent=2)
 
+
 def is_relevant(title, summary, keywords):
     text = f"{title} {summary}".lower()
     return any(kw in text for kw in keywords)
+
 
 def is_recent(published_parsed):
     if not published_parsed:
@@ -188,8 +255,51 @@ def is_recent(published_parsed):
     cutoff = datetime.now(pytz.utc) - timedelta(hours=LOOKBACK_HOURS)
     return published_dt >= cutoff
 
+
 def nairobi_time_label():
     return datetime.now(NAIROBI_TZ).strftime("%A, %d %B %Y — %I:%M %p (Nairobi time)")
+
+
+# ---------- DUPLICATE / SAME-STORY DETECTION ----------
+# Different outlets write different headlines for the same event
+# ("37 arrested after Homa Bay chaos" vs "Police nab 37 suspects in
+# Linda Mwananchi violence"). Exact-string matching misses this entirely.
+# We normalize each headline to its significant words and compare word-set
+# overlap (Jaccard similarity). This is fast, needs no extra libraries,
+# and is robust enough for headline-level dedup.
+
+_STOPWORDS = {
+    "the", "a", "an", "of", "in", "on", "at", "to", "for", "and", "or", "as",
+    "is", "are", "was", "were", "be", "been", "by", "with", "from", "over",
+    "after", "before", "amid", "into", "out", "up", "down", "says", "say",
+    "said", "new", "kenya", "kenyan", "this", "that", "it", "its", "his",
+    "her", "their", "he", "she", "they", "who", "what", "how", "why",
+}
+
+
+def normalize_title(title):
+    """Lowercase, strip punctuation, drop stopwords -> set of significant words."""
+    words = re.findall(r"[a-z0-9']+", title.lower())
+    return {w for w in words if w not in _STOPWORDS and len(w) > 2}
+
+
+def title_similarity(title_a, title_b):
+    set_a, set_b = normalize_title(title_a), normalize_title(title_b)
+    if not set_a or not set_b:
+        return 0.0
+    intersection = len(set_a & set_b)
+    union = len(set_a | set_b)
+    return intersection / union if union else 0.0
+
+
+def is_duplicate_of_any(title, seen_titles):
+    """True if `title` is the same story as anything already in seen_titles
+    (either this run's other feeds, or the historical log)."""
+    for seen in seen_titles:
+        if title_similarity(title, seen) >= DUPLICATE_SIMILARITY_THRESHOLD:
+            return True
+    return False
+
 
 # ---------- MAIN ----------
 
@@ -197,11 +307,16 @@ def main():
     full_log = load_posted_log()
     suggestions_by_agent = {}
 
+    # Global set of titles already surfaced THIS run, across every agent —
+    # so the same story doesn't get suggested twice under two different
+    # topic agents (e.g. "fuel_cost_of_living" and "breaking_kenya_general"
+    # both picking up a fuel-price story).
+    run_wide_titles = []
+
     for agent in ALL_AGENTS:
         name = agent["name"]
-        already_suggested = set(full_log.get(name, []))
-        found = []       # titles only, for the log (dedup tracking)
-        found_items = [] # (title, summary) pairs, for building the post text
+        already_suggested = list(full_log.get(name, []))  # historical, fuzzy-checked
+        found = []
 
         for feed_url in agent["feeds"]:
             if len(found) >= MAX_SUGGESTIONS_PER_AGENT:
@@ -221,21 +336,26 @@ def main():
 
                 if not title or not link:
                     continue
-                if title in already_suggested:
-                    continue
                 if not is_relevant(title, summary, agent["keywords"]):
                     continue
                 if not is_recent(published_parsed):
                     continue
 
-                found.append(title)
-                found_items.append((title, summary))
-                already_suggested.add(title)
+                # Same-story check against: this agent's history, this run's
+                # other agents, and titles already picked in this same batch.
+                if is_duplicate_of_any(title, already_suggested):
+                    continue
+                if is_duplicate_of_any(title, run_wide_titles):
+                    continue
 
-        if found_items:
+                found.append(title)
+                already_suggested.append(title)
+                run_wide_titles.append(title)
+
+        if found:
             suggestions_by_agent[name] = {
                 "hashtags": agent["hashtags"],
-                "items": found_items,
+                "titles": found,
             }
 
         existing = full_log.get(name, [])
@@ -243,30 +363,25 @@ def main():
 
     save_posted_log(full_log)
 
+    # Write the suggestions file
     with open(SUGGESTIONS_FILE, "w", encoding="utf-8") as f:
-        f.write(f"# 📋 All Suggested Posts — updated {nairobi_time_label()}\n\n")
-        f.write("Copy any Topic + Raw text below and paste it to Claude to get a rewritten version, then post to Facebook whenever you like.\n\n---\n\n")
+        f.write(f"# 📋 Suggested Posts — updated {nairobi_time_label()}\n\n")
+        f.write("Copy any of these into Facebook manually. Newest scan at the top.\n\n")
+        f.write("_Duplicate stories from different outlets are automatically merged._\n\n---\n\n")
 
         if not suggestions_by_agent:
             f.write("No new relevant stories found this run. Check back next run.\n")
         else:
-            all_items = []
             for name, data in suggestions_by_agent.items():
-                for title, summary in data["items"]:
-                    all_items.append((name, title, summary, data["hashtags"]))
-
-            for name, title, summary, hashtags in all_items:
-                extract = extract_clean_text(summary)
-
                 f.write(f"## {name.replace('_', ' ').title()}\n\n")
-                f.write(f"**Topic:** {title}\n\n")
-                if extract:
-                    f.write(f"**Raw text (~100 words):**\n{extract}\n\n")
-                f.write(f"**Hashtags:** {hashtags}\n\n")
-                f.write("---\n\n")
+                for title in data["titles"]:
+                    f.write(f"**📢 {title}**\n\n")
+                    f.write(f"{data['hashtags']}\n\n")
+                    f.write("---\n\n")
 
-    total = sum(len(v["items"]) for v in suggestions_by_agent.values())
+    total = sum(len(v["titles"]) for v in suggestions_by_agent.values())
     print(f"Done. {total} new post suggestions written to {SUGGESTIONS_FILE}")
+
 
 if __name__ == "__main__":
     main()

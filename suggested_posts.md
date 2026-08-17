@@ -1,48 +1,26 @@
-# 📋 All Suggested Posts — updated Monday, 17 August 2026 — 06:47 PM (Nairobi time)
+# 📋 All Suggested Posts — updated Monday, 17 August 2026 — 06:54 PM (Nairobi time)
 
 Copy any Topic + Raw text below and paste it to Claude to get a rewritten version, then post to Facebook whenever you like.
 
 ---
 
-## Sme Business
-
-**Topic:** KRA disowns fake graphic threatening bank account freezing over housing levy - Capital FM Africa
-
-**Raw text (~100 words):**
-KRA disowns fake graphic threatening bank account freezing over housing levy &nbsp;&nbsp; Capital FM Africa
-
-**Hashtags:** #SME #SmallBusiness #KenyaEconomy
-
----
-
 ## Nhif Health Insurance
 
-**Topic:** Health insurance must reflect how Kenyan families earn and spend - businessdailyafrica.com
+**Topic:** Health insurance must reflect how Kenyan families earn and spend - Business Daily
 
 **Raw text (~100 words):**
-Health insurance must reflect how Kenyan families earn and spend &nbsp;&nbsp; businessdailyafrica.com
+Health insurance must reflect how Kenyan families earn and spend &nbsp;&nbsp; Business Daily
 
 **Hashtags:** #SHA #NHIF #HealthCover
 
 ---
 
-## Government Ministries
-
-**Topic:** Senators Give Energy Ministry 12 Months for Six-Month Strategic Oil Reserve Plan - Mjengo Hub
-
-**Raw text (~100 words):**
-Senators Give Energy Ministry 12 Months for Six-Month Strategic Oil Reserve Plan &nbsp;&nbsp; Mjengo Hub
-
-**Hashtags:** #KenyaGovernment #Ministries #PublicPolicy
-
----
-
 ## Breaking Kenya General
 
-**Topic:** 18 Journalists, Two Drivers Attacked in Two Months, MCK Says
+**Topic:** EACC denies arrest of Gachagua lawyer over alleged Sh24.5 million bribe
 
 **Raw text (~100 words):**
-The council said at least 18 journalists and two drivers from different media houses had been assaulted and injured over the past two months, warning that the escalating attacks posed a serious threat to media freedom and democracy ahead of the 2027 General Election.
+The anti-graft agency said no such operation was conducted on Monday, dismissing social media reports claiming that a High Court advocate and other prominent individuals had been arrested.
 
 **Hashtags:** #KenyaNews #BreakingNews
 
@@ -50,10 +28,10 @@ The council said at least 18 journalists and two drivers from different media ho
 
 ## Breaking Kenya General
 
-**Topic:** Deadly Homa Bay clashes during Linda Mwananchi rally leave officer dead, dozens injured
+**Topic:** Orengo condemns ‘Cowardly’ attack on journalists in Homa Bay
 
 **Raw text (~100 words):**
-NAIROBI,Kenya,Aug 17- A police officer was killed and another officer seriously injured during violent clashes that erupted during the Linda Mwananchi political rally in Homa Bay, police said, as authorities&#8230;
+The attacks came as violence erupted in Homa Bay during the inaugural Linda Mwananchi tour of the county, led by Nairobi Senator Edwin Sifuna and other opposition leaders.
 
 **Hashtags:** #KenyaNews #BreakingNews
 
@@ -61,10 +39,10 @@ NAIROBI,Kenya,Aug 17- A police officer was killed and another officer seriously 
 
 ## Breaking Kenya General
 
-**Topic:** Mbadi: Linda Mwananchi ‘Visitors’ Used Feeder Roads to Misrepresent Suba
+**Topic:** Koome Disowns Fake Letter Alleging Plot to Influence Supreme Court
 
 **Raw text (~100 words):**
-The criticism has put the condition of roads in Suba under fresh political scrutiny, with opponents of the government using footage from the tour to question claims of development and infrastructure investment in the region.
+Judiciary said the document, which bears the purported letterhead of the Supreme Court and the Office of the Chief Justice, was neither authored nor issued by Koome, her office or any authorised organ of the Judiciary.
 
 **Hashtags:** #KenyaNews #BreakingNews
 

@@ -1,26 +1,37 @@
-# 📋 All Suggested Posts — updated Monday, 17 August 2026 — 06:54 PM (Nairobi time)
+# 📋 All Suggested Posts — updated Monday, 17 August 2026 — 08:01 PM (Nairobi time)
 
 Copy any Topic + Raw text below and paste it to Claude to get a rewritten version, then post to Facebook whenever you like.
 
 ---
 
-## Nhif Health Insurance
+## Teachers
 
-**Topic:** Health insurance must reflect how Kenyan families earn and spend - Business Daily
+**Topic:** State specifically what teachers should not do on social media, KNUT tells TSC - eastleighvoice.co.ke
 
 **Raw text (~100 words):**
-Health insurance must reflect how Kenyan families earn and spend &nbsp;&nbsp; Business Daily
+State specifically what teachers should not do on social media, KNUT tells TSC &nbsp;&nbsp; eastleighvoice.co.ke
 
-**Hashtags:** #SHA #NHIF #HealthCover
+**Hashtags:** #TSC #Teachers #KenyaEducation
+
+---
+
+## Sacco Chama
+
+**Topic:** Shareholders Behind Thika Road Transport Giant Lopha MP Sacco - thekenyatimes.com
+
+**Raw text (~100 words):**
+Shareholders Behind Thika Road Transport Giant Lopha MP Sacco &nbsp;&nbsp; thekenyatimes.com
+
+**Hashtags:** #SACCO #Chama #Savings
 
 ---
 
 ## Breaking Kenya General
 
-**Topic:** EACC denies arrest of Gachagua lawyer over alleged Sh24.5 million bribe
+**Topic:** Police officer rescued from mob, arrested after allegedly luring 14-yr-old girl into jouse in Turbo
 
 **Raw text (~100 words):**
-The anti-graft agency said no such operation was conducted on Monday, dismissing social media reports claiming that a High Court advocate and other prominent individuals had been arrested.
+NAIROBI,Kenya, Aug 17- A police officer was rescued from an angry mob and arrested in Turbo, Uasin Gishu County, after he allegedly lured a 14-year-old girl into a house where&#8230;
 
 **Hashtags:** #KenyaNews #BreakingNews
 
@@ -28,10 +39,10 @@ The anti-graft agency said no such operation was conducted on Monday, dismissing
 
 ## Breaking Kenya General
 
-**Topic:** Orengo condemns ‘Cowardly’ attack on journalists in Homa Bay
+**Topic:** Gachagua moves to Court of Appeal in bid to overturn impeachment
 
 **Raw text (~100 words):**
-The attacks came as violence erupted in Homa Bay during the inaugural Linda Mwananchi tour of the county, led by Nairobi Senator Edwin Sifuna and other opposition leaders.
+Gachagua has appealed the High Court decision upholding his impeachment, arguing that the three-judge bench erred in finding that his removal from office could not be reversed despite violations of his constitutional rights.
 
 **Hashtags:** #KenyaNews #BreakingNews
 
@@ -39,10 +50,10 @@ The attacks came as violence erupted in Homa Bay during the inaugural Linda Mwan
 
 ## Breaking Kenya General
 
-**Topic:** Koome Disowns Fake Letter Alleging Plot to Influence Supreme Court
+**Topic:** 37 suspects arrested over Homa Bay Linda Mwananchi rally violence
 
 **Raw text (~100 words):**
-Judiciary said the document, which bears the purported letterhead of the Supreme Court and the Office of the Chief Justice, was neither authored nor issued by Koome, her office or any authorised organ of the Judiciary.
+NAIROBI,Kenya, Aug 17- Police have arrested 37 suspected gang members in connection with violence surrounding Sunday’s Linda Mwananchi rally in Homa Bay, as authorities intensify the search for one suspect&#8230;
 
 **Hashtags:** #KenyaNews #BreakingNews
 

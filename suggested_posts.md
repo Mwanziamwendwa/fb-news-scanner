@@ -1,4 +1,4 @@
-# 📋 All Suggested Posts — updated Monday, 17 August 2026 — 01:06 PM (Nairobi time)
+# 📋 All Suggested Posts — updated Monday, 17 August 2026 — 02:04 PM (Nairobi time)
 
 Copy any Topic + Raw text below and paste it to Claude to get a rewritten version, then post to Facebook whenever you like.
 
@@ -6,21 +6,32 @@ Copy any Topic + Raw text below and paste it to Claude to get a rewritten versio
 
 ## Sme Business
 
-**Topic:** KRA reminds taxpayers to file monthly tax returns by August 20 - People Daily
+**Topic:** KRA to freeze accounts, seize assets over housing levy - Daily Nation
 
 **Raw text (~100 words):**
-KRA reminds taxpayers to file monthly tax returns by August 20 &nbsp;&nbsp; People Daily
+KRA to freeze accounts, seize assets over housing levy &nbsp;&nbsp; Daily Nation
 
 **Hashtags:** #SME #SmallBusiness #KenyaEconomy
 
 ---
 
-## Breaking Kenya General
+## County News
 
-**Topic:** Gachagua, Kalonzo fault government over rising political goonism
+**Topic:** 𝗪𝗔𝗪𝗘𝗥𝗨 𝗚𝗔𝗧𝗛𝗔𝗞𝗔, 𝗣𝗔𝗧𝗜𝗘𝗡𝗧 More than 300 residents in Thingithu Ward, Laikipia County, have benefited from a free medical camp and sensitisation on preventive measures to combat the rising prevalence of lifestyle diseases. During the medical camp, - facebook.com
 
 **Raw text (~100 words):**
-The United Opposition on Sunday sustained its fierce criticism of President William Ruto’s government, accusing it of turning a blind eye to the rise of goonism in Kenya’s political landscape. DCP leader Rigathi Gachagua accused the administration of being behind the violence, while Wiper leader Kalonzo Musyoka, reacting to the chaos witnessed in Homa Bay, [&#8230;]
+𝗪𝗔𝗪𝗘𝗥𝗨 𝗚𝗔𝗧𝗛𝗔𝗞𝗔, 𝗣𝗔𝗧𝗜𝗘𝗡𝗧 More than 300 residents in Thingithu Ward, Laikipia County, have benefited from a free medical camp and sensitisation on preventive measures to combat the rising prevalence of lifestyle diseases. During the medical camp, &nbsp;&nbsp; facebook.com
+
+**Hashtags:** #CountyNews #Kenya47Counties #Devolution
+
+---
+
+## Breaking Kenya General
+
+**Topic:** Power, Politics and Intolerance— Joseph Manje, Jubilee Deputy Party Leader
+
+**Raw text (~100 words):**
+Joseph Manje, Jubilee Deputy Party Leader, shares his perspective on power, political intolerance, and the challenges shaping Kenya’s political landscape.
 
 **Hashtags:** #KenyaNews #BreakingNews
 
@@ -28,10 +39,10 @@ The United Opposition on Sunday sustained its fierce criticism of President Will
 
 ## Breaking Kenya General
 
-**Topic:** Isiolo launches mass ID and voter registration drive
+**Topic:** 23 Packages of Suspected Cannabis Seized in Busia
 
 **Raw text (~100 words):**
-Isiolo County has launched a mass national ID and voter registration drive, with chiefs directed to ensure every eligible resident acquires the vital documents. Speaking during a meeting bringing together chiefs, assistant chiefs and officials from the Kenya School of Government (KSG), the National Cohesion and Integration Commission (NCIC) and the Independent Electoral and Boundaries [&#8230;]
+The seizure was made by officers from Busia Police Station and Mayenje Police Post while conducting routine security patrols
 
 **Hashtags:** #KenyaNews #BreakingNews
 
@@ -39,10 +50,10 @@ Isiolo County has launched a mass national ID and voter registration drive, with
 
 ## Breaking Kenya General
 
-**Topic:** Twende Koobi Fora: We venture deep into Sibiloi National Park’s world-famous prehistoric site
+**Topic:** What to expect at inaugural Kenya Health Summit 2026
 
 **Raw text (~100 words):**
-We venture deep into Sibiloi National Park to explore Koobi Fora, one of the world’s most remarkable prehistoric sites. Discover the fossils, landscapes, and stories that reveal ancient chapters of human evolution along the shores of Lake Turkana.
+Health CS Aden Duale says the summit will provide a platform to present the government’s achievements in health financing, digital health, healthcare workforce, primary healthcare and specialised services. The post What to expect at inaugural Kenya Health Summit 2026 appeared first on KBC Digital .
 
 **Hashtags:** #KenyaNews #BreakingNews
 

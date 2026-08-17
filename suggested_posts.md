@@ -1,28 +1,28 @@
-# 📋 All Suggested Posts — updated Monday, 17 August 2026 — 09:02 PM (Nairobi time)
+# 📋 All Suggested Posts — updated Monday, 17 August 2026 — 10:03 PM (Nairobi time)
 
 Copy any Topic + Raw text below and paste it to Claude to get a rewritten version, then post to Facebook whenever you like.
 
 ---
 
-## Breaking Kenya General
+## Government Ministries
 
-**Topic:** Wanga: Poor Homa Bay roads reflect historical marginalisation of Western Kenya
+**Topic:** Ministry of Agriculture Launches Nationwide Crackdown on Fake Seeds - streamlinefeed.co.ke
 
 **Raw text (~100 words):**
-The governor says the ongoing improvement of the Mbita road demonstrates efforts to address Homa Bay’s long-standing infrastructure challenges. The post Wanga: Poor Homa Bay roads reflect historical marginalisation of Western Kenya appeared first on KBC Digital .
+Ministry of Agriculture Launches Nationwide Crackdown on Fake Seeds &nbsp;&nbsp; streamlinefeed.co.ke
 
-**Hashtags:** #KenyaNews #BreakingNews
+**Hashtags:** #KenyaGovernment #Ministries #PublicPolicy
 
 ---
 
-## Breaking Kenya General
+## County News
 
-**Topic:** Kenya urges IGAD States to harmonise standards and unlock AfCFTA trade potential
+**Topic:** The already installed cabro paving stones at the Muguga Vocational Training Centre (VTC) compound in Muguga Ward, Kabete Sub-County, Kiambu County. - facebook.com
 
 **Raw text (~100 words):**
-The government has called on member states of the Intergovernmental Authority on Development (IGAD) to harmonize their cross-border certification standards to accelerate trade and boost food security in the region. Speaking during a Regional Technical Workshop in Nairobi on the 17th of August, Director of Policy at the State Department of Agriculture, Kennedy Anahinga, stated [&#8230;] The post Kenya urges IGAD States to harmonise standards and unlock AfCFTA trade potential appeared first on KBC Digital .
+The already installed cabro paving stones at the Muguga Vocational Training Centre (VTC) compound in Muguga Ward, Kabete Sub-County, Kiambu County. &nbsp;&nbsp; facebook.com
 
-**Hashtags:** #KenyaNews #BreakingNews
+**Hashtags:** #CountyNews #Kenya47Counties #Devolution
 
 ---
 

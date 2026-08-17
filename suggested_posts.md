@@ -1,37 +1,15 @@
-# 📋 All Suggested Posts — updated Monday, 17 August 2026 — 02:04 PM (Nairobi time)
+# 📋 All Suggested Posts — updated Monday, 17 August 2026 — 02:58 PM (Nairobi time)
 
 Copy any Topic + Raw text below and paste it to Claude to get a rewritten version, then post to Facebook whenever you like.
 
 ---
 
-## Sme Business
-
-**Topic:** KRA to freeze accounts, seize assets over housing levy - Daily Nation
-
-**Raw text (~100 words):**
-KRA to freeze accounts, seize assets over housing levy &nbsp;&nbsp; Daily Nation
-
-**Hashtags:** #SME #SmallBusiness #KenyaEconomy
-
----
-
-## County News
-
-**Topic:** 𝗪𝗔𝗪𝗘𝗥𝗨 𝗚𝗔𝗧𝗛𝗔𝗞𝗔, 𝗣𝗔𝗧𝗜𝗘𝗡𝗧 More than 300 residents in Thingithu Ward, Laikipia County, have benefited from a free medical camp and sensitisation on preventive measures to combat the rising prevalence of lifestyle diseases. During the medical camp, - facebook.com
-
-**Raw text (~100 words):**
-𝗪𝗔𝗪𝗘𝗥𝗨 𝗚𝗔𝗧𝗛𝗔𝗞𝗔, 𝗣𝗔𝗧𝗜𝗘𝗡𝗧 More than 300 residents in Thingithu Ward, Laikipia County, have benefited from a free medical camp and sensitisation on preventive measures to combat the rising prevalence of lifestyle diseases. During the medical camp, &nbsp;&nbsp; facebook.com
-
-**Hashtags:** #CountyNews #Kenya47Counties #Devolution
-
----
-
 ## Breaking Kenya General
 
-**Topic:** Power, Politics and Intolerance— Joseph Manje, Jubilee Deputy Party Leader
+**Topic:** Mombasa County employees warned to stay out of political activities
 
 **Raw text (~100 words):**
-Joseph Manje, Jubilee Deputy Party Leader, shares his perspective on power, political intolerance, and the challenges shaping Kenya’s political landscape.
+Public servants have been reminded to stay away from political activities as the clock ticks towards the August 10, 2027, General Election and instead to focus on serving Kenyans faithfully and efficiently. Mombasa Governor Abdulswamad Shariff Nassir has warned county employees against engaging in politics, advising them not to be swayed by political influences. Governor [&#8230;] The post Mombasa County employees warned to stay out of political activities appeared first on KBC Digital .
 
 **Hashtags:** #KenyaNews #BreakingNews
 
@@ -39,10 +17,10 @@ Joseph Manje, Jubilee Deputy Party Leader, shares his perspective on power, poli
 
 ## Breaking Kenya General
 
-**Topic:** 23 Packages of Suspected Cannabis Seized in Busia
+**Topic:** Man arrested with 23 packages of suspected bhang in Busia
 
 **Raw text (~100 words):**
-The seizure was made by officers from Busia Police Station and Mayenje Police Post while conducting routine security patrols
+Police in Busia have arrested a man after he was found with 23 packages of suspected bhang during a security patrol along the Malenya border point. The suspect was arrested by officers from Busia Police Station and Mayenje Police Post who were conducting routine patrols when they intercepted a speeding motorcycle. A search of the [&#8230;] The post Man arrested with 23 packages of suspected bhang in Busia appeared first on KBC Digital .
 
 **Hashtags:** #KenyaNews #BreakingNews
 
@@ -50,10 +28,10 @@ The seizure was made by officers from Busia Police Station and Mayenje Police Po
 
 ## Breaking Kenya General
 
-**Topic:** What to expect at inaugural Kenya Health Summit 2026
+**Topic:** Wandayi accuses ‘outsiders’ for undermining nuclear power project
 
 **Raw text (~100 words):**
-Health CS Aden Duale says the summit will provide a platform to present the government’s achievements in health financing, digital health, healthcare workforce, primary healthcare and specialised services. The post What to expect at inaugural Kenya Health Summit 2026 appeared first on KBC Digital .
+Energy Cabinet Secretary Opiyo Wandayi has blamed the recent spate of demonstrations against the proposed nuclear power plant in Siaya county on individuals who are against development in the region. Wandayi said that the individuals who hail from outside Siaya County have been funding demonstrations to incite the locals to reject the establishment of nuclear [&#8230;] The post Wandayi accuses &#8216;outsiders&#8217; for undermining nuclear power project appeared first on KBC Digital .
 
 **Hashtags:** #KenyaNews #BreakingNews
 

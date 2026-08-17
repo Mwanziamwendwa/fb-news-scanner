@@ -1,4 +1,4 @@
-# 📋 All Suggested Posts — updated Monday, 17 August 2026 — 04:57 PM (Nairobi time)
+# 📋 All Suggested Posts — updated Monday, 17 August 2026 — 05:58 PM (Nairobi time)
 
 Copy any Topic + Raw text below and paste it to Claude to get a rewritten version, then post to Facebook whenever you like.
 
@@ -6,32 +6,32 @@ Copy any Topic + Raw text below and paste it to Claude to get a rewritten versio
 
 ## Sme Business
 
-**Topic:** KRA dismisses claims taxpayers’ PINs, bank accounts will be frozen over housing levy - People Daily
+**Topic:** KRA Issues Notice to Some Taxpayers Ahead of August 20 Deadline - Kenyans.co.ke
 
 **Raw text (~100 words):**
-KRA dismisses claims taxpayers’ PINs, bank accounts will be frozen over housing levy &nbsp;&nbsp; People Daily
+KRA Issues Notice to Some Taxpayers Ahead of August 20 Deadline &nbsp;&nbsp; Kenyans.co.ke
 
 **Hashtags:** #SME #SmallBusiness #KenyaEconomy
 
 ---
 
-## School Fees Education
+## Sme Business
 
-**Topic:** KUCCPS Transfer Letters Delayed: What 2026 University Applicants Must Know - streamlinefeed.co.ke
+**Topic:** KRA disowns fake graphic threatening bank account freezing over housing levy - capitalfm.africa
 
 **Raw text (~100 words):**
-KUCCPS Transfer Letters Delayed: What 2026 University Applicants Must Know &nbsp;&nbsp; streamlinefeed.co.ke
+KRA disowns fake graphic threatening bank account freezing over housing levy &nbsp;&nbsp; capitalfm.africa
 
-**Hashtags:** #HELB #KUCCPS #SchoolFees
+**Hashtags:** #SME #SmallBusiness #KenyaEconomy
 
 ---
 
 ## County News
 
-**Topic:** Mombasa County employees warned to stay out of political activities - KBC Digital
+**Topic:** Mombasa County employees warned to stay out of political activities - kbc.co.ke
 
 **Raw text (~100 words):**
-Mombasa County employees warned to stay out of political activities &nbsp;&nbsp; KBC Digital
+Mombasa County employees warned to stay out of political activities &nbsp;&nbsp; kbc.co.ke
 
 **Hashtags:** #CountyNews #Kenya47Counties #Devolution
 
@@ -39,21 +39,10 @@ Mombasa County employees warned to stay out of political activities &nbsp;&nbsp;
 
 ## County News
 
-**Topic:** Governor Gladys Wanga Addresses Homa Bay Roads Amid 'Yemen' Comparisons - kenyans.co.ke
+**Topic:** Orengo condemns ‘Cowardly’ attack on journalists in Homa Bay - capitalfm.africa
 
 **Raw text (~100 words):**
-Governor Gladys Wanga Addresses Homa Bay Roads Amid 'Yemen' Comparisons &nbsp;&nbsp; kenyans.co.ke
-
-**Hashtags:** #CountyNews #Kenya47Counties #Devolution
-
----
-
-## County News
-
-**Topic:** Orengo condemns ‘Cowardly’ attack on journalists in Homa Bay - Capital FM Africa
-
-**Raw text (~100 words):**
-Orengo condemns ‘Cowardly’ attack on journalists in Homa Bay &nbsp;&nbsp; Capital FM Africa
+Orengo condemns ‘Cowardly’ attack on journalists in Homa Bay &nbsp;&nbsp; capitalfm.africa
 
 **Hashtags:** #CountyNews #Kenya47Counties #Devolution
 
@@ -61,10 +50,10 @@ Orengo condemns ‘Cowardly’ attack on journalists in Homa Bay &nbsp;&nbsp; Ca
 
 ## Breaking Kenya General
 
-**Topic:** Police officer among two dead in Homa Bay rally chaos
+**Topic:** Zambia’s president extends election lead, partial results show
 
 **Raw text (~100 words):**
-HOMA BAY: Police officer among two people who died during Linda Mwananchi rally chaos on Sunday, County Commander Lawrence Koilem confirms; says officer was ferrying colleagues providing security backup.
+Zambian President Hakainde Hichilema&#8217;s lead in the Southern African country&#8217;s presidential election has widened, partial results from about 71% of constituencies showed on Monday. Hichilema&#8217;s share of the valid votes rose to roughly 62%, up from 59% late on Sunday. His main challenger, Brian Mundubile, was on 36% of valid votes, down from 39% overnight. [&#8230;]
 
 **Hashtags:** #KenyaNews #BreakingNews
 
@@ -72,10 +61,10 @@ HOMA BAY: Police officer among two people who died during Linda Mwananchi rally 
 
 ## Breaking Kenya General
 
-**Topic:** Kalonzo unveils Ali, Jumwa in Coast team to challenge Ruto allies in 2027
+**Topic:** FPK party begins rebranding as Governor Dhadho Godhana weighs 2027 Options
 
 **Raw text (~100 words):**
-The opposition has unveiled a three-member political team to spearhead its campaign at the Coast as rival camps intensify efforts to control the region’s vote ahead of the 2027 General Election. The team, comprising Nyali MP Mohammed Ali, Wundanyi MP Danson Mwashako and former Gender Cabinet Secretary Aisha Jumwa, brings together politicians with influence in [&#8230;]
+Godhana, who has largely kept his political ambitions under wraps, is facing growing pressure from party members and supporters in the Coast region to seek the presidency.
 
 **Hashtags:** #KenyaNews #BreakingNews
 
@@ -83,10 +72,10 @@ The opposition has unveiled a three-member political team to spearhead its campa
 
 ## Breaking Kenya General
 
-**Topic:** Two people killed including a police officer in Homa Bay chaos
+**Topic:** KRA disowns fake graphic threatening bank account freezing over housing levy
 
 **Raw text (~100 words):**
-Two people, including a police officer, were killed while 54 others were seriously injured during the Linda Mwananchi rally in Homa Bay Town.
+Kenya Revenue Authority (KRA) has disowned a graphic circulating online claiming that bank accounts belonging to Kenyans who fail to remit the Affordable Housing Levy will be frozen.
 
 **Hashtags:** #KenyaNews #BreakingNews
 

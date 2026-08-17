@@ -1,15 +1,70 @@
-# 📋 All Suggested Posts — updated Monday, 17 August 2026 — 02:58 PM (Nairobi time)
+# 📋 All Suggested Posts — updated Monday, 17 August 2026 — 04:57 PM (Nairobi time)
 
 Copy any Topic + Raw text below and paste it to Claude to get a rewritten version, then post to Facebook whenever you like.
 
 ---
 
-## Breaking Kenya General
+## Sme Business
 
-**Topic:** Mombasa County employees warned to stay out of political activities
+**Topic:** KRA dismisses claims taxpayers’ PINs, bank accounts will be frozen over housing levy - People Daily
 
 **Raw text (~100 words):**
-Public servants have been reminded to stay away from political activities as the clock ticks towards the August 10, 2027, General Election and instead to focus on serving Kenyans faithfully and efficiently. Mombasa Governor Abdulswamad Shariff Nassir has warned county employees against engaging in politics, advising them not to be swayed by political influences. Governor [&#8230;] The post Mombasa County employees warned to stay out of political activities appeared first on KBC Digital .
+KRA dismisses claims taxpayers’ PINs, bank accounts will be frozen over housing levy &nbsp;&nbsp; People Daily
+
+**Hashtags:** #SME #SmallBusiness #KenyaEconomy
+
+---
+
+## School Fees Education
+
+**Topic:** KUCCPS Transfer Letters Delayed: What 2026 University Applicants Must Know - streamlinefeed.co.ke
+
+**Raw text (~100 words):**
+KUCCPS Transfer Letters Delayed: What 2026 University Applicants Must Know &nbsp;&nbsp; streamlinefeed.co.ke
+
+**Hashtags:** #HELB #KUCCPS #SchoolFees
+
+---
+
+## County News
+
+**Topic:** Mombasa County employees warned to stay out of political activities - KBC Digital
+
+**Raw text (~100 words):**
+Mombasa County employees warned to stay out of political activities &nbsp;&nbsp; KBC Digital
+
+**Hashtags:** #CountyNews #Kenya47Counties #Devolution
+
+---
+
+## County News
+
+**Topic:** Governor Gladys Wanga Addresses Homa Bay Roads Amid 'Yemen' Comparisons - kenyans.co.ke
+
+**Raw text (~100 words):**
+Governor Gladys Wanga Addresses Homa Bay Roads Amid 'Yemen' Comparisons &nbsp;&nbsp; kenyans.co.ke
+
+**Hashtags:** #CountyNews #Kenya47Counties #Devolution
+
+---
+
+## County News
+
+**Topic:** Orengo condemns ‘Cowardly’ attack on journalists in Homa Bay - Capital FM Africa
+
+**Raw text (~100 words):**
+Orengo condemns ‘Cowardly’ attack on journalists in Homa Bay &nbsp;&nbsp; Capital FM Africa
+
+**Hashtags:** #CountyNews #Kenya47Counties #Devolution
+
+---
+
+## Breaking Kenya General
+
+**Topic:** Police officer among two dead in Homa Bay rally chaos
+
+**Raw text (~100 words):**
+HOMA BAY: Police officer among two people who died during Linda Mwananchi rally chaos on Sunday, County Commander Lawrence Koilem confirms; says officer was ferrying colleagues providing security backup.
 
 **Hashtags:** #KenyaNews #BreakingNews
 
@@ -17,10 +72,10 @@ Public servants have been reminded to stay away from political activities as the
 
 ## Breaking Kenya General
 
-**Topic:** Man arrested with 23 packages of suspected bhang in Busia
+**Topic:** Kalonzo unveils Ali, Jumwa in Coast team to challenge Ruto allies in 2027
 
 **Raw text (~100 words):**
-Police in Busia have arrested a man after he was found with 23 packages of suspected bhang during a security patrol along the Malenya border point. The suspect was arrested by officers from Busia Police Station and Mayenje Police Post who were conducting routine patrols when they intercepted a speeding motorcycle. A search of the [&#8230;] The post Man arrested with 23 packages of suspected bhang in Busia appeared first on KBC Digital .
+The opposition has unveiled a three-member political team to spearhead its campaign at the Coast as rival camps intensify efforts to control the region’s vote ahead of the 2027 General Election. The team, comprising Nyali MP Mohammed Ali, Wundanyi MP Danson Mwashako and former Gender Cabinet Secretary Aisha Jumwa, brings together politicians with influence in [&#8230;]
 
 **Hashtags:** #KenyaNews #BreakingNews
 
@@ -28,10 +83,10 @@ Police in Busia have arrested a man after he was found with 23 packages of suspe
 
 ## Breaking Kenya General
 
-**Topic:** Wandayi accuses ‘outsiders’ for undermining nuclear power project
+**Topic:** Two people killed including a police officer in Homa Bay chaos
 
 **Raw text (~100 words):**
-Energy Cabinet Secretary Opiyo Wandayi has blamed the recent spate of demonstrations against the proposed nuclear power plant in Siaya county on individuals who are against development in the region. Wandayi said that the individuals who hail from outside Siaya County have been funding demonstrations to incite the locals to reject the establishment of nuclear [&#8230;] The post Wandayi accuses &#8216;outsiders&#8217; for undermining nuclear power project appeared first on KBC Digital .
+Two people, including a police officer, were killed while 54 others were seriously injured during the Linda Mwananchi rally in Homa Bay Town.
 
 **Hashtags:** #KenyaNews #BreakingNews
 

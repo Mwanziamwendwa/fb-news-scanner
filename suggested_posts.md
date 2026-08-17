@@ -1,26 +1,26 @@
-# 📋 All Suggested Posts — updated Monday, 17 August 2026 — 10:03 PM (Nairobi time)
+# 📋 All Suggested Posts — updated Monday, 17 August 2026 — 10:43 PM (Nairobi time)
 
 Copy any Topic + Raw text below and paste it to Claude to get a rewritten version, then post to Facebook whenever you like.
 
 ---
 
-## Government Ministries
+## Sme Business
 
-**Topic:** Ministry of Agriculture Launches Nationwide Crackdown on Fake Seeds - streamlinefeed.co.ke
+**Topic:** KRA to freeze accounts, seize assets over housing levy - nation.africa
 
 **Raw text (~100 words):**
-Ministry of Agriculture Launches Nationwide Crackdown on Fake Seeds &nbsp;&nbsp; streamlinefeed.co.ke
+KRA to freeze accounts, seize assets over housing levy &nbsp;&nbsp; nation.africa
 
-**Hashtags:** #KenyaGovernment #Ministries #PublicPolicy
+**Hashtags:** #SME #SmallBusiness #KenyaEconomy
 
 ---
 
 ## County News
 
-**Topic:** The already installed cabro paving stones at the Muguga Vocational Training Centre (VTC) compound in Muguga Ward, Kabete Sub-County, Kiambu County. - facebook.com
+**Topic:** Garissa county assembly, UNHCR move to deepen partnership on refugee governance - Hiiraan Online
 
 **Raw text (~100 words):**
-The already installed cabro paving stones at the Muguga Vocational Training Centre (VTC) compound in Muguga Ward, Kabete Sub-County, Kiambu County. &nbsp;&nbsp; facebook.com
+Garissa county assembly, UNHCR move to deepen partnership on refugee governance &nbsp;&nbsp; Hiiraan Online
 
 **Hashtags:** #CountyNews #Kenya47Counties #Devolution
 

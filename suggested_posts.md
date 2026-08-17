@@ -1,26 +1,26 @@
-# 📋 All Suggested Posts — updated Monday, 17 August 2026 — 08:31 PM (Nairobi time)
+# 📋 All Suggested Posts — updated Monday, 17 August 2026 — 08:57 PM (Nairobi time)
 
 Copy any Topic + Raw text below and paste it to Claude to get a rewritten version, then post to Facebook whenever you like.
 
 ---
 
-## Teachers
+## Government Ministries
 
-**Topic:** Teachers’ union wants TSC to clarify social media rules - Nairobi Law Monthly
+**Topic:** Senators Give Energy Ministry 12 Months for Six-Month Strategic Oil Reserve Plan - mjengohub.co.ke
 
 **Raw text (~100 words):**
-Teachers’ union wants TSC to clarify social media rules &nbsp;&nbsp; Nairobi Law Monthly
+Senators Give Energy Ministry 12 Months for Six-Month Strategic Oil Reserve Plan &nbsp;&nbsp; mjengohub.co.ke
 
-**Hashtags:** #TSC #Teachers #KenyaEducation
+**Hashtags:** #KenyaGovernment #Ministries #PublicPolicy
 
 ---
 
 ## Breaking Kenya General
 
-**Topic:** Police officer rescued from mob, arrested after allegedly luring 14-yr-old girl into house in Turbo
+**Topic:** Ndindi Nyoro officially breaks ranks with Ruto, unveils People’s Party of Kenya
 
 **Raw text (~100 words):**
-NAIROBI,Kenya, Aug 17- A police officer was rescued from an angry mob and arrested in Turbo, Uasin Gishu County, after he allegedly lured a 14-year-old girl into a house where&#8230;
+Nyoro stopped short of declaring his presidential candidature but laid out a political strategy that could provide him with a platform to seek the top seat.
 
 **Hashtags:** #KenyaNews #BreakingNews
 
@@ -28,10 +28,10 @@ NAIROBI,Kenya, Aug 17- A police officer was rescued from an angry mob and arrest
 
 ## Breaking Kenya General
 
-**Topic:** Govt reaffirms commitment to strengthening cancer care
+**Topic:** Ole Sereni Group courts Nairobi’s diplomatic corps in push to grow embassy business
 
 **Raw text (~100 words):**
-The Ministry of Health has reaffirmed its commitment to strengthening cancer prevention, early detection and equitable access to treatment while expanding regional capacity for specialised cancer care. Speaking at the Nairobi International Cancer Forum, held as part of African Smart Cities and Townships Alliance Week 2026, Principal Secretary for Medical Services Dr. Ouma Oluga said [&#8230;] The post Govt reaffirms commitment to strengthening cancer care appeared first on KBC Digital .
+Ole Sereni Group opened its doors to Nairobi&#8217;s diplomatic community on 7th August 2026, hosting representatives of 50 embassies and international organisations at Emara Ole Sereni Hotel in a move the company is positioning as a deliberate push to grow one of its most valuable revenue streams. The event, held at the group&#8217;s newer property [&#8230;] The post Ole Sereni Group courts Nairobi&#8217;s diplomatic corps in push to grow embassy business appeared first on KBC Digital .
 
 **Hashtags:** #KenyaNews #BreakingNews
 
@@ -39,10 +39,10 @@ The Ministry of Health has reaffirmed its commitment to strengthening cancer pre
 
 ## Breaking Kenya General
 
-**Topic:** India at 80: Lessons for Africa from a major developing country partner
+**Topic:** Government keen on revitalizing tea sector in Kisii region
 
 **Raw text (~100 words):**
-On August 15, India celebrated its 80th Independence Day, marking eight decades since the end of British colonial rule in 1947. The anniversary is significant beyond national remembrance. It invites reflection on how a vast, diverse developing country has sought to turn political independence into economic capability, social progress and greater influence in the world. [&#8230;] The post India at 80: Lessons for Africa from a major developing country partner appeared first on KBC Digital .
+Agriculture Principal Secretary Dr Kipronoh Rono has said the government is committed to improving tea sector in Kisii region to ensure farmers secure higher income from the commodity. In a meeting with Broadcasting and Telecommunications Principal Secretary Stephen Isaboke and Board of Directors of Nyamache Tea Factory which was intended to address challenges facing tea [&#8230;] The post Government keen on revitalizing tea sector in Kisii region appeared first on KBC Digital .
 
 **Hashtags:** #KenyaNews #BreakingNews
 

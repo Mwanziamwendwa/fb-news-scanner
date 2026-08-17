@@ -1,4 +1,4 @@
-# 📋 Suggested Posts — updated Monday, 17 August 2026 — 11:17 PM (Nairobi time)
+# 📋 Suggested Posts — updated Tuesday, 18 August 2026 — 12:37 AM (Nairobi time)
 
 Copy any of these into Facebook manually. Newest scan at the top.
 
@@ -8,19 +8,19 @@ _Duplicate stories from different outlets are automatically merged._
 
 ## Breaking Kenya General
 
-**📢 MP Ndindi Nyoro Announces UDA Exit, Joins New Party**
+**📢 37 Arrested as NPS Launches Crackdown After Homa Bay Rally Violence**
 
 #KenyaNews #BreakingNews
 
 ---
 
-**📢 Kenya Met Predicts Rainfall in 9 Counties in New 7-Day Forecast**
+**📢 We Can Only Win By Ideologies, Not Beating People - MP Millie Odhiambo to Broadbased Leaders**
 
 #KenyaNews #BreakingNews
 
 ---
 
-**📢 Mombasa Announces 3-Month Restrictions for Heavy Vehicles on Select Roads**
+**📢 Gachagua: Why I Convinced Irungu Nyakera to Drop Nairobi Gubernatorial Bid**
 
 #KenyaNews #BreakingNews
 

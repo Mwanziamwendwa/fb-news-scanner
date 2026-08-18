@@ -1,4 +1,4 @@
-# 📋 Suggested Posts — updated Tuesday, 18 August 2026 — 08:03 PM (Nairobi time)
+# 📋 Suggested Posts — updated Tuesday, 18 August 2026 — 09:03 PM (Nairobi time)
 
 Copy any of these into Facebook manually. Newest scan at the top.
 
@@ -6,37 +6,29 @@ _Duplicate stories from different outlets are automatically merged._
 
 ---
 
-## Sacco Chama
+## Hustler Fund Youth
 
-**📢 EACC Flags Loopholes Putting Kenyans' SACCO Savings at Risk - Kenyans.co.ke**
+**📢 Ruto@4: Hustler Fund: Has it built businesses or mainly provided credit? - the-star.co.ke**
 
-#SACCO #Chama #Savings
-
----
-
-## Government Ministries
-
-**📢 Ministry of Health - Kenya Health Summit - Daily Nation**
-
-#KenyaGovernment #Ministries #PublicPolicy
+#HustlerFund #YouthFund #KenyaJobs
 
 ---
 
 ## Breaking Kenya General
 
-**📢 Okoth Obado and Co-Accused Set for September Sentencing in Sharon Otieno Murder Case**
+**📢 Mosiria urges Communications Authority to take action against content creators sharing explicit material**
 
 #KenyaNews #BreakingNews
 
 ---
 
-**📢 ODM Condemns Homa Bay Rally Violence as One Police Officer Is Killed and Dozens Injured**
+**📢 Happy wife: Gathoni Wamuchomba turns 51, says family comes first**
 
 #KenyaNews #BreakingNews
 
 ---
 
-**📢 Kenya Connects More Than 1.5 Million Customers to Electricity in Rural Electrification Push**
+**📢 Dr Ofweneke goes after politicians’ families over their silence on Kenya’s problems**
 
 #KenyaNews #BreakingNews
 

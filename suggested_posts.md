@@ -1,4 +1,4 @@
-# 📋 Suggested Posts — updated Tuesday, 18 August 2026 — 05:06 PM (Nairobi time)
+# 📋 Suggested Posts — updated Tuesday, 18 August 2026 — 06:52 PM (Nairobi time)
 
 Copy any of these into Facebook manually. Newest scan at the top.
 
@@ -6,55 +6,37 @@ _Duplicate stories from different outlets are automatically merged._
 
 ---
 
-## Teachers
-
-**📢 Teachers' unions demand clear rules on TSC social media directive - standardmedia.co.ke**
-
-#TSC #Teachers #KenyaEducation
-
----
-
-## Sacco Chama
-
-**📢 Stima Sacco hosts children for work week visit - Sacco Review**
-
-#SACCO #Chama #Savings
-
----
-
-**📢 Why Saccos must protect the statutory reserve - Sacco Review**
-
-#SACCO #Chama #Savings
-
----
-
 ## Sme Business
 
-**📢 KRA to develop Kenya’s first-ever sign language glossary for tax and customs terminology - People Daily**
+**📢 KRA Announces New Technology Targeting Some Taxpayers - Kenyans.co.ke**
 
 #SME #SmallBusiness #KenyaEconomy
 
 ---
 
-## Agriculture Farmers
+**📢 KRA Introduces New Language For Tax And Customs Terms - The Kenya Times**
 
-**📢 Farmers Protest as Cooperative Bank Moves to Auction SONY Sugar’s 4,000-Hectare Nucleus Estate - streamlinefeed.co.ke**
-
-#Agriculture #Farmers #Kenya
+#SME #SmallBusiness #KenyaEconomy
 
 ---
 
-## Fuel Cost Of Living
+## Nhif Health Insurance
 
-**📢 Diesel, petrol consumption rises despite higher pump prices in Kenya - The Eastleigh Voice**
+**📢 SHA registration hits 32.3 million, nearly twice NHIF’s peak, CEO Mercy Mwangangi says - the-star.co.ke**
 
-#FuelPrices #CostOfLiving
+#SHA #NHIF #HealthCover
+
+---
+
+**📢 Health Summit: Ruto says over 500K surgeries and 50K cancer patients treated under SHA - peopledaily.digital**
+
+#SHA #NHIF #HealthCover
 
 ---
 
 ## County News
 
-**📢 MAKUENI TURNS TO TECHNOLOGY TO STRENGTHEN EXTREME WEATHER RESPONSE, PRIORITIZE ROAD REPAIRS. - Makueni County Government**
+**📢 Poverty and stigma are keeping some children living with disabilities in West Pokot County away from classrooms, with some parents reportedly hiding them at home or sending them out to herd livestock instead of giving them an opportunity to pursue educatio - facebook.com**
 
 #CountyNews #Kenya47Counties #Devolution
 
@@ -62,19 +44,19 @@ _Duplicate stories from different outlets are automatically merged._
 
 ## Breaking Kenya General
 
-**📢 Release It or I Will - Maraga Tells Ruto Over Police Report**
+**📢 Ndindi Nyoro Announces First Rally After Leaving UDA**
 
 #KenyaNews #BreakingNews
 
 ---
 
-**📢 KPLC Announces Power Cuts in 3 Counties on Wednesday**
+**📢 MP Babu Owino’s Security Aide Surrenders to Police After NPS Directive**
 
 #KenyaNews #BreakingNews
 
 ---
 
-**📢 Governor Drops Deputy, Accuses Him of Backing Failed Impeachment Attempts**
+**📢 Gachagua Says He Will Lead United Opposition Campaigns If He Misses 2027 Ticket**
 
 #KenyaNews #BreakingNews
 

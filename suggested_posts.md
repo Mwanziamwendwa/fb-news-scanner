@@ -1,4 +1,4 @@
-# 📋 Suggested Posts — updated Tuesday, 18 August 2026 — 09:00 AM (Nairobi time)
+# 📋 Suggested Posts — updated Tuesday, 18 August 2026 — 09:13 AM (Nairobi time)
 
 Copy any of these into Facebook manually. Newest scan at the top.
 
@@ -6,29 +6,21 @@ _Duplicate stories from different outlets are automatically merged._
 
 ---
 
-## Government Ministries
-
-**📢 KDF STRENGTHENS STRATEGIC HEALTH PARTNERSHIP - Kenya Ministry of Defence**
-
-#KenyaGovernment #Ministries #PublicPolicy
-
----
-
 ## Breaking Kenya General
 
-**📢 Gov't Details Progress of Nairobi River Regeneration Works in Different Areas**
+**📢 Irungu Nyakera Declares Makadara Parliamentary Bid**
 
 #KenyaNews #BreakingNews
 
 ---
 
-**📢 Kenya Space Agency Announces Job Vacancies [Details]**
+**📢 Gladys Wanga Breaks Silence on Ridicule Over the State of Roads in Homa Bay**
 
 #KenyaNews #BreakingNews
 
 ---
 
-**📢 KPLC Announces Power Shutdowns in 8 Counties on Tuesday**
+**📢 Ruto to Lead 2-Day Health Summit at KICC [Details]**
 
 #KenyaNews #BreakingNews
 

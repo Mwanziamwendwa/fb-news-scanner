@@ -283,3 +283,130 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDRfbWtTeTl6ckJYZi1SbUVid3NRbFF2OXJuYkF1alcxQW9fdFozUEw5YTZEX3hqTUdyVUMtaXJhOTZqN0tpNldOMTVwdDVvOVdxZnJvelVkQjVrWVRPZ0l0MnhZTXZwMWVoQVpGb2dZZUQ4RW91TFA4TlpCR0p4andSdkJhRVphR0tUUWI2V215SG15a3FXM2FrcEFzSjI4Q3FrR3RNTUpldw?oc=5
   - Facebook: FAILED: Facebook credentials are missing.
 
+## Scan run: 2026-08-19 21:13 (Nairobi time)
+
+- **[Kenya Latest]** Kenya has renewed its commitment to reducing preventable maternal, newborn deaths - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaEJKb2prekh4OEw5U3A5ci14Y2I2U2hxSjNYM3NQUm1EdWx0dmZ3d0VLMm5ZV3NnOFBwcHk4YUFvX0ZpdVNrN05vT0pSZmdZX1R0cFd5blhiVVM0T1dJa3FTbzdjc0JHZW81VDVYU0pNNllnSlJRYk1TdlJXRnY3OEJTdFdxUXl1LXZGNDFsaTB0bjB6YkFwTkZmVFZ2NkltOVBxQllUOUlzbmdDdXl2SVpqNTdhOFgxZXpZTHpqb3RrYjBCV1k1QmdwUFJ3X1JtZU1IZkNvNXBPM2tlUjBOeHVrUEZfMlRs0gHuAUFVX3lxTE1lRUtaanNLTlFjeDhBQlFVN21hMVJ0TmlucGg1WGs5WE5NMmF4dTUyWlBNTmg3U1VnNl9KaUN6djJBX0hmYUYyTm42ZWhCM2U0VmdKX2pKMnRxSDNVVk45dXdTbzdlWE9fVGFGNG0tVFdHMWQ0SVdXNFJaMW9sVmxuUHhTNmtnT01Nc0FCZXpFTnRHQkMwREt2YWhadXNTd3ZuSEw1UzBMY3p2MXNIc3owcy1kcDlyRVdQdF9NMEhhdU10VEtrenROT3l5TDdaQnVuYnROMEkzOU1BeFRWNy04anF4eWRfSlJRRHo4bVE?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** Nairobi Biodiversity Talks Set the Stage for Key COP17 Decisions - Global Issues.Org
+  - Source: Global Issues.Org
+  - Link: https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DTFRqZmZZUG9mYTJzZmppVy1hdjZuSU5wcHdRV0RQZ29TR1hsRGVKdnJkbmFsMGtHNGRETE8xTFhxdEFIcXJua0dHZkx2eE5DdlVwZzF5ZFBibG9BY3F30gFkQVVfeXFMTURfMXlTdGJwMGp4VDJPQk1nZFNfLW1aSW1FdkhvU3N2eTZQdldRNkp3eXJoUEN5ekxmb09qTHFsVjlWcWZVM081QjBvOFIzaFVVSzk5QzFjZTNndEdSNFBWRC1LTg?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** Karua: 2027 election must be a contest of ideas, not bullets - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPNzJJQlhybFRzRjhJNXFhdFN5YmhOQUlRUWNkTTRtTlBZM2NERFdKSVRlLW1RV3BWX1kzS2hYQWFOMlhUdGJ6ZFdHOVdFdl9qRm1IVFhWcHhPSXhUTkgzalpqVzFTZWJNMVdaenpZNjY0bXd0ajZlcU00Z0hrc3czUWw1ZmZad2ZiVU50UDdBd3cyV3k3a25pR3hyLUVDclU?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** NCIC summons Gachagua over alleged inflammatory utterances - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3NqdnBjOXlyT2NKUG05NzMtbWxLLS1jajYyMTV3WjJzSzlkVzdzNm1paG13bHBJdUJ6dklnX3E4T01EUjdFREZieVRkQW5zNDh5SU9SYmtmVkhSLVpjMXVERFZFWThCanlUSDR2Sy1nWl9QN3ZtUHNUVEprdW5NNlNCNGkzNThnSkdoR0I5cWJvdW4wUWtJcExjcjExRUk?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** Inside 10 firms holding 60.5pc of State tenders - Business Daily
+  - Source: Business Daily
+  - Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWNEcjFBY0ZDcC1MTkJ1T2cwamJ6SFQ0X1ktRWVmcWV4V2hBNVJIa0xFeFFkbHg4WklQdlNSU3dEcXdCU3hjTGJyNk1YNmZUOFJLbzIxSkpaSExIR3VJaEJ1elZ6WDlVTkZ0aF9TcmV1QXdWUmpvV0xEYWNDSnp6QWJfQ29VR091XzhGSVJxeUdtVFBsc0hFYlBhdnItS2k2UE1XZg?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** John Ngumi loses graft probe suit in Sh6bn Telkom sale - Business Daily
+  - Source: Business Daily
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWEZnbVdtdnpGekxvV0RsR1ZjWVN6bEpGMTg0djVhQTNubWItNFF5MVdZdmtHeXhqM2NGcWljSXZFUy1mc3laYTQ3akI5bGFiWnB3TDBGallsOEc1eThabE9rVTJJRkxfQmlUTTNpaGE1MnE4cWt0Mm1VQ2J1cWxNMldPUjNjdjRCa25PQnhBWndIUGpLVW1aSV9VajZkeVBVamg1Y0stZTRWVzNQSTNHYkJBelN4ZHM3WlMtWGtSeGUwQQ?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Politics]** Khassim Abdi: The man at the centre of Homa Bay’s youth politics - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxNRXRUVXlhVl93OWlYUDdRT0s3NEFxZENjS3FuZzY2aTY3UkNRWXFnYW9LNUlqcFZKQlJmcGdJTGpWcDM0UlB1UTFfcGI3MWhlRkhydnBScTBBSExBTEUzbExaNXZvdVF5TTFYWkpuSFhZeTY0bWRkYWRCZElVenR6dV9mVHRPODFpcGtpN2FiU0V1azJZdWlkUVVkQVRyUWotWk5OaUlmaEhIX3hrdlNCaEkyNA?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Politics]** Ndindi Nyoro’s mighty leap of faith as he ditches UDA for People's Party of Kenya - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxOd0I2SVMwbHZWLTc0Z3NCX0ZoMlRKUHlLOU1wNmdOYTVBVTlfQWRZWkVOWnZ6QUQwMjhucHVGTFd4VXFMMXZEQ0NTSWdSYm1XY2RZWl85a2l4TG94MXhzUlJRNEpxazkzNkZaQVRmQTJQMzFVWEJSYzZ0RVh3QmIzWDJoSzZsNGZOZ0xVbVlIVnRyV0cxMUhr?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Politics]** From Wangari Maathai to Nyiva Mwendwa: The women who changed Kenya - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxNcGNWbVoySG1tTGdQWktpVlBvNnRSWnlrTnlrbXVWTzg0SmZEVjNvejJSVnl2T3hhMGZzVW1PcXUwMDd0czR5akZucEx6bHBPNWN6bmQ4TmtLZ2d3V3pQVk5jN3F0STJLNExtT0phOHBpcS1PcWh5LUlSUTE1MHl6OGU5SWFoMDhkZlFvbUJVME9VOG0tZmVlQWZXMzNHVkhoZUVxdVAwbmpyNUhucWZZOHJkWQ?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Politics]** Linda Mwananchi: How we intend to deal with goons - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxOVFg3NUNGRXRMemcxOFRMNml2RmxDUEt5bWszR3VFcllKN3BEb3hCbi0wN1RueU5fZFI0cDA1OXNGdzBCenNQWFNNamdSN0ZaR1hCbU55dDhlNDhJRVBnNEhrTWI0eGFmemg4dzM4WlNhSUhPa3M4MDBMTTQ1M3pBM3NCMjBrWVB0LUxDT3l3WWs1VUN4OE5OZHdFbllQRlE?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Politics]** Why we need a blueprint that outlasts politics - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxOQy10WERpZ3ZCaElwbm1NaUdsWmxOaDRkV2ZudVpMcnMzZm1lNnM1c3VEenN4cHhZeUN2X3BTQXpFeXdjSm1UcWktXzZaV2ZleTUwRUM2UXVfcHBIYnc0aU1fYzk4R05sT3NZOTk1RGwzZUh2U3Y4Vk4tYWJIMFRCZk14aFdlUEZwbVdLZWJxWUw5dXhxZ3FQODFPdFA3ZHZ0M3RiUQ?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Politics]** From Jaramogi to Raila: Homa Bay violence reignites Luo Nyanza’s old political wars - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxOcjFwSk9sTWNxSDQ3R1hVdEtkNW41UjljdkEzcUNsQTRYOEg4aER5X21SeUFMOWZQb2FaV0xxVldMczFKNzhnNHF5Sl9LdFR3U0psaU55cHd5TWRaTFFNLTRocFhWNFlVTUViVk9KV0lueTNsU0htY29COHd6NzdkRVI2QVR0aVZDSWtaNVlyNy1Oa2JXRHZtLWZ6VWttTjd4dDBOcE5TdWlXdXVOU1lLT016YnFTTG8yandTMzdrOHktbGdtcWRfcE8zdWM?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Politics]** Man police linked to Homa Bay chaos surrenders, but is turned away - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNbmtfVkFoZmZnQllBSGdHZkdOZVpBWEVJS2RMU2lTQVYwdGdVdFY4c0w4bld6dUI2cjN4ZkxZNTZIRkFRRlh2U0ZnZ2JOaTJMVVJLN2xDeWFxdmk0OHIzX0lzZ3pJTi1QeEdvZDlJc0cyMEV5YWJiUE9YaVhHSVZJS19vNHhhcVJQRWJ4SVBvYWFpRnY1MlJibS1FQWNKRk55YnpCekdLb0tVcWRrc3BuODR5WmpoZ3c?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Politics]** How Homa Bay chaos was plotted: Goons paid up to Sh4,000 - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWlGNGFuLUh0b1dIMW1GSkt4dGdGdENnLV9FTDRVTDJONDdXVVplZkpucXNqNmFuMU5nMVpvZVd0c01BT1lvZEhKMFR3Uzk4SkRMM25jVEFzTndpYW1hUFViRHh2RTljUkhJYnpwVmgwZm9uM3VUNE1SaW1ubG5URUNSQVZkdjJRdDc0V2FucGd1WUk2cTZURTBBc3VJemUzOFFENldSbV8?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Politics]** What is MP Ndindi Nyoro up to? - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlVYTHlzVG5WR0dnalQtU1F1SnFvUmV5Xzc2VVFfbUJBZ0lQQnJCU1lfUkRQRVBIRG1UT3k3cmF2T0ZZS09DU0E4VTNoRHFUUC1mam1tWkNMOWdjdkdNUXB3eDl6WUgySjZzSHI2a0JrOUtVTDRwTHhDekVTYktkWl9peGg0bDA?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Politics]** Kenya 2027: Ruto’s broad-based government faces major test - The Africa Report
+  - Source: The Africa Report
+  - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGdiVnE3UXNiVHdvbDFnZmpaTURBNF92eXloMFI2SUx6dG9sclNFMjNob0RjYXhrMDR4ZTU3SDN3SlIteFc2OHkxNHZvdkMySkJkNkgtbFV5QnNjQlpJYktmRGdpdjJySU92MEc2ZVdnM2tKelJaXzFhTkhhX0h5YlhiRFc4b082cmZZaTVzbjlZRlNtSGlBdU8xdFFDUUdQXzBHOGRFQUY?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Politics]** Kenya opposition draws large crowds despite efforts to disrupt rally - africanews.com
+  - Source: africanews.com
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXZJWC1KQXpUY3ppVGlJQ0dIX05zbUhQMU5TNFAxbEhlYWNFVDJXeEpyd05jcVNhdHRUTjQ5bTF1c05GWVl0aFAzaEt4VDhrMF9aQm9FOVFLQk1va1ZzdFZpcmE5UkRnQ3hNbjJFX2VaYmtIb2NBbnNPUW5xcVNkUjlLQ1E5SlFoRTlXNzBhN1kzVUEtX005VWhVcURxMzRNVXZfU3Blcy14NnPSAbABQVVfeXFMT0VvbkZLQkdpdjk3NmRNR0dtNG9BS2R5YVpRS3haU1B2ZXRrWVVjWnl5QXFtWXlzSVhiRVI3NnhYdGpieVpYRTFCZklDbGJSZE0zakJ1LXo2MkNOcW1pdGVZRHJjbExUWVFYcFcxVU8xNWhDWlRfbGJpOE1EcllpSkdqZDBPTzgtb2xKR2pjZFN0Si1MYW91NlFRQ0VvRjlQZUpCNkRKNlNjaUprcXdZYVk?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Politics]** Nyoro's new party, Peter Kenneth's lessons and DCP suspicions - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQVk9vU0w5d3IwUGhkZl9UYmJtaEJHRlJPNWJfemFCSFZCYWFtWk5ld2ZPdmdTU3MtT1dzaWVQUGNiRzBIbnRrWXZkbnhlWXpNTlhsTFJsZ01qd1pkbDUtZjZrZUdDRWEtcUQ3YkhxYWVIdHpDSURYaGNwNU04b3h0b1BtNVVUczBCUWRLMjVpZmxvZzdTTFFfWldpbC1qTUZmandJWXprZm9xazRIU0ppQ2tsV1FQMFh3RlE?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Politics]** Why Omtatah’s odious debt case threatens to shake up Kenya’s political and financial landscape - The Eastleigh Voice
+  - Source: The Eastleigh Voice
+  - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxNNXBEOGUzZGZmNUJLU0Vkck84emgwSXdvVnVadXRnNkV4SVlud0JOOVhHRjVybl94RUpMNFpJRXd5QkRCaTAzbmlJallqajYyaW54cDlmTE1qeV9DN2dvNHJ1VlVMMjl2R01IaHhiWnJoWjdOaFZJa1dpYWdzZEFqMVZVN2ZRUTFQTXVGSW5jaUhySmFLVXVUcDlXUW9CVHNTcjI0X2o2dWUyZFBrYWEyLTJKQVFYRVNhdnlfS3I4R29Rc196dWZhd1VHS2tZQQ?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Politics]** Kenya at crossroads: New wave of political violence echoes pre-2007 crisis - The Eastleigh Voice
+  - Source: The Eastleigh Voice
+  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOOUNnN3JqS3ROUllINTIycl9xY3VXcVFMWmNnZ0ZxUnJuWXhVOHR1bHJiZ3RXSnFZcEFKcjRoZzg3cHVTMXVOb3A0cXA0dHZkRkRJTkxDeDk1V3Q1aGFxaTBpb21sWU00cWczRjZneDVMWUhmLThKaXBwUXJ3bkpnQzlGSUpkRjlNOGRGX2xpTEFQdVpOY05pVV9FZllLRWFZZWFhQWNXSTh6QVFidnZnWWE3eU5leWJ4Ync?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Politics]** People’s Party of Kenya: Details of Ndindi Nyoro’s new party - People Daily
+  - Source: People Daily
+  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOMmJsNUg2TFdzZklVcmFVa1lmV09laWRIYkNWOS00SXZ4aDZGMW1TUUx1UXNOa0g3M3N1ZG9tVllidk1xU0FoN1B4bEllN3F0Uy1FNmtOaE1KVXJ0TVBQWjVhd3hON1NvNG1NVnF5cEd3Q0RsaGx4aWxPYVFpV3R6SThzVUxrWGM1NHdvVlZrZHluRDBOcWFwUF9vMU1HTU5ia0dv?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Politics]** Ndindi Nyoro joins United Opposition after UDA exit - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxPMS1VWmFnRS16RWJMUWpJdWhJNC1PVGtmSVBoVmVyM1ZoWUUwMXBNQlFzcVRiYmVFV0lQSUpuVTFqdVZhSDFDalRvWlotc1FYOW83amlXQmJ1LWt3Z2hWaTh6RGlCblhwOWZxc2thNGVnRUpmWFFuUjk0ZnNIbUdwZTZpWndhT2NkYTlGOFBHdE1xVG1XVy1EbDlpUmlUclQyQ0xn?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Politics]** Gachagua positions DCP as Mt Kenya vehicle for 2027 power bid - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNW4taG9LRHh4VDI5VFZrdzBmbEVyemlhTm85WV9ySHlRUGJWLUpXY3UzekZ2cVl0VDczZ1lkSzdOY2JQOXRwWkhNSDFDWUE5d2xUMDFpUndiRk04dEZQRXZxbm1od19Tb1pUNkM1NFVURXVpUGhmZFNwUi0wWXVWSTUtZUs3VVhBQjRmMy1pRlJ0TGVhU0tDMEpVcVdtel81RXYxLVZLVkhyMGN5MzV1S1k0YVEtVDlUbms4QTFUNDZNcUVXbi12SA?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Politics]** Ruto Opens Kenya Health Summit as Government Takes Stock of Health Reforms - Dawan Africa
+  - Source: Dawan Africa
+  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxOTEQ4dXNhYWswdzNwNEloamRya3pZakVrVnB6djRnRlpiWXp0NVV1YnhyUWZxT3pUVWNlSkt4TXZONnlVSVhNQUFDWUtoRmN3WlU4VWdneE54Mi1lNnFtLUpXanBLakFlbk1tWnR1dkNYWjg5bF9Pd3RFblYyODNwalF3TnBFQWlWV2NTbHR3Z1NwRXhaSmgxUW43Y1lDXzNmZE5hY2F5SQ?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Business]** Kenya’s private sector positions trust as an economic asset ahead of inaugural trust summit - Bizna Kenya
+  - Source: Bizna Kenya
+  - Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxQdjlTSkhCQVR5eUs1Y1VKWkxUWmxVSW5vbVE2QVNCY1ViMzd0cUVIenBFOXVjNFBIVlJwVXhZMjJqMGpaaEIwazEtWEtWblU5WVFRX0dBV25VNTV4Y0R4TTY0bXA5VjB1OVZ3YkNmeGY3V3A0YXd0M05qYVIwazFlMDlzVzZmNXVjX3c?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+

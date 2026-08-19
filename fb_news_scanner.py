@@ -1,387 +1,1068 @@
 """
-Kefa's Kenya News Scanner — Suggestion Mode
-Scans all topic feeds and writes ready-to-copy post suggestions into
-suggested_posts.md. No Facebook posting happens automatically — Kefa
-reviews the list and posts manually whenever he wants.
+Kenya News Scanner — Broad Coverage / Growth Mode
 
-No API keys, tokens, or Facebook permissions needed at all for this version.
+Pulls Kenyan news from Google News RSS + direct outlet feeds,
+dedupes against previously suggested stories, holds back
+graphic/sensitive content for manual review, and writes
+candidates to suggested_posts.md.
 
-UPDATED:
-  - Full verified list of Kenyan RSS feeds (53 sources, checked one by one —
-    dead/wrong URLs from the old GENERAL_KENYA_AGENT list have been fixed
-    or removed; sites confirmed to have no RSS feed at all are left out).
-  - Fuzzy duplicate detection: the same real-world story reported by two
-    different outlets with two different headlines is now recognized as
-    ONE story, not two. Detection works both within a single run (so you
-    don't get "Homa Bay violence" from three outlets in one suggestion
-    batch) and against the historical log (so a story doesn't resurface
-    days later just because a different site rewrote the headline).
+This script does NOT post to Facebook.
+It only generates suggestions.
+
+You copy the suggested headlines into Claude for rewriting,
+then post manually.
+
+No environment variables or secrets required.
+This script only reads RSS feeds and writes local files.
 """
 
 import os
-import re
 import json
-from datetime import datetime, timedelta
-import pytz
 import feedparser
+import socket
+
+from datetime import datetime, timedelta
+
+import pytz
+
+
+# ============================================================
+# CONFIG
+# ============================================================
 
 NAIROBI_TZ = pytz.timezone("Africa/Nairobi")
+
+SUGGESTED_POSTS_FILE = "suggested_posts.md"
 POSTED_LOG_FILE = "posted_log.json"
-SUGGESTIONS_FILE = "suggested_posts.md"
-MAX_LOG_SIZE_PER_AGENT = 300
-LOOKBACK_HOURS = 24
-MAX_SUGGESTIONS_PER_AGENT = 3
-
-# Similarity threshold for "same story, different headline".
-# Jaccard overlap of significant words; 0.55 catches paraphrased
-# headlines about the same event without over-merging unrelated stories.
-DUPLICATE_SIMILARITY_THRESHOLD = 0.55
 
 
-def gnews(query):
-    return f"https://news.google.com/rss/search?q={query.replace(' ', '+')}&hl=en-KE&gl=KE&ceid=KE:en"
+# ============================================================
+# RSS FEEDS
+# ============================================================
 
+FEEDS = [
 
-# ---------- AGENTS (same topic coverage as before) ----------
+    # ========================================================
+    # GOOGLE NEWS RSS
+    # ========================================================
 
-FINANCE_AGENTS = [
-    {"name": "teachers", "hashtags": "#TSC #Teachers #KenyaEducation",
-     "feeds": [gnews("TSC Kenya teachers"), gnews("teacher recruitment Kenya")],
-     "keywords": ["tsc", "teacher", "payslip", "cba", "teacher recruitment"]},
-    {"name": "civil_servants", "hashtags": "#CivilServants #CountyGovernment #KenyaJobs",
-     "feeds": [gnews("civil servants Kenya salary"), gnews("public service Kenya")],
-     "keywords": ["civil servant", "county government", "salary increment", "public service"]},
-    {"name": "sacco_chama", "hashtags": "#SACCO #Chama #Savings",
-     "feeds": [gnews("SACCO Kenya"), gnews("chama Kenya savings")],
-     "keywords": ["sacco", "chama", "sasra", "savings group"]},
-    {"name": "banking_microfinance", "hashtags": "#CBK #BankLoans #Microfinance",
-     "feeds": [gnews("CBK Central Bank Kenya interest rate"), gnews("bank loan Kenya"), gnews("microfinance Kenya")],
-     "keywords": ["cbk", "central bank", "interest rate", "bank loan", "microfinance", "credit", "mortgage"]},
-    {"name": "sme_business", "hashtags": "#SME #SmallBusiness #KenyaEconomy",
-     "feeds": [gnews("SME business loan Kenya"), gnews("KRA Kenya tax")],
-     "keywords": ["sme", "business loan", "kra", "tax", "trader", "small business"]},
-    {"name": "world_economy", "hashtags": "#WorldBank #KenyaEconomy #Inflation",
-     "feeds": [gnews("World Bank Kenya economy")],
-     "keywords": ["world bank", "inflation", "cost of living", "economy", "gdp"]},
-]
-
-LOAN_TARGET_AGENTS = [
-    {"name": "nhif_health_insurance", "hashtags": "#SHA #NHIF #HealthCover",
-     "feeds": [gnews("NHIF SHA Kenya"), gnews("health insurance Kenya")],
-     "keywords": ["nhif", "sha", "health insurance", "medical cover"]},
-    {"name": "nssf_pension", "hashtags": "#NSSF #Pension #Retirement",
-     "feeds": [gnews("NSSF Kenya pension")],
-     "keywords": ["nssf", "pension", "retirement benefits"]},
-    {"name": "hustler_fund_youth", "hashtags": "#HustlerFund #YouthFund #KenyaJobs",
-     "feeds": [gnews("Hustler Fund Kenya"), gnews("youth employment fund Kenya")],
-     "keywords": ["hustler fund", "youth fund", "youth employment", "government credit"]},
-    {"name": "matatu_boda_transport", "hashtags": "#Matatu #BodaBoda #Transport",
-     "feeds": [gnews("matatu sacco Kenya"), gnews("boda boda Kenya")],
-     "keywords": ["matatu", "boda boda", "psv", "transport sacco"]},
-    {"name": "real_estate_mortgage", "hashtags": "#RealEstate #Mortgage #Housing",
-     "feeds": [gnews("real estate Kenya"), gnews("mortgage Kenya housing")],
-     "keywords": ["real estate", "mortgage", "housing", "land", "property"]},
-    {"name": "school_fees_education", "hashtags": "#HELB #KUCCPS #SchoolFees",
-     "feeds": [gnews("HELB Kenya"), gnews("university fees Kenya KUCCPS")],
-     "keywords": ["helb", "kuccps", "school fees", "university fees", "tuition"]},
-    {"name": "agriculture_farmers", "hashtags": "#Agriculture #Farmers #Kenya",
-     "feeds": [gnews("agriculture Kenya farmers"), gnews("agri loan Kenya cooperative")],
-     "keywords": ["farmer", "agriculture", "agri-loan", "cooperative", "cereal board"]},
-    {"name": "women_table_banking", "hashtags": "#WomenInBusiness #TableBanking",
-     "feeds": [gnews("women table banking Kenya"), gnews("women fund Kenya business")],
-     "keywords": ["table banking", "women fund", "women in business", "merry go round"]},
-    {"name": "digital_mobile_loans", "hashtags": "#MobileLoans #DigitalLending",
-     "feeds": [gnews("mobile loan Kenya"), gnews("Fuliza M-Shwari Kenya")],
-     "keywords": ["mobile loan", "fuliza", "m-shwari", "digital lending", "kcb mpesa"]},
-    {"name": "motor_vehicle_logbook", "hashtags": "#LogbookLoans #CarFinancing",
-     "feeds": [gnews("logbook loan Kenya"), gnews("car import Kenya")],
-     "keywords": ["logbook loan", "car import", "vehicle financing", "auto loan"]},
-    {"name": "fuel_cost_of_living", "hashtags": "#FuelPrices #CostOfLiving",
-     "feeds": [gnews("fuel prices Kenya"), gnews("cost of living Kenya")],
-     "keywords": ["fuel price", "petrol", "diesel", "cost of living", "epra"]},
-    {"name": "county_business_permits", "hashtags": "#CountyBusiness #SMEPermits",
-     "feeds": [gnews("county business permit Kenya"), gnews("SME registration Kenya")],
-     "keywords": ["business permit", "trade license", "county revenue", "sme registration"]},
-]
-
-MINISTRY_NAMES = [
-    "Ministry of Interior and National Administration Kenya", "Ministry of Defence Kenya",
-    "Ministry of Foreign Affairs Kenya", "National Treasury Kenya", "Ministry of Education Kenya",
-    "Ministry of Health Kenya", "Ministry of Agriculture Kenya", "Ministry of Lands and Housing Kenya",
-    "Ministry of Transport Kenya", "Ministry of Energy Kenya", "Ministry of Trade Investment Industry Kenya",
-    "Ministry of ICT Digital Economy Kenya", "Ministry of Labour Kenya", "Ministry of Water Sanitation Kenya",
-    "Ministry of Environment Climate Change Kenya", "Ministry of Tourism and Wildlife Kenya",
-    "Ministry of Sports Culture Heritage Kenya", "Ministry of Cooperatives MSME Kenya",
-    "Ministry of Mining Blue Economy Kenya", "Ministry of Public Service Gender Kenya",
-]
-
-GOVERNMENT_AGENTS = [
-    {"name": "government_ministries", "hashtags": "#KenyaGovernment #Ministries #PublicPolicy",
-     "feeds": [gnews(m) for m in MINISTRY_NAMES],
-     "keywords": ["ministry", "cabinet secretary", "government", "state department", "policy"]}
-]
-
-COUNTY_NAMES = [
-    "Mombasa", "Kwale", "Kilifi", "Tana River", "Lamu", "Taita Taveta", "Garissa", "Wajir",
-    "Mandera", "Marsabit", "Isiolo", "Meru", "Tharaka Nithi", "Embu", "Kitui", "Machakos",
-    "Makueni", "Nyandarua", "Nyeri", "Kirinyaga", "Murang'a", "Kiambu", "Turkana", "West Pokot",
-    "Samburu", "Trans Nzoia", "Uasin Gishu", "Elgeyo Marakwet", "Nandi", "Baringo", "Laikipia",
-    "Nakuru", "Narok", "Kajiado", "Kericho", "Bomet", "Kakamega", "Vihiga", "Bungoma", "Busia",
-    "Siaya", "Kisumu", "Homa Bay", "Migori", "Kisii", "Nyamira", "Nairobi",
-]
-
-GOVERNMENT_AGENTS.append({
-    "name": "county_news", "hashtags": "#CountyNews #Kenya47Counties #Devolution",
-    "feeds": [gnews(f"{c} county Kenya") for c in COUNTY_NAMES],
-    "keywords": ["county", "governor", "devolution", "county assembly", "ward"],
-})
-
-# ---------- DIRECT OUTLET FEEDS ----------
-# Every URL below was checked individually (fetched or confirmed via the
-# publisher's own <link rel="alternate" type="application/rss+xml"> tag).
-# Sites with NO working RSS feed (the-star.co.ke, citizen.digital,
-# mpasho.co.ke, royalmedia.co.ke — all confirmed dead ends) are left out
-# entirely rather than included with a guessed/broken URL.
-
-KENYA_VERIFIED_FEEDS = [
-    # General news
-    "https://nairobileo.co.ke/feed",
-    "https://spmbuzz.com/feed/",
-    "https://www.ghafla.co.ke/feed/",
-    "https://ghafla.co.ke/ke/feed",
-    "https://k24.digital/feed",
-    "https://www.kbc.co.ke/feed/",
-    "https://www.kenyamoja.com/news/nairobi-leo/feed",
-    "https://www.kenyans.co.ke/feeds/news",
-    "https://nation.africa/kenya/rss.xml",
-    "https://www.kenyanews.go.ke/feed/",
-    "https://taifaleo.nation.co.ke/feed",
-    "https://nairobiwire.com/feed",
-    "https://diasporamessenger.com/feed/",
-    "https://mwakilishi.com/feed",
-    "https://sharpdaily.co.ke/feed/",
-    "https://newstrends.co.ke/feed/",
-    "https://sauce.co.ke/feed/",
-    "https://thekenyatimes.com/feed/",
-    "https://aipate.com/category/news/feed",
-    "https://nairobigossipclub.co.ke/feeds",
-
-    # The Standard (sectioned)
-    "https://www.standardmedia.co.ke/rss/headlines.php",
-    "https://www.standardmedia.co.ke/rss/kenya.php",
-    "https://www.standardmedia.co.ke/rss/sports.php",
-    "https://www.standardmedia.co.ke/rss/world.php",
-    "https://www.standardmedia.co.ke/rss/politics.php",
-
-    # Capital FM — two separate properties/domains
-    "https://capitalfm.africa/news/feed/",
-    "https://capitalfm.africa/sports/feed/",
-    "https://capitalfm.africa/lifestyle/feed/",
-    "https://capitalfm.africa/business/feed/",
-    "https://www.capitalfm.co.ke/news/feed/",
-
-    # Business / finance
-    "https://www.businessdailyafrica.com/service/rss/bd/1939132/feed.rss",
-    "https://kenyanwallstreet.com/feed/",
-
-    # Getembe TV (sectioned)
-    "https://getembetv.co.ke/rss/latest-posts",
-    "https://getembetv.co.ke/rss/category/news",
-    "https://getembetv.co.ke/rss/category/business",
-    "https://getembetv.co.ke/rss/category/education",
-    "https://getembetv.co.ke/rss/category/politics",
-    "https://getembetv.co.ke/rss/category/health",
-
-    # Viral Tea (sectioned)
-    "https://viraltea.co.ke/rss/latest-posts",
-    "https://viraltea.co.ke/rss/category/news",
-    "https://viraltea.co.ke/rss/category/breaking",
-    "https://viraltea.co.ke/rss/category/national",
-    "https://viraltea.co.ke/rss/category/local",
-
-    # Kenyapedia (sectioned — finance/econ heavy, useful for FINANCE_AGENTS too)
-    "https://www.kenyapedia.co.ke/rss/latest-posts",
-    "https://www.kenyapedia.co.ke/rss/category/jobs",
-    "https://www.kenyapedia.co.ke/rss/category/money-and-finances",
-    "https://www.kenyapedia.co.ke/rss/category/business-grants-and-financing",
-    "https://www.kenyapedia.co.ke/rss/category/debt-and-borrowing",
-    "https://www.kenyapedia.co.ke/rss/category/kenya-economy",
-    "https://www.kenyapedia.co.ke/rss/category/education-funding",
-    "https://www.kenyapedia.co.ke/rss/category/taxes-50",
-    "https://www.kenyapedia.co.ke/rss/category/savings-and-investments",
-    "https://www.kenyapedia.co.ke/rss/category/recent-news",
-]
-
-GENERAL_KENYA_AGENT = [
     {
-        "name": "breaking_kenya_general",
-        "hashtags": "#KenyaNews #BreakingNews",
-        "feeds": KENYA_VERIFIED_FEEDS,
-        # broad keyword net since this agent covers general/breaking news
-        "keywords": ["kenya", "nairobi", "county", "government", "president", "parliament",
-                      "school", "hospital", "police", "court", "election", "business",
-                      "economy", "cabinet", "governor", "national"],
-    }
+        "category": "Kenya Latest",
+        "url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNREU1Y21jMUVnVmxiaTFIUWlnQVAB?hl=en-KE&gl=KE&ceid=KE%3Aen"
+    },
+
+    {
+        "category": "General",
+        "url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNREU1Y21jMUVnVmxiaTFIUWlnQVAB?hl=en-KE&gl=KE&ceid=KE:en"
+    },
+
+    {
+        "category": "Politics",
+        "url": "https://news.google.com/rss/search?q=Kenya+politics&hl=en-KE&gl=KE&ceid=KE:en"
+    },
+
+    {
+        "category": "Business",
+        "url": "https://news.google.com/rss/search?q=Kenya+business+economy&hl=en-KE&gl=KE&ceid=KE:en"
+    },
+
+    {
+        "category": "Business Topic",
+        "url": "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKTFJTZ0FQAQ?hl=en-KE&gl=KE&ceid=KE:en"
+    },
+
+    {
+        "category": "Entertainment",
+        "url": "https://news.google.com/rss/search?q=Kenya+entertainment+celebrity&hl=en-KE&gl=KE&ceid=KE:en"
+    },
+
+    {
+        "category": "Sports",
+        "url": "https://news.google.com/rss/search?q=Kenya+sports+football&hl=en-KE&gl=KE&ceid=KE:en"
+    },
+
+    {
+        "category": "Trending",
+        "url": "https://news.google.com/rss/search?q=Kenya+viral+trending&hl=en-KE&gl=KE&ceid=KE:en"
+    },
+
+
+    # ========================================================
+    # KENYAN NEWS SITES
+    # ========================================================
+
+    {
+        "category": "Nairobi Leo",
+        "url": "https://nairobileo.co.ke/feed"
+    },
+
+    {
+        "category": "SPM Buzz",
+        "url": "https://spmbuzz.com/feed/"
+    },
+
+    {
+        "category": "Ghafla",
+        "url": "https://www.ghafla.co.ke/feed/"
+    },
+
+    {
+        "category": "Ghafla KE",
+        "url": "https://ghafla.co.ke/ke/feed"
+    },
+
+    {
+        "category": "K24 Digital",
+        "url": "https://k24.digital/feed"
+    },
+
+    {
+        "category": "KBC Digital",
+        "url": "https://kbc.co.ke/feed"
+    },
+
+    {
+        "category": "NTV Kenya",
+        "url": "https://ntvkenya.co.ke/feed/"
+    },
+
+    {
+        "category": "Kenyans.co.ke",
+        "url": "https://www.kenyans.co.ke/feeds/news"
+    },
+
+    {
+        "category": "Nation Africa",
+        "url": "https://nation.africa/kenya/rss.xml"
+    },
+
+    {
+        "category": "Business Daily Africa",
+        "url": "https://www.businessdailyafrica.com/service/rss/bd/1939132/feed.rss"
+    },
+
+    {
+        "category": "Kenyan Wall Street",
+        "url": "https://kenyanwallstreet.com/feed/"
+    },
+
+    {
+        "category": "Kenya News Agency",
+        "url": "https://www.kenyanews.go.ke/feed/"
+    },
+
+    {
+        "category": "Taifa Leo",
+        "url": "https://taifaleo.nation.co.ke/feed"
+    },
+
+    {
+        "category": "Nairobi Wire",
+        "url": "https://nairobiwire.com/feed"
+    },
+
+    {
+        "category": "Diaspora Messenger",
+        "url": "https://diasporamessenger.com/feed/"
+    },
+
+    {
+        "category": "Mwakilishi",
+        "url": "https://mwakilishi.com/feed"
+    },
+
+    {
+        "category": "Sharp Daily",
+        "url": "https://sharpdaily.co.ke/feed/"
+    },
+
+    {
+        "category": "News Trends KE",
+        "url": "https://newstrends.co.ke/feed/"
+    },
+
+    {
+        "category": "Sauce Kenya",
+        "url": "https://sauce.co.ke/feed/"
+    },
+
+    {
+        "category": "The Kenya Times",
+        "url": "https://thekenyatimes.com/feed/"
+    },
+
+    {
+        "category": "Aipate News",
+        "url": "https://aipate.com/category/news/feed"
+    },
+
+    {
+        "category": "KenyaMOJA",
+        "url": "https://www.kenyamoja.com/news/nairobi-leo/feed"
+    },
+
+    {
+        "category": "Nairobi Gossip Club",
+        "url": "https://nairobigossipclub.co.ke/feeds"
+    },
+
+    # Education News — added
+    {
+        "category": "Education News",
+        "url": "https://educationnews.co.ke/feed/"
+    },
+
+
+    # ========================================================
+    # STANDARD MEDIA
+    # ========================================================
+
+    {
+        "category": "Standard Headlines",
+        "url": "https://www.standardmedia.co.ke/rss/headlines.php"
+    },
+
+    {
+        "category": "Standard Kenya",
+        "url": "https://www.standardmedia.co.ke/rss/kenya.php"
+    },
+
+    {
+        "category": "Standard Politics",
+        "url": "https://www.standardmedia.co.ke/rss/politics.php"
+    },
+
+    {
+        "category": "Standard Sports",
+        "url": "https://www.standardmedia.co.ke/rss/sports.php"
+    },
+
+    {
+        "category": "Standard World",
+        "url": "https://www.standardmedia.co.ke/rss/world.php"
+    },
+
+
+    # ========================================================
+    # CAPITAL FM
+    # ========================================================
+
+    {
+        "category": "Capital FM News",
+        "url": "https://capitalfm.africa/news/feed/"
+    },
+
+    {
+        "category": "Capital FM Sports",
+        "url": "https://capitalfm.africa/sports/feed/"
+    },
+
+    {
+        "category": "Capital FM Lifestyle",
+        "url": "https://capitalfm.africa/lifestyle/feed/"
+    },
+
+    {
+        "category": "Capital FM Business",
+        "url": "https://capitalfm.africa/business/feed/"
+    },
+
+    {
+        "category": "Capital FM Kenya",
+        "url": "https://www.capitalfm.co.ke/news/feed/"
+    },
+
+
+    # ========================================================
+    # GETEMBE TV
+    # ========================================================
+
+    {
+        "category": "Getembe Latest",
+        "url": "https://getembetv.co.ke/rss/latest-posts"
+    },
+
+    {
+        "category": "Getembe News",
+        "url": "https://getembetv.co.ke/rss/category/news"
+    },
+
+    {
+        "category": "Getembe Business",
+        "url": "https://getembetv.co.ke/rss/category/business"
+    },
+
+    {
+        "category": "Getembe Education",
+        "url": "https://getembetv.co.ke/rss/category/education"
+    },
+
+    {
+        "category": "Getembe Politics",
+        "url": "https://getembetv.co.ke/rss/category/politics"
+    },
+
+    {
+        "category": "Getembe Health",
+        "url": "https://getembetv.co.ke/rss/category/health"
+    },
+
+
+    # ========================================================
+    # VIRAL TEA
+    # ========================================================
+
+    {
+        "category": "Viral Tea Latest",
+        "url": "https://viraltea.co.ke/rss/latest-posts"
+    },
+
+    {
+        "category": "Viral Tea News",
+        "url": "https://viraltea.co.ke/rss/category/news"
+    },
+
+    {
+        "category": "Viral Tea Breaking",
+        "url": "https://viraltea.co.ke/rss/category/breaking"
+    },
+
+    {
+        "category": "Viral Tea National",
+        "url": "https://viraltea.co.ke/rss/category/national"
+    },
+
+    {
+        "category": "Viral Tea Local",
+        "url": "https://viraltea.co.ke/rss/category/local"
+    },
+
+
+    # ========================================================
+    # KENYAPEDIA
+    # ========================================================
+
+    {
+        "category": "Kenyapedia Latest",
+        "url": "https://www.kenyapedia.co.ke/rss/latest-posts"
+    },
+
+    {
+        "category": "Kenyapedia Jobs",
+        "url": "https://www.kenyapedia.co.ke/rss/category/jobs"
+    },
+
+    {
+        "category": "Kenyapedia Money",
+        "url": "https://www.kenyapedia.co.ke/rss/category/money-and-finances"
+    },
+
+    {
+        "category": "Kenyapedia Grants",
+        "url": "https://www.kenyapedia.co.ke/rss/category/business-grants-and-financing"
+    },
+
+    {
+        "category": "Kenyapedia Debt",
+        "url": "https://www.kenyapedia.co.ke/rss/category/debt-and-borrowing"
+    },
+
+    {
+        "category": "Kenyapedia Economy",
+        "url": "https://www.kenyapedia.co.ke/rss/category/kenya-economy"
+    },
+
+    {
+        "category": "Kenyapedia Education",
+        "url": "https://www.kenyapedia.co.ke/rss/category/education-funding"
+    },
+
+    {
+        "category": "Kenyapedia Taxes",
+        "url": "https://www.kenyapedia.co.ke/rss/category/taxes-50"
+    },
+
+    {
+        "category": "Kenyapedia Investments",
+        "url": "https://www.kenyapedia.co.ke/rss/category/savings-and-investments"
+    },
+
+    {
+        "category": "Kenyapedia Recent News",
+        "url": "https://www.kenyapedia.co.ke/rss/category/recent-news"
+    },
 ]
 
-ALL_AGENTS = FINANCE_AGENTS + LOAN_TARGET_AGENTS + GOVERNMENT_AGENTS + GENERAL_KENYA_AGENT
 
-# ---------- HELPERS ----------
+# ============================================================
+# REQUEST SETTINGS
+# ============================================================
 
-def load_posted_log():
-    if os.path.exists(POSTED_LOG_FILE):
-        try:
-            with open(POSTED_LOG_FILE, "r", encoding="utf-8") as f:
-                return json.load(f)
-        except Exception:
-            return {}
-    return {}
-
-
-def save_posted_log(log):
-    with open(POSTED_LOG_FILE, "w", encoding="utf-8") as f:
-        json.dump(log, f, ensure_ascii=False, indent=2)
-
-
-def is_relevant(title, summary, keywords):
-    text = f"{title} {summary}".lower()
-    return any(kw in text for kw in keywords)
-
-
-def is_recent(published_parsed):
-    if not published_parsed:
-        return True
-    published_dt = datetime(*published_parsed[:6], tzinfo=pytz.utc)
-    cutoff = datetime.now(pytz.utc) - timedelta(hours=LOOKBACK_HOURS)
-    return published_dt >= cutoff
-
-
-def nairobi_time_label():
-    return datetime.now(NAIROBI_TZ).strftime("%A, %d %B %Y — %I:%M %p (Nairobi time)")
-
-
-# ---------- DUPLICATE / SAME-STORY DETECTION ----------
-# Different outlets write different headlines for the same event
-# ("37 arrested after Homa Bay chaos" vs "Police nab 37 suspects in
-# Linda Mwananchi violence"). Exact-string matching misses this entirely.
-# We normalize each headline to its significant words and compare word-set
-# overlap (Jaccard similarity). This is fast, needs no extra libraries,
-# and is robust enough for headline-level dedup.
-
-_STOPWORDS = {
-    "the", "a", "an", "of", "in", "on", "at", "to", "for", "and", "or", "as",
-    "is", "are", "was", "were", "be", "been", "by", "with", "from", "over",
-    "after", "before", "amid", "into", "out", "up", "down", "says", "say",
-    "said", "new", "kenya", "kenyan", "this", "that", "it", "its", "his",
-    "her", "their", "he", "she", "they", "who", "what", "how", "why",
+FEED_REQUEST_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 "
+        "(compatible; KenyaNewsScanner/1.0; "
+        "+https://github.com/)"
+    )
 }
 
 
+# ============================================================
+# SENSITIVE CONTENT FILTER
+# ============================================================
+
+SENSITIVE_TERMS = [
+    "autopsy",
+    "mutilated",
+    "beheaded",
+    "dismembered",
+    "gore",
+    "graphic images",
+    "explicit video",
+    "child abuse",
+    "defiled",
+    "gang rape",
+    "mob justice",
+    "lynched",
+]
+
+
+# ============================================================
+# SCANNER SETTINGS
+# ============================================================
+
+# Maximum number of new suggestions produced in one run.
+MAX_SUGGESTIONS_PER_RUN = 25
+
+# Look back this many hours when checking RSS publication dates.
+LOOKBACK_HOURS = 48
+
+# Maximum time allowed for an individual feed.
+FEED_TIMEOUT_SECONDS = 15
+
+
+# ============================================================
+# HELPERS
+# ============================================================
+
 def normalize_title(title):
-    """Lowercase, strip punctuation, drop stopwords -> set of significant words."""
-    words = re.findall(r"[a-z0-9']+", title.lower())
-    return {w for w in words if w not in _STOPWORDS and len(w) > 2}
+    """
+    Lowercase and collapse whitespace.
+
+    Used as the deduplication key.
+    """
+    return " ".join(title.lower().split())
 
 
-def title_similarity(title_a, title_b):
-    set_a, set_b = normalize_title(title_a), normalize_title(title_b)
-    if not set_a or not set_b:
-        return 0.0
-    intersection = len(set_a & set_b)
-    union = len(set_a | set_b)
-    return intersection / union if union else 0.0
+def load_posted_log():
+    """
+    Load previously seen/suggested titles.
+    """
+    if os.path.exists(POSTED_LOG_FILE):
+
+        try:
+
+            with open(
+                POSTED_LOG_FILE,
+                "r",
+                encoding="utf-8"
+            ) as f:
+
+                data = json.load(f)
+
+                if isinstance(data, list):
+                    return set(data)
+
+                if isinstance(data, dict):
+                    return set(data.keys())
+
+                return set()
+
+        except (
+            json.JSONDecodeError,
+            ValueError,
+            OSError
+        ):
+
+            print(
+                f"[WARN] {POSTED_LOG_FILE} was invalid JSON "
+                "— starting fresh."
+            )
+
+            return set()
+
+    return set()
 
 
-def is_duplicate_of_any(title, seen_titles):
-    """True if `title` is the same story as anything already in seen_titles
-    (either this run's other feeds, or the historical log)."""
-    for seen in seen_titles:
-        if title_similarity(title, seen) >= DUPLICATE_SIMILARITY_THRESHOLD:
-            return True
-    return False
+def save_posted_log(seen_titles):
+    """
+    Save the deduplication log.
+    """
+    try:
+
+        with open(
+            POSTED_LOG_FILE,
+            "w",
+            encoding="utf-8"
+        ) as f:
+
+            json.dump(
+                sorted(seen_titles),
+                f,
+                indent=2,
+                ensure_ascii=False
+            )
+
+    except OSError as e:
+
+        print(
+            f"[ERROR] Could not save {POSTED_LOG_FILE}: {e}"
+        )
 
 
-# ---------- MAIN ----------
+def is_recent(published_parsed):
+    """
+    Return True if the story is within LOOKBACK_HOURS.
+
+    If no publication date is available, keep the story.
+    """
+
+    if not published_parsed:
+        return True
+
+    try:
+
+        published_dt = datetime(
+            *published_parsed[:6],
+            tzinfo=pytz.utc
+        )
+
+    except (
+        TypeError,
+        ValueError,
+        OverflowError
+    ):
+
+        return True
+
+    cutoff = (
+        datetime.now(pytz.utc)
+        - timedelta(hours=LOOKBACK_HOURS)
+    )
+
+    return published_dt >= cutoff
+
+
+def is_sensitive(title, summary):
+    """
+    Check title + summary against the sensitive-content list.
+    """
+
+    text = f"{title} {summary}".lower()
+
+    return any(
+        term in text
+        for term in SENSITIVE_TERMS
+    )
+
+
+def nairobi_timestamp():
+    """
+    Return current Nairobi time.
+    """
+
+    return datetime.now(
+        NAIROBI_TZ
+    ).strftime(
+        "%Y-%m-%d %H:%M"
+    )
+
+
+def parse_feed_safely(feed_url):
+    """
+    Parse an RSS feed with:
+
+    - custom User-Agent
+    - socket timeout
+    - safe restoration of previous timeout
+    """
+
+    old_timeout = socket.getdefaulttimeout()
+
+    socket.setdefaulttimeout(
+        FEED_TIMEOUT_SECONDS
+    )
+
+    try:
+
+        return feedparser.parse(
+            feed_url,
+            request_headers=FEED_REQUEST_HEADERS
+        )
+
+    finally:
+
+        socket.setdefaulttimeout(
+            old_timeout
+        )
+
+
+def clean_text(value):
+    """
+    Remove excessive whitespace from RSS text.
+    """
+
+    if not value:
+        return ""
+
+    return " ".join(
+        str(value).split()
+    )
+
+
+def get_source_name(title, category):
+    """
+    Google News titles often look like:
+
+        Headline - Nation
+
+    Extract the source name when possible.
+    """
+
+    if " - " in title:
+
+        source_name = (
+            title.rsplit(
+                " - ",
+                1
+            )[-1]
+        ).strip()
+
+        if source_name:
+            return source_name
+
+    return category
+
+
+def append_suggestions(entries):
+    """
+    Append new stories to suggested_posts.md.
+    """
+
+    file_exists = os.path.exists(
+        SUGGESTED_POSTS_FILE
+    )
+
+    try:
+
+        with open(
+            SUGGESTED_POSTS_FILE,
+            "a",
+            encoding="utf-8"
+        ) as f:
+
+            if not file_exists:
+
+                f.write(
+                    "# Suggested Posts\n\n"
+                )
+
+            f.write(
+                f"## Scan run: "
+                f"{nairobi_timestamp()} "
+                f"(Nairobi time)\n\n"
+            )
+
+            for entry in entries:
+
+                if entry["flagged"]:
+
+                    flag = (
+                        " ⚠️ REVIEW — possibly "
+                        "sensitive content"
+                    )
+
+                else:
+
+                    flag = ""
+
+                f.write(
+                    f"- **[{entry['category']}]** "
+                    f"{entry['title']}"
+                    f"{flag}\n"
+                )
+
+                f.write(
+                    f"  - Source: "
+                    f"{entry['source']}\n"
+                )
+
+                f.write(
+                    f"  - Link: "
+                    f"{entry['link']}\n\n"
+                )
+
+    except OSError as e:
+
+        print(
+            f"[ERROR] Could not write "
+            f"{SUGGESTED_POSTS_FILE}: {e}"
+        )
+
+
+# ============================================================
+# MAIN SCANNER
+# ============================================================
 
 def main():
-    full_log = load_posted_log()
-    suggestions_by_agent = {}
 
-    # Global set of titles already surfaced THIS run, across every agent —
-    # so the same story doesn't get suggested twice under two different
-    # topic agents (e.g. "fuel_cost_of_living" and "breaking_kenya_general"
-    # both picking up a fuel-price story).
-    run_wide_titles = []
+    print("=" * 70)
+    print("KENYA NEWS SCANNER")
+    print("=" * 70)
 
-    for agent in ALL_AGENTS:
-        name = agent["name"]
-        already_suggested = list(full_log.get(name, []))  # historical, fuzzy-checked
-        found = []
+    print(
+        f"Scan time: {nairobi_timestamp()} "
+        f"(Nairobi)"
+    )
 
-        for feed_url in agent["feeds"]:
-            if len(found) >= MAX_SUGGESTIONS_PER_AGENT:
+    print(
+        f"RSS feeds configured: {len(FEEDS)}"
+    )
+
+    print(
+        f"Lookback: {LOOKBACK_HOURS} hours"
+    )
+
+    print(
+        f"Maximum suggestions: "
+        f"{MAX_SUGGESTIONS_PER_RUN}"
+    )
+
+    print("=" * 70)
+
+    seen_titles = load_posted_log()
+
+    new_entries = []
+
+    suggestions_made = 0
+
+    feeds_checked = 0
+
+    feeds_failed = 0
+
+
+    # --------------------------------------------------------
+    # PROCESS EACH FEED
+    # --------------------------------------------------------
+
+    for feed_source in FEEDS:
+
+        if (
+            suggestions_made
+            >= MAX_SUGGESTIONS_PER_RUN
+        ):
+            break
+
+        category = feed_source.get(
+            "category",
+            "Unknown"
+        )
+
+        feed_url = feed_source.get(
+            "url",
+            ""
+        )
+
+        if not feed_url:
+
+            print(
+                f"[WARN] Empty URL for "
+                f"{category}"
+            )
+
+            feeds_failed += 1
+
+            continue
+
+        print(
+            f"[CHECK] {category}"
+        )
+
+        try:
+
+            feed = parse_feed_safely(
+                feed_url
+            )
+
+            feeds_checked += 1
+
+        except Exception as e:
+
+            feeds_failed += 1
+
+            print(
+                f"[WARN] Could not parse "
+                f"{category}: {e}"
+            )
+
+            continue
+
+
+        # ----------------------------------------------------
+        # CHECK FOR FEED ERRORS
+        # ----------------------------------------------------
+
+        if (
+            getattr(feed, "bozo", False)
+            and not feed.entries
+        ):
+
+            feeds_failed += 1
+
+            print(
+                f"[WARN] {category} returned "
+                f"no usable entries."
+            )
+
+            print(
+                f"       URL: {feed_url}"
+            )
+
+            continue
+
+
+        if not feed.entries:
+
+            print(
+                f"[INFO] {category}: "
+                f"no entries."
+            )
+
+            continue
+
+
+        print(
+            f"[OK] {category}: "
+            f"{len(feed.entries)} entries"
+        )
+
+
+        # ----------------------------------------------------
+        # PROCESS STORIES
+        # ----------------------------------------------------
+
+        for entry in feed.entries:
+
+            if (
+                suggestions_made
+                >= MAX_SUGGESTIONS_PER_RUN
+            ):
                 break
-            try:
-                feed = feedparser.parse(feed_url)
-            except Exception:
+
+
+            title = clean_text(
+                entry.get(
+                    "title",
+                    ""
+                )
+            )
+
+            link = clean_text(
+                entry.get(
+                    "link",
+                    ""
+                )
+            )
+
+            summary = clean_text(
+                entry.get(
+                    "summary",
+                    ""
+                )
+            )
+
+            published_parsed = (
+                entry.get(
+                    "published_parsed"
+                )
+                or entry.get(
+                    "updated_parsed"
+                )
+            )
+
+
+            # ------------------------------------------------
+            # REQUIRED FIELDS
+            # ------------------------------------------------
+
+            if not title:
+
                 continue
 
-            for entry in feed.entries:
-                if len(found) >= MAX_SUGGESTIONS_PER_AGENT:
-                    break
-                title = entry.get("title", "").strip()
-                link = entry.get("link", "").strip()
-                summary = entry.get("summary", "")
-                published_parsed = entry.get("published_parsed")
+            if not link:
 
-                if not title or not link:
-                    continue
-                if not is_relevant(title, summary, agent["keywords"]):
-                    continue
-                if not is_recent(published_parsed):
-                    continue
+                continue
 
-                # Same-story check against: this agent's history, this run's
-                # other agents, and titles already picked in this same batch.
-                if is_duplicate_of_any(title, already_suggested):
-                    continue
-                if is_duplicate_of_any(title, run_wide_titles):
-                    continue
 
-                found.append(title)
-                already_suggested.append(title)
-                run_wide_titles.append(title)
+            # ------------------------------------------------
+            # DUPLICATE CHECK
+            # ------------------------------------------------
 
-        if found:
-            suggestions_by_agent[name] = {
-                "hashtags": agent["hashtags"],
-                "titles": found,
-            }
+            key = normalize_title(
+                title
+            )
 
-        existing = full_log.get(name, [])
-        full_log[name] = (existing + found)[-MAX_LOG_SIZE_PER_AGENT:]
+            if key in seen_titles:
 
-    save_posted_log(full_log)
+                continue
 
-    # Write the suggestions file
-    with open(SUGGESTIONS_FILE, "w", encoding="utf-8") as f:
-        f.write(f"# 📋 Suggested Posts — updated {nairobi_time_label()}\n\n")
-        f.write("Copy any of these into Facebook manually. Newest scan at the top.\n\n")
-        f.write("_Duplicate stories from different outlets are automatically merged._\n\n---\n\n")
 
-        if not suggestions_by_agent:
-            f.write("No new relevant stories found this run. Check back next run.\n")
-        else:
-            for name, data in suggestions_by_agent.items():
-                f.write(f"## {name.replace('_', ' ').title()}\n\n")
-                for title in data["titles"]:
-                    f.write(f"**📢 {title}**\n\n")
-                    f.write(f"{data['hashtags']}\n\n")
-                    f.write("---\n\n")
+            # ------------------------------------------------
+            # DATE CHECK
+            # ------------------------------------------------
 
-    total = sum(len(v["titles"]) for v in suggestions_by_agent.values())
-    print(f"Done. {total} new post suggestions written to {SUGGESTIONS_FILE}")
+            if not is_recent(
+                published_parsed
+            ):
 
+                continue
+
+
+            # ------------------------------------------------
+            # SENSITIVE CONTENT CHECK
+            # ------------------------------------------------
+
+            flagged = is_sensitive(
+                title,
+                summary
+            )
+
+
+            # ------------------------------------------------
+            # SOURCE
+            # ------------------------------------------------
+
+            source_name = get_source_name(
+                title,
+                category
+            )
+
+
+            # ------------------------------------------------
+            # ADD STORY
+            # ------------------------------------------------
+
+            new_entries.append(
+                {
+                    "category": category,
+                    "title": title,
+                    "link": link,
+                    "source": source_name,
+                    "flagged": flagged,
+                }
+            )
+
+
+            # Add immediately so duplicate stories
+            # appearing in another feed during this
+            # same run are not added again.
+            seen_titles.add(key)
+
+            suggestions_made += 1
+
+
+    # ========================================================
+    # WRITE RESULTS
+    # ========================================================
+
+    if new_entries:
+
+        append_suggestions(
+            new_entries
+        )
+
+        save_posted_log(
+            seen_titles
+        )
+
+        flagged_count = sum(
+            1
+            for entry in new_entries
+            if entry["flagged"]
+        )
+
+        clean_count = (
+            len(new_entries)
+            - flagged_count
+        )
+
+
+        print()
+        print("=" * 70)
+        print("SCAN COMPLETE")
+        print("=" * 70)
+
+        print(
+            f"New stories: {len(new_entries)}"
+        )
+
+        print(
+            f"Normal suggestions: {clean_count}"
+        )
+
+        print(
+            f"Flagged for review: {flagged_count}"
+        )
+
+        print(
+            f"Feeds checked: {feeds_checked}"
+        )
+
+        print(
+            f"Feed failures: {feeds_failed}"
+        )
+
+        print(
+            f"Output: {SUGGESTED_POSTS_FILE}"
+        )
+
+        print(
+            f"Log: {POSTED_LOG_FILE}"
+        )
+
+        print("=" * 70)
+
+    else:
+
+        # Save the log even if no new stories
+        # were found, so the file remains valid.
+        save_posted_log(
+            seen_titles
+        )
+
+        print()
+        print("=" * 70)
+        print("SCAN COMPLETE")
+        print("=" * 70)
+
+        print(
+            "No new stories found this run."
+        )
+
+        print(
+            f"Feeds checked: {feeds_checked}"
+        )
+
+        print(
+            f"Feed failures: {feeds_failed}"
+        )
+
+        print("=" * 70)
+
+
+# ============================================================
+# ENTRY POINT
+# ============================================================
 
 if __name__ == "__main__":
     main()

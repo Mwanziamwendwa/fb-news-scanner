@@ -410,3 +410,130 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxQdjlTSkhCQVR5eUs1Y1VKWkxUWmxVSW5vbVE2QVNCY1ViMzd0cUVIenBFOXVjNFBIVlJwVXhZMjJqMGpaaEIwazEtWEtWblU5WVFRX0dBV25VNTV4Y0R4TTY0bXA5VjB1OVZ3YkNmeGY3V3A0YXd0M05qYVIwazFlMDlzVzZmNXVjX3c?oc=5
   - Facebook: FAILED: Facebook credentials are missing.
 
+## Scan run: 2026-08-19 21:36 (Nairobi time)
+
+- **[Kenya Latest]** Eliud Owalo condemns political violence ahead of 2027 - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxNVW41aWdnR2lhSUZZN0lOcTlpUEtRSnl3SmhnTHF1QjFPb0l5Z3d4bTBiOGZ2ZW5NeWZTak56RU4tdEs3MHBJbGpwNE9TWkZlZ2F5bG5Famk0a2VQN1hFX0o0NVIwZjRRalFxaGtHNmJuTG1ackpTbE1xUldWVXBxUEtZNmN6YlBJN3JocGtsN1BsUQ?oc=5
+  - Facebook: not attempted
+
+- **[Kenya Latest]** Sh10 billion boost for Kemsa as Ruto targets end to drug shortages - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxOTC15Z2prV1Z5MVVqNVZDNmxyaTc0QzhIZS05b2kxVWowcWdFc0dSUFdxLWVReXlYdlUtS0ZWdmlQZmNnTHJEM0pEdG1yNkNDd05Mb0tSUWJuMjhZYTBJM0pkSjN0NHJpTlhPWHlfVGRMZjRSaTZqNU5zOThvV3NpR1JpYzVWMzEzRU16alVSaWhzTy1YaHNEVm50ZFNXckV6Vk1MWXdSRlktUEw1UUE?oc=5
+  - Facebook: not attempted
+
+- **[Kenya Latest]** Mount Ololokwe: Six tourists and pilot killed in Kenya helicopter crash - bbc.com
+  - Source: bbc.com
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE5sSTNRVzdnWUtndEk2UWdvYW04M2ZCNU44WTlMVjVJX2VidUw2R00tRzY0V1dJdkVVUGRQRmJKTFVOWFR2aEp4SF9uR21qMGhoaU1ET0x0dnRGdw?oc=5
+  - Facebook: not attempted
+
+- **[Kenya Latest]** 'We are stuck': Nursing students plead for end to strike - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxPQmFsNDU1bkdsTUNfUFFlN2Myek81bmRNRUZIMjVUN0F0WmVqQlNRQjdLMFZmSzlpSC1kUmJGY3NkdU1VQU4tSTlHM1dvbG1MLTJ6SXlkRDhpZTRMYUpfV2tyOGtWWEFsdFVOXzB6RjNJVDlLSTQ1bzZKQWQ2TnVqM3U3czg1TzhRU2djTDlSWW55QlNaUFBMQUVSQmZvQQ?oc=5
+  - Facebook: not attempted
+
+- **[Kenya Latest]** Brace for rains: Kenya Met predicts showers in 19 counties over next 24 hours - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWmtaLUEyWDF1NFplbzIwM04zUkh5YVZuZGdmbHVyYmZwcEc4aXV6VXpTQ0ZiLVJjQ1h4VE85R293bVFvQkJqVWc5RG8weWt3RklfaDlqdXhtM3FDdkZLQ2xmRGV4c0RSSklEcFNBS2JlMy1MWk45cTdTdUswc2dFVkc3cngzZUg0THFWbjlFYlQxM0RqX0gxNHd6cGgtaWt3ZFNpWXppdk54dw?oc=5
+  - Facebook: not attempted
+
+- **[Kenya Latest]** Ndindi Nyoro charts new political path after UDA exit - NTV Kenya
+  - Source: NTV Kenya
+  - Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSFQzd0hqX2RtVVA3VkYydUNsN2xRYXdac0ptSTFKZ2lHX0RabE5qaWRKcURCTXAyQTFid0lCTkFhazl4UjZuVG5ydjdnNjM1dUFyUUF5cTlfXzFUVUlseUlIMUVsV2x0ZWpGWkkzOUN0ZTFZbTNGeHFfWUVTdHYxUVEwOWlGcEFU?oc=5
+  - Facebook: not attempted
+
+- **[Kenya Latest]** Family mourns mother of four killed at Linda Mwananchi rally in Homa Bay - Citizen Digital
+  - Source: Citizen Digital
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOV1VNVlpIUG9RZmw1U09ETXFaNzExVHVRWGg4VEN4cDJ2ZWhGR3c1ZWJaLVl1Um9XNFp2T3JTUWloT19UZW13VlZPdy1kcU95cktFWUpVOUc0ZDd5ZXRLLXBHR1lXZGFkRExNc2RqbmVZeHU2cmwyWk04b25vTm93WTMzdWx0STJZczd6SWpFSkYtMGotdlFhaTJiWmpkUnFOQ3U1UEhpclNOeTZhbG1IZVpB?oc=5
+  - Facebook: not attempted
+
+- **[Kenya Latest]** Kenya: LSK Probes Kaguchia, Kaluma Over Alleged Inciting Remarks - allAfrica.com
+  - Source: allAfrica.com
+  - Link: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sNXdBUkZVcURDT1FjVGFnXzREMnhseHhuajhVTWUyV1JmNVFlNmpZNDMxa1hVTHRZMDFXck1ZbTBlblhoUU1KVWJFZFN3VHp4X3NJQzdjX1Y1T2c?oc=5
+  - Facebook: not attempted
+
+- **[Kenya Latest]** CCTV footage captures thieves raiding into ex-GSU officer's home, stealing cash - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxOaDl5QWR2UVUxcjV0aklwY0xWbHozNUFqUVpWenRBVWdQNjlVdTZCYTJSMWd0T3Z3bFhqVzBuNlJvaFJscm5ETGt6LWs5THlzRWs2Z0ZIQXNWeVJ1U1N6RTJ4VzFmcEpnVFQ5QkY1cjBVWXlsM2ZQZTNnMUtCY2dCeUhUcUFSVDV1NEtLU2FSS3dhbjExMUFyeF9Eb0pOQXlvRmNpaFRmRzJvUjlC?oc=5
+  - Facebook: not attempted
+
+- **[Kenya Latest]** Why police shooting of surrendered Githurai youth raises questions - Daily Nation ⚠️ REVIEW — possibly sensitive content
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcTVWRlBNTnJZVThHY1lGaVdmb3h0S2ZybjhaMWxkZGdFWXktdVY1SnJUbURVWm5uOTg1UFZSTWdqcVFwWmRHUzNCcHU1T1NnU2VyVzVjdWRsWV8tX2tfa0JpVnNjVE45RzJicF9SZjItVklIX0FlcTRjN0xNbUVXaHBlb09kNjdjWEswRFp2cFk5QU8wcUtNZTdWSjJRT1dmM0pfY1RYVlE1Q2M?oc=5
+  - Facebook: held for manual review
+
+- **[Kenya Latest]** Court opens fresh battle over Meja’s six-year term as PSC chair - Business Daily
+  - Source: Business Daily
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPVHVBMnpRdXI0R25qdEdNYUxIdW1hV0JUUjFoNzdsWWZiUERLSFpoQ244VnpzaXNvZ2tPU3hYdXM4OEdNMmhNNi1LYjdBVkRHRDJaTDcwTGl1bXk3UC1rWDZSUTVRb0t2a1BuUldOUmFpQ0xUNm0xbVF3dlNlTDVQSFB3WlphUTNPQlJmTGV6cFFES3YxQ0VTWDlWNlk3THhWTkozRHFSNm5DelVqeGl0VXlB?oc=5
+  - Facebook: not attempted
+
+- **[Kenya Latest]** Gachagua raises concern over violence ahead of 2027 polls - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzJfQTE4TWQyakNRaHZJV0hDQkVVZEFKeUhLY0pnUDhlSHF6cjJ3WmpzMXNURl9jRTF3XzVvNXkzb20zMHdnZzdHLXVDQlVQMHd3QzIzZlE2QnNZX0hkMXRTVzk3UFJrbkVwUElIendQd1Q4bjVJT015YjcwcnBGT2VuTkRvTEk5OHZvX0duMkR4cXlHY2haMlJR?oc=5
+  - Facebook: not attempted
+
+- **[Kenya Latest]** Prolonged Drought Reshaping Health in Northern Kenya - Science Africa
+  - Source: Science Africa
+  - Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHM1ZFRmNEw4NWg3eDN3WkZDYVhGWlRUTG1yOXpteDhvZGItOC1oRm9YV0lpMHlJNzV6aHhDd3BOMlQzUWZBQkxLWmR2ZnhQNGZ4OWViOG04YTZvVFlfb2RlUTAtTjl0Ni1rcV9HbGU4ZzFQUjdiRTI5Y3hySDR1d1doYm9sNW5hSXlYOFZuQQ?oc=5
+  - Facebook: not attempted
+
+- **[Kenya Latest]** Nairobi rolls out Sh2.4bn flood plan as El Niño rains loom - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUszNXFRVTZWLUExZGtvNGFtc2R0MEZjYmZwT0RBalFabURqTzRsY2M3bnlaQjR4NGprR3BOV1diYUpFcHZBcWdyY1N0RXRyNGM1NFR4aXU0OG9nVklRZXVKU09XdEczSk02X2JMNTMtTHVsUHM2ZnVJRG1iamtKUnlJU0U?oc=5
+  - Facebook: not attempted
+
+- **[Kenya Latest]** The dust in Homa Bay tells a story, not failure: Wanga hits back at Sifuna’s road jibes - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOVWhtRFJFUlVIdEFGRW1PN1ltUVdBYUwzWGxJX1FBUVQ4RWtqSnd1a0xVMFA5XzBqcVJ5SUtwaE1SaU1LWVlJdmVCWHdHTFJtcWh5Y0ltd1ZNeFV5aXplb01HVW56aG1xLXAxVDlIQkk4aTNzYVdzWG5pSFJyWXFNcHhGZDU3dHBSYUxlUjktempYUnM?oc=5
+  - Facebook: not attempted
+
+- **[Kenya Latest]** Former Kenyan Deputy President Challenges Impeachment Ruling - allAfrica.com
+  - Source: allAfrica.com
+  - Link: https://news.google.com/rss/articles/CBMia0FVX3lxTE9na2htak9VOFBtWEg2TDUzSXI4dXlTMDVnczFyLWFEbktXdFhtQXFObDEwcW1SSVBhS1RQeHF2TFU4VDNLSjluLWtabzZTZVpQcktrT3I5MjRtYmlrZDZNVENVU3ZYUUh0UDF3?oc=5
+  - Facebook: not attempted
+
+- **[Business]** Global firms block Kenya cash transfers in dirty money fears - Business Daily
+  - Source: Business Daily
+  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOS3d0dWkxSXF5d2RzbEMtaXV0LUJUbWE0Y2Z4dld2Y3AyZkJUbzRqRUl4WHcwVXVoeU9mWWNZZ0J6UEZHTDlhZmlWLU5SWEo3SzNqVlJzaVozUFRJdkZzTnczckdVbkdJRkw4RVNLQ0llNVQ4MjNhc2htUktyYkdaTm9DZTkwU1NUYUdfN2Rsc0ZBdXZ6bzAtYjk4QTJza0JtV1k2THB2dnFUcW05Z0VqUkxEMzNrZw?oc=5
+  - Facebook: not attempted
+
+- **[Business Topic]** Kenya’s Equity group H1 pretax profit jumps 39% - CNBC Africa
+  - Source: CNBC Africa
+  - Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxOZG1YbzUxdExkQlZLWFZVNEVPcEhZLW9QRFVoTmppZnFqeDV2VFQxd25ZdHg2LW45a3NNdmo4NWVwcDBGc2djRzFkMndCVGRyYXdneWVZZTVEZExiQlBmUVNBYVB0b2pfQjFZYW9hcXlhdmVVLW9HbVg1SWkzR2JfcFh2QQ?oc=5
+  - Facebook: not attempted
+
+- **[Business Topic]** Kenya Airways says its fuel cost up 72% due to Middle East conflict - CNBC Africa
+  - Source: CNBC Africa
+  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQeGVJdW1rcDNicE9vbmtTSkRZWHVCSWJRenp3RTdMWElvS1JvRnBRWEVkQ2hHQlIyVTV3ZDU2QmJfSTU5MzZFcTRWNEFWVVdtaFlmRmlkVWFZVFJhekswa1RCbmxDSzNsLVhGUk5BYV91QkMtMWlrTmtJeWJQVktyZjNHN2RQX1hwcVM1dzBvZWZsUFMzTEM0RXBkakdUMjg?oc=5
+  - Facebook: not attempted
+
+- **[Business Topic]** Fed officials saw need for rate hike if inflation doesn't cool, minutes show - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3djZ2FKOHhfMkVRRHEzdFlsQ0t2Tmt5OE1sM1lrX1V3WFZ3RXlYdTlZcFVSWmx0YWFYaDZRSjYyYkRwVXQzZm5Sdldobk5xc0pXdVotLUt2S251cnVfdHV3MmRObmd1aW5zcGZkVGVxdkgzbURqbU9qV093Wmt2aWFFWkpxaWNGYVRQanh6NWRqeXJfZHA3bDB4Nmp2LXlrbUh0MlR1WWdDWEM5QUpaV2gycjItYmvSAbwBQVVfeXFMTjhBbUlQSGRVY3hPZXpNT3A1NFlLQ1ViNUZ0WjBzaC1LdTlFZ3J1UHI4Q1FGT2tUZ3JWeDBOWTIxRGJWRnNRUW9VcHdfQkhKZk5IaGhBdmdiSXFYX3RySnhUOVNpeUN2TjBvMUVKcEUyRXlQUjZkRmYwQU5ud3VIczJwLTZxVW90NlVZYjM4a2J3RnpxbjV1RlZ5VXFYenNZcXFEVmhLM0pKUnQyOVZQRm5lMUlvdDNLWVRFOU0?oc=5
+  - Facebook: not attempted
+
+- **[Business Topic]** KCB Plans to Issue KSh 300 Billion Note to Raise Financing Over 5 Years - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxQUlp0OUJ1cEFDQVJCRUF4c3pSdklLazVfVlhyYzMxWDQ5R3FFOXViVWpMalJWc2FETjhMVWlpX1BzdHNUNk9xaE9IOUhlZnFsdF9tcEJrWUo0S25QSkprT0doWThQSXRZR0tqOU83azhUZFpIeGpHZ0RVX1h2cnl4Rk8zcTZTd1lveVlyTDZUQ2p6bUxHcVdHbnI1Q054Tjd2akZseEZrdEdSMjZKYmp5UTRUMUEzZTdHdDRmX0FRYks3ajBUR2dJem9QZw?oc=5
+  - Facebook: not attempted
+
+- **[Business Topic]** Absa raises Kenya unit stake to 72% through tender offer - CNBC Africa
+  - Source: CNBC Africa
+  - Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxOVFhGcU1NYy1ydlB6WTZmUHJ2Z21OeFFEYmZiM0JhNldpcFNvMGZNVlM1ZFVpaHBMUnB0Z0RwbFR5dC1YMHhOc01uVEtwZmgxVTViSG90VXVTWDZkWFhKMmpUU0ZsZFlxYjJ1M1VzMTV1X1E4UEtKVmFVTURkTjM3UVZySHlBdEx4LXFjejJKV0k?oc=5
+  - Facebook: not attempted
+
+- **[Business Topic]** Dangote Refinery secures Ksh129B backing ahead of planned IPO - People Daily
+  - Source: People Daily
+  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNcTFUZERWVGJWZnlPLWlLZ2tyOThhek01VFVRYVBpU2x3WlV4TUhubE43aDFpR1ZoUHAwbWJsU1QzTGNGWnlJeEIzSjgyU2ZMMF9zcDNQZF9Lb3hKV2I5NWRUZkpXWnVvWG92djR5QTdidElUUFF5VVU4UWZlVTFJOHpjZ3luVDE0NVNZaFVlME9KcjFwWVFjcHZWZmNBbms?oc=5
+  - Facebook: not attempted
+
+- **[Business Topic]** Bond yields plunge after Treasury announces surprise move to ease rising rates - NBC News
+  - Source: NBC News
+  - Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPWERIM2I3T0tzZWlQc3dWSzVhX1Z4eGdwbDl3d1N4VUZrWXcwQnpGSVNKbC1aWTU1Z1g4anRBaG15Y3BIT3NhS0YzSGtxSWlnOGpNSlA0ODRZTnBmREwzTWZObHJ6VE1ra25qc2lSRDdGY0VBQWY5Q0RCWDFBNVNDRVRBRTJqMGJ2YWF5QmRQZHR0Y0Jo?oc=5
+  - Facebook: not attempted
+
+- **[Business Topic]** New framework: Kenya Power introduces new types of contracts for 6,000 emloyees - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxNUVk3YkMzZU1hUmdJLUhsRkpCbGlnd3JsTDhUNTVQdXpSNS02bUp3MG1XOVl6NU9CWll2azlWdUhrTGxPLTlBWEg5bUFiT044cTZnWTNXWjZ3LTI2T252YTY3bmVEempSZmNZMVo2VkxkcDRYekJsZUw1OWU2eGt3UFBaNTFsN3QzUzNZUEF5NzdVSkRTWWNrTVdpeVJqUWZERmtnYjhscmcwNlFjd2NINWVZQlR6NmtiZDNZUmZJLUJjTW9WTnNNNVUweHBiQ1U?oc=5
+  - Facebook: not attempted
+

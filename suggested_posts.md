@@ -1426,3 +1426,130 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://nairobileo.co.ke/news/article/29612/talanta-sports-complex-nears-completion-as-construction-hits-92percent-photos
   - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 15:55:10 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AqsEiKtytv7GSImDapvoYq8"}}
 
+## Scan run: 2026-08-20 02:47 (Nairobi time)
+
+- **[Kenya Latest]** Gachagua, Otuoma Summoned Over Remarks, Risk Arrest - Kenyans.co.ke
+  - Source: Kenyans.co.ke
+  - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxPWkNpMXZiLUk1Tms1dnZGV1BOSlpueHJHbkI4YmlvOVgxZHlYN29ocW9UVjZDbmdXZ19SZVd0VGY3VmJtV09JVnZXcEdlMjhwRmZnTmg2NEVlWnhrQS00NF93Z0NQeExwOHVoSlg1TEdaT1FMZHVqRGpjZDd1dlhOOGJPMkVpSE03OHdmV2JGaWQ4RnM1ZzdNaGhmMUZIdXdiaEpqWEdUVW1iT0pp?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:46:44 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AHgX9fQvnoNE3iud0W09yAE"}}
+
+- **[Kenya Latest]** Didmus Barasa calls for bold vision to shape Kenya beyond 2030 - peopledaily.digital
+  - Source: peopledaily.digital
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQm1rVkdUZi1aQlg3V2xsNGpIRllqVlhrSUZNWnR6Z2lhRGZQVFQzT00yQUxZTzR3SXJKNW90bmo4TG5jWTRPZGZ4TXRWNkVzczYxemtuN1pCUHRRY3RfZUlxSzU5ZGdVOVlaTDUzcHViVUFsTTJ6X3VkQ1Q4SXNrZ2JwT095UkYtLXVmQldoSmdVamptQ3BDb1Jtbk1MdzkzYU5vYXdHMTZtQQ?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:46:45 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AEpM9EfpkXZomArBSFhGYkh"}}
+
+- **[Kenya Latest]** ICT Authority Announces 400 Internship Opportunities; How to Apply - Money254
+  - Source: Money254
+  - Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVU4OXdRT0puSTdfbENKcmRUQkNzU1pPcl9paDNJcDJ5QmZlS1dESnRIbWktNi1mVGh3UWNUdnFTT04wMncxZFY3ZElHUjlRZEYwdkkwMVJ6Zkl6WVVRYldrWDczUGp5ZUpidjV4V3hpYUxaTmJ5UjgtNklLdWtGazJZZzYxMmUzNk12cGdyVHFYWmtzSGFQcDBXbnlEZEFua0pjcA?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:46:46 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AWHsumcLH07wZyX-GUp8cvb"}}
+
+- **[Kenya Latest]** Entry-level to top: Govt agency announces 30 job vacancies for Kenyans - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNWmZtOUNsUC1qVFNIVm9LdTJydlJ6RjZLajZmc05sTldmUVhCRE9NUkZGNE5SOEIzeWZJTXNfcno1WXBFVWNMNGE0VkFqQXFUZTlvRmkyY2pBU0YyMTBxVVpwWUtYTGsyeGF3aV9VXzhseDNhb2tZdkFQeDNTbVVsMHdLY1MtdTlJcHJDY08wN3ZsS2FwZUJJY1FPd2NhNDRzMFJ4dnQtdHAwc0w1SWhmM0hvVGVVYnM?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:46:48 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "Ajrz8JKTsvQ6Fuv8iN7JamC"}}
+
+- **[Business Topic]** Nigeria's Dangote Refinery secures $1 billion underwriting ahead of IPO - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZnpMYThTVk1DbmJreWdWNGhHWWo2dE5JNzJpby1pRXA4b0xWSVNHOGRiT2N0OXdGb1BLc2VZT19Qa3RaLUYzUFRaLW9tZDRjZ29LUmVRTXUzc2tYT2xHX2tKQm5KYjFveFFoOUNFVER5dWJqZXFWMnlhbUtHLWg3aGtuY2dRdWhJVi00aXc1cWVDZUdacVNjRnZDV1hsWlliRkpXYUZ2dlRCRUVoM21aRm9PNGNNS2ZDUGJjSnJ0SldLREhzUG1kMQ?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:46:51 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "Ar1HeaYYaPRH4NN0X6Rex65"}}
+
+- **[Business Topic]** Trump's student-loan expert said he was 'not aware' of a repayment glitch in a lawsuit to restore affordable bills - AOL.com
+  - Source: AOL.com
+  - Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxNMkJTekpCdkh4cVJKcC1seHd0Y3lHWS1VR1RnQ0kzcy1YcDBHSndIVi1PWUdlWXFmbEVsSkx6N0hRQmZRb2k1eGUxMEJlckxBR0RRdXRpZGJWeTAxbnhJV3d4T0FOOTN4c2VlbTV1Nlk4a2ZDQ3FyUHlWTDhjdkJudg?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:46:52 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AocKRTlcSc8pYgwQpUKEmTK"}}
+
+- **[Business Topic]** How EPRA’s new electricity charges could push up prices across Kenya - peopledaily.digital
+  - Source: peopledaily.digital
+  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxNa2YyQ2ZLZTl3UXBzYVk2TWhpdjJZWHVzazJLcS1XV2s3LVRoa2JxMXctMWhqcThDNV9POF9rOENoT1RZSnM3MUhobi04VmltOTlkaF95U3FnN0xibDhRSHEySlUtYktkdnZTb2tRZmxHbTdTQXZiY21BWWItZ3pTYUptaFZIYWJnN2NVTFVVbXFUWmE1d2R5bG52dEEtLTZPQnY2TXVCUQ?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:46:53 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AAgcUvVcCUxJ3C72C5aozAK"}}
+
+- **[Business Topic]** Africa’s second-largest oil producer appeals to investors for over $40 billion to unlock vast reserves and raise output to 2 million barrels a day - africa.businessinsider.com
+  - Source: africa.businessinsider.com
+  - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOFJOMXFmeUhBay1tdWlFLU1FZVE5RzVIR2llSS03YnNrU0dDMjZhQS1BNVFXaG5mZER0b0JSdjFsZmwxdHhtZmczZHoyUG12azRuX3FUbEdGSW1sUXg5MFA1ei13QjQ4cHdBWWVjeHlhYnkwUVF3WXhETElIYnNSamVfQndhd2RXQkFHd3NibHB6ZVZ0dlA1R3RrbmR5RHZlZUtFeFRIblVMeG43RmVaUS1HeURKSnBEbmpWTC05VFRWMERWUGZjZXQ1bERRNlZSeVRXVTJralJoZw?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:46:54 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "A0qYsK2J24NqJ0HM1wXnff6"}}
+
+- **[Business Topic]** Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOHVRY1BxQ2F0RzFSOTdOU25yeHE0UmxqUURfMFlfOWVuVkxGRDk0Q3d6aFhxMGlUdjJiVzJ3a3A3akNyRDBxQWU1REpzYVJVczR6WDljdTdneHNfRmhtc0FzMzVJbDZ5ZW1LbTNCSTFQZW50amJNcXp6Wk1rOWYxaEFLZlJrZnE4VnZYRkkyQmU1Qm1Gc3FUZkVkX243eHR4N3JpY2l6RlVUdzEySGlpM1VOTG1qSXA0eUNWSE9HRXDSAcYBQVVfeXFMTVJ3TW5fcGpDeHp4Wm1PYmRucUNaZFRMLU1qM0p6Mm9VRGV0dDVFU3RpM1ZwV3hEUjZlRWowUC1DQWVGZU1sVGpnTmRGQi11emw3UndjMkZvWXBtNno2eEtnbUtjYTNRMDNZYzd0bkZwY28yMV9nWnNfRHBEVk1KRDMyRE4tZXNJNnh6WUJmdG90cjRqN3ZOYlo1bFdYOGdXSkxtS1ZKR1U0RFdBTDhVdWhWeF81MTg3Y1lwbnJQYV9BbVlBVnlR?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:46:56 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "APYF_GsrFHjOXAFsWoL4xXO"}}
+
+- **[Business Topic]** YouTube Offers Creators Millions to Not Work With Netflix - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPajJCQzJBRnlFM29YeFdOSFU4dDZHczRXSkQ1dERmUFhmbnlFalJ5TkVTZ1ZvMkpoYlRGSTlkbWoxeWFmYkRMYVZmZG9NaV9sLXpobHFTdGxhWEo2ZmNwcElEM2VzNEhnczA5SlN2dGxTbl9QbzVob01PVGNiMHBqZUJVeV9ZRGl6RVo1UlFxNmNQRUdQZEl0cGtzSGhyNkZCLXk1bFB3bUFOd3hUVTJLWjBfNWgxd0FR?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:46:57 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AhuNCruBqg4MEbKowKJFik2"}}
+
+- **[Business Topic]** Oil majors pile in on Americas projects to plug production gap - S&P Global
+  - Source: S&P Global
+  - Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdW15NU11S3A2ZHgtSmw2Q3lRNlVTMk9tYUl1WXJfclpRa0hOY3RrdDJoVm5qV01BNVY2eTdkM0FpY1JSRFZtOEJTaWlSVWUteGJEOVJuSXJ3amh1QUYtaVFjdWUzOWJOb3BRTndTeEVvTlBRNml0T1ZpNmpyQnBxMW1UaVRNdFRrdm1DTi11eDdsVkNhYld3OGdBanNpdmRBeVhSSWVMYmlmVnJtSmtWaW5mc2FfUkZiTXBBTW1rX3R3RlM5Zlo3ZmMwd0Z1M0dfNFlfSlFxdG5XczRfeFNwVg?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:46:58 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "ASCpJEyhz6zPcZZBtHiv8Nn"}}
+
+- **[Business Topic]** L'Oreal, Estée Lauder: India's Gen Z are driving up a mega boom in its beauty market - BBC
+  - Source: BBC
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vYUJ0MGx4bU1qdmhTQ0F5bmRvQTh2YkxwOHpfYjZYTzVCUWZvdFk4ZmVNUjVuR1h5TE1zTDZBczVudVI3T0M0bUxVU25YODBjaThBcHMxRERpUQ?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:46:59 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "A8_DGfQoUs3m-eZoHJ_yf2G"}}
+
+- **[Business Topic]** China drove global electric truck, bus sales above half a million in 2025 - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXg4WDNOc05kdU1aVkhraEJMOVNhdHJpZHdRa0pmTGpMUnlnMXhwVEM0QWRERU1adDkzRldyLWN0UEtBN1VBQzVKQ3BxMnE4R1pqUXY5XzhreFRxdVJqN1psM3phWmpsSVZLR0gtc2lTN183UWlPa0MxOEJYODhJck90enVMd3QycnJNTmRjOVliWVR3N0NPTjVFUWMxZnZLUlpjNmQ1dmd2OW15Ul9YdGk0QUlzZw?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:47:00 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AsLetSGWnTqpVdBSYlnto_s"}}
+
+- **[Business Topic]** Why High Yields on Government Bonds Are Causing Alarm - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPY3BDam9aTTFldEhqMDU1emZDYWZBQ204MGtHdnlIdV9mYWhQajM0SGEwaV9IZkZiaVhWdjNBNWhiSjVLU0gzRHJUYVJNVUVOd0M2VlJWR1RwVTFzdHg2TEZaLXpVZlFjN1pfN0xOTHk3azV1VWhKR1hlTEtvbHZIV0tZV2ZRZ053TDRfS3VyeGJ4VHJkMEgyTDhVRjJLMTQ1QllHWUNBVQ?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:47:01 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AaQNqsgD4qsHlfvxlLNuhXd"}}
+
+- **[Business Topic]** Eartheye Space forges strategic partnership with IN2 - SpaceNews
+  - Source: SpaceNews
+  - Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxOU1FMSGJrMFl1RXZFbFB0d0Q3aGxMd1RidVpoWUJtMjAwVXR1Sjhjcl9rUUFMNDVfQ2tmYzlDX29XS3RoSzJ4ekhmNFBGZWxNaXo1Yzl5VEM4Yk9jelpHSjlxUlR2U1RnSE9Ec3BwUjNwcVVHMjNodVNwcndUVGRkVg?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:47:02 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AgTqKy4SJfVZN0xsksAf8yl"}}
+
+- **[Business Topic]** Exxon Stock Rises as Oil Nears $92 on Hormuz Risk - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxQS3RtZm1IdTFyS3N0SmNoek80dzJMeGlLU3VtcTdtcGZDbVo4bV93Y3pFTjZ4bmE5OXh1eE1OTUQ3SzVlb0lKRmFTSmhicmRYdGNFOTVQcWNrNTZ5bVZpTzAzdVgwdkMzV1llR2dmS1RUZXVVMTNhNmJ0eWhEbnBtbjRSU3pzaEZiakRUQg?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:47:04 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AdFCyCKd5lRvDl513hsUxJA"}}
+
+- **[Business Topic]** Stripe to buy OpenRouter as fintech expands deeper into AI - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlFodUNsWkh6b2Y2dTVORE9hWGVPUVhVMWMyQ1RuQTI2OXhYeGRzRG8ydlYzVFYyLUxPQ3lscjh0Mm43U01pcWhKanp3RE5oUWtsenh2NUlocmVDY0Z4MFFlYnhWZV92QWpSZ25MX3FDd3pfZUIwSFdQaTRZQXhfLWRfTnlsT3hzS0JJYtIBkgFBVV95cUxNQ3BuTzVGUXR4akhfSG93ZW5CMGF6SjBqOFl0S3lRc1QyeW82X3FtVEpzdmd6VEFwZjNjUDlqd1N4UmJWUk11UVRoWWppNlVQN09vakdjd013VjNheW1MVUNpWWdmd29fa2tuT1lHdkJqQW8wWXNPczFJSUZOTkU1WHRkSDM0YVJzLTY0YVdZaTdtdw?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:47:05 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AZ5iIVYnBSbEA0s_Av7J8Co"}}
+
+- **[Business Topic]** The Estée Lauder Companies Reports Fiscal 2026 Results - The Estée Lauder Companies Inc.
+  - Source: The Estée Lauder Companies Inc.
+  - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxNTEowY3o4Wm1Ed3A4eVB2TzlnOHBkX2t2RVRfTVRSb0c1Z2U5VF9uRDdkOE5jamUyUnZFa0JTMGV4c0YzUkFGOUpkclVlb2NOTG5UUWxwb1Y4cXlrUkN1WXpRcHpoaW42UlJoS0FzTEpEb0xoLWNMQ2w1M1R2eFpwbmZUZlVPQWRTZ3lEMURVYmRLVTQ1WGFtejViSQ?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:47:06 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AxNAc77jTOYY8zHB2zc81Ej"}}
+
+- **[Entertainment]** The Celebrity Effect: Do Famous Kenyan Names Guarantee Sold-Out Diaspora Events? - mpasho.co.ke
+  - Source: mpasho.co.ke
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaTFFWTJXSWk0M05iUFpLRFg1bTdOZnh0NmxPUmNxalI5SFA1a1NIbjNwNVRPSlhOMUlBSjZIYjF2YkZQQjFFZEthZ3F6T0NiVTcxdkxiby1YWmdhRG5sSzdQQUlqV2RTVGk2bjNnVzBMV0IzZjF2NWduYXdiSVRPdTlIdy00RHQ3dlEzUHREaDJQc1BrQVhFLXpneHV1RzBpZnZNY3lpdVVtZ0E?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:47:08 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "A0d27-pL-ImXZgJHx8-E9_3"}}
+
+- **[Entertainment]** Inside The Dramatic Weight Loss And Body Transformations Of Kenyan Celebrities - mpasho.co.ke
+  - Source: mpasho.co.ke
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPbHF4VGk5RjNERERMZXFyaFVmc2NkNk5JOXJXd0dLVXZ4d0xRc3J1aW1saDJHQ2MxT0c1UjRuYnJwRDNXN2plektIR1BSWFRITmxvY0ZNMXJ0cjdXMzFpdjJ3WFlUdjAzTWhjYUhrYWNoUTN3S082U3RhZDE0NFNRcFlQSlF2dHN3ZkduNW5pZnBBaDZhU1dlazd0cVFJMnptbUJrZDBETlhyUXkxU0d0VGdPZ2lTQWs?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:47:09 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "A92Cr7WpJjUGxwxddYe96oS"}}
+
+- **[Sports]** FEASSSA 2026: Kenya’s wait for girls’ football title extends to eight years as duo bow out - Mozzart Sport Kenya
+  - Source: Mozzart Sport Kenya
+  - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcUc5LU5kVXpHLTBUOGduWnA2MmVyRFd0b1V5enlES1hXUDQ1N1ZLNzBldUNDbWF3dUtmaUtvaENiZHBnNzVsaDdJZEdLNmxzYmVTVEJ3MWE5U25ZQzN6dmZ3QkYybnVHblhYOWZsRVIycVAyWmNUbWw1RHp2MHg0TGpMRUhJWmRqdGV6ZUdqMFlBSlFfRnQxSkwtT2NfQlY2SU50Wk91X0gzdDVPWkpRRGlHMFl6U1lQdFlBYTRBMFZHODloSW9aUXhEUTdFX0licC1hcg?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:47:10 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "A1NgV1IVdl1T2QQPK9DWWEr"}}
+
+- **[Nairobi Leo]** Tata Chemicals Magadi Confirms Compliance After Gov't Suspended Its Mining Operations
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/business/article/29613/tata-chemicals-magadi-confirms-compliance-after-govt-suspended-its-mining-operations
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:47:12 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "Ab7yQvhlEoKjBsZkk2KKx06"}}
+
+- **[Nairobi Leo]** Construction of New Gikomba Market Takes Shape [Photos]
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29611/construction-of-new-gikomba-market-takes-shape-photos
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:47:14 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AvfDI6XhyozRoal-4Q4yaX9"}}
+
+- **[Nairobi Leo]** Gov’t Completes Limuru Sewerage Project, Awaits Final Handover [Photos]
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29609/govt-completes-limuru-sewerage-project-awaits-final-handover-photos
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:47:15 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "A0ebsyIC6ShdRY_o30gg6I6"}}
+
+- **[Nairobi Leo]** Gov't to Pay SHA Contributions for All Community Health Promoters - Ruto
+  - Source: Ruto
+  - Link: https://nairobileo.co.ke/news/article/29610/govt-to-pay-sha-contributions-for-all-community-health-promoters-ruto
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 16:47:16 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AY8OTJiCihgsniMDm92yjQ3"}}
+

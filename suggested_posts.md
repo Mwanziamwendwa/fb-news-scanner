@@ -1,4 +1,4 @@
-# 📋 Suggested Posts — updated Tuesday, 18 August 2026 — 10:39 PM (Nairobi time)
+# 📋 Suggested Posts — updated Wednesday, 19 August 2026 — 07:57 AM (Nairobi time)
 
 Copy any of these into Facebook manually. Newest scan at the top.
 
@@ -6,57 +6,43 @@ _Duplicate stories from different outlets are automatically merged._
 
 ---
 
-## Teachers
+## Matatu Boda Transport
 
-**📢 TSC Opens Application Portal For Confirmation of Interns; How to Apply - elimunewsarena.co.ke**
+**📢 Metered fares take on negotiated pricing in Kenya’s boda boda market - the-star.co.ke**
 
-#TSC #Teachers #KenyaEducation
-
----
-
-## Government Ministries
-
-**📢 SHARPENING AIR OPERATIONS READINESS - Kenya Ministry of Defence**
-
-#KenyaGovernment #Ministries #PublicPolicy
+#Matatu #BodaBoda #Transport
 
 ---
 
-**📢 DEFRA LIFTS KDF FLAG WITH FIVE-MEDAL HAUL - Kenya Ministry of Defence**
+**📢 MPs To Investigate Motorcycle Loan Firm Over Alleged Exploitation Of Boda Boda Riders - thekenyatimes.com**
 
-#KenyaGovernment #Ministries #PublicPolicy
-
----
-
-**📢 Ministry Reveals New Measures as Ebola Outbreak Hits DRC - Kenyans.co.ke**
-
-#KenyaGovernment #Ministries #PublicPolicy
+#Matatu #BodaBoda #Transport
 
 ---
 
-## County News
+## Agriculture Farmers
 
-**📢 Kenya News Agency - KNA. . Chesinendet Economic Stimulus Programme (ESP) Market, a modern trading facility under construction in Kipkelion East Constituency, Kericho County. - facebook.com**
+**📢 Kenyan farmers suffer growing losses as drought and pests hit hard - CS Kagwe - The Eastleigh Voice**
 
-#CountyNews #Kenya47Counties #Devolution
+#Agriculture #Farmers #Kenya
 
 ---
 
 ## Breaking Kenya General
 
-**📢 Natalie Githinji Discharged From ICU, Reveals Stage 4 Endometriosis Diagnosis**
+**📢 Construction of New Gikomba Market Takes Shape [Photos]**
 
 #KenyaNews #BreakingNews
 
 ---
 
-**📢 Kenya Power Bills Set to Rise as Consumers Face Additional KSh4.70 Per Unit**
+**📢 Gov’t Completes Limuru Sewerage Project, Awaits Final Handover [Photos]**
 
 #KenyaNews #BreakingNews
 
 ---
 
-**📢 National Couples Day: Esther Musila pens sweet message to Guardian Angel**
+**📢 Gov't to Pay SHA Contributions for All Community Health Promoters - Ruto**
 
 #KenyaNews #BreakingNews
 

@@ -349,16 +349,17 @@ def main():
     print(f"Maximum suggestions: {MAX_SUGGESTIONS_PER_RUN}")
     print(f"Maximum Facebook posts: {MAX_FACEBOOK_POSTS_PER_RUN}")
 
-    # Fail fast / degrade cleanly instead of retrying a doomed Facebook
-    # call for every single non-flagged story in the run.
+    # Posting is required, not optional — fail the run loudly and early
+    # if credentials are missing instead of silently downgrading to
+    # suggestions-only, so a misconfigured secret is never mistaken for
+    # "everything's fine, just no posts today."
     facebook_enabled = AUTO_POST_TO_FACEBOOK
     if facebook_enabled and (not FACEBOOK_PAGE_ID or not FACEBOOK_PAGE_ACCESS_TOKEN):
-        print(
-            "[WARN] AUTO_POST_TO_FACEBOOK is True but FACEBOOK_PAGE_ID / "
-            "FACEBOOK_PAGE_ACCESS_TOKEN are not set. Falling back to "
-            "suggestions-only mode for this run."
+        raise SystemExit(
+            "[FATAL] AUTO_POST_TO_FACEBOOK is True but FACEBOOK_PAGE_ID / "
+            "FACEBOOK_PAGE_ACCESS_TOKEN are not set. Check the repository "
+            "secrets — refusing to run in suggestions-only mode."
         )
-        facebook_enabled = False
 
     print(f"Facebook auto-post: {facebook_enabled}")
     print("=" * 70)

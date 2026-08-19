@@ -1,17 +1,22 @@
 name: Kenya News Scanner and Facebook Publisher
-
 on:
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
-
 permissions:
   contents: write
+
+# Prevent two scheduled runs from overlapping. If a run is still going
+# when the next cron fires, queue the new one instead of racing it —
+# this is what causes "git push (fetch first)" failures at the commit
+# step even when the scan itself succeeded.
+concurrency:
+  group: kenya-news-scanner
+  cancel-in-progress: false
 
 jobs:
   scan-and-post:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -40,12 +45,27 @@ jobs:
         run: |
           git config user.name "Kenya News Scanner"
           git config user.email "actions@github.com"
-
           git add suggested_posts.md posted_log.json facebook_post_log.json
 
           if git diff --cached --quiet; then
             echo "No log changes to commit."
-          else
-            git commit -m "Update Kenya news scanner logs"
-            git push
+            exit 0
+          fi
+
+          git commit -m "Update Kenya news scanner logs"
+
+          # Rebase onto the latest remote branch before pushing, in case
+          # another run (or a manual commit) landed in the meantime.
+          # Retry once on failure — covers the narrow race window between
+          # the fetch/rebase and the push itself.
+          push_with_retry() {
+            git fetch origin "${GITHUB_REF_NAME}"
+            git rebase "origin/${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          }
+
+          if ! push_with_retry; then
+            echo "Push failed, retrying once after a short delay..."
+            sleep 5
+            push_with_retry
           fi

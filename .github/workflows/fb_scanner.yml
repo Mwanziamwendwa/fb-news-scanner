@@ -1,19 +1,22 @@
-name: Kenya News Scanner (Suggestions)
+name: Kenya News Scanner
 
 on:
   schedule:
-    # Every 15 minutes, 6am-9pm Nairobi time (03:00-18:00 UTC)
-    - cron: "*/15 3-18 * * *"
-  workflow_dispatch: {}
+    # Runs every 2 hours (UTC). Nairobi is UTC+3, so adjust if you want
+    # specific local times — cron here is always in UTC.
+    - cron: "0 */2 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
 
+# Needed so the workflow can push the updated suggested_posts.md /
+# posted_log.json back to the repo.
 permissions:
   contents: write
 
 jobs:
-  scan-and-suggest:
+  scan:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Check out repo
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -22,17 +25,19 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: |
-          pip install feedparser pytz
+        run: pip install feedparser pytz
 
       - name: Run scanner
-        run: |
-          python fb_news_scanner.py
+        run: python news_scanner.py   # rename to match your script's filename
 
-      - name: Commit suggestions and log
+      - name: Commit and push updated files
         run: |
-          git config --global user.name "kenya-news-scanner"
-          git config --global user.email "actions@github.com"
+          git config user.name "news-scanner-bot"
+          git config user.email "actions@users.noreply.github.com"
           git add suggested_posts.md posted_log.json
-          git diff --staged --quiet || git commit -m "Update post suggestions"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Scan run: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

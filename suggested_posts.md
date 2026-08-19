@@ -156,3 +156,130 @@ _Duplicate stories from different outlets are automatically merged._
   - Source: The Kenya Times
   - Link: https://news.google.com/rss/articles/CBMifkFVX3lxTE1Nd21feUhfbjUybkZVakxRSlA5N3ZuTl9kN3N6OVN1cmpQSnV2b01PTWxjZ29jaGg3NlhDYnpWZ2ZVSmxOdXpNSG84a2hTNnBnYjVfa0VnTF9nd3VzRXJmNEJhZ0lXYTRNMjRaT0xrZU5DOXRyNVpuRW9VV0Uydw?oc=5
 
+## Scan run: 2026-08-19 21:07 (Nairobi time)
+
+- **[Kenya Latest]** Maseno University VC intrigues: Court battle deepens - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxObVlZOHZDd0VJUHBQaC1QOVg4SVNKUnBnTlFzVHJtaEFGSnRuQnB4cXlhd2cyUFU5RHVPdWNhN1RPbUlLSy1yNy1WZnBfX29Eb0ZlWkhnaDNoU2FiVENwLWZKVHZtMGF2cW9TMFpfbzloQzJzYS0taG9vcGNrT0JZOGhuMFV2bkJtamc0UzUwU3NuUUVsdDZXckZhdE9DM2had1gzTjdR?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** MPs raise alarm over Sh20bn paid in loan commitment fees - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxNdl9WbFRwTUlvTWZKMXpRTEFIeE9RNW9KaUNYUG4zdFV4eFZJajM2ZmlrWHpXUzJOR0h1QnplVjJIU1Q2V3BLbGdCM2xPaUxmQzVmVnVlSUo1ZW5XdWhnSTNGallJc0dlekZmVXZpazNJWHljV3QycVhaN3k4S2d0X29lT2k5TlZVM3daQjZmM0hQeXUzODZaWDMwUUc2RHFW?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** Chinese Firms Hit With Tax Challenge as Petition Targets SGR, Expressway Deals - Kenyans.co.ke
+  - Source: Kenyans.co.ke
+  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNd2hCNHlqczNib2wwdjdScHR2VS05cVhWZmRFSXdMWS1IZThUaFppQWZSMFd2YlUxZDdwZGVnMUU2WE14aEQtMWxPNXdDbHozY21mZF9PeTlfcFNYamdlaUNRLTZLMWJfbzZHVS02cnVfaGtFZTA5YnZWQlpyYnlQLVliTTBHSzViSkN1RGRjSnMxN2hUdnJvRmRDSmFMR2hrdVRycVpTSDRJRDR6Z0ZWU0dKZTBoUQ?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** Kenya: Autopsy Confirms Githurai Bouncer Eric Muiruri Was Shot Twice - allAfrica.com ⚠️ REVIEW — possibly sensitive content
+  - Source: allAfrica.com
+  - Link: https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xdmM2MUh0ODVXMmxCNEdrWGVlVm1kS2dEcG5ZVGhhd2htRXg4TmhXVkUyQlNfd29UaVlYbHVJell0TEIyMmhFTzRSc1RXRFBnTjB6eE9SNklPZUU?oc=5
+  - Facebook: held for manual review
+
+- **[Kenya Latest]** Police Boss Bans Use of Civilians for Security in Political Rallies - Kenyans.co.ke
+  - Source: Kenyans.co.ke
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxOcTNjbkdjVG54ai1weElQeGhnR1c1dGdUeWU3UEp5a3lfYlBubzRVVnFnUGpGSlFWM1I5aHoyUEF5RzZUTWhGOE5jZnNwTkhqLVFYdlBFRzNLeDRHVjc3UF9FdUd5QWlWT1Z3VUhfdUY4NElTU19uQmF5bHNQSTZsZTlDSUtXNy1wOGtZS1NMOFpKYTg3emFNc1JxNjNVNy01TmpxTmRyV0laenc0MWlzbVFuY25DSEE?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** Tragic generosity: Woman hacked to death after offering water to stranger - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNR09yRUJFSlBYeW85cW5ydThfcHdSX3Y0YVhyTkt6dVZqdkJhZXNWcFBWOVJONG5zS0tKZnZKZm9DVXRrOEthUU84anlkV0Z1ZUtMdTVvTE1Qdm9oeXJxMjVxQU9NcjFWSkdXQkhDTjhmSzFaYlZQVnpScHowNzNhbmxDN2tFUUh1QVVBU084QWk5bXlkUTFMSjUzWWlvRUNfR1ZMYWJzZU16RkdzQVNLblVwaDdMeExNTlpBTEV4MA?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** Kitengela: Gang Raids Police Estate in Bold Daylight Attack Captured on CCTV - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNaXZrTFR2QnJBY0RxZnRyck1NSXF5WlNUc0Z0dzloMk1jX0gzdVJSX0F3SDZEc3hTX2pUaUIwM3A5VHNvaDB5LVhubGtJVkdvMVRlX2tTejhyYnpjUzB2Ynh6Q3hWWmdKcEFiYUQwUE5LOU42NGlqMlN2ajJDczhxVnZ4eS10S1g2YWpKYk9UbzVBSk1OMEljbEV2WlBqempPdUJWUDZoaXRDRUpFOV9rWHBNNEE?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** Grounded! Tahmeed speaks after viral bedbug-infested bus video - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPbUFXSkRqRFE0YWw1aTlLSGNDc29XN1QwejJNWENvZ1lmV3RFRWYyMUI0dm01WWtQczA1dlpQc2lVNExnVzhNY0UxUHhjTXJZQWI3d05nR1ZZRXEzRnVYWG1DcHliOEcwX1pKVUE5aWwzQU9VdFY1VmVnNS1jTjcweGtHZ1JVUUNlZzd1MXROUU5ZSU5fRUJNWndsZw?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** Gachagua faces arrest threat in NCIC ‘snake’ probe - Nairobi Law Monthly
+  - Source: Nairobi Law Monthly
+  - Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxQX21PZEJ4a3Z3c1o5VnNjQ0hNQ2RxVDVRRkVZUk9tR3dnaWNZclRHR2E4Z2tYRTFudEIxUDllMDg3Zk9RNmptb1JQWXAySUpuLU5pb0s4djhrbWhlUXItUTAzVDVGUVhQZzl5UFRlV0d6S1lUQTVpZ0l1RmpLQ2ZqZk9NQ0tVdw?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** Ruto calls out Karen Hospital's Dr Gikonyo for 'lying' about SHA reimbursements - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTkVTc2lKeGFZMmlBNlNVX3hXR3hGaWNvY2tGMDdTcG1pNlVDVVVUeXA5YlFmSGZnYjgyaGQ5NTFqdlpEeC1xdllkbTZCdWpvR1dtdjJTZ3E4QXlucFU3clRLQURkb0R2ZmpaMVRRMW1QVW14S2dRVl80U0FjOHFWQXY0N3pZUGxvTEFQdlMzU3lEb1ZZNWZiNThnZmlQc0htUkFJSzFVaHU0UQ?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** Obado seeks forgiveness from Sharon Otieno's family - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxONk1IN2V0czV0T2hoUVNIQngwS3BzT1M0UlFKSVB3MktNZlNRNm1neDlaaUxGTkYybTEzTzlUcm9oclZKOHRkNTNJamxqeUEtQnFySnF3RzRaZ0xOdFl5Qi1rRHVLYVI0ZG9mdkZlS0FQam9uT0tobTFXblNRcElVdV92WHZFb3Yxdy1QR1puMU5HcFlvdG11ZTYtQmc2dlhiX29uamR6RkdpUVlibzJCeU9WaHlyT3VucHNZ?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** How oven photo exposed UK murder fugitives hiding in Kenya - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNeU9nQlJ6Vmh2YU5NLVVpSkJ2amN5ZFBIb2hxa19BclNYX29hOGhYT1kwYXFxMGZzR2lOVFRwTHJVMS1FZGIxZXRfRjZraEVWU05IU2lPUnBpWWlmNVhEcFZoQWJxNnI0WXhvMmRxeTEybDcyejVkWVgyTkFYTVRWeEJjQU5OQVQ5T2xRYjRKeXoyREZVRmd4U3dCQzVKZ1RHZW8tWXdnd2ZjZlRaWkNEUENYWl9YaVJaeUhxbzB2Yw?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** Inside 10 firms holding 60.5pc of State tenders - businessdailyafrica.com
+  - Source: businessdailyafrica.com
+  - Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxQYWNEcjFBY0ZDcC1MTkJ1T2cwamJ6SFQ0X1ktRWVmcWV4V2hBNVJIa0xFeFFkbHg4WklQdlNSU3dEcXdCU3hjTGJyNk1YNmZUOFJLbzIxSkpaSExIR3VJaEJ1elZ6WDlVTkZ0aF9TcmV1QXdWUmpvV0xEYWNDSnp6QWJfQ29VR091XzhGSVJxeUdtVFBsc0hFYlBhdnItS2k2UE1XZg?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** Gachagua pushes for early DCP-Wiper deal ahead of wider opposition unity talks - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxNdW9zTEIxMV9iNFJqRmlaS0ZIeDR0bWRQVzFlaHFJQkFUMnk1NzJnMi1pYVF2SThTUHN2MUU5eUxQMkZvRkZFclFGRUJIcWtLLXJheGN1YTVsT0ZNWmdQd0FyZWtNT3RSRmhkU0F5QmxvV01NUXI5ZlVCTU5NeUptOTZSUk9yejNjTFVwRjNrOA?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** 'Super' El Nino: Why 1.5m Kenyans could face floods - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUjlndG1VQ1pYMEw3RXhNc003enVTMFJPRVRlb1JyQzk4cFZnbFI1bWxMT0VIM3ZOT0xveXNtQ2xQOWlyZVpvNGVEaDQxRFQzQUZKclQ1TnZFT0JxOWZjQVpubXlEakhpTUJsTURoX0I3blYxTU5VQmlyWnlKV3g4ZnZnZkYwWUNqRnc5VUlZdHFnbk5oMVhYdW9GZlh4LU42NGpnLWdBSm9vaEE?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** Multi Billion Company Sends Update to Workers After Govt Shutdown - Kenyans.co.ke
+  - Source: Kenyans.co.ke
+  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQcV9NcllkSHNtQTFYV2FUUFpvUVRSM1BPNENYUEFxMEJPdG42QmlFQTRDakxqQmFWbFZJcHJPUGVXb0NreEhndmZHNHFEY2IzRjVjX05rSHEzUzA1OUtIMkQyYWFYQ3RjX2hJSFFLeUd5R2hDWlBqSk1Oc25ZdjNuSFM0dzBic1g4U05HcWp6Z1VZSE9OWW9CWGlkT2tYNElXM3djbEN4WVg0MkQzbHNYdnNwdnptZw?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** Didmus Barasa calls for bold vision to shape Kenya beyond 2030 - People Daily
+  - Source: People Daily
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQm1rVkdUZi1aQlg3V2xsNGpIRllqVlhrSUZNWnR6Z2lhRGZQVFQzT00yQUxZTzR3SXJKNW90bmo4TG5jWTRPZGZ4TXRWNkVzczYxemtuN1pCUHRRY3RfZUlxSzU5ZGdVOVlaTDUzcHViVUFsTTJ6X3VkQ1Q4SXNrZ2JwT095UkYtLXVmQldoSmdVamptQ3BDb1Jtbk1MdzkzYU5vYXdHMTZtQQ?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** Presidential digital talent: Ruto's gov't announces 400 internship positions - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWUV3bXd1VzNlR3M1NkVvNmhpWEJVdUZ0d01NTm1OTkxZUXVwVVZpdFktampYLWRRQ0FrTWt1bUFaV0VGOTFfRnZBUzJkbnhhVnBGeUNNeWV3cWZqMlZqXzNXd2dhVmV0VFBRdjd5OTZCeWU3MTNLSFpxVGJHc2xXd1kxQXg2ekV1ZXppM1RQdzZBVzRxMFJNXzc5VE1BWlBnY3ZyZ1dRRTFIYWR4cjI1SGVfcEtDbnVHc2RhQXlyX0FUTzBDTjhLaktmYi1Cd0NIbWVWZVo5bXIzYVpBTWdfdjBB?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** John Mbadi, who was Suba South MP for 15 years, now blames successor for poor roads - Citizen Digital
+  - Source: Citizen Digital
+  - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxQUUxBcmw1TTlmQjljWUh2WWk0bXhqZHBJUWtUTHZEMlY2c3U0RkJJeVJoeXdKN09MUHJ4T2FDbXRrbU16cFlhendieGtiQ3hvbWlDd1A4cGhuY2JmTFcxRzE2OExuQ2Z2SUtYQTlHTmJCN2l1bVdHNnBFWXV5V2h4cVlXREZXcWZaSE9Cb0h3WjRIVm9vUE9ILV9qUzVESE5EWmpSWmM5UUM4VkFBNDNuN1ppM1ZfQllzNFd2UDlR?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** More women allege sexual assaults by suspected Tinder predator in Nairobi - Citizen Digital
+  - Source: Citizen Digital
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOTlQ4ZU85X0FFQ3hqZGY5cmNUX25qemF0cmpkdmNWR3FjNXdueHJENWdqRUZOakRBenh6UmRLaHlUaGdnTy1tWFVFc2xTN1cwajlMeEhNY3dZSHd0YkRHbmxSMWs3RTlFdHNPU0Q3engwYVphTUtSbHFPVDRXcXBCYVY1T05nd0gxak80WmJ0cjd5Q0xoLXdiTFo4X2pQdEpDNlFZR29WVjF4WVpKX1RiSmlIaw?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** John Ngumi loses graft probe suit in Sh6bn Telkom sale - businessdailyafrica.com
+  - Source: businessdailyafrica.com
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWEZnbVdtdnpGekxvV0RsR1ZjWVN6bEpGMTg0djVhQTNubWItNFF5MVdZdmtHeXhqM2NGcWljSXZFUy1mc3laYTQ3akI5bGFiWnB3TDBGallsOEc1eThabE9rVTJJRkxfQmlUTTNpaGE1MnE4cWt0Mm1VQ2J1cWxNMldPUjNjdjRCa25PQnhBWndIUGpLVW1aSV9VajZkeVBVamg1Y0stZTRWVzNQSTNHYkJBelN4ZHM3WlMtWGtSeGUwQQ?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** KRA Announces New Plan Targeting Some Taxpayers - Kenyans.co.ke
+  - Source: Kenyans.co.ke
+  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxPOU5ZYW5tdzN2U3d6bFQ1ck9NNDZyRDhhdEt4Ri1qRFhZX19ZY196R1lVS3l2QXM0WkE5akNkUjJtUUJTZFByRlZmbVRLaTNhcU0wNHpGSU1jdmJuZWJIdGJLUzlyc0M1d1hIRWRUUmpwRFZvRWkxUm02N1l2VjRETGNiYmdRNVV6UkVZeDk5N1U0VHVvVGVtY21IdG5TaHlsZHpmY2NB?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** Why St Anne’s principal lost fight against TSC - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNTnlZZ3A0eFJnR1dIUWllTkx1Z0FOZU53TzZpX1dEd3VSaFZqalRDS2tEMVVCM00zZHNrSEJheGVoZTE2U0lGUzY2UkhRWW5lX2o2eUtHamVSUUVSZWVzVFVhNVpHR2RhNjVzeXViQU01QnFrbGFudUNaWEtpRWRCSUctVFhlNHlmUjhwcXlOR0RfcG5xYnFxaA?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** "Wewe hutapatiwa nafasi ya DCP": Gachagua mad after aspirant's car disrupts him - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPRGdId0RUWDc0VFNxbmZnNDZPWXJLZkpfWHBVQk9EUWNuWEZIZUZkSGdHMDZwVkM1THhJc3JSSDlVa19PZ0N0ZzdYck1lN2FHNlRVNm5JUm43dFI1R1RXNUM3bzFiaEhIdmpWRUhlOEM5MUFfdDRYMHV6VlJ0NXl2TXBPX2o0SjB6UnNON1g5UHlzbWh4Y29CTDIyS05vX19sWnducUJDc3BpMUQ0QmxrWjdvTVdOQnZsSll4bEM4VUJMOUVHbHNz?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+
+- **[Kenya Latest]** Embakasi Ranching leadership fight enters 8th year - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDRfbWtTeTl6ckJYZi1SbUVid3NRbFF2OXJuYkF1alcxQW9fdFozUEw5YTZEX3hqTUdyVUMtaXJhOTZqN0tpNldOMTVwdDVvOVdxZnJvelVkQjVrWVRPZ0l0MnhZTXZwMWVoQVpGb2dZZUQ4RW91TFA4TlpCR0p4andSdkJhRVphR0tUUWI2V215SG15a3FXM2FrcEFzSjI4Q3FrR3RNTUpldw?oc=5
+  - Facebook: FAILED: Facebook credentials are missing.
+

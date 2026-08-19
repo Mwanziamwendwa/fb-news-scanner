@@ -1,4 +1,4 @@
-# 📋 Suggested Posts — updated Wednesday, 19 August 2026 — 01:59 PM (Nairobi time)
+# 📋 Suggested Posts — updated Wednesday, 19 August 2026 — 02:55 PM (Nairobi time)
 
 Copy any of these into Facebook manually. Newest scan at the top.
 
@@ -6,23 +6,37 @@ _Duplicate stories from different outlets are automatically merged._
 
 ---
 
-## Matatu Boda Transport
+## Sacco Chama
 
-**📢 Boda boda loan woes put lending practices under MPs probe amid high interest rates, bike repossessions - The Eastleigh Voice**
+**📢 Global payment firms restrict money transfer services to Kenya - Sacco Review**
 
-#Matatu #BodaBoda #Transport
+#SACCO #Chama #Savings
+
+---
+
+## Sme Business
+
+**📢 KRA Explains New Powers After Reports of Bank Account Freezing Over Taxes - Kenyans.co.ke**
+
+#SME #SmallBusiness #KenyaEconomy
 
 ---
 
 ## County News
 
-**📢 Chopper crashes in Samburu County, occupants feared dead - People Daily**
+**📢 Mombasa County’s revolving fund faces accessibility hurdles as MCAs push for changes - The Eastleigh Voice**
 
 #CountyNews #Kenya47Counties #Devolution
 
 ---
 
-**📢 Profile Of Hellen Obado, Former Migori County First Lady And Okoth Obado’s Wife - The Kenya Times**
+**📢 Kwale residents warn county government not to ignore their development priorities as 2027/28 budget talks begin - The Eastleigh Voice**
+
+#CountyNews #Kenya47Counties #Devolution
+
+---
+
+**📢 Kenya News Agency - KNA. . Kilifi County CEC Health, Peter Mwarogo: There has been transformation since we started with SHA - facebook.com**
 
 #CountyNews #Kenya47Counties #Devolution
 
@@ -30,19 +44,19 @@ _Duplicate stories from different outlets are automatically merged._
 
 ## Breaking Kenya General
 
-**📢 I Hear KRA Is Looking for Me - Rigathi Gachagua**
+**📢 Kenya Power Outlines Steps to Take After Postpaid Meter is Stolen**
 
 #KenyaNews #BreakingNews
 
 ---
 
-**📢 I Can’t Work With Wanga, Junet Because I Would Lose - Rigathi Gachagua**
+**📢 MPs Pass Bill Introducing Tougher Penalties for Match-Fixing**
 
 #KenyaNews #BreakingNews
 
 ---
 
-**📢 Helicopter Carrying Tourists Crashes in Samburu County**
+**📢 Tata Chemicals Magadi Confirms Compliance After Gov't Suspended Its Mining Operations**
 
 #KenyaNews #BreakingNews
 

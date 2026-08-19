@@ -1,4 +1,4 @@
-# 📋 Suggested Posts — updated Wednesday, 19 August 2026 — 12:55 PM (Nairobi time)
+# 📋 Suggested Posts — updated Wednesday, 19 August 2026 — 01:59 PM (Nairobi time)
 
 Copy any of these into Facebook manually. Newest scan at the top.
 
@@ -6,9 +6,23 @@ _Duplicate stories from different outlets are automatically merged._
 
 ---
 
+## Matatu Boda Transport
+
+**📢 Boda boda loan woes put lending practices under MPs probe amid high interest rates, bike repossessions - The Eastleigh Voice**
+
+#Matatu #BodaBoda #Transport
+
+---
+
 ## County News
 
-**📢 Helicopter Crashes Near Mt Ololokwe In Samburu County - The Kenya Times**
+**📢 Chopper crashes in Samburu County, occupants feared dead - People Daily**
+
+#CountyNews #Kenya47Counties #Devolution
+
+---
+
+**📢 Profile Of Hellen Obado, Former Migori County First Lady And Okoth Obado’s Wife - The Kenya Times**
 
 #CountyNews #Kenya47Counties #Devolution
 
@@ -16,19 +30,19 @@ _Duplicate stories from different outlets are automatically merged._
 
 ## Breaking Kenya General
 
-**📢 14 Arrested, 25 Phones Recovered as Police Bust Fake Bus Ticket Scam**
+**📢 I Hear KRA Is Looking for Me - Rigathi Gachagua**
 
 #KenyaNews #BreakingNews
 
 ---
 
-**📢 Gachagua Clarifies ‘Ruto Should Not Have Polling Agents in Mathira’ Remarks**
+**📢 I Can’t Work With Wanga, Junet Because I Would Lose - Rigathi Gachagua**
 
 #KenyaNews #BreakingNews
 
 ---
 
-**📢 Wavinya Ndeti Hits Back at CS Mutua Over Machakos People's Park**
+**📢 Helicopter Carrying Tourists Crashes in Samburu County**
 
 #KenyaNews #BreakingNews
 

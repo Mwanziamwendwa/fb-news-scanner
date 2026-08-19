@@ -918,3 +918,130 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ0pIRFoxblpiQjZwYUpKc2d0em9aZ3JwUi02cll5YXc0OEJLOXVROGFxaVVua2M5QW9CQndkSS1zUnhIeXFORzFJeEpjT0M4dTVaRHdUeE9Ed2dmNm1uN1VxaVBaWjJWSFpRM3JSLXRrQllfMWU2bzhqRWkzZkd4NXJxbVlXQXNWeUhhWWJQY2phQ0hTUjFCRVlsZTdzZFZMZW1pRkctUFJ6S2doQ05RbEdwV3hBdmtsSVAyMDFWZEROWWRLeWt3?oc=5
   - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "A5gyA84-H93liZWutMpQFsI"}}
 
+## Scan run: 2026-08-19 22:44 (Nairobi time)
+
+- **[Kenya Latest]** Court opens fresh battle over Meja’s six-year term as PSC chair - businessdailyafrica.com
+  - Source: businessdailyafrica.com
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPVHVBMnpRdXI0R25qdEdNYUxIdW1hV0JUUjFoNzdsWWZiUERLSFpoQ244VnpzaXNvZ2tPU3hYdXM4OEdNMmhNNi1LYjdBVkRHRDJaTDcwTGl1bXk3UC1rWDZSUTVRb0t2a1BuUldOUmFpQ0xUNm0xbVF3dlNlTDVQSFB3WlphUTNPQlJmTGV6cFFES3YxQ0VTWDlWNlk3THhWTkozRHFSNm5DelVqeGl0VXlB?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "Ae9bL5JK4Rv3cA0WXVb0IVW"}}
+
+- **[Business Topic]** Fed Minutes Show Many Officials Said Rate Hikes May Be Needed - bloomberg.com
+  - Source: bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnhUQ0hDaThRZzVZemxic282Yk52cFFMMmZxcU5RRlFTZ256SFlGUHlYODZzckFyMXdiWUJXODhlN3Q2QTViS2FVNnVWejhoUjdHbkZDY3MzTDV1Y2JMR1FYT0kza0g2WnFSZmJZSEdmV1ViNXFFUDlTa3NVTklzcThpMDViQkdOT0tiU0FhMmJsQngySDRyZXZ5Ul9LcmRxbE1sOEdCQ0h0cmNqX2x3RnlR?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "ADHD6FBXtvPWdDrS5lwjQHe"}}
+
+- **[Business Topic]** Ransomware disproportionately targets medium-sized firms, straining customer relationships - cybersecuritydive.com
+  - Source: cybersecuritydive.com
+  - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxNTi11emk2OWF4bFNlRThvYXVyUm13aWhOY1hLQ09rY2x1dG1FOUJBVkJPTV91RVNheUo0dG5EQXlDY2F2bUF3UEZhOXlfWnVZcmVxbm9mZmw0QS0yS01jZmZCVVdXX0xITXlHSGNNaVQyMmdqcUE1c0p1TlhBa0dHZGdaVWEzU2xjdVZaQ21B?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AyXlQD-los6sIanMSB__f4z"}}
+
+- **[Business Topic]** The flowers of Colombia inspired creativity at Colombiamoda 2026 - floriculture.co.ke
+  - Source: floriculture.co.ke
+  - Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTRfUnNJQ3lPd2N5aXZwVEdkVEVrVlFDaVl1a1NKeEFQM1BvYkdTTnR3RlFHM25VQTF1bFY3dy1lUUl5Q0lnai1GZFFDLUZGSFppTkY0LUhMYThrS0oxUGQzbGwycTY1TmhKUUc2MUlnd1dKSTlxLW1ETURoamYtR3BCb1hQQWFUZzJ2UlZsVTBIbWJmejlJ?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "Ahobsk3nFlbsYtkvz0ZXpjU"}}
+
+- **[Business Topic]** Ex-Meta executive says Zuckerberg put growth before child safety - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNWEF4WlNJc2c1RjE1QVBCMDVobUhWSXotRWswaWtpQnVTem02RUF4Ykw3QTJzWnI0NmlCQmVkY1NDNUxJdVhfcGEtbEpPd3VaSkZsQUdGTjh1RnNNaGFWNTZEdi1jdmsxRFR5cGp3WDdKT1lRbmgtOUZuMm9VcDRDcE1TS2VKLWxlRVFvM2J1c2hscnBsaXRNcmd6cHZlQmRoNnBCTV80WTZDYW1qZG8yVEVZUXhUUXI0T0NJaS1VQ1ZlSi1pSWRYQUp3?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "A8Z4HGKONlaWeATVmUKiwj-"}}
+
+- **[Business Topic]** Grain prices surge as Ukraine war chokes off Black Sea ports - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmVuY3F4UFJQWWR2dDliZ2JLOGx5bXBQOElFYWNlNWFsX3hYc3lYNHg1NjczY0lJWjBSaWVRY3ltMkxPRGdmX2duYk1lRjhZMlJGX2lUb1VyTV9zcHJUVWtPdVJlUzlrdDdCX2pReVFCWHRFMEkxZXJZZExvWDdJTV9nb2U?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AcZpbO_ln_hkj18CpQp-MkO"}}
+
+- **[Business Topic]** Wall St rises as yields ease, Moderna lifts healthcare stocks - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnFzX1pZYUZsd0lHWkM3SGVWNE9NRkFvRVdmQ1JIcVJMeXBKenVjQnJLVlFOTnpSVTU2VW95Y2ZUNUdaTnNqd0ItNGpUVktVMkFjR29JTExtc1NUV3lKYkw3MGRDWFozRmlJM0lIdW0xd3daMHZPTVVwZzV3d1ZZTGkybTBPYlZ6czhMVDNtY29pRE5SM2hvejNyZFFLUnRRSXMzTmhYTjBjTTBCejc5N1dxakdsSXBVSzZNRFV6cw?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "ADzhIHf7gAxMqDfoNVhXYAC"}}
+
+- **[Business Topic]** OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMidEFVX3lxTFBjVnJGYzVGcWt5c0F3WTY3elk5SkRrSUV3U3Y2OFdIV1dCRm4wVU5PZF8wV1VXT2Q4cVZZU3NZWlRFRTVhZTNYNTZNbEh2bmZ1aDJEWnFINFR6dlVqdGVsQ1RRSmhBV0dKYkFwcTZpQk56MGlZ0gF6QVVfeXFMTnhrRVAzUVl4M3FxY3gxcjdrZFhGODd4X2sxYzRpS1JTaHNJaXNxVEFuSExkOWlNVkYwZnJKX0xXV1hCOUxORnVjLWM1UEszb3BLa1gxMmZVa3dDQ2JNc3hyMERhMXFibThXczd5Y05BRFo5QlRONXdxQ3c?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AeWh3FOIE2OnimgpyTlYPBC"}}
+
+- **[Business Topic]** Private credit risks remain at large - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxQdEZXOEtSdkREMlJPVTFUMmc3NU43eDNhMk1QU3o5aVBWdXd4cjBhZWN4V2tyV3p6YjlYMjNqOUdMQVZjbm14ck5OckVLVVJGWm5uZmk3S0FPaWpnMDFxcndXdEY2M1pnREdNWkJCSDZ0YkNVQ09xWEE2UFlzOFF2bDc1ZHg?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AiZy-kmpsusqnrylNtj3hW8"}}
+
+- **[Business Topic]** All power to the UK competition watchdog’s war on ‘drip pricing’ - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxNczJHWEg4Wk5hVV8zaGg3d2RZQlEtYXZrVDdtRUpHUEpTMTdfLTJxNHZwbGtLS0VhbWEtX3ZGdW1pRFpMUUdCY2NubGpMOVJDNDUzd1NHRGk1bnFrbDA3dVd1bDZaa1Y3QnNfWDh0ZEhqYVF1bEpBckFpbXA5TlZmN0JucTJobUhvYUgteG4zMlVYSmx3WTEtSEhpdDg3Wi1rUWNlTTZlWURoNXh1OHlYVnVjYlVITXIxQVNXQktkcllyNHVuVlZ1MUROYmFlNmM?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "A5l_kIbq3PVNM1CLfVrofqC"}}
+
+- **[Business Topic]** Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed - bloomberg.com
+  - Source: bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQb2lpcHU2c3ZTV1FBZTNGWWpjY2RKbTFoNGN6SHpDV0YzNlFFSEV3elhwOUc0SGI5cWFfenpqWEFQMFlLM00tNGJlQUlva3FRSm8tMWI4RlR5RHZqY056TFRGN2ZSR3JLbzQ1VC1ncl9CNFNhOXlodjFsQ2c4UzU0S0VscmEwY2RRTHRYWUg0MTNUcmxOdzU3S2N3ZkttSzdSZEZjWWZOSHFKWmNiUlE?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AP_xeWOEOJZMfy2kmouhxZ5"}}
+
+- **[Business Topic]** Bitcoin surges above $68,000, liquidating $1.4 billion shorts as Treasury buybacks boost risk appetite - CoinDesk
+  - Source: CoinDesk
+  - Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxON3pmajF5a2Uza2R0cGlQQmtWTVEzQjJNVjEzOUdYZkkyTnNmMFJjaTJOMmRRbzU1QVhqNjljc1Y3LW5LdFBDbVgzOE5zTWFFYkRDaEY2V2VsTDJWQkZRN25QQ3poNFBwNWtiNWlvRUNJdU9oM2EwM2NMZWFXal9FNDFsTElYTHBoTkF4VTU3SDB6VHg5cTlwc0gwalZsQTZISE9jeDJwM3lGSFhudGRhQ2xWTG1CRkJoSHlZRWRHamNtdy10dXU0SnlYQkVjMFF4cVBaeDlLTHo5QThpamlpd3ZNaw?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "A8pcY4Qyz-7BVu7M3o0F3Qk"}}
+
+- **[Business Topic]** Marvell gives Google option to buy $12.2 billion stake in custom AI chip deal - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQM25qTEk3MUd3ajdfTUxKdHdZRFBJLVpWT0ZKemNURzlTVUQ5SUNtVGF3WTF0N0NfRndKaENWdDRqVVBXSmZRS0xiY24wTFEyc1I3NWI5eU1PVDJxZ1lFb0Y1VVEzMDZmb2k2dkV3WmxhNk1LMG5HN3ItRmRwQ3lvQ2pjRU5JRDN3MXJpLWo5aGlJR3hyVG5EdkswS3k2RlhzMXU2cGctR1EzOE50Zk1PXw?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AcxjoQvBUmBf7myxRvE-K0q"}}
+
+- **[Business Topic]** Goldman Sounds Out Investors for CoreWeave-Tied Data Center Bond - bloomberg.com
+  - Source: bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOTmNnTTV0eVIzRDRYRXY2R1gzVGhBQnJhMU9wZndrREdWM251MEVnVWUxRXB5LXpBYzM5dTEtMGJDQTZlM0VOZTZqUXF4Qm9pVjNzcFRDWHdLanMyUkNiMVplcXlQamNDOVFXVG9qMm9ER3VwQUNud04xcWxKaXdyNEhkNkQxNHB0T0hsUmE0SDR6c3ZNcEU3Sm1qVGFfMEhpSnNsa0pYRUthU0hzUXpHSXItMUxBUQ?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "Aqs6TU7DAGTOXsTXHt88onH"}}
+
+- **[Entertainment]** The Celebrity Effect: Do Famous Kenyan Names Guarantee Sold-Out Diaspora Events? - Mpasho
+  - Source: Mpasho
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaTFFWTJXSWk0M05iUFpLRFg1bTdOZnh0NmxPUmNxalI5SFA1a1NIbjNwNVRPSlhOMUlBSjZIYjF2YkZQQjFFZEthZ3F6T0NiVTcxdkxiby1YWmdhRG5sSzdQQUlqV2RTVGk2bjNnVzBMV0IzZjF2NWduYXdiSVRPdTlIdy00RHQ3dlEzUHREaDJQc1BrQVhFLXpneHV1RzBpZnZNY3lpdVVtZ0E?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "ASw_oksozIOdnwOszcj5B3-"}}
+
+- **[Entertainment]** Inside The Dramatic Weight Loss And Body Transformations Of Kenyan Celebrities - Mpasho
+  - Source: Mpasho
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPbHF4VGk5RjNERERMZXFyaFVmc2NkNk5JOXJXd0dLVXZ4d0xRc3J1aW1saDJHQ2MxT0c1UjRuYnJwRDNXN2plektIR1BSWFRITmxvY0ZNMXJ0cjdXMzFpdjJ3WFlUdjAzTWhjYUhrYWNoUTN3S082U3RhZDE0NFNRcFlQSlF2dHN3ZkduNW5pZnBBaDZhU1dlazd0cVFJMnptbUJrZDBETlhyUXkxU0d0VGdPZ2lTQWs?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AhNoFAXYcNa4ZeX5W4x9c6f"}}
+
+- **[Sports]** Football betting options worth exploring: Corners, cards and BTTS/GG - SportPesa Blog
+  - Source: SportPesa Blog
+  - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxPSk83ZW5WdGlWUzAtdEYxM3RVSzJVUzVmNTRMd3VKOTZINUtrMHhsWGo0Y1hlMjg3R01IQjM3cDVJeWdubHY1YXNpVjAxZF90amZyMlJTTnFBb0lnSEZuVGJuN3dCOUE5ZjFRX3hqeHBHTTlvZ1lfcEZydTRkLTVxcldEYlJiUjZBcHBMTlVjM2Z2SzdLZXpaMEFlTjBsT2FRMHZGWlBGS0FPVC1C?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AaUcOh9AjIx7HDKBDmRwwUF"}}
+
+- **[Sports]** How CAF's last-minute gesture opened an unlikely path for Cameroon to win 2026 Wafcon - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSGdRelVMY1k1VGlXcWttZEdRbFR0MHZRdUtlWWYyNVBBNjkzRjJ4NVpTejVUSDhhSEF5T1hBYnhKTGZiWjZrRGRLV2NfS3hENnBXWllLV1VJMVlPX0RIQXhVdmlFclktY09CMHBPNWxkWW1ydW81Vm4xeUxET0pUd1Rhbkk1Z2l6ZzU1VUFlODlnbHUzMjl1NzJLN0liSnpBX2w4UlFVM0ZPLUd4VmJkbzZmZ29wakNrMVNjWkk4WGk0cXpaRmRjYXRXaUhmak5oYTU0?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AUNPgGV8M2tlvUzIqXfkZ_d"}}
+
+- **[Nairobi Leo]** Shabana FC Confirms Receipt of Ruto's Ksh20 Million Pledge
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29634/shabana-fc-confirms-receipt-of-rutos-ksh20-million-pledge
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AlzKF9PLWWghEk3s_bpBvqO"}}
+
+- **[Nairobi Leo]** Gladys Wanga Responds to Gachagua Over Claims that ODM is a Shell
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29633/gladys-wanga-responds-to-gachagua-over-claims-that-odm-is-a-shell
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AgaXxmOWTj7s_f9qut8QSDT"}}
+
+- **[Nairobi Leo]** United Opposition Issues Demand to IEBC Amid Sustained Goon Attacks
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29632/united-opposition-issues-demand-to-iebc-amid-sustained-goon-attacks
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AGF6khUrkt1r63cVZx9auKJ"}}
+
+- **[Nairobi Leo]** KPLC Announces Power Outages in 10 Counties on Thursday
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29631/kplc-announces-power-outages-in-10-counties-on-thursday
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "Ah49SXfHOvBgdJIn27oAs2i"}}
+
+- **[Nairobi Leo]** Gov't Addresses Alleged Postponement of School Reopening
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29630/govt-addresses-alleged-postponement-of-school-reopening
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AamR623o_T-K_p-LsfF8T12"}}
+
+- **[Nairobi Leo]** 6 Suspects Charged in Court in Connection With the Homa Bay Chaos
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29629/6-suspects-charged-in-court-in-connection-with-the-homa-bay-chaos
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AxEbv5PFIm5PsjjyjJicOrU"}}
+
+- **[Nairobi Leo]** Samidoh Announces Parliamentary Bid Ahead of 2027 General Election
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/entertainment/article/29628/samidoh-announces-parliamentary-bid-ahead-of-2027-general-election
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AbcijD9QRYFw5qqjgw8tn_R"}}
+

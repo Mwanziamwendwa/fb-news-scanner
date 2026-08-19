@@ -1,4 +1,4 @@
-# 📋 Suggested Posts — updated Wednesday, 19 August 2026 — 09:01 AM (Nairobi time)
+# 📋 Suggested Posts — updated Wednesday, 19 August 2026 — 11:05 AM (Nairobi time)
 
 Copy any of these into Facebook manually. Newest scan at the top.
 
@@ -6,17 +6,45 @@ _Duplicate stories from different outlets are automatically merged._
 
 ---
 
-## Nhif Health Insurance
+## Teachers
 
-**📢 Ruto proposes fresh SHA changes to include giving free diapers to new mothers - People Daily**
+**📢 20,000 jobs: TSC scoring system gives interns edge in interviews - nation.africa**
 
-#SHA #NHIF #HealthCover
+#TSC #Teachers #KenyaEducation
+
+---
+
+## Civil Servants
+
+**📢 Union Issues Notice After Delay in Civil Servants’ Pay Rise - Kenyans.co.ke**
+
+#CivilServants #CountyGovernment #KenyaJobs
+
+---
+
+## Sacco Chama
+
+**📢 GDC Sacco opens Nairobi branch to expand member services - Sacco Review**
+
+#SACCO #Chama #Savings
+
+---
+
+**📢 Kenya to import 25 million bags of maize as drought bites - Sacco Review**
+
+#SACCO #Chama #Savings
 
 ---
 
 ## County News
 
-**📢 Kiambu County Announces 300 Jobs For Nurses: How To Apply - The Kenya Times**
+**📢 Officials supervise the ongoing upgrading works at Karambaini Road in Ndumberi Ward, Kiambu County, as grading, compaction and murraming activities progress. The project, stretching from Indian Bazaar through Karambaini, is expected to improve road ac - facebook.com**
+
+#CountyNews #Kenya47Counties #Devolution
+
+---
+
+**📢 Grading, compaction, and murraming works are underway along Karambaini Road in Ndumberi Ward, Kiambu County, as efforts continue to improve connectivity, accessibility, and road safety for residents, motorists, and businesses. - facebook.com**
 
 #CountyNews #Kenya47Counties #Devolution
 
@@ -24,19 +52,19 @@ _Duplicate stories from different outlets are automatically merged._
 
 ## Breaking Kenya General
 
-**📢 Treasury Intervenes to Stop Sony Sugar Land Auction Over Ksh862.3 Million Debt**
+**📢 Gov't Announces Plan to Import 25 Million Bags of Maize**
 
 #KenyaNews #BreakingNews
 
 ---
 
-**📢 Gov't Unveils Plan to Tackle Rising Water Levels in Baringo-Bogoria Basin**
+**📢 President Ruto Announces Plan to Give New Mothers Free Diapers Under SHA**
 
 #KenyaNews #BreakingNews
 
 ---
 
-**📢 NCIC Summons Rigathi Gachagua Over Alleged Hate Speech**
+**📢 Talanta Sports Complex Nears Completion as Construction Hits 92% [Photos]**
 
 #KenyaNews #BreakingNews
 

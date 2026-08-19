@@ -62,10 +62,17 @@ SENSITIVE_TERMS = [
     "gang rape", "mob justice", "lynched",
 ]
 
+# Entries in posted_log.json that look like this (underscore-separated,
+# no spaces, no punctuation) are almost certainly category/taxonomy keys
+# from some other process, not real RSS titles. normalize_title() never
+# produces this shape from a real headline. We quarantine them on load so
+# they can't silently block or corrupt future dedup, and warn loudly so
+# the source of the pollution can be tracked down.
+_SUSPICIOUS_SLUG_RE = re.compile(r"^[a-z0-9]+(_[a-z0-9]+)+$")
+
 FEEDS = [
     # Google News RSS
     {"category": "Kenya Latest", "url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNREU1Y21jMUVnVmxiaTFIUWlnQVAB?hl=en-KE&gl=KE&ceid=KE%3Aen"},
-    {"category": "General", "url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNREU1Y21jMUVnVmxiaTFIUWlnQVAB?hl=en-KE&gl=KE&ceid=KE:en"},
     {"category": "Politics", "url": "https://news.google.com/rss/search?q=Kenya+politics&hl=en-KE&gl=KE&ceid=KE:en"},
     {"category": "Business", "url": "https://news.google.com/rss/search?q=Kenya+business+economy&hl=en-KE&gl=KE&ceid=KE:en"},
     {"category": "Business Topic", "url": "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKTFJTZ0FQAQ?hl=en-KE&gl=KE&ceid=KE:en"},
@@ -146,19 +153,45 @@ def normalize_title(title):
     return " ".join(title.lower().split())
 
 
-def load_json_set(filename):
+def load_json_set(filename, quarantine_suspicious=False):
+    """
+    Load a JSON list/dict of strings into a set.
+
+    If quarantine_suspicious is True, entries that look like taxonomy/
+    category slugs (e.g. "sacco_chama", "banking_microfinance") rather
+    than normalized article titles are dropped and reported, since
+    normalize_title() never produces that shape from a real RSS title.
+    This guards the dedup log against pollution from another process
+    writing to the same file.
+    """
     if not os.path.exists(filename):
         return set()
     try:
         with open(filename, "r", encoding="utf-8") as f:
             data = json.load(f)
         if isinstance(data, list):
-            return set(data)
-        if isinstance(data, dict):
-            return set(data.keys())
+            values = set(data)
+        elif isinstance(data, dict):
+            values = set(data.keys())
+        else:
+            print(f"[WARN] Unexpected structure in {filename}; starting fresh.")
+            return set()
     except (OSError, json.JSONDecodeError, ValueError):
         print(f"[WARN] Could not read {filename}; starting fresh.")
-    return set()
+        return set()
+
+    if quarantine_suspicious:
+        suspicious = {v for v in values if _SUSPICIOUS_SLUG_RE.match(v)}
+        if suspicious:
+            print(
+                f"[WARN] {filename}: ignoring {len(suspicious)} entries that "
+                f"look like category slugs, not article titles (these did "
+                f"not come from this script's normalize_title()): "
+                f"{sorted(suspicious)}"
+            )
+            values -= suspicious
+
+    return values
 
 
 def save_json_set(filename, values):
@@ -315,11 +348,23 @@ def main():
     print(f"Lookback: {LOOKBACK_HOURS} hours")
     print(f"Maximum suggestions: {MAX_SUGGESTIONS_PER_RUN}")
     print(f"Maximum Facebook posts: {MAX_FACEBOOK_POSTS_PER_RUN}")
-    print(f"Facebook auto-post: {AUTO_POST_TO_FACEBOOK}")
+
+    # Fail fast / degrade cleanly instead of retrying a doomed Facebook
+    # call for every single non-flagged story in the run.
+    facebook_enabled = AUTO_POST_TO_FACEBOOK
+    if facebook_enabled and (not FACEBOOK_PAGE_ID or not FACEBOOK_PAGE_ACCESS_TOKEN):
+        print(
+            "[WARN] AUTO_POST_TO_FACEBOOK is True but FACEBOOK_PAGE_ID / "
+            "FACEBOOK_PAGE_ACCESS_TOKEN are not set. Falling back to "
+            "suggestions-only mode for this run."
+        )
+        facebook_enabled = False
+
+    print(f"Facebook auto-post: {facebook_enabled}")
     print("=" * 70)
 
-    seen_titles = load_json_set(POSTED_LOG_FILE)
-    facebook_log = load_json_set(FACEBOOK_POST_LOG_FILE)
+    seen_titles = load_json_set(POSTED_LOG_FILE, quarantine_suspicious=True)
+    facebook_log = load_json_set(FACEBOOK_POST_LOG_FILE, quarantine_suspicious=True)
 
     new_entries = []
     suggestions_made = 0
@@ -346,7 +391,8 @@ def main():
 
         if getattr(feed, "bozo", False) and not feed.entries:
             feeds_failed += 1
-            print(f"[WARN] No usable entries: {feed_url}")
+            bozo_exc = getattr(feed, "bozo_exception", None)
+            print(f"[WARN] No usable entries: {feed_url} ({bozo_exc})")
             continue
 
         if not feed.entries:
@@ -401,7 +447,7 @@ def main():
                 suggestions_made += 1
                 continue
 
-            if AUTO_POST_TO_FACEBOOK:
+            if facebook_enabled:
                 if facebook_posts_made >= MAX_FACEBOOK_POSTS_PER_RUN:
                     entry_data["facebook_status"] = "queued; Facebook limit reached"
                 elif key in facebook_log:

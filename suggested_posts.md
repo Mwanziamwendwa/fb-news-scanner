@@ -3660,3 +3660,240 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://www.kenyans.co.ke/news/126332-court-appeal-warns-couples-over-property-acquired-during-marriage
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 00:28 (Nairobi time)
+
+- **[Nairobi Leo]** We Don't Brand or Ferry Anyone to Our Rallies - Linda Mwananchi's Caroli Omondi
+  - Source: Linda Mwananchi's Caroli Omondi
+  - Link: https://nairobileo.co.ke/news/article/29642/we-dont-brand-or-ferry-anyone-to-our-rallies-linda-mwananchis-caroli-omondi
+  - Facebook: POSTED (1289239267586516_122110818405407566)
+
+- **[Nairobi Leo]** Gov’t Cautions Kenyans Against Fake Boma Yangu Websites
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29643/govt-cautions-kenyans-against-fake-boma-yangu-websites
+  - Facebook: POSTED (1289239267586516_122110818561407566)
+
+- **[Nairobi Leo]** CS Ogamba Clarifies Third Term School Opening Dates
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29641/cs-ogamba-clarifies-third-term-school-opening-dates
+  - Facebook: POSTED (1289239267586516_122110818585407566)
+
+- **[Nairobi Leo]** Progress of Ongoing Expansion of Rironi–Mau Summit Highway [Photos]
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29640/progress-of-ongoing-expansion-of-rironi-mau-summit-highway-photos
+  - Facebook: POSTED (1289239267586516_122110818615407566)
+
+- **[Nairobi Leo]** MPs Call for Crackdown on Rogue Auctioneers Using Goons
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29636/mps-call-for-crackdown-on-rogue-auctioneers-using-goons
+  - Facebook: POSTED (1289239267586516_122110818621407566)
+
+- **[Kenya Latest]** Seven people, mostly foreign tourists, killed in helicopter crash in Kenya - Al Jazeera
+  - Source: Al Jazeera
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd2VDTEZHMnBBN2xCV3VVQTlrM2ZTd18wS21oZjNsSnl6a0tRX0NYRHAxamRnekUwWUJaU2xOYVEtQ2l3eHQtSjRNMmdDcVJXbE1lZVhIMmJOMGZHNFk4ZV9SR1BzTFZ1Tmt2ZElCUndBRGYyd2lLbk5hTnE1TTR5SnR1UkVuV0pINWN3YWNvNURBdk9LcWhGaEkzUXR2b094STZ5enRVcldrVk3SAbABQVVfeXFMTmEzdnVHNERIS3dPckV0OGQ2R0UyY0llWko5VTNCX2hqZUtEVnZka1N3akktUkQ5NnFxTnJzQ1NDNlVJNmQzMmNxSHZaWXFJZEJ0Z1RoN2hrVVJheEFuejhYZENvQl9TdXVSSDNfbnpRZ0ZvQ2pTMTdSczdYRGhWRTFmc0lFemNtYWpMMEtTanNaQU5PUVpFMW5SVWUta19sUWdIWmVsbWpUcVNEaWtPd1Y?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110818645407566)
+
+- **[Kenya Latest]** Kenya: Maraga, Githu Muigai to Lead New Forum Ahead of 2027 Election - allAfrica.com
+  - Source: allAfrica.com
+  - Link: https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sZHptRDZoTkJfZ2VpcHZEU0RUUjljbUJWcnIxV1p3bzlqWWNBUXk2MHBNdmp1TndWVm45WVBOWWVWTUZCc1h5MjNyS0Q3eWd0ZmMyRUlzRDBOV0U?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110818675407566)
+
+- **[Kenya Latest]** Samidoh declares bid for Ol Joro Orok MP seat - Citizen Digital
+  - Source: Citizen Digital
+  - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxNRFNWNThLLVctVy1iY1lBcTRMdlBpVUV0cHpvYTA0X21UZUdnbXhOUDk5WW8xamYtRjdPcnlsV3VHTHBuUmtOam9BbnI4SE90aDZ2ZlVqZUhaQ25IMjI3aFNpSFZPbW1pMjVlQnhKSjNaVlc3WVBiVlIzUWxwMVVZMnFleFZKMm5NMUVFS0p3?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110818693407566)
+
+- **[Business Topic]** We're waiting for AI models like they're Taylor Swift albums - Axios
+  - Source: Axios
+  - Link: https://news.google.com/rss/articles/CBMiekFVX3lxTE5fdUUxZFVhLVVWWFRUSU83ZThya2VaYnhiSUJXXzVhODZZTEdyYjNMT2JpaXhOLWJOUGt5Q3I5cE82YjVaeG9qeVJmUmJFckVvcWFXTFRXTWtOUmktME00TVRob3BwX0tFbXJtWFBGUTJsc3pTaHplcGVB?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110818729407566)
+
+- **[Business Topic]** Walmart sees sales growth slip as US shoppers feel the squeeze - BBC
+  - Source: BBC
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wcnlLZlNjY284cGYxVlJ4TGJZcG1RWjhCV2dwUXdXZ2lhamNuTTUwZXBfVkhDbnJBUXhsZmlzU2dfUUZZM1ZMbmwzUmsza05TRE9HSWczMFJPdw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110818741407566)
+
+- **[Business Topic]** JD Sports boss is still struggling to turn up the heat on a tepid trainer market - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxPanUzVmtHWEtrdHRsVjF6Z3p6bTd4U09FYjB6VGtkNEp5ajVsbjJpRE1xVE1iZ3lQZk1YNVZmbE5RR1dkR0Q0MW5ZUlRkVHRCYUxhdWJnY0tFVnhwSG1JaGpUaExzbHA1NFVickNYdFpldG8tU09SQ0hHWk16bUFTZXJVY3Q3Q016b25mLXVrSHFSTEVUYWh1Rzh6NG1PTllMU1lxWWZGMzJOM0RPWURKN3lBRTI5VEpYbFEzY3dhT1pnNEFIREx4X3M3SnlIWkJ5amdBVi01VXRCc25tcEJMT1A5eVhuRW1k?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110818915407566)
+
+- **[Nairobi Leo]** Principal Secretaries Put on Notice Over Use of Public Funds
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29635/principal-secretaries-put-on-notice-over-use-of-public-funds
+  - Facebook: POSTED (1289239267586516_122110818969407566)
+
+- **[Nairobi Leo]** Western Farmers Hail Affordable Fertilizer as Food Production Rises
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29639/western-farmers-hail-affordable-fertilizer-as-food-production-rises
+  - Facebook: POSTED (1289239267586516_122110818987407566)
+
+- **[Nairobi Leo]** SHA Clears Final Batch of NHIF Claims Worth Ksh10 Million and Below
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/business/article/29638/sha-clears-final-batch-of-nhif-claims-worth-ksh10-million-and-below
+  - Facebook: POSTED (1289239267586516_122110819071407566)
+
+- **[SPM Buzz]** Government Proposes New System for Collecting and Managing Tourism Levies
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/kenya/government-proposes-new-system-for-collecting-and-managing-tourism-levies/?utm_source=rss&utm_medium=rss&utm_campaign=government-proposes-new-system-for-collecting-and-managing-tourism-levies
+  - Facebook: POSTED (1289239267586516_122110819191407566)
+
+- **[Nation Africa]** Sossion declares Sh65m wealth, says his time at Knut strengthened TSC
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/education/sossion-declares-sh65m-wealth-says-his-time-at-knut-strengthened-tsc--5565502
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Court orders police IG to post 3 officers at Gatoto Primary following handover
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/court-orders-police-ig-to-post-3-officers-at-gatoto-primary-following-handover-5565462
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Gachagua tests Ruto’s grip on Rift Valley in planned Emurua Dikirr tour
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/politics/gachagua-tests-ruto-s-grip-on-rift-valley-in-planned-emurua-dikirr-tour-5565320
+  - Facebook: queued for a future run
+
+- **[Business Daily Africa]** BAT Kenya CEO on illicit trade, new nicotine products and tax policy
+  - Source: Business Daily Africa
+  - Link: https://www.businessdailyafrica.com/bd/corporate/boss-talk/wafula-on-illicit-trade-new-nicotine-products-and-tax-policy-5565262
+  - Facebook: queued for a future run
+
+- **[Taifa Leo]** Bunge lapitisha sheria kutatua msongamano shule za kitaifa
+  - Source: Taifa Leo
+  - Link: https://taifaleo.nation.co.ke/habari/bunge-lapitisha-sheria-kutatua-msongamano-shule-za-kitaifa/
+  - Facebook: queued for a future run
+
+- **[Education News]** Lentojoni pushes for new teacher career pathway as promotion stagnation comes under scrutiny
+  - Source: Education News
+  - Link: https://educationnews.co.ke/lentojoni-pushes-for-new-teacher-career-pathway-as-promotion-stagnation-comes-under-scrutiny/?utm_source=rss&utm_medium=rss&utm_campaign=lentojoni-pushes-for-new-teacher-career-pathway-as-promotion-stagnation-comes-under-scrutiny
+  - Facebook: queued for a future run
+
+- **[Education News]** Kwale learners to benefit from three new learning facilities constructed under Mwache Dam project
+  - Source: Education News
+  - Link: https://educationnews.co.ke/kwale-learners-to-benefit-from-three-new-learning-facilities-constructed-under-mwache-dam-project/?utm_source=rss&utm_medium=rss&utm_campaign=kwale-learners-to-benefit-from-three-new-learning-facilities-constructed-under-mwache-dam-project
+  - Facebook: queued for a future run
+
+- **[Education News]** Kenya boasts transition rates while a third of learners can’t read – when will we measure what matters?
+  - Source: Education News
+  - Link: https://educationnews.co.ke/kenya-boasts-transition-rates-while-a-third-of-learners-cant-read-when-will-we-measure-what-matters/?utm_source=rss&utm_medium=rss&utm_campaign=kenya-boasts-transition-rates-while-a-third-of-learners-cant-read-when-will-we-measure-what-matters
+  - Facebook: queued for a future run
+
+- **[Education News]** Beyond the degree: How fresh graduates can break the experience paradox in today’s job market
+  - Source: Education News
+  - Link: https://educationnews.co.ke/beyond-the-degree-how-fresh-graduates-can-break-the-experience-paradox-in-todays-job-market/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-degree-how-fresh-graduates-can-break-the-experience-paradox-in-todays-job-market
+  - Facebook: queued for a future run
+
+- **[Education News]** Turkana directs vocational institutions to align training with local economic opportunities
+  - Source: Education News
+  - Link: https://educationnews.co.ke/turkana-directs-vocational-institutions-to-align-training-with-local-economic-opportunities/?utm_source=rss&utm_medium=rss&utm_campaign=turkana-directs-vocational-institutions-to-align-training-with-local-economic-opportunities
+  - Facebook: queued for a future run
+
+- **[Education News]** Understanding compounding learning deficits: The small gaps that become big barriers
+  - Source: Education News
+  - Link: https://educationnews.co.ke/understanding-compounding-learning-deficits-the-small-gaps-that-become-big-barriers/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-compounding-learning-deficits-the-small-gaps-that-become-big-barriers
+  - Facebook: queued for a future run
+
+- **[Education News]** Enock Okong’o: How journalism led me to help a struggling university student — then the demands began
+  - Source: Education News
+  - Link: https://educationnews.co.ke/enock-okongo-how-journalism-led-me-to-help-a-struggling-university-student-then-the-demands-began/?utm_source=rss&utm_medium=rss&utm_campaign=enock-okongo-how-journalism-led-me-to-help-a-struggling-university-student-then-the-demands-began
+  - Facebook: queued for a future run
+
+- **[Education News]** CSOs cry foul over pay: Are they Kenya’s forgotten education heroes?
+  - Source: Education News
+  - Link: https://educationnews.co.ke/csos-cry-foul-over-pay-are-they-kenyas-forgotten-education-heroes/?utm_source=rss&utm_medium=rss&utm_campaign=csos-cry-foul-over-pay-are-they-kenyas-forgotten-education-heroes
+  - Facebook: queued for a future run
+
+- **[Education News]** How schools can run holistic homestretch programmes while preparing for KCSE exams
+  - Source: Education News
+  - Link: https://educationnews.co.ke/how-schools-can-run-holistic-homestretch-programmes-while-preparing-for-kcse-exams/?utm_source=rss&utm_medium=rss&utm_campaign=how-schools-can-run-holistic-homestretch-programmes-while-preparing-for-kcse-exams
+  - Facebook: queued for a future run
+
+- **[Education News]** Egerton’s Parents’ Portal: Universities can no longer hide behind silence
+  - Source: Education News
+  - Link: https://educationnews.co.ke/egertons-parents-portal-universities-can-no-longer-hide-behind-silence/?utm_source=rss&utm_medium=rss&utm_campaign=egertons-parents-portal-universities-can-no-longer-hide-behind-silence
+  - Facebook: queued for a future run
+
+- **[Standard Headlines]** Kenyans on their own as state agencies fail to curb political violence
+  - Source: Standard Headlines
+  - Link: https://www.standardmedia.co.ke/article/2001555819/kenyans-on-their-own-as-state-agencies-fail-to-curb-political-violence
+  - Facebook: queued for a future run
+
+- **[Standard Headlines]** Public officers eyeing elective posts to resign by February 10 - IEBC
+  - Source: IEBC
+  - Link: https://www.standardmedia.co.ke/article/2001555822/public-officers-eyeing-elective-posts-to-resign-by-february-10-iebc
+  - Facebook: queued for a future run
+
+- **[Standard Kenya]** Two die in mining tragedies
+  - Source: Standard Kenya
+  - Link: https://www.standardmedia.co.ke/article/2001555839/two-die-in-mining-tragedies
+  - Facebook: queued for a future run
+
+- **[Standard Politics]** ODM power sharing demands unsettle Kenya Kwanza allies
+  - Source: Standard Politics
+  - Link: https://www.standardmedia.co.ke/politics/article/2001555823/odm-power-sharing-demands-unsettle-kenya-kwanza-allies
+  - Facebook: queued for a future run
+
+- **[Standard Politics]** Gachagua woos Kalonzo into the Mt Kenya, Gema affiliation
+  - Source: Standard Politics
+  - Link: https://www.standardmedia.co.ke/politics/article/2001555820/gachagua-woos-kalonzo-into-the-mt-kenya-gema-affiliation
+  - Facebook: queued for a future run
+
+- **[Standard Politics]** Wetang'ula warns against political goonism ahead of 2027 polls
+  - Source: Standard Politics
+  - Link: https://www.standardmedia.co.ke/politics/article/2001555824/wetang-ula-warns-against-political-goonism-ahead-of-2027-polls
+  - Facebook: queued for a future run
+
+- **[Capital FM News]** IEBC freezes ballot paper, technology tenders after review
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/iebc-freezes-ballot-paper-technology-tenders-after-review/
+  - Facebook: queued for a future run
+
+- **[Capital FM News]** IEBC targets 28.5 million voters, doubles diaspora voting countries
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/iebc-targets-28-5-million-voters-doubles-diaspora-voting-countries/
+  - Facebook: queued for a future run
+
+- **[Politics]** Wamalwa warns Kenya could return to ICC over rising political violence - People Daily
+  - Source: People Daily
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXZ2aU82SzMyNFppMzUyRmNfZ3FWYmVWU0toRGphVUZfamFiUUFXTDg0cGpmcHVCcWlTd2ZvVThyZmJwbDRjcV91OFZwRjJ2eExIVWxLbDh6WEpURjZQS2NXdzZGSTVaMnFUNkM1c3lraHN0Wno5YkFPUnpPTW9hUnVfcWNtNEQzYnRpLS1ZYWxvT3BHeXlrRV9zNDkwQnM1aDZldS1mYkQ2b2gzam9SZzNzZnU?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** ‘Rearranging deckchairs on the Titanic’: Bonds erase the impact of Treasury’s intervention - NBC News
+  - Source: NBC News
+  - Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYk5HaF9CbFJDaHhhY2JrOVlfeC1nRXVRS3NqYm5UU2Q2YmFQdmhXeVBHYWlLSHV2bF80Nl80eWU1MHhSOUloUU1FSDBXN1ItYXRZa0dnM25keVVkWE0ySlVpcWZtWnBTZkV3bkZkNWc0S0NUZWs0WkFWVFo1QzVqZzgxdHVMOFlm?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdWFwMW54b3ZlZFpfVFJkREZzZVNwVXhRQmZteGg1cVNVXzJkNmJTd3Qzc3JNTm9IU3JJZDJteU0tSUgyOVl2VC1lTlAxdm9LUDltTzd0akp3QjNTQ3ZXWlBJRm5HX21OYUxDLUExSXNVU3dBRjdzQUNveHFUWklGMUUtcG1tQTVSS01Ic0dLcGFkczdWcThjYWozTkdHdlZ2TktYVHlEVDlJLUFnLU5vQmNHVDZIZ2VZN1dkb3dBc2pXd9IBxwFBVV95cUxPZTFXdmxMTks2MGotZUxtQXBXWTI3NEQ2Q0U0Wnc3TjBMUmhMMjlwb3drQjhCa0htNlNINEdKZjd3bWtJYTRsbmRpUWFWbktPaGItMnQ0Q3l2NG1vNll0UFdwZVZIMUtMWVdnMjMxMFF0Q3RKM0FVZWszQVU0VWxtSmRja1dZemh4WVJfT3ZKMHk4ZmFtbTRvcmlhVmtKS0ZvakMyR1ZiRi1oek5ieTQtaVhIY05zUnpaS2pmdlh4Q0xZcnVWb1ZR?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** JPMorgan Falls 1% as Treasury Rescue Fails to Calm Bonds - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxNaVhpdEtJOWNaLVN0NV9yUlpoVEVVY1BOd2dYc3RUYVQ4WUZZQ0UyX1BzVE0wSlJqQXM2WVUyUzBWZnpkaFNobkYyTHV1ck8wRFNybGZPY1NjbGVQNW1aVG9GZUVLOU51c21ZRm9BdVF5MU52UjV5aWxjb1lQWWgyeW50R2JZMjZFaHN2TEdkTUdWcEhoLWhPQWVjSDY1QQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Walmart Shares Slump on Weakest Sales Growth in Over Six Years - WSJ
+  - Source: WSJ
+  - Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxNdjhXYXlPMXRMM0RDbmVFNWVTd2d2MmtMXzlEV3NNUVRyTERka1lqNWs1WGEwSk1paTVhX0hWUjljV1JtZEhsYWRNR1I2djJSRkZEMldNclZ6Q3dUdkpHSmRGTUVrMFc5S1hOZUF2WWM5b3FEbE5pV216RGp5bXF2bDcxakRnSkg4Ymc?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Coty Targets Portfolio Growth by 2028, Focuses on Innovation and Brand Investment Amid Gucci License Transition - WWD
+  - Source: WWD
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLW9abk5QZ0NjWEpyVlRrRm9USEdLc2N1bnZRbFRLQUcxcjVqb2phdDBpcjE1U053WTFHLTZ4TnV2c241c2pEcHNfXzdIcVc5cDdRWjVCYjNGOW95b2d1ck1WMV9QQTJDTFRiV2plUEM2bXhEYy1rN3E2TURPX01vdnJtZ0xGWC1qS0FwdW0wVmJZS1JfVzVvemhBQk1Yak5xVW9JXzBpSTBBSWVMdi11d1d4VHA0bEthbjNCS2xFZDg0dw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Upstart Exchange Competing With Giants in Texas Is Landing Its First ETF - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQNVRlUmFEVTE3dGxFY1kwOC1JR1AyWnlPUldramJ3N3hWNkRaLW14M3hYdS1JOUp2SmFCbGhWLWJ3dGRtSGlnSUpNQk9mV2hrTXVtZUlMa3FpUDM4NV9qeXg1Zi1EOVRFNFVXcGM0em9PbmxoS1pJRldDbjVpbmMzSzdfS2JaWk1udDJJQW9pZ2R2V2w3R3pBYWVOVHlRbmI5M3U3T1pGR2lnSUQ3cjhFSEFrSG9oTC1BdVpRRXlMTXYxS0xBaVVjSE1wTGw?oc=5
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** What do you bring to the table? Why have we become obsessed with what people can give?
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/love-and-relationships/what-do-you-bring-to-the-table-why-have-we-become-obsessed-with-what-people-can-give
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** TikTok declines invite to discuss dangerous driving videos
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/tiktok-declines-invite-to-discuss-dangerous-driving-videos
+  - Facebook: queued for a future run
+

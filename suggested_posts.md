@@ -3077,3 +3077,130 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://nairobileo.co.ke/news/article/29656/kivutha-kibwana-installed-as-international-leadership-university-chancellor
   - Facebook: queued; Facebook limit reached
 
+## Scan run: 2026-08-20 23:10 (Nairobi time)
+
+- **[Kenya Latest]** My appointment to TSC will strengthen the commission - Sossion - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxOeEpJZ2VmdVNLclZiUGdPb1luXy1SMkVLVndoMVEyQnNIdTJuakRJSHFfb19DdzdwQjlSMzZuVDFjR3U5ZUViTFF6YUJuRjZNN2w3RUI4cEVjMzZGUHZnN0dnZS03X2VqWXFMSGdqQXZmMXJxLWhfa0RPNTVzZTJKU2RSQmVFMUN5QmFTaWZSVUlVbFhnRkQzUnN2ZmJvNmZy?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110810725407566)
+
+- **[Business Topic]** Brooklyn business owners rally against G train service shutdowns - Spectrum News NY1
+  - Source: Spectrum News NY1
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxPVzFkUXdESENHZV9BQ1FSbFRmZ3JNb0hQcXI3S2JUZzlEZFdVYi1xMnZVT21zenczX2JtUDhfWk1TalVOUGRmYVJhZWU1WGFianFOcC1DWUFvRTdtdDlBN0RkdzhseElwNnRqZkZPT1VwQWQ5N1Z0a1pWaGZMMFRvb3N0NjZVUDJlbzg3clN6bDl3clZrMjNiUEUxT0FueDBHS0Q3OVNvZUVKVkJoV3pEUVBVWQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110810737407566)
+
+- **[Business Topic]** Fortescue defends not standing down key executive accused of sexual harassment - SMH.com.au
+  - Source: SMH.com.au
+  - Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOHRRdTNDb3N1QXFaMERGam9XN3RkUi1XMGpuTXlGNFJRVUpFRTdkaXZzX0h5OGQ2X2VYNFB0VlVrdWQ0RDZ2UTF0ZDVVNkJmM3I4RjZlYTBZc3JsVEdydjdYY2dzSW95YUNFWHIxWDhvdzVWNmQ4Wkt6WWJjN1poQldaN3VJX0tLLXVFTmYyYUQxMzl2Skh3bHRtMlJpM0NpUWF0UXNUTnM2QzdpSVMydF9sdm5LdWNWbS1PcmJfVTlkcVAxM3g1ekxiUDNfTTVDdXh1N0lYcGw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110810773407566)
+
+- **[Business Topic]** ClarityCheck’s exposed biometric databases present major identity theft, fraud risk - Biometric Update
+  - Source: Biometric Update
+  - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxPcS1Lc2l2bElpcHhoaGo1aGNObldfbzR2VVlpdlJOemdlQUJMbjFTdGtEcUViSktLSndXS2RIa05qaTVsQkg4bTRtN0lFbEppbUotTm91QnNCQ2pJbFNNWk92WTc3cE94dVpXSVcxMW1OVWxOdDhlSmlhY3E3cnIxcThsNlkxaEpacF9zd0FvUmgyTURMVmt4cHhYMkpNR2RfT2xNQ0RMR0RrRU14Um5kSlJCVVRGZkxXMkRvVg?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110810821407566)
+
+- **[Business Topic]** We're adding two new stocks to our Bullpen watchlist - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxQdHF5YmNYc0xzLVRnbzZiRXhBbWJCRWN6RVA4OUptTmUxSTRsLUFydWYzX2tjbnU5ZHpsdzB1NXV4TmJwRHZDdU9vb25Jc1FNdUZxdjNRWVdmY2Q4TFZRNnI4Ui1HcEpnN3pVMDJUQURGcUdLVjkwMUg1VFBQSE1sVFpCVURaSVpxUFp4UFhPUlN5UQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110810869407566)
+
+- **[Business Topic]** Walmart sales growth slowdown tests consumer resilience, shares slide 10% - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpDQjhTTjdrTGVtLWhZMUJIdWtybnk5SjJ0bWxfMjZ3VmhYXzE3UGljRlZiMmI3V0FNN09Pb1NYWlhCWTVmMlFsdjZTRDFLUFh4WV9Yb0ZGMTJWYTc0eWVWVEZiVC1oVmdXNTBNdGtGdGZoWHN3MzRndDR2YlY2bzFuWTlJeHBXdGJzZHZzMmFiVzYxWUtsZDFlN0F6OWJPTktkS0RaTmtjY0I4WU9wQ3Y4X1VsZzQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** One day after doubling Treasury buybacks, Bessent says he's ready to boost them further to push down long-term yields - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMiggJBVV95cUxOT25xLUV6X0JEZDZrejlOQWR0WGtWc21ZVE9Qb19mbVpIOUlnMkZjQUdRZU1tOVAtTlNsMWRZVllQMEtSMTRGejVPckFoMUpBQ3FRNnpMU21HWC1KbFdaZW1ITTFHV2lkMGkzREgwWGpZQjJ5Wk9BdmliQ05TT2pqLUUwZzVBQXUwOFR0aXYxNUZhTmdNY21FdTVYbFZtazFnbUVpS0VKd243aW8yM3g3VklYMjhjUURBb25HdlFsaEV5Y3FtU054LTgxeWhRVDRxazdEZnMxOWZJT0tvRlQ2ZWJ3YW5teG9iT1RYSkFUeWR4UkIydXdlVWZKdlBDRzZDdmc?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** How the A.I. Borrowing Binge Helps Drive Up Government Bond Yields - The New York Times
+  - Source: The New York Times
+  - Link: https://news.google.com/rss/articles/CBMifkFVX3lxTE1YUW5BM1JyalVycE9mRmNLa0xnaUE3emw4cE1XbjJwbG5DOXhwYmRwNUJ5MHN3Si16QlFLeUtZTUhDYTBrUHJUbjdxS1J1bzBLSndOM3NuS0FlM0VRRXdURWlPeFp0eWRPZl9CRzA2dHdlSXNlcldWbXEwZE1ndw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Two Binance Employees Detained in the U.A.E. Amid Police Inquiries - The New York Times
+  - Source: The New York Times
+  - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUZnRmRyVHNsdjFPYmYybG56enNxSGtNN3NKMGExazNzYVA5bjZCNG5UOXNUNzVxaV8yaXdpdkhpZlJnb2k4azUwUHhsZnk0cHBIY0xpcTZiTDZRMWJFdVpYeDl6TUNjR3ZNeUFTTkZZWGtfRW9EbDktWmRublc4VFlONGhscXJERDNsOEZ3?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Material World: New Weaves, New Rules and Textile Futures - WWD
+  - Source: WWD
+  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNOHhJeDdCY3RXRXJmbTVual9MX2hPRVpmNDdlS0xOdjAxN29Fa2dHNEttU2xuMF9KdmszcW81NmRZb2NkZ0tMX1RJT2NpbUQzS2xGOXo4dXpyUkdJS3U1Zno5YklxeWJ5S3lTMWlOZjVBbi0zNWlQZ2tSeTVzeEs4OTIyYXFOUWRGM3QzUC1ZYjdQd0E0a1M0ai02a2pWRHZFS2hZ?oc=5
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** Gov't Chemist Laboratory Attains Key International Accreditation
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29654/govt-chemist-laboratory-attains-key-international-accreditation
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** Rigathi Gachagua to Fly Out of the Country
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29653/rigathi-gachagua-to-fly-out-of-the-country
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** Gov’t Warns of New Scam Targeting Business Owners
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29652/govt-warns-of-new-scam-targeting-business-owners
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** Gachagua Throws Huge Party at His Wamunyoro Home [Photos]
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29651/gachagua-throws-huge-party-at-his-wamunyoro-home-photos
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** Wilson Sossion Reveals His Net Worth
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29649/wilson-sossion-reveals-his-net-worth
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** Nairobi Hospitals Set for Major Overhaul as Sakaja Signs New Health Law
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29648/nairobi-hospitals-set-for-major-overhaul-as-sakaja-signs-new-health-law
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** University Launches Portal for Parents to Monitor Students
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29647/egerton-university-launches-portal-for-parents-to-monitor-students
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** Why Faith Kipyegon Will Miss Rest of 2026 Season
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29646/why-faith-kipyegon-will-miss-rest-of-2026-season
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** Suspect Linked to Ksh1.57 Billion Scandal Surrenders to EACC
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29645/suspect-linked-to-ksh157-billion-scandal-surrenders-to-eacc
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** How Family Uncovered Fraud in Ksh800,000 Sale of Deceased Father's Land
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29644/how-family-uncovered-fraud-in-ksh800000-sale-of-deceased-fathers-land
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** We Don't Brand or Ferry Anyone to Our Rallies - Linda Mwananchi's Caroli Omondi
+  - Source: Linda Mwananchi's Caroli Omondi
+  - Link: https://nairobileo.co.ke/news/article/29642/we-dont-brand-or-ferry-anyone-to-our-rallies-linda-mwananchis-caroli-omondi
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** Gov’t Cautions Kenyans Against Fake Boma Yangu Websites
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29643/govt-cautions-kenyans-against-fake-boma-yangu-websites
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** CS Ogamba Clarifies Third Term School Opening Dates
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29641/cs-ogamba-clarifies-third-term-school-opening-dates
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** Progress of Ongoing Expansion of Rironi–Mau Summit Highway [Photos]
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29640/progress-of-ongoing-expansion-of-rironi-mau-summit-highway-photos
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** MPs Call for Crackdown on Rogue Auctioneers Using Goons
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29636/mps-call-for-crackdown-on-rogue-auctioneers-using-goons
+  - Facebook: queued for a future run
+

@@ -2569,3 +2569,130 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOF9vVVgtRGMwTlZvOWl1YnpDSzU3S2ludm40M3pMM1FFSk9xdDR2UzhCaHA1THFRWFFwQmUweVBnMV9heGFRa0VIWXpYYkJUQUFUdjNCNzV1a0ZqbURwQmdUOG9Kd2Nuc3V5bU1Zc01RRm51aEhxVDZZcnh3UHhFSG11eVR0S01mOU5EOXlIM3Q2dk8zUF9HNWtxSUhlM1Nnazl4R0tZY0FSZG9qODA5Sm9lQTNiVjNPYW1QamZNZmVtSl8tYmRrZGpkVFhsTmFxLVdiS1dENEMwMk5vWVIxaUdjbEM1VUE?oc=5
   - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 09:01:48 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AoD2F4trzyjtpnb2Z9RE_16"}}
 
+## Scan run: 2026-08-20 19:30 (Nairobi time)
+
+- **[Kenya Latest]** "Report no earlier than": CS Ogamba clarifies rules for school start times - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQY1Vwb2dzR1Z3SFUzYzhMWjF3R2VJR083X21tVnFlbWJyajU3LVlaN1NQaWE0NnlKRUJ5Vk5Ta1gxU3REVHRKeGZDVU9vbUk5cDMtSEZCQVVmdDJDMXltZkdCNHFpSEdld3BxNlpLUTNiUEVWd0xxZ3Q4SHlUd2FCaFVXVXFpbndwVlBRb3N1MjlEcjRFNV9ubGYzNUpSMDQ?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "ARSe4j0L6Dd61q5C3Sr2yEx"}}
+
+- **[Politics]** Kenya’s Catholic Bishops Reaffirm Prophetic Role, Pledge Cooperation with Government - ACI Africa
+  - Source: ACI Africa
+  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSlR2YW5QR3d1TnZhdmw5aWxjQVh6UXU5UTFNR0dKanJFdUpMbFdfemVFOFZSM3k2OUhZUEV0SDUwOTk3VDhVMTRoRkZwcnBnSlVjajQ5N05idXpOeWNHRkgxTGV5eFl1cTZnX0lFTkNUWkNycWhoWjFScmNRNEZQdk1sSzZIU2dfZl9sTkNTLWdjSU5OMFF3ZHdGamU0cWM1dE9FOXlqamxFcXR6RmJzS3VfeXFLc0dObXRZ0gHAAUFVX3lxTFBjOFphSHdaWUY5ZzhMdHVveks0aHR1NFJpUVJCSU5nMU04UFVXRmNVTDQtM2JWNWV2LVoyVmphSmNVUHY1VXpDd2NwY3VSTWQzQUZCMENuc2ZkRUkwTXI3QzlOaVc4MXppTTJyM1ZaTDlwZlhiTmJNWjVGTUlmQkJFaUFnX0ZDVkpGLWtTNEllY1ZrdXNsdjZGNDE5ZEpCeDc2cVZuOFh6T2w5U3NMb0V6NUtRTU1BQmNuQ3RTV2RGbw?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "ANqNEgqLaFNBNPgZVP2okUb"}}
+
+- **[Business Topic]** Ethiopia central bank allots $500 million at special forex auction - CNBC Africa
+  - Source: CNBC Africa
+  - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxNX0VaeWVCX2xxSjM4X05DTUhKNC1vVUFEdmhGQ2JZWUlpS2QyU3p3ZEF4M2todmwtaHBSaXpNLUdIcFZ0RGZxY191WFk4OGZHVnlfbGJDSkUyX2RSeFRKRG9FNlNyYVZnS1RGdWlrVDdWSlliSlltUG9Qdk4zWDNIMnpnNWpMTVlyVFdLbE1UUFllYUdka0pSODd5V2s1czZM?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "A7p1TpH22UVELNFa9z0-mL_"}}
+
+- **[Business Topic]** Shenzhen's Robot Valley: Morning Design to Afternoon Sample - 조선일보
+  - Source: 조선일보
+  - Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRllIM1FDdjRPMWQ0ODcwUHFrSGlQNkswZGROX1JjWERDcXlzRk80YnR5MUhoRXVHNWlPWko0RWlxNUFEeWtKN3JrVEd5V2RoOG5pOEpuWWdqS3F1dUVNR19SMzA4SXZfRURLZ09TRkJ0dDRFUmUwcmZ4VmJ6QUVFWU12RnJxeHFL?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AcjlbwDJaZfVZedq8cCkVZ5"}}
+
+- **[Business Topic]** Intercontinental Exchange (ICE) Caught in AI Loser Narrative Despite Strong Results - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQdzA5eDBNZ1JXMkpUOHdUZ3ZuLVNLTXk3MWs5MVpxa3lMUzRQT0xiMm5ZbFg0LUh3X2Y0a3dXeldULTJ3VXUyYzRGOHJPRFZuWnNtSHVubXJJdFRqVnBJOUpoc2pKcDJvODBmV1U4TkZ4b3I2dlN3R0h2R0JIN3NLaWVWQ3Z1YTVvVUpGX1R3NE40Q2wxYk9peE04NUZPbThxU3drUTVKaw?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AS7jZH-OEtUMouB4RIPEFlq"}}
+
+- **[Business Topic]** France fines Boohoo €2.3 million over deceptive discounts on website - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxONnNTdVRRYm9KaEpDdndZeEMzek5LSTRFMGNwci1XSmR4eklqSURLMVV4dEVnNmJNeUJIYVNfaVJ5ajhvQTRXeEgtdTNtVjh2SzkxMkVvRlFZUE5ITElaOXRreWk4ekV2Yjd4Q0ZXR1RMU0JkaWhuUzVvVHNhdDRxaUdscXN6RnQ5c1VZTWxrNGZGZVhraFlwMXNJeDhFVHFiVjFDQkFlSUJIbEF3bzMxVjdEZEhVWmhBeDE5Znh3a01tdw?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AQhzllCr8p1-QGulEWB2AkJ"}}
+
+- **[Business Topic]** Specsavers pays £12m dividend to parent company as profits soar - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcklCd19WX1Y5NkhEZVZPSzc2LW5mZFRIVXl2TloyWEFqZ1dsQ01YSzV3LTQtWWtDdll4X2RvRXdDemJ3Z2hYeTVwUVh5ZG5ZTlcyd3Myc1FiZlhxLV82ZV93YlVTdWJ0R215V1pobTY3ekdjakIwOFQ4cjFOeGZoUU5HRzJ3M3VSMm84S2ttX01IQ20tVzdWQ1hoN01GdGxMMFBRMHVKY0ZnRnM?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "ADifAYD1M1AfaCXf0hYaGfV"}}
+
+- **[Business Topic]** UK cinemas look at banning Meta smart glasses over piracy fears - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNc2RmMEhLTUdwQ3B6emRST09IeU8yOVR4ako5bmJiVDJERFMtVVZDV3R6MWdMeDZZQ0pNOWlrOVRjZ3NsRk1US0RUdlladTB4M1JBSXdoRXRpcFZDR3FlcnQwUHF2XzMyMEZ5dkdHYm4zWEh6S3o1SGVrNkhNSi1VVXZSbDkwa0E5SFJwSVIwNW9nV1BNUU5RVF9xWl8ydHI4SjgtbkRFbzdlU3g3NFE2cDJmY1VXSkMyTXRJYw?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AetV-FRK3YBrlmy-Tz1rhQc"}}
+
+- **[Business Topic]** Tinder conman from Denbighshire jailed for taking £68,000 from victims - BBC
+  - Source: BBC
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vcWtQWkNhNm9KcWlPVjJmTGFOcU9RUl93SkFzbkVzb0wydzE2cVBfZ0lYdkVEd1dsdndJWi12NkZ1YktxVDVaZDZXQUp1QW5OMldpcU9OWG93UQ?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "A_F4X3maPxX5DJHvgOwR8fc"}}
+
+- **[Business Topic]** Shein pushes back Hong Kong debut to September amid delayed orders: sources - South China Morning Post
+  - Source: South China Morning Post
+  - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVW40Q3UtMDJla0pld1NzbXAya0pKWXI0VHlPdXhNb0pyVFoxeUV1U0tjSTVWWHVZU2dOUHJhdlRFZGt0X0VBdk9nanI4ODJVRVdieGJ6RE9hRmpKZTFqb0x3blpsdXIwUXRqYVl5Q2xTNW8tVWNUS0ZWVGp3eXRJSUd1V3d1X255MnhLdHJXa2drOURtZUgxNk8wUTZxaTJOUHphd1ItaUFPX2d5NEdHb0pjTUxpWkg1a0ZaWUFWQTgySmFCVGhLMTd4YjQxOXFxMFHSAdIBQVVfeXFMTjFsbThTZGtDVzZzTVQ4aXNwOWhVZTh3Nzh0eUU2N0xmcnpUU0JZb0RVUFYyR0J0RE1XZ0ZUQzhRZTlMRzZOb0pTY3RUMEYteFM2dFVnU1RtR3o1TGw1V1J3THF1ZEpsT1NCdVpraUNfYWdTc3Q1TlBybVFOTnQzSmFpc3luU3l6aExXeTJaOGlENUxud2JZVmFoUFAxNm5TRXFsdDVZdGRyOTliNVdoOU5zdlRwNFVZZ0h5Q29mbUpVbHBnYk1qWFQweVRhQ2JfeFZ3?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AGRvnXyZnR2M6Pf1lDpR1J7"}}
+
+- **[Business Topic]** Western oil refinery closures set to continue despite war shock - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPbFJaTEpEQjYwSGtFN3RiQ2k1aGN2OWJDYmtsR2tjMzFWZVp1ZkxuaU84MlhKUmNPVmhlckRlUkNLaWREVVVOWjgxdEhoUkZENlNaMk9NVkRLMFM3S0RKRm5SVE9xZEcxOGpzVFFEeGhOLURPNzdVLVJEUHNQY2JISnkwMXI?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AiIsorM1Ad4bkk3YnJOBR__"}}
+
+- **[Business Topic]** Investors cut bets on US and UK interest rate rises - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXdyTDdtOWNBRWJKd1ZUZDdiZWZzSTdURlFzRFk4VnBja0UtOVdMSVh1MHZBMGdwYS1CVkNNNFExMUV5bUlYT0hhRDN6UTVpTUNac0RzNjAxaHRHemY3N0Rna3JSWUdia0RPbTl0al9JcUYwUVAtalV3WF9Qc0s2dnNOU08?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AQVDw8hkq5F3FE7c0cVB8Bq"}}
+
+- **[Business Topic]** From balloons to pans: in praise of useful tech - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPN2FORHphSmFQSXVzenp0QlMzcUpHVlJ3NDR2NG1fM2RRQjFxMk14X1ZxN1luWVU3alM1X3dlRUZWUjdZMTV6a1MzTUZGaS1TQThOLTV6MWdfYnFWaGZLYXBVZnhPMWhOdFdZUkFfMk5mR1FZUUhjZ1E3V3dLcTUxLUloMHA?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "Ag990GxGtt_isSu_UFzNIsP"}}
+
+- **[Business Topic]** FTC proposes enforcement policy on personalized pricing tools - IAPP
+  - Source: IAPP
+  - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ0JNMXhuUG8xeXRZa2FzT0w3SmI1UjBQOXBCeEdZWUYwanI3NmxmWWZIcDBBcy1oa05hS3dBT0pXMTU5cWV2a0ptU3NjaE93Q3V0eUdNbGJsUlI0QVdTOHU3b1pyNVRTVnRob3lXV19oQzJsMndmT2VjLU04WVhrWGYyOEU3cGt1NU1QUXlR?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AG7qoYawouRmwcnIoQrc6y-"}}
+
+- **[Business Topic]** Fitch Has Taken Various Actions on Los Angeles Department of Airports, CA's Sub Rev CP Notes - Fitch Ratings
+  - Source: Fitch Ratings
+  - Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMVQ2VGxSZ1BQVkE2QkE4dlFYRVgza09vRkRtUjRMckxuaGJBVHoyMlIwZWVvMHVydTR3RG9SU0pxUmd5aE5ZNnRnX1d6alhkb3R6V1o4bWNhclhvWGJqekZRVlNhZm1VMWtTVnF1QlB0eUF2b3dsR1VKXzR6Mm1vZW12UmJTZUlJN1pFVzMtVUNCak9tbjlteHl3TXRTVmxKZ2dvVHdUN0t6UWRHenpXWkl1RTFBZUFQaDNUOTFhSmg3Qk5ad2lzTnV6SUJldXpUNF9VMGZLenZSV2JDMmlRTE1Ya3FIcWpEQ05QTw?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AxdGfk02To8mlonPqBEU40r"}}
+
+- **[Business Topic]** Fitch Rates Brookfield Renewable Partners ULC's Medium-Term Notes 'BBB+' - Fitch Ratings
+  - Source: Fitch Ratings
+  - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxOSXRVNFlpLXNCQ2s2a05mNm9CYnVRMkYzcDRKSE5OUXU0bUlKbDNYa0x5aHN3bm1TVEhYTV9JemUyU05JX2duLW5xb2FHaDVsQklyRUd5TGJ3NU9xenUzYThyVzVPRDBKeW4tTE5kc3dRVi1JSzM2WG56NjAxOHlMeUd3aEg1aS1RcWtRQ1lRZ2VDZmVudlJyLXNIbW9zWkx5M29rdV92ZWUxLXM2eDVwTzJsdUgySDZqdGVPMXVvdTJkaUgtOFpUNHFoS1lKWGs?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "ALYJzN5UN8UA7Pwthtkedi4"}}
+
+- **[Business Topic]** Rock West Composites® Is Premiering Its New STRATOPultrusion™ Product Line at the 2026 Small Satellite Conference - SpaceNews
+  - Source: SpaceNews
+  - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxONHhpa243QjctVHVHdnN0bDF0d2ZJM0s5QmVjWDR4alF1b1ZUNDFnazFOQTh4eEM3Q3AtLWFfSnlteFJkcGtmaDcwcVBGRjlxMGlSdXJxZXJZLU1GcTlMcUxLdkl1eXE3ZlMwbktBSExTSXRZZ3RBeHdhRENhNlVZRmREeVRWSVp1MXk3RzFLZy1SQ3dxeGo2VXNNckVfeFR2bkxEZEhxUXpEVmNQc1NGWGhWYmdITnpjSllWNTN4Wk1oLVlYYlY0b2FsODJaYlE?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "ALaSd09Mpzr5G0hX4fRTY8B"}}
+
+- **[Business Topic]** Vietnam revises the DPPA and rooftop solar framework - Watson Farley & Williams
+  - Source: Watson Farley & Williams
+  - Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxOY2dEVHV3cjkzQkZ2RFlCbzNwQ3FSZ2pHUTE1U3hKX1lsejVfeWlkZGZ2NlJnMG4zdVVOMmJXaTNITjJOcmZTVWF1QzhfV1dvSFotSzJoSUF0UU82NU9oaHZQekEzSFJ4SmdoT2FQc053bTZWTXAzMkM2aWd6ZDdxQmpXUlF1Y09qRUE?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "Aum1LI7fgz3sTQuDQN4JFZb"}}
+
+- **[Business Topic]** Danish green hydrogen-based methanol project secures a fourth offtaker - Hydrogen Europe
+  - Source: Hydrogen Europe
+  - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxQcU1WeFJvMHpVazM4WFh4anFXZ1AzcGFSWm96X0Q2dG5VaGpCbC1yYWJjNHpVUkt4U3Y3RHJ1ZTlyTzRnWngzUklPQ3ZackdSY2VKVGlkdVlsdkE4SktTaTlHcWE4dWxGbTJJTGRvUlhLVXFYMzZvV1g4LWhLNVJBbVhfb0Y2QnlJekZkYVZwZ3lLblBVSGNMYXQzRWJBZw?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AWv02u3KO0HNyEOv4ayPm0p"}}
+
+- **[Business Topic]** Trump’s South Korea defence flip reminds Japan that it has no Plan B - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxQelotdF8xX2VhZDlmQ1BhZmcwYzhlRmlnSzVrRGRIQnYxRG5xUHktcEtGRWhFNnpiWjdpSDhxTVdIZENMeXZIcHpRaXIyTWdKRFFDbmlnSU51VUN0ckllZWJJOE9iOF9PTEJoNGRnelJycDRodGlUeUczUGJ3YVp0NUd1Vl8?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AAmhrf5lKMRwelBerHGHuUZ"}}
+
+- **[Business Topic]** Micron unveils $10 billion AI memory research lab in Boise - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0dOS0FhM005bXNxVTkwWUNSR3pCaHJKb01nbXpualU1V0FNakliNmJMeHZsdXYtREhjOThWLUdVVGlTZExHZXBaVDFHcHJ3ZHRPY3BsLUxfX2NHMmV4U2hmRm9ibE1MTkhmV3FFWXY3aXVsYWRaWElRa2MwdDdaNVI4VnFXYWZvQ0FLeFlWY2dFNWlhVlB1TUh5dEwyeUFXV1hLNHZWX1Y3dUx2WVE?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AxSKF_KQ4ktfJGv1lHLNVgq"}}
+
+- **[Business Topic]** KBRA Downgrades One Rating and Affirms All Other Outstanding Ratings for CGCMT 2012-GC8 - KBRA
+  - Source: KBRA
+  - Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZk1rRWZoUWUxZEtGb2p2c21TMnBYTVRBRHdPVnNXSm1wUlRzZjJYT1pJUWJvdUFJTFBOaUFNVTZ5czR4R2VJYkVUS0RicU8wSUVBa1pOeG1fSGdZbzRpOFAtRDBCQWQ4X1FXRFFSMnN6Zk55NzFURG9IQXNQbHNEZHdRbThTVWJSUVpHY3B5MzVnS29jNWVnb3Z1aGZmRVdtRi0wZno3OUVuUW9DWkhaZ3JfbXUtLVJRbnN3WDdUMDlNZlYxWFp4TWFUbU03OHV6MFF2RmU2X0o?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AIKzqGWH_yGIVoTacNmGuGs"}}
+
+- **[Business Topic]** Bitcoin Inches Towards $70,000 After Trump Calls For Passage Of Crypto Bill - Forbes
+  - Source: Forbes
+  - Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxPT0VIMU9JeUhORVBsUGp0eGxTclFXd0tYU0pENXlhd1RYY3JtLWR3Y1c0T1MtMnlDTFR2Yl9lSFI0aGxVUlJhaV9qVHFKdFU1RjBuNHk4a3FVRnE3YkItb2FxSVpxbnlEUTZMdGlib3BZc2lPUEluOFdPekgxSS12M2R4cUtncmJYbkFPNkxjblIwdkZIY1R3clU3cWdGNHB2V1gyMlZ2S0JQVjlqX1cwTEpJZVl5ZEpUSVpia2s3dlgwZDR4Mko3Rm5pdndneUxPX2U2cEF0QlkyR0dpUWtYLUxVODFFQQ?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "Ajp6Thzq5ddu6dOuTRLVk2_"}}
+
+- **[Business Topic]** Founder of China’s Evergrande jailed for life after pleading guilty to fraud - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxPN2FHU05vVUJONmZvbGZMSThQQzB2N1VWOS1kSy1oSkFwS2NTelZxTkJpczFTRWxtZ2lnbGRrOXhiaS1JSVFjZkRZcjhvbk12c3dPT0w1S2JrbGdEYlR5UldzS3RsV1BZZkprNVBhaV96Wkd3UTlLNDJPdmVnVjVveHJxNDEzRXJrUTVjanAwcnEzVlJFc2RNb1RNLXU?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AqzM_NFHRpuxfFiP0a2WP7B"}}
+
+- **[Business Topic]** Multistate Tax Trends: KPMG Managing Director Sarah Vergel de Dios on Renewable Energy, Data Centers, Nexus, and Voluntary Disclosure Strategy - Thomson Reuters tax
+  - Source: Thomson Reuters tax
+  - Link: https://news.google.com/rss/articles/CBMihgJBVV95cUxON2JTQWZjcEtvMUhpVnR2OFVEajc0ZWh2NlAyT1NaZkt4RTJucUZjaUhCbjc1R25UYXZDOEhTNVhFZTRobHU2WllmU0llV2hnWEFuS20wRFNFelY0OWR2YjZIQmFDcWk3b3BoNFN3ZDhOdnI1SUM3aEdHV0NhQjctUFFhWDM3c2QySWN6N25PcG50QVFycGtuNGFVeVZ1YkVpcEYxUVZYWHBKU1VFeVU3ZGVPbS00elc5eTIzMmUyaDVJbVlPc0RHLV9VRVk5Rjc5dGkxZ3g0YTBoVHVNWmhZMGVvaXZ5dEQtb3hUd3JubFZrLXV4bWprdDFnbEV2bFhWdkY0cUx3?oc=5
+  - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AlrNYmRO_Z3EOzhiPZgaPtz"}}
+

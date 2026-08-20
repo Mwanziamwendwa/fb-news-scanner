@@ -2823,3 +2823,130 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxQU1k1cDczZlhMalhrYTZORkF2WGI0MnFibHZfeFR5dlNJZmx1Q205dHFyTThVWXV3aTMyblp4dUk3d09QVk1QYUU0YktTenl3QXFwR1FLUFRxNk4xSDJ2QmNVMkZqcnlQeGEwYTVOZW5ibmpOZENlWlRVNlhwanB6MWljMVFySHg5WG1RQlJfS3UzQmJfY19Wckh2TEdDdDdIWHdZcg?oc=5
   - Facebook: queued; Facebook limit reached
 
+## Scan run: 2026-08-20 22:07 (Nairobi time)
+
+- **[Kenya Latest]** Faith Odhiambo: Kenya is facing a rule-of-law crisis - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0pBcndFYTU5VWVZSTJDLWk1d0xYVXF4Z1RkZmtZTm5iNGdXUS16amRiZEVQbFFlLXZrMnpEZU81emluVHI0Uy1HVlVKbmRpZTdyZDRQNmJFSXNzd0tUTFQybUFZakdnSnRISUlFLTFESjQ4WV9OdHFPSDA2MWRpMWU4NlliMnluM25JTWIwdElMVG02Y2FpSFVn?oc=5
+  - Facebook: POSTED (1289239267586516_122110804023407566)
+
+- **[Kenya Latest]** "Good partnership": US hands over modern training complex to KDF - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxNQmwyc3gzTWl3Z2lwY1NXVkdZQ2hydXJCM1g2VWFTTmJzY251eTJFWGlKcHM1bHBsdnR3ZHcyOXlMVmVhWnhpVmtKbm4yXzhtU1VFQXJGdG8wSnFvbGlpRFltS3BZb1dCX25xZnY4eFJRNDNzank0MGlsTUpCbUNHZG9EWmJZRHU4QW1aQVowWUFGYjcw?oc=5
+  - Facebook: POSTED (1289239267586516_122110804035407566)
+
+- **[Kenya Latest]** Medical workers' strike leaves patients stranded in Kericho - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxPYlNXVS1SdDBvOFJkT1pRUU5PLVRIR0JDcktpendEUXp3LWdrQ0RfblNPN242aVp3eHB2blJ3Qy0xbmVSaHJpb0N3NXBPek5BdkxJaFpORldJN2s0SmZLaGNnSWJoZ01mcDJRMEsxRm9XODg1bGloQ1hGTTgwcVRiMTRWWmN2Z1R0Mkc2MnE2U3BLUjIySXhfdUdxcGhUcjZaY3JIQV9WUzRDZTcyQzBCVnVIejBENnhNTmdwZU53?oc=5
+  - Facebook: POSTED (1289239267586516_122110804089407566)
+
+- **[Kenya Latest]** IEBC: No campaigns before May 29, 2027 - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxQeXp1VXZUcnMwVmh4dFotbndHVVNtM2lybjB1eHVFOVU5QW1wa2xMUDFVdS13QWNPX1VOOE5CUE1MWGlVeVY0Q0ZqeHdOVGlJRXl1dmNBeHAtbjBwOGVZYm8wMHZUS0xDQ3gwWXVmM1VVZzhCT1ZsdEdsN1dMTnZKckRPdTY0QQ?oc=5
+  - Facebook: POSTED (1289239267586516_122110804125407566)
+
+- **[Kenya Latest]** Laughter as Gachagua Inspects Guard of Honour Mounted by Murang'a Enforcement Officers - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRGxCdEQzMlF1WUZQanpkWHhCSnlfcXhZUkNWYllwczVQMXhPbTlIZkZycFl5OGdJaVpxYW1Jc3k1bWNWYjJRYUUwLURQb2JnUnMtZm90b0JXOVpjRXlxdXNDOC1YYTc2MjBCNmRoMU5QVzljZXc2ak9ySEgySXJDRHotdFZtaVVoS0N1N1RPUlYtTmoyeFRYdzk0aURKd00zN2Rqbm9hNlBoQ0VCOHFkdWZVZTJfQlhUdnRxWjh2MkpEUDg?oc=5
+  - Facebook: POSTED (1289239267586516_122110804167407566)
+
+- **[Kenya Latest]** First Lady Rachel Ruto calls for urgent action to curb maternal, newborn deaths - The Eastleigh Voice
+  - Source: The Eastleigh Voice
+  - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxQRnctWWdxWjVHbFpHVXRJQ1VFWTZZaUM3aElMNVZNZjNlQ2hrZzRsc3gwQ2dwUXNxd21RcWgwTnA5ei1XVnRicUdnX3RqWERHdVR3djl0NldmOEpzaXRQM21fNGpoT1gtemw5ajZZWWVnMzByM21pZ3UyVkZMbEt5RUl4RV90X2I1LW9qWHR0Q3VjR2lkYTBXWVVlZElxZmZyaTBOVFBwUUNGMm52ZG1zQ1NKSW1md1YwTTJDXzVn?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Kenya Latest]** Court Issues Ruling in Ksh 1.57B Fraud Case Involving Treasury Officials - Kenyans.co.ke
+  - Source: Kenyans.co.ke
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkQ1UDNLa3lQbDBBUWdPVlY5ME00MndoWlBZR3VIZ3FwRUQxdWpOZmtwXzZkdEFjYVB1SVo4SG1wYUNHdXNuX2FVMzZYcGNSQlRQazgyRFdRWnpCRTB1eWdGSEdmTGwwUk10RXg3SExGMktWQ1NGMUJpcUVLMi15TzNCc3VIejlNeWJtWlpxOFhjVmdvU05ROFJLME5GdDRGM0NwVTJ3SDQ5R2UxSXVUZ0ZwZw?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Kenyan Banks’ Raise Bet on Government Bonds as Holdings Climb - Bloomberg
+  - Source: Bloomberg
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQTExQbmhJZWpoRWNzRXpSbnoxakl6UE11QjhqVVlOLU1haGRENWxGaFllVUo5TEJMcS1wbENVMnRYOG5mTzR4bkVlN1Z0dzBoWEJqc2dOME5weU9ORXFWZUo0NGdqZXVkeWt0a0ZkQkxrQUhwQ0x1cS1sc254THlIbmdOa0wyMUxGUERwTVNYeER4NENGbFpIM3FiR0NWMHgzaUFheUF3blJjY3dLQXdHMQ?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Convergence-Backed Comsol to Build New South Africa 5G Network - Bloomberg
+  - Source: Bloomberg
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxORmo4N095aGp1UmhqdmpTRU9iSFo4U1hhOUplRUhKTkMteVBYWldZcDRJLS1mXzlERzM2YmUtTUxodFZPOTJIRC1sa2NfcDFXY1hKYVBFdXFEaWtMVWE2X3NvSFdfTXMtSk1HbVZZblZhNmNURXNVZ1ZRVWl6N2NvMDlVZXZsQlZKRjcycXFzSWI3Y19NdHpubHFGOS1ZbDgyTHJPQ0pDcXdpejloeXkteEJMZw?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Ethiopia Sells $500 Million in Latest Bid to Support Currency - Bloomberg
+  - Source: Bloomberg
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxONzBZaVk4WVA0R3NDd0xCYlN5Y0FxQzhGdUwzS1hIdzNfeWo5RFlEQ3RZb012eGY4U2VuLUlIcmtKM1lYSVZLaWRyWkd0TWRGZF94cGkwQ0FKeTIxc3hyZnBTWElYd2tPR0ZkVjA2RUZVS3JoQ1d6MjNMdWJiSHYyeHlFckVxRE9pQ1hhcmJ6aDh6UnQxZkh6UlBYQUVnWVZ2M2xIaTE3QWh3TEpRTU1Obg?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** French Nuclear at Two-Week High Eases Pressure on Power Markets - Bloomberg
+  - Source: Bloomberg
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxOUmM3YUM4Rkl0QmQyamZSVS1Oc2FreE9RT0oyeU1wa0ZCZ25jbWJFQlYzaU9taHBBdUE1ZmIwd0M2X0YwMnBCbHF6OHE0OVJvbEFaMnpjRDZUekFWWjM5WkFEQUYyMkQxSkxsaDVqQkZSbFFMbEpqV01ZZ01mVGJQaWgwVHMxMFRjNVFTZVkyNTVPYlpGMUxfV2VqSy1DcjR6ZDRYSjdDR09RWXFsSWRfWk0wbWU?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Large wind farm in Wales operational this autumn - Energy Live News
+  - Source: Energy Live News
+  - Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxNSUU5YlNNZXZXV091cU1QR0IwVVhjalJBNDBfaFhBaUs5Sy1zbFFmMzlCbGhTN1JpRWViZEZ1b05HRGU2UWIxMHJ1RWFNaXA0Z1lwNjJVaVhRZ2RISTdueWdjNFRVdEZNUWtMaUNTck4wNE9Mbi1YQjRtaHpzRURjM3hyUENNV25TTGc?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Zimbabwe central bank chief credits price stability for mitigating global shocks - Xinhua
+  - Source: Xinhua
+  - Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxOTDE2ZlRpbkltYi1LNXpJRnVnZ3hudm9FQ3AyaWNJaTFOb18tU3ZTbUFZYnZ6ZEN0UjVRdTBPOUdfZHYwNEEzZmZYTk8tNnFEVGdCWVdJeEZfaFpDYW5GbmtVRmlhSFprVzZyMDE0cFNGZnlKdXNGREdKZ0tLTGphOXJHM2NOdw?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Wall St hits two-week lows as rising bond yields, Walmart results drag - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmlyUENlX1M1NzRGQmNObkJzQ0dIMDNtcm9oU3VVLWMzTTdfNEp6M2Z0ZDF5U1lpUThkRnRTWGlRaC1tNl8wdDJaWnBRSmhKRE5ob1BDczVOVGg4a3N4eXNjMDM4eHpOMnpSbVNsZGJrX3dxOHk2Sktyc2hTQ1RJWjRTVFJuTkRzc2RlNVZXX29md3NsbzRYbUFjTm9Jc0cyMlRLRGxIcEphY19McEpERmdNbnl6LXlULVE?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Quant hedge funds suffer worst day in 2 years as Treasury boosts buyback and Moderna shares leap - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPN215Y3FwTUM0QWdMQTJtQW51N1hWbUZkM1ZCMGdHYzhGWjhQc0xvTlM0bnFxaE9CMDVNNDlPcG9hblNnYzhSVHV5V3FRRXJhY3JaelVEbmlyU0NzVmJVUlpZbjNxUDRnYUFJcm9TRkVSLXhkUHZsNVhrTTN4d0VOSWFfZG4?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** 4 Steps to Transform the “Middle Office” with AI - Harvard Business Review
+  - Source: Harvard Business Review
+  - Link: https://news.google.com/rss/articles/CBMiekFVX3lxTFB3RHp4ZTBmMHhPRHhFU3ZhVHZlendNWEkwMFNGTGhxc0swa1BUU2JCcVB3dnd6bXNienlpYmpwdEgyZjVIMmxkN0E3TE5RQWJqUnd0YjF4V082QXBsdU00Mlh1Rm1vMDhIc3dRMWlsR1czcjhzaFhJSHZB?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Rocket Lab launches 9th satellite for iQPS - SpaceNews
+  - Source: SpaceNews
+  - Link: https://news.google.com/rss/articles/CBMic0FVX3lxTE9lZ01YYl9DR2w5QTBFaGdWXy1NaUJKQURJdHlPVlloQy1CZDN0Qm9IcVlmV3lrcXl0T2xfODRqaWV3bHV0RVhjVEhpcWZMRHNxelhkSlNHb3FlQ1RPZTAyYVk3aUdTRE1uUUZmSXZUMklHMzQ?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Apple Holds Firm as Investors Seek Big Tech's Defensive Outlier - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxPRmc0dmNyZnkyN0hMM2VGb3JKZExDaUhYak9lWVA0bUdyelpNaXZVR19ZYzllRjV2UzVsdndxODJZejQ5d2lyNEpxWmxRTThISVh1ZGZlVjBSZmpDUk1VdTN2aXlvTEN6aDBkeEtxbmlWR1dFMXdKeDl6aTE3ZnFyVmFFTHFmZGxSTU44VThCMFA1akU2U3d4MEZIcDQ?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Nvidia to ship AI chip for China by year-end, The Information reports - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMldWMkxfMnFZbHg4YnI0RTdoZGtfMXJIT1hTdHg4aGUyMWhvazNtdWVoLW4wMDR0cXkybXhEMHdqanBCZ0Nmb21xVVVua2lYOTQ4elZsUFlMbTBVYkpwRDBaVWs5Y0xRTUc1U3BSVng1WlpteXhqS0NhdWZ4cmthTlpFYTJJX2hrdGc0Y1VZUTJ5aXNzQWlvb19nei05RHJIYlhEZXRSYko?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** The new kingmakers: Crypto, AI and betting firms fuel record spending on the 2026 midterms - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeENQNnM1RGoxMUFwdGJ2c19GUDRnTUhiWVdieDZNZG1qX2QzN29SYVBqU0NBcnVaMjRISjB3ZFc5WTlRbXYwQ1FkallpcmdLeEcwWk1wcS1pbG9TbTB6WFQ4VENCa25wMTE1TmJMeGJ1dEFtY0xrX0hOb0ZURkZJWlRmM3lFcHFZaXpqTWFCYVhHdDc0UXJzNEpPTUo5LXdBYzlCcXppZklKbkN5cnc4NGFsU3p5U0xPNnJ1dGUxYWEzQVI0Y3ZqcA?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Bond yields jump, erasing impact of Treasury Department’s intervention - NBC News
+  - Source: NBC News
+  - Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYk5HaF9CbFJDaHhhY2JrOVlfeC1nRXVRS3NqYm5UU2Q2YmFQdmhXeVBHYWlLSHV2bF80Nl80eWU1MHhSOUloUU1FSDBXN1ItYXRZa0dnM25keVVkWE0ySlVpcWZtWnBTZkV3bkZkNWc0S0NUZWs0WkFWVFo1QzVqZzgxdHVMOFlm?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Nvidia looks well placed to benefit from the next stage of the AI boom - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNMkgwUER1MS1DT0lLaklkeHhmZ2pwd0F5eUlOV1BLZ1VhNjJpeldONFd6UXhPRWNUZlU5WUtBSGxzYUF6YmQwZHJjOHpMSDFoM0ZQQThmeHNBODQwT1FKODZ4OUZCNDNRdHJUUUR4TTdQY0hKMjZJMnNpSlp4V1J3MTZMNEY?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Crypto shares climb after Treasury's doubled buybacks boost risk assets - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmM3elp4cktvVklVUlVBN3BvWkliX2FDX2RjbkdWQkhfcVdzVmFweEoxNkZzS3ZuMDhyRGZWOXRiQ2laWFlpUHhzcENKVklXMzduOGNzZFQydl9qMTJpRFczOU5paEU3VmpEYlRFMVlwU01OY21JTWRrbXItQXd4R1lZMUhaQXN5V1RtOVAzeXUwdUdLNDZ0T3ZNVENOVE5hUkYyV2t1d0xPRmEtTmRuQQ?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Clearlake’s FinThrive Posts Earnings Drop, Taps Line of Credit - Bloomberg
+  - Source: Bloomberg
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNelBQU2pxeHBvcXVHQUhhWGl6UFR4UkZNb0pTMnBpZHdaVnpPWXhrQXdhZ19DQUFmeVI5N2FrN215bG13dkt3UE1FeEJTUG9wd0diSzYyamo2d2FnOWRUYkNrVktHWmlSLWxNRnBUNHd5SnpqTXQ2bkNFSjRaeEN3bG04MjZsNldvbFhjWEwtOXlmXzM4VjItSEdMTC1xTnRCOUxFeXE5TkV4RFRIQVc0LXJn?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Entertainment]** How Kenyan Celebs Are Turning Fitness Journeys Into Content - Mpasho
+  - Source: Mpasho
+  - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxQemhGcTA3VzZlMm1PdXNhWUFmVks0U3o5QUdDLTdtcVVhTnNPOTlvd1hVVmtTTTAySlhYVU16U083clNHdWhYRTJIQnNaV0Zydk9KWGJSS09XUmpDOE00QlpHenVEYzhkZlFoMXczUXZfMmVyQ0pPRnZFUW9BVXZNd3cxZXRSMkdHbE10TDRIWXl2ZElnODdvalViQzk1bTFG?oc=5
+  - Facebook: queued; Facebook limit reached
+

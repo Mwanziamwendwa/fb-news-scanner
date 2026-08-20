@@ -1680,3 +1680,130 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://news.google.com/rss/articles/CBMifkFVX3lxTE03YzZUNjdOU2pCTnRrMWxQcHV5MmdtZmF3SDBHRUtGSHNxSFF0WUdvMWtOSS1iam9zWEloQ2dxN1RiU0s3WWl5ZFBMYXVoWHBfUlFyLU53dWkyTmk3alh1TjRzajNHWDdmbzFUMGdDeDd1cjY3THBtWVVZbVZ4Z9IBgwFBVV95cUxQVllrenJ6bXp3RXpIaVdnay1XY3ZTLUVmZHhzQzR1am1XOFBIS1BWVHhsRktOT3JjdW4zaWhtWFZnNEg5Sk11ekUtOHdhc29TV1RIN01yTFROcjZDM1M2d0FUNGJTczBaVDZSVW5qdzk5MzA3VlpJdG45Snc2dFF1VzlFbw?oc=5
   - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 20:12:57 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AJukjkJHNuuPHWQgkm7_weZ"}}
 
+## Scan run: 2026-08-20 08:08 (Nairobi time)
+
+- **[Kenya Latest]** IGAD warns of El Niño risks as Horn of Africa braces for heavy rains - The EastAfrican
+  - Source: The EastAfrican
+  - Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPem4zT0tkUlh0dm9NQl9IMHFScGtleXBzY19mbk1iSlZwczdLeWdCVDl2UDEtTGQ3QmhZWno1Unh2N2JKQUh2bVY5VjllOHJNSmxCTTJ1eXg2M053dmVOb0VvMThPZlRIb0FSb3pGRU9RUDRBdkszbGFQdUoyNkFQTlI1b1VRdEpzVjNZcHBhQjYwVVY2eFFCejNtTDU4dVpLWlE?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:07:34 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "ATALfJoVF8yk-M_7ql5vUca"}}
+
+- **[Kenya Latest]** Striking nurses, clinical officers reject fresh negotiations with governors to help end ongoing work boycott - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxNZE90S0NseGw1aTBOZDFmMVpfbE5ObE5YQk9yazU1SGt6b1pFTmxRNDNhN1lxMDl5ZFkybnYzbHFDY0I2Sm9EaHN6Vkg3Q241Vk5jc2xJTXdjWTM0WXl3MzB5Z0hXX003dTZlaDVqZWZGSk9pUmFBT1I4bkNZRkRueXI2YlNNdWJ3VVV3SnI0WXlFZUozVVNmcGRsYmFfWmF2dm04cC1GRW1FNklPUGZGRGpUMUJpeF9YdzFMcThWSVIzTERTX1l3?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:07:35 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AegJV4Rm_9KNOxixtkDlHk5"}}
+
+- **[Kenya Latest]** Court grants bail to 11 suspects in Sh1.57bn PROFIT fraud case - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNYmRCajFDbWRaNVhxV1F0aWZZN1kwdGZBQTdKUFZ3NFBxcGlWWTdFbTlDTm1DTTV5TEdzZ0RpT05jZkFJOHhwd2RWa0V6dDVkcDlmQzk0b3VueWNtM2pqeTNheklkdEFQMFI1cjNNam1NNFpLVG5MZUlla0pHMGdyT0FVTWotZWtfUG95Q3o0X1dyRzR0WEN5MEFqc29QV0VQenlxX2t0MW80VHpaZHBRb3pjMkJPMVlfUFQxSGs3TzA3eEVScWdySFln?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:07:36 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "Axl9rwRR8VaX_EKcATlgfY1"}}
+
+- **[Kenya Latest]** Kenya: A Moving Herd is Also a Moving Market - United Nations Sustainable Development Group
+  - Source: United Nations Sustainable Development Group
+  - Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE1YTjRXbzdJVWRHNURnX1hXSzFWXy0wTU1fcUJXS1V6QlJjVmR3eUgwbkhrR1pCSVNXOWNGcmxUWkZfdVVLR2pOeXEwQmhGLTZsVFJ4U21FLWR6dDR0VzVkUV9CTW15OWZLWDVuNGdNTmRWN04tNjR2a1l2QW4?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:07:37 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AgU6Jpe2Dp-EM92l_yWnJXS"}}
+
+- **[Kenya Latest]** David Maraga, Justin Muturi and Caroli Omondi Appointed in New 2027 Lineup for United Opposition - The Kenya Times
+  - Source: The Kenya Times
+  - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxOZlhVa3RkYWc1Ni1nQUhTbkZ0TzRjbkFZdHdNZHJFOHJ5N1JfWlpWM1hsMUE0Njh0SlBnUXEwYzZOdmdRLXc5RlZ3VDdCZ0x1SW1rcUwxUnpUUXlTZEt0cktwNU5HUWN2aFNLVnRVNjA3SW5WRWU1OUZuREtjZjhTN2ItTG45aU5kd0R0NmgyWjI2OVhXVFpReUtEdEp2QzBieWNSQTkyU2lVRHhvY1RpT3NQelhuU0FnWjRyR002OGZra21abjFv?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:07:38 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AWhQLjtkRE5vqmF5CVkhShw"}}
+
+- **[Kenya Latest]** Why Gachagua, Otuoma have been summoned by NCIC - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc0p3UE1YX2F2clRwVi1MbjdJVk9uNllkaGxfYU56NFpPZDB2dGozYlhjU3VWWjhnQndaeXZjdWtOM2ZTbDBMYkV6NnVsZW5XbGZQMkRTbDJtcHBsTTVUdGZmTjdsdnZ1QnhRR1lnWXJxazJzN1E0Z2JBWjNqdWVJM2d1SVprRXd5X0huR3haTTd4aEVzNW82X2xuNGtYRmkySmc1Mnd3VHM1UQ?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:07:40 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AaQMr8WMuqcDwLDchMCgAOQ"}}
+
+- **[Kenya Latest]** Gachagua to Ruto: ‘Kenya is not Uganda or Tanzania’ as he warns against election disruption - Capital FM Africa
+  - Source: Capital FM Africa
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQTi10Rmg2a3VjMkszZ0QyWDA4TG9lb2MwTXU5Z0tBVC1ubjhfTndMeDlMVmRZOGpwSTdMaUdTVTNyMWQ0NkdVS3VvaXlLODlJb3dnWmIyUi1MVmFkaDB2eUtUS3JYQkxVbzZicVk0M040bDZmSGUzZHJtQ0xVSVVUckJkMGZ3cUhQbHdNNnNsSGQzUXctbG1pNEltNXR4OXBzM1B2UFJoUVM1bU42YlYxVHRfb3k?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:07:41 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AmaMWsOTpLbjY7w5dZr72ZH"}}
+
+- **[Kenya Latest]** Wildebeest migration season kicks in as new model hits tourists in Maasai Mara - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1VEVXJaU013TFp6Y2FnVU9oMEYyNno5V2dLSGlsemp2U3RQT016RFhnMktIQ3FyRDlsUXYwWFVrR0Ywd0hEaURSbTZrY3pGdm9pclB6UjM1YkxZWElTbktDTkFSei1LX0t1Y0hsWXNqY3BEUUEzekN0MVlSZmJ4Qlhad0lnYUM3b3J2NThRMUdadGFVRW5RcVZwNU8?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:07:42 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AJ_xwUBwr8eapJCOaf659rY"}}
+
+- **[Kenya Latest]** Gachagua reveals role he will take if not chosen as Opposition flagbearer - People Daily
+  - Source: People Daily
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYktfTnFCd0tzYUVZX3hPcG5fQWJmOF96enVwRmxUOUNTenNNQld1M0h1Z2JGQXJtaVpoamV6eUJGVnpTbk5ndEtrVnJKM2Ywbm9tTV9hOE1VcVA5TVBBb0VyMkFVbWF2eGM0SlBqYXZfdEF1SHVvVEE2WlFLcUdRWWJibjFyRk9oWTZNY1lFa3E2NHpxOXBvRGU2enFURVpjUWhlTWQ2bExPN2FJbnhOZG9kdWktRWFV?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:07:43 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "ADdG8SwAP4kzuH_6fVtH9F7"}}
+
+- **[Kenya Latest]** Apply for the Kenya Presidential Digital Talent Programme 2026 Cohort XI: Build Your ICT Career Through Workplace Experience, Mentorship and Professional Networks - Global South Opportunities
+  - Source: Global South Opportunities
+  - Link: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5BaUJ4RW1kMXpJNVVxQ1piN3Q4aEpwQ2dybmdPb29yR1JMemhuTDhIUkNGenpqN3MyTi10Wko2MGQyWlE1X0c3b3ozbXoyWmRqakFaZU1GdkFaRTdneUEwcVpsOFExc1E?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:07:44 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "APsUliYYKHFtD_NaqhIoPCU"}}
+
+- **[Kenya Latest]** Homa Bay Leaders Told to Account for Poor Development Instead of Blaming Marginalisation - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNZUJIYUxKNUZlczBxUlphUGcwaThhc1QxWV8wMllBcVc5cHZjQ0NhbjVHVklSbEhoODRRYUs4ek5hcHBNajd6WUpPQWxGTWlmc09aUndOamxCTG40OGlfOTNuTnNaSEx3WS1MR3BaOHdESkxxOEtSY1dkU2l5RXhHdXBwaXRkTjNaM2t1eGxLUTVtM3pDczlrQTlZWWw0U09pR3ZRb0ktc1FtYzNvOURrYWRYbGdhMkk?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:07:45 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "A08CWu0-M5jJrZW1I1JIeVE"}}
+
+- **[Politics]** Politics of hate will ruin Kenya’s good reputation - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPckY3NzNwR2MyZXhzWU1YRHVkeklYS01KRFE3OGZHc0JPVlhnWE4zMDJCMzNra18wLVd1clFTTDlVbGh3ZFRLcU1XWml0c09tV24zLUxBNUtIanFvU2tzVWJhSVpKSUwxdjRpQ0l5RGZkRUhNTFRnNkM4V3B4dlo0ZkQxUF94a09ONFVkS2tBZnNZSWZNLW42S3pkcw?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:07:48 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "Avlg2gEhxjnAGS4I13CFA14"}}
+
+- **[Politics]** Ndindi Nyoro gambles as DCP mistrusts his move - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ01sUjE3LUlyR1hsS1RRaEtIRWVLQ0VmQ2VxNGZtVjFnbWdMeFpvRjd0YVR5b2c2VF9zYkJDV1BJU2NQUHZUVHhFUjAxXzNkYzJTZDhPb0lOVkNRZllzenVObUVadllnT1VLMHJjZ29rTU1KX0xxamFVRTBXXzhpdU81TkRhNUVvNVhhelpDRWlTeGt3Q0FVM0VEM0lBbkctazQxWVFyeUdVZw?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:07:49 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AbZFDIf7pFtYU18ObM5AMbM"}}
+
+- **[Business Topic]** Kenya Airways says its fuel cost up 72% due to Middle East conflict - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3BPSGJBTlpLN2RoUzdxMzl6TDByNWlsMEtRdV9JeW9jeWdMdGdKR19xWUlFOUxCV3FROHdTZy1qalpkT3FVMWhpeXJRdnZZZ2paV19peGM0OEFZdGlWS1FDeFdMc0h6TThzSURRUDFwVVpFLWJ3R2t1N2ZsMXNpQXBwOHRvaUJyLVF2THB0RnBKTHc1dS1mZkp4eXBJa1lnanhNOEE5UjNEQXFpRWVhNWpR?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:07:53 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AtJAF4rSeePOEA2jlefqNRx"}}
+
+- **[Business Topic]** YouTube punches back at Netflix by offering top creators millions for exclusive deals - businessinsider.com
+  - Source: businessinsider.com
+  - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY1pZU3RkU3k5am5LYWtfZXQtMWJkNFlVdVU3ZkhlMHAyb1FqUTk0ZElHdGJBUS1FU0FQbU5XZkJyQzJXOC1TY21rMVFqdXBuWE9RS0dXSVNIcExmbTFOQmZvazQ2OG1ua2VtWHZnc3RDMHhFMGNHcjVlakhrS0E5a0ZXU09Jd1ZfeUZpTXlyWkI4NE02QkpWM0dacGx0S1BBTnZNSHUzaUM?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:07:54 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AJBJ72APYDljkL08_plCM4h"}}
+
+- **[Business Topic]** Trump's student-loan expert said he was 'not aware' of a repayment glitch in a lawsuit to restore affordable bills - Yahoo
+  - Source: Yahoo
+  - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxPWjFiNC1TR0ZVbGhFQVctaWxaR3M0SGJfLTVCelMtTTJZOFpFOFFPc0RjM05LUzVwWkZNU0h6T0Z1ZjdMdWUyOXQydjdtN0I3YmdCa1VaZ2VsVEtWb3Z3bzE0QXM3VUE3WWNpREJkcl8wUUJOQ3NMSUlhbUlkb1c5NUdSODVBdmViUjlPcnRKNVJpclEtb1E?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:07:55 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "ANlqooP2ylRrMBZQ7sEd2z6"}}
+
+- **[Business Topic]** Kenya triples its power target, aiming to expand use of nuclear and geothermal energy - The Independent
+  - Source: The Independent
+  - Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxNS0h1dThhY2tsdEVubDM1ZzVRSjZFTG5vRTFMYXRtVVJIZFpES041UFprTVlySGJud003WlQ3YnZudGdHV0htalVpRjMxenRxZnF0VGRrMm8zZmdJMFpRUHhURHVHV0k3eXBFUUhYeEIyZ1ZpcjRnRWkwZklXRmUzaFVFQ3R3MEZ1RGF5UldiRVFMSklOUlNJ?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:07:56 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "A89BBL30acOnIgsQimsdoGL"}}
+
+- **[Business Topic]** FANCO advances engagement with regulator on HALEU plant - world-nuclear-news.org
+  - Source: world-nuclear-news.org
+  - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxQWEoxbmhXWF9NU2UtUzFJNURhS2F0WGJSMUNIZzFjQlR1cGh4YkJJWEVCSkM1bjZ1dTlyWk96Ql9qUllkR1NkWjc1dDdHLXJNT2xpTWZzVmttY3VBcS02MXVtdXpRZGhKNU5MdUhrZE5HM2hHUXBHbzFOX1NjdWtvT0hEbjdSS0owcFBfTGY0YVFzVTdZbGY4UFhfM2RqX3RW?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:07:57 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AN1keYcKIoTUHbLSyCszvm9"}}
+
+- **[Business Topic]** Risks and Opportunities in Data Center and AI Investment in Emerging Markets - ifc.org
+  - Source: ifc.org
+  - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxPVXZUcHBaeUZYQXVVRE9FdUlNZ0NId05FSVBJVW9DUjYzV3plZDNGdks5OUlZbXllVWtUVVA0MGhDb21TeVgtZV9UY3ZQM1N5VVpKY1A0N3lTVUwzYTNrcTNPRnBxX1k0bE5FOTc4b0ZZckdfVDFOblJZd0tqbVhpdHBNaVNtQl9GaEVxOE5NQWs5dERKcGg4X0wtYjFFMnJCbVoyUkpxLTBmVkdi?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:07:58 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "Aq6Og0ZdEasp62-J4aBCT3i"}}
+
+- **[Business Topic]** Oil Supertanker Earnings on Mideast Route Near $510,000 a Day - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNWnF4Yks1aUE5SWl4a1NnSGNlZHNlb0l2T1pxNk1wM1hKV0ZDMjV5ZV96WF9xYzdFdVFtRWgxa3VEcXZWWEplQWwzMWY1UFdEbmRlMVlQRW5fbDNWNTJYQXFMX1E2UE5wN1N1MFpHNm9SYi1NYnpybWpsN2JrQjl3YWNiRmlKY2dfdDl2M0luOWVrbWVQZzJPQVVZbGZkeTNvZmNIV3pnaXhxZXlmTTFwbA?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:08:00 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AutiixEVgqOdat1sX1WW5Zr"}}
+
+- **[Business Topic]** US national debt passes record $40 trillion - Al Jazeera
+  - Source: Al Jazeera
+  - Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxNWTFXQlFLOXVMV3NpTFdEOGFSSUFYQlpQRG00WWF2SEtCTWJIanNtNUVXRmItUkpCc3Z0ZjU3Q2dBY2pQQWVJVlZlWnUxOGJGWHVwbEhMNUwyMW5QSEZtN0NCYU1oQmNpV0ktd1dMWUVtTlFMbE16cHZRU0w1bmgzWkpoTWYxZEZUNDAyRW5YWdIBlAFBVV95cUxONWgzSUhqNDU4ZHJGR3N5RWwya3BLTTBEX2h5cEJFUldsdURMWHl0MDZTa1BoRVlnbC1PeHl4cy1lMmJrbXBQbWhwVnN3MkJHaTNnSnBlWEVWejhyVDlXWTdoLUFFbTZNSTBkdDBrRWRYOHBpUks5ZTFteFZNTlRRdXRrUzZvLTRidFdSVHBLNUVsMXpq?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:08:01 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "A_OGBgbt25p4xfNmGCn3UcK"}}
+
+- **[Business Topic]** SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxNRDVHWVM4dVpSQUd2Y2JuLVltU0VJSjM4cFRfQXFqdXgzemNDWEZrWlF2X0ZteTlkeFdFb2dfNnhHcVdrbVkwQXZlRTFaeEtLd0p4RFFfS1lkNzBjS0EwUGhubHhHaHd5dkdmQ095RUFpekdNT1lBTDRKYUZSQm5OdEN0U294ZDNQdVp6OEdhNzfSAZYBQVVfeXFMTTRJaTdhaklVOUxPR09pN2lhQmFLbEZtS3VQVHVMS204aFVpdDV6VWd3U2x5U29qVUZCQ0xvN3Y0ZUVDSDVyMEZPWnNSNlhFSjJkWDRqWWxGMDlPcDByTnFKUUVjU09HWjM2VW42WjVnYnJZRUd0cktGTTNsTjVPM2ZsU3NOVEcyYWR3V05EQnI3LUZHLTdn?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:08:02 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "APemCWWu-5Xb3jmnVmILoVK"}}
+
+- **[Business Topic]** Fidelity Bitcoin Fund Receives $23.9 Million; Single Inflow Insufficient to Confirm Demand - ts2.tech
+  - Source: ts2.tech
+  - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMXplVW8yWnpBZEU3MUhPaHpfazBZVEY1eE9scDJwSWRjWHlPTW12MmZiUlNzb0xoaThUVWFVYk85c3NLOGRIb25KUUQ3eWpYbndQSEpZOFJvNGR2akRDWDcydFJtMHJKcnF0clFCWGlmOHZxTTBXYlUxb251dmNPYmF0MVQ5eHdDakIza0VaelBncWZudy1BUDU3dEg5NzRaanV2UzBsdkQ?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:08:03 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AT2dFFohGTNkdQeZfkkxftU"}}
+
+- **[Business Topic]** The Genesis GV90 Debuts, Its Neolun Trim Entering The Ultra-Luxe Realm - Forbes
+  - Source: Forbes
+  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxQUnA1TTh3bVNzNnR2SFczdHR6cnNYZHJKMXJQRUFsLUNjWnJnLWk4OFNyN1FDTjZESjRuaDlLQjVGT2ljVXNiV1pfZ1NrV0JJUENsNDJUWjNidWlqZFZCZ2ZGZEw2dmVITEtQekRwVzhxdVVDTE5Rdzg1UXZTU19pNTBxenYtMlNuMDhzREl6MU1nU1JIeWpzeTd3WGhnV2FmTHlxTkgxQlZVSE8tb3FrQ1o2NGE0MWY4RTBTNzY0TQ?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:08:04 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AORtKyB0QN_IMfN_GeMIVhv"}}
+
+- **[Business Topic]** Walmart will report second-quarter earnings before the bell. Here's what to expect - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMic0FVX3lxTE55amt5QWtxMUJpbENWejIyM01ubElHcUkyOVZiSnNlZlNxWXBaMlBNWm54XzlIUGFFNnNmMHRCZ3U3U3psVHdJWUdNaW4yc0otbkhuc21SQnlna1pTcnJpd0VDM1lLbWpzcXVIeVMwbFJxc0nSAXhBVV95cUxPMG15Wk5FUlRNWHVzc0RJaDk4N0FzVnhkU3hwQV81bEl4T2FpQnNlWHZDNkZVU1ZGNlNhYnYtTXRKZDRFS3dZSzJnOW5jV3pubWk5VHJGZUxZbXlzVk8xUEtwYUtidTFUR2FKX0FrV213ZGEtRXBlV0E?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Wednesday, 19-Aug-26 22:08:05 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AY0XrU3KQ_YzeBf-xfmdl-I"}}
+

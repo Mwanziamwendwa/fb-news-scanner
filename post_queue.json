@@ -1,155 +1,5 @@
 [
   {
-    "title": "As campaigns begin in Nigeria, Tinubu’s re-election bid puts his party on trial",
-    "normalized_title": "as campaigns begin in nigeria, tinubu’s re-election bid puts his party on trial",
-    "link": "https://ntvkenya.co.ke/news/as-campaigns-begin-in-nigeria-tinubus-re-election-bid-puts-his-party-on-trial/",
-    "source": "NTV Kenya",
-    "category": "NTV Kenya",
-    "summary": "As campaigning for January’s elections begins on Wednesday, President Bola Tinubu’s pitch for a second term faces a politically fraught question: are Nigerians better off after more than a decade of rule by his All Progressives Congress? The answer could shape the presidential contest against former Vice President Atiku Abubakar and Peter Obi, who have […]",
-    "discovered_at": "2026-08-20T20:57:09.053767+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Kenya Needs a Culture Shift to Curb Road Impunity | Naisula Lesuuda",
-    "normalized_title": "kenya needs a culture shift to curb road impunity | naisula lesuuda",
-    "link": "https://ntvkenya.co.ke/arts-lifestyle/kenya-needs-a-culture-shift-to-curb-road-impunity-naisula-lesuuda/",
-    "source": "NTV Kenya",
-    "category": "NTV Kenya",
-    "summary": "Samburu West MP Naisula Lesuuda discusses Kenya’s road safety crisis and the culture of impunity on the country’s roads. She calls for a shift in attitudes and greater accountability among road users and authorities to help curb reckless driving, traffic violations, and road deaths.",
-    "discovered_at": "2026-08-20T20:57:09.053767+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "The Problem With Kenya’s Education System Is We Don’t Know What It Is Supposed To Do | Caroline Mose",
-    "normalized_title": "the problem with kenya’s education system is we don’t know what it is supposed to do | caroline mose",
-    "link": "https://ntvkenya.co.ke/arts-lifestyle/the-problem-with-kenyas-education-system-is-we-dont-know-what-it-is-supposed-to-do-caroline-mose/",
-    "source": "NTV Kenya",
-    "category": "NTV Kenya",
-    "summary": "In this Fixing the Nation segment, Caroline Mose discusses the challenges facing Kenya’s education system, questioning its purpose and effectiveness. She highlights the need to rethink what education should achieve and how the system can better prepare learners for life, work, and society.",
-    "discovered_at": "2026-08-20T20:57:09.053767+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "KeNHA Reveals Major Road Works Affecting Nairobi Roads",
-    "normalized_title": "kenha reveals major road works affecting nairobi roads",
-    "link": "https://www.kenyans.co.ke/news/126373-kenha-begins-major-drainage-works-nairobi-ahead-anticipated-el-nino",
-    "source": "Kenyans.co.ke",
-    "category": "Kenyans.co.ke",
-    "summary": "The announcement comes even as several Nairobi roads are undergoing beautification with the installation of cabro walkways.",
-    "discovered_at": "2026-08-20T20:57:09.053767+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Court of Appeal Warns Couples Over Property Acquired During Marriage",
-    "normalized_title": "court of appeal warns couples over property acquired during marriage",
-    "link": "https://www.kenyans.co.ke/news/126332-court-appeal-warns-couples-over-property-acquired-during-marriage",
-    "source": "Kenyans.co.ke",
-    "category": "Kenyans.co.ke",
-    "summary": "The decision reinforces the principle that marriage itself does not create a fixed beneficial share in every property acquired during the union.",
-    "discovered_at": "2026-08-20T20:57:09.053767+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Sossion declares Sh65m wealth, says his time at Knut strengthened TSC",
-    "normalized_title": "sossion declares sh65m wealth, says his time at knut strengthened tsc",
-    "link": "https://nation.africa/kenya/news/education/sossion-declares-sh65m-wealth-says-his-time-at-knut-strengthened-tsc--5565502",
-    "source": "Nation Africa",
-    "category": "Nation Africa",
-    "summary": "Vetting of the nominees follows the lifting of conservatory orders that had been issued by the...",
-    "discovered_at": "2026-08-20T21:26:08.247055+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Court orders police IG to post 3 officers at Gatoto Primary following handover",
-    "normalized_title": "court orders police ig to post 3 officers at gatoto primary following handover",
-    "link": "https://nation.africa/kenya/news/court-orders-police-ig-to-post-3-officers-at-gatoto-primary-following-handover-5565462",
-    "source": "Nation Africa",
-    "category": "Nation Africa",
-    "summary": "All the parties will appear in court on September 25 to report on the running of the school.",
-    "discovered_at": "2026-08-20T21:26:08.247055+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Gachagua tests Ruto’s grip on Rift Valley in planned Emurua Dikirr tour",
-    "normalized_title": "gachagua tests ruto’s grip on rift valley in planned emurua dikirr tour",
-    "link": "https://nation.africa/kenya/news/politics/gachagua-tests-ruto-s-grip-on-rift-valley-in-planned-emurua-dikirr-tour-5565320",
-    "source": "Nation Africa",
-    "category": "Nation Africa",
-    "summary": "The DCP leader says he'd reveal what he knows about the death of former MP during the visit.",
-    "discovered_at": "2026-08-20T21:26:08.247055+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "BAT Kenya CEO on illicit trade, new nicotine products and tax policy",
-    "normalized_title": "bat kenya ceo on illicit trade, new nicotine products and tax policy",
-    "link": "https://www.businessdailyafrica.com/bd/corporate/boss-talk/wafula-on-illicit-trade-new-nicotine-products-and-tax-policy-5565262",
-    "source": "Business Daily Africa",
-    "category": "Business Daily Africa",
-    "summary": "'If illicit trade continues to rise, then it becomes quite unsustainable for the business to operate going forward.'",
-    "discovered_at": "2026-08-20T21:26:08.247055+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Bunge lapitisha sheria kutatua msongamano shule za kitaifa",
-    "normalized_title": "bunge lapitisha sheria kutatua msongamano shule za kitaifa",
-    "link": "https://taifaleo.nation.co.ke/habari/bunge-lapitisha-sheria-kutatua-msongamano-shule-za-kitaifa/",
-    "source": "Taifa Leo",
-    "category": "Taifa Leo",
-    "summary": "SHULE za jamii, zilizo katika kundi la C4, huenda zikanufaika pakubwa na mpango mpya wa usajili wa wanafunzi wa Gredi 10 unaopendekezwa kuanza Januari 2027. Wabunge wamepitisha kwa kauli moja hoja inayotaka Wizara ya Elimu, kwa ushirikiano na taasisi nyingine, kuweka idadi ya mikondo ambayo kila kundi la shule linaweza kuwa nayo. Chini ya pendekezo hilo, shule za kitaifa zilizo kundi la C1 zitakuwa na mikondo isiyozidi 10, za mikoa zilizo kundi la C2 mikondo minane, za kiwango cha kaunti katika kundi la C3 mikondo mitano na za kaunti ndogo na kijamii katika C4 mikondo mitatu. Kila mkondo hautaruhusiwa kuwa na zaidi ya wanafunzi 40. Hii ina maana kuwa shule ya kitaifa haitapokea zaidi ya wanafunzi 400. Mbunge wa Kitutu Masaba Clive Gisairo, aliyewasilisha hoja hiyo, alisema mpango huo utasaidia kupunguza msongamano katika shule za kitaifa na za mikoa huku ukiongeza idadi ya wanafunzi katika shule za kaunti na za kaunti ndogo.",
-    "discovered_at": "2026-08-20T21:26:08.247055+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Lentojoni pushes for new teacher career pathway as promotion stagnation comes under scrutiny",
-    "normalized_title": "lentojoni pushes for new teacher career pathway as promotion stagnation comes under scrutiny",
-    "link": "https://educationnews.co.ke/lentojoni-pushes-for-new-teacher-career-pathway-as-promotion-stagnation-comes-under-scrutiny/?utm_source=rss&utm_medium=rss&utm_campaign=lentojoni-pushes-for-new-teacher-career-pathway-as-promotion-stagnation-comes-under-scrutiny",
-    "source": "Education News",
-    "category": "Education News",
-    "summary": "TSC commissioner nominee Antonina Lentojoni wants teachers to advance professionally without abandoning classroom instruction. Her proposal would recognise teaching expertise alongside the traditional administrative route to career advancement. The debate renews scrutiny of the 2018 Career Progression Guidelines and prolonged teacher stagnation. A fresh debate over the future of teacher promotions has emerged after Teachers... The post Lentojoni pushes for new teacher career pathway as promotion stagnation comes under scrutiny first appeared on Education News .",
-    "discovered_at": "2026-08-20T21:26:08.247055+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Kwale learners to benefit from three new learning facilities constructed under Mwache Dam project",
-    "normalized_title": "kwale learners to benefit from three new learning facilities constructed under mwache dam project",
-    "link": "https://educationnews.co.ke/kwale-learners-to-benefit-from-three-new-learning-facilities-constructed-under-mwache-dam-project/?utm_source=rss&utm_medium=rss&utm_campaign=kwale-learners-to-benefit-from-three-new-learning-facilities-constructed-under-mwache-dam-project",
-    "source": "Education News",
-    "category": "Education News",
-    "summary": "Three learning institutions constructed under the dam project are about 99 per cent complete. The facilities will serve communities affected by the multibillion-shilling water infrastructure project. Solar power systems have been installed to reduce operating costs and provide reliable electricity. The national government plans to operationalise newly constructed schools under the Mwache Multipurpose Dam Project... The post Kwale learners to benefit from three new learning facilities constructed under Mwache Dam project first appeared on Education News .",
-    "discovered_at": "2026-08-20T21:26:08.247055+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Kenya boasts transition rates while a third of learners can’t read – when will we measure what matters?",
-    "normalized_title": "kenya boasts transition rates while a third of learners can’t read – when will we measure what matters?",
-    "link": "https://educationnews.co.ke/kenya-boasts-transition-rates-while-a-third-of-learners-cant-read-when-will-we-measure-what-matters/?utm_source=rss&utm_medium=rss&utm_campaign=kenya-boasts-transition-rates-while-a-third-of-learners-cant-read-when-will-we-measure-what-matters",
-    "source": "Education News",
-    "category": "Education News",
-    "summary": "Yabesh Onwonga questions whether Kenya’s high transition rates are masking serious weaknesses in foundational learning. He argues that moving learners through grades without ensuring mastery of literacy and numeracy amounts to progression without learning. Onwonga calls for regular diagnostic assessments, targeted interventions and greater accountability for actual learning outcomes. Kenya’s education system has perfected the... The post Kenya boasts transition rates while a third of learners can’t read – when will we measure what matters? first appeared on Education News .",
-    "discovered_at": "2026-08-20T21:26:08.247055+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Beyond the degree: How fresh graduates can break the experience paradox in today’s job market",
-    "normalized_title": "beyond the degree: how fresh graduates can break the experience paradox in today’s job market",
-    "link": "https://educationnews.co.ke/beyond-the-degree-how-fresh-graduates-can-break-the-experience-paradox-in-todays-job-market/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-degree-how-fresh-graduates-can-break-the-experience-paradox-in-todays-job-market",
-    "source": "Education News",
-    "category": "Education News",
-    "summary": "Hillary Muhalya examines why academic qualifications alone are increasingly insufficient for graduates entering competitive labour markets. He argues that students should build practical experience, demonstrable skills and professional networks long before completing university. Muhalya says universities must also strengthen links with industry to better prepare graduates for changing workplace demands. For generations, graduation has been... The post Beyond the degree: How fresh graduates can break the experience paradox in today’s job market first appeared on Education News .",
-    "discovered_at": "2026-08-20T21:26:08.247055+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Turkana directs vocational institutions to align training with local economic opportunities",
-    "normalized_title": "turkana directs vocational institutions to align training with local economic opportunities",
-    "link": "https://educationnews.co.ke/turkana-directs-vocational-institutions-to-align-training-with-local-economic-opportunities/?utm_source=rss&utm_medium=rss&utm_campaign=turkana-directs-vocational-institutions-to-align-training-with-local-economic-opportunities",
-    "source": "Education News",
-    "category": "Education News",
-    "summary": "Turkana County wants vocational institutions to equip young people with skills linked directly to available economic opportunities. Deputy Governor John Erus says training should target fishing, livestock, green energy, minerals and extractive industries. The county says its eight vocational institutions must align programmes with dominant economic activities or risk becoming irrelevant. Turkana County has directed... The post Turkana directs vocational institutions to align training with local economic opportunities first appeared on Education News .",
-    "discovered_at": "2026-08-20T21:26:08.247055+00:00",
-    "attempts": 0
-  },
-  {
     "title": "Understanding compounding learning deficits: The small gaps that become big barriers",
     "normalized_title": "understanding compounding learning deficits: the small gaps that become big barriers",
     "link": "https://educationnews.co.ke/understanding-compounding-learning-deficits-the-small-gaps-that-become-big-barriers/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-compounding-learning-deficits-the-small-gaps-that-become-big-barriers",
@@ -537,6 +387,26 @@
     "category": "Business Topic",
     "summary": "JPMorgan Hints At Another Delay For Tesla Optimus Release Investor's Business Daily Tesla Is Holding Back Model Y Robotaxis, Reveals New FSD V15 Details Not a Tesla App Tesla Launches Robotaxi Services in Orlando and Tampa: Implications for TSLA Stock - Earnings Call Highlights Vinanet JPMorgan Says Tesla Is Confident of Scaling Cybercab Operations, Touts Future Models Based on Platform—FSD V15 a ‘Step-Change’ From Previous Versions Yahoo Finance I rode around in a Tesla Robotaxi. Here’s what I learned The Union Democrat",
     "discovered_at": "2026-08-20T22:17:11.621292+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "7 dead in Kenya helicopter crash in area popular with luxury safari tours - The Washington Post",
+    "normalized_title": "7 dead in kenya helicopter crash in area popular with luxury safari tours - the washington post",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdlF3OUxCaEVlUThIRkJkd0RiTmxGY0VqeS1jekhPY3l0aXp1YUVjREJJZ3c3NWNtb1BESW1XSVlnNXZwTE13TFVoazE2NDJuSDA1VjJ2TDhtUm1ra3pkZmxyX1ZsT0NNZGQyY1RMTUtpa2VYVmN5bGVNZ2V3SnBfTU9FdHVNLUx3dUtLc1l3elhWNDhOS2NwY1lfWFFmMWxIbldqUVh3akFTczVXOGIzb1lDT3VXMlU?oc=5",
+    "source": "The Washington Post",
+    "category": "Kenya Latest",
+    "summary": "7 dead in Kenya helicopter crash in area popular with luxury safari tours The Washington Post Final moments of chopper that crashed, killing 7 Business Daily Five Americans, Ecuador intelligence chief killed in tourist helicopter crash in Kenya CNN Miami executives and Ecuadorian intelligence chief killed in Samburu chopper crash Daily Nation All 7 bodies recovered from Mt Ololokwe helicopter crash Citizen Digital",
+    "discovered_at": "2026-08-20T22:23:20.450457+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Aluminum Premium Slips as US Set to Cut Tariffs on Canada Metal - Bloomberg.com",
+    "normalized_title": "aluminum premium slips as us set to cut tariffs on canada metal - bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbHVVeUp1Rkc5ZVVSdzRocEp1b3R5ZW1Qd2JlR3pQR0VYem8xVUpBVFd4OV9CYVViV1RXOU1SUVUtUlVGY1RSbkhaT1hQbjh1VU8wZjNCcXFKelVka24tMV9QMVZ4QWtzSWxGOWZDbUJsVTBFQzdLZVJLcnpYSTBVWEhUSGloVVlkMWZ5RDM2d3lfZUh5M1I0ck9qa1ZzYkRqclVIMFVmYnR2Q3d4RzM0enZzdFk?oc=5",
+    "source": "Bloomberg.com",
+    "category": "Business Topic",
+    "summary": "",
+    "discovered_at": "2026-08-20T22:23:20.450457+00:00",
     "attempts": 0
   }
 ]

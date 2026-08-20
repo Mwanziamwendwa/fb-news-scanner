@@ -4290,3 +4290,90 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE1GeEtSem03alY1bmgwMG5lMEZNQzF4S2ZMZENRd09NemlKM1I0QlU5LWRCRHdEeWlZOHU4VktRSHF3WVdFa1VaYTg2TkFnUm4tWlU1NTNRUWxLSEs0RzdBQktBZlBCd0ExMVkxd3hROHRBN1lEUkRDN2hQWEphRlU?oc=5
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 01:25 (Nairobi time)
+
+- **[NTV Kenya]** As campaigns begin in Nigeria, Tinubu’s re-election bid puts his party on trial
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/news/as-campaigns-begin-in-nigeria-tinubus-re-election-bid-puts-his-party-on-trial/
+  - Facebook: POSTED (1289239267586516_122110832943407566)
+
+- **[NTV Kenya]** Kenya Needs a Culture Shift to Curb Road Impunity | Naisula Lesuuda
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/arts-lifestyle/kenya-needs-a-culture-shift-to-curb-road-impunity-naisula-lesuuda/
+  - Facebook: POSTED (1289239267586516_122110832961407566)
+
+- **[NTV Kenya]** The Problem With Kenya’s Education System Is We Don’t Know What It Is Supposed To Do | Caroline Mose
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/arts-lifestyle/the-problem-with-kenyas-education-system-is-we-dont-know-what-it-is-supposed-to-do-caroline-mose/
+  - Facebook: POSTED (1289239267586516_122110832991407566)
+
+- **[Kenyans.co.ke]** KeNHA Reveals Major Road Works Affecting Nairobi Roads
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126373-kenha-begins-major-drainage-works-nairobi-ahead-anticipated-el-nino
+  - Facebook: POSTED (1289239267586516_122110833015407566)
+
+- **[Kenyans.co.ke]** Court of Appeal Warns Couples Over Property Acquired During Marriage
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126332-court-appeal-warns-couples-over-property-acquired-during-marriage
+  - Facebook: POSTED (1289239267586516_122110833027407566)
+
+- **[Nation Africa]** Sossion declares Sh65m wealth, says his time at Knut strengthened TSC
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/education/sossion-declares-sh65m-wealth-says-his-time-at-knut-strengthened-tsc--5565502
+  - Facebook: POSTED (1289239267586516_122110833093407566)
+
+- **[Nation Africa]** Court orders police IG to post 3 officers at Gatoto Primary following handover
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/court-orders-police-ig-to-post-3-officers-at-gatoto-primary-following-handover-5565462
+  - Facebook: POSTED (1289239267586516_122110833105407566)
+
+- **[Nation Africa]** Gachagua tests Ruto’s grip on Rift Valley in planned Emurua Dikirr tour
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/politics/gachagua-tests-ruto-s-grip-on-rift-valley-in-planned-emurua-dikirr-tour-5565320
+  - Facebook: POSTED (1289239267586516_122110833141407566)
+
+- **[Business Daily Africa]** BAT Kenya CEO on illicit trade, new nicotine products and tax policy
+  - Source: Business Daily Africa
+  - Link: https://www.businessdailyafrica.com/bd/corporate/boss-talk/wafula-on-illicit-trade-new-nicotine-products-and-tax-policy-5565262
+  - Facebook: POSTED (1289239267586516_122110833219407566)
+
+- **[Taifa Leo]** Bunge lapitisha sheria kutatua msongamano shule za kitaifa
+  - Source: Taifa Leo
+  - Link: https://taifaleo.nation.co.ke/habari/bunge-lapitisha-sheria-kutatua-msongamano-shule-za-kitaifa/
+  - Facebook: POSTED (1289239267586516_122110833237407566)
+
+- **[Education News]** Lentojoni pushes for new teacher career pathway as promotion stagnation comes under scrutiny
+  - Source: Education News
+  - Link: https://educationnews.co.ke/lentojoni-pushes-for-new-teacher-career-pathway-as-promotion-stagnation-comes-under-scrutiny/?utm_source=rss&utm_medium=rss&utm_campaign=lentojoni-pushes-for-new-teacher-career-pathway-as-promotion-stagnation-comes-under-scrutiny
+  - Facebook: POSTED (1289239267586516_122110833351407566)
+
+- **[Education News]** Kwale learners to benefit from three new learning facilities constructed under Mwache Dam project
+  - Source: Education News
+  - Link: https://educationnews.co.ke/kwale-learners-to-benefit-from-three-new-learning-facilities-constructed-under-mwache-dam-project/?utm_source=rss&utm_medium=rss&utm_campaign=kwale-learners-to-benefit-from-three-new-learning-facilities-constructed-under-mwache-dam-project
+  - Facebook: POSTED (1289239267586516_122110833387407566)
+
+- **[Education News]** Kenya boasts transition rates while a third of learners can’t read – when will we measure what matters?
+  - Source: Education News
+  - Link: https://educationnews.co.ke/kenya-boasts-transition-rates-while-a-third-of-learners-cant-read-when-will-we-measure-what-matters/?utm_source=rss&utm_medium=rss&utm_campaign=kenya-boasts-transition-rates-while-a-third-of-learners-cant-read-when-will-we-measure-what-matters
+  - Facebook: POSTED (1289239267586516_122110833441407566)
+
+- **[Education News]** Beyond the degree: How fresh graduates can break the experience paradox in today’s job market
+  - Source: Education News
+  - Link: https://educationnews.co.ke/beyond-the-degree-how-fresh-graduates-can-break-the-experience-paradox-in-todays-job-market/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-degree-how-fresh-graduates-can-break-the-experience-paradox-in-todays-job-market
+  - Facebook: POSTED (1289239267586516_122110833531407566)
+
+- **[Education News]** Turkana directs vocational institutions to align training with local economic opportunities
+  - Source: Education News
+  - Link: https://educationnews.co.ke/turkana-directs-vocational-institutions-to-align-training-with-local-economic-opportunities/?utm_source=rss&utm_medium=rss&utm_campaign=turkana-directs-vocational-institutions-to-align-training-with-local-economic-opportunities
+  - Facebook: POSTED (1289239267586516_122110833621407566)
+
+- **[Kenya Latest]** 7 dead in Kenya helicopter crash in area popular with luxury safari tours - The Washington Post
+  - Source: The Washington Post
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPdlF3OUxCaEVlUThIRkJkd0RiTmxGY0VqeS1jekhPY3l0aXp1YUVjREJJZ3c3NWNtb1BESW1XSVlnNXZwTE13TFVoazE2NDJuSDA1VjJ2TDhtUm1ra3pkZmxyX1ZsT0NNZGQyY1RMTUtpa2VYVmN5bGVNZ2V3SnBfTU9FdHVNLUx3dUtLc1l3elhWNDhOS2NwY1lfWFFmMWxIbldqUVh3akFTczVXOGIzb1lDT3VXMlU?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Aluminum Premium Slips as US Set to Cut Tariffs on Canada Metal - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPbHVVeUp1Rkc5ZVVSdzRocEp1b3R5ZW1Qd2JlR3pQR0VYem8xVUpBVFd4OV9CYVViV1RXOU1SUVUtUlVGY1RSbkhaT1hQbjh1VU8wZjNCcXFKelVka24tMV9QMVZ4QWtzSWxGOWZDbUJsVTBFQzdLZVJLcnpYSTBVWEhUSGloVVlkMWZ5RDM2d3lfZUh5M1I0ck9qa1ZzYkRqclVIMFVmYnR2Q3d4RzM0enZzdFk?oc=5
+  - Facebook: queued for a future run
+

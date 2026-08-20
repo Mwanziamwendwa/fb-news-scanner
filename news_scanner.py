@@ -36,8 +36,16 @@ IMPORTANT:
   the raw RSS snippet, and if neither the article nor a clean snippet
   is usable, the story is held and retried later rather than posted
   with thin or junky text.
-- The link posted to Facebook (and used as the link-preview target) is
-  the resolved real article URL, not the raw Google News RSS link.
+- Posts go out as plain text status updates — no link is attached to
+  the Facebook post at all, so no link-preview card ever shows a
+  source domain (publisher or otherwise). The real article URL is
+  still resolved and fetched internally (to build the paraphrased
+  content) and is recorded in suggested_posts.md for your own
+  reference, but it is never sent to Facebook.
+- Every run rotates which feed it starts scanning from
+  (feed_rotation_state.json), so with 62 feeds and a per-run cap on
+  new stories, every feed gets fair coverage over time instead of the
+  same first few always winning.
 """
 
 import os
@@ -60,6 +68,7 @@ SUGGESTED_POSTS_FILE = "suggested_posts.md"
 POSTED_LOG_FILE = "posted_log.json"          # everything ever found (posted, queued, or held) — used for dedup
 FACEBOOK_POST_LOG_FILE = "facebook_post_log.json"  # only stories actually posted to Facebook
 POST_QUEUE_FILE = "post_queue.json"          # stories found but not yet posted, oldest-first
+FEED_ROTATION_STATE_FILE = "feed_rotation_state.json"  # which feed to start scanning from next run
 
 LOOKBACK_HOURS = 48
 MAX_SUGGESTIONS_PER_RUN = 25          # cap on NEW stories gathered per run (before posting)
@@ -374,6 +383,33 @@ def save_queue(queue):
         json.dump(queue, f, indent=2, ensure_ascii=False)
 
 
+def load_feed_rotation_offset():
+    """
+    Each run stops scanning once it collects MAX_SUGGESTIONS_PER_RUN
+    new candidates, which — with a fixed feed order — means whichever
+    feeds are first in FEEDS get scanned every run while feeds further
+    down the list may rarely (or never) get reached. This offset
+    rotates which feed the scan starts from each run, so coverage is
+    shared fairly across all configured feeds over time instead of
+    always favoring the same ones. Defaults to 0 (start of the list)
+    if no state file exists yet or it can't be read.
+    """
+    if not os.path.exists(FEED_ROTATION_STATE_FILE):
+        return 0
+    try:
+        with open(FEED_ROTATION_STATE_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return int(data.get("offset", 0))
+    except (OSError, json.JSONDecodeError, ValueError, TypeError, AttributeError):
+        print(f"[WARN] Could not read {FEED_ROTATION_STATE_FILE}; starting from feed 0.")
+        return 0
+
+
+def save_feed_rotation_offset(offset):
+    with open(FEED_ROTATION_STATE_FILE, "w", encoding="utf-8") as f:
+        json.dump({"offset": offset}, f, indent=2, ensure_ascii=False)
+
+
 def is_recent(published_parsed):
     if not published_parsed:
         return True
@@ -633,17 +669,21 @@ def make_facebook_post(title, summary, link, category):
     """
     Builds the Facebook post text as a short topic line + paraphrased
     summary of the story — no outlet attribution, no category/"Kenya
-    Update" header, no link text in the body. Resolves the real
-    article URL first (so the link-preview target is the actual story,
-    not a Google News interstitial), fetches up to MAX_ARTICLE_WORDS of
-    the full article, then asks Groq to summarize it. If Groq isn't
-    configured or fails, falls back to a whole-sentence extractive
-    summary of the real article (or, failing that, the cleaned RSS
-    snippet).
+    Update" header, no link text or URL in the body (the post is
+    published as a plain text status update with no link attached at
+    all — see post_to_facebook). Resolves the real article URL first
+    (purely to fetch the actual article text, not a Google News
+    interstitial), fetches up to MAX_ARTICLE_WORDS of the full article,
+    then asks Groq to summarize it. If Groq isn't configured or fails,
+    falls back to a whole-sentence extractive summary of the real
+    article (or, failing that, the cleaned RSS snippet).
 
-    Returns (message, resolved_link). message is None if there wasn't
-    enough real content to build a decent post — callers should treat
-    that as a failed attempt and retry later rather than post it.
+    Returns (message, resolved_link). resolved_link is not posted to
+    Facebook — it's only used for the suggested_posts.md log so you
+    have a reference back to the source story. message is None if
+    there wasn't enough real content to build a decent post — callers
+    should treat that as a failed attempt and retry later rather than
+    post it.
     """
     resolved_link, page_html = resolve_article_url(link)
     article_text = fetch_article_text(resolved_link, page_html=page_html)
@@ -670,13 +710,20 @@ def facebook_endpoint():
     return f"https://graph.facebook.com/{FACEBOOK_PAGE_ID}/feed"
 
 
-def post_to_facebook(message, link):
+def post_to_facebook(message):
+    """
+    Posts as a plain text status update — no link parameter at all.
+    Attaching a link makes Facebook render a link-preview card that
+    shows the source domain (whether that's the resolved publisher
+    site or, when resolution fails, a bare "news.google.com" card),
+    which is exactly the "shows where this came from" problem. Posting
+    message-only avoids that entirely.
+    """
     if not FACEBOOK_PAGE_ID or not FACEBOOK_PAGE_ACCESS_TOKEN:
         return False, "Facebook credentials are missing."
 
     payload = {
         "message": message,
-        "link": link,
         "access_token": FACEBOOK_PAGE_ACCESS_TOKEN,
     }
 
@@ -769,16 +816,22 @@ def main():
     queued_titles = [item["title"] for item in queue]
 
     # ---- Phase 1: scan feeds, collect new (deduplicated) candidate stories ----
+    feed_rotation_offset = load_feed_rotation_offset() % len(FEEDS)
+    ordered_feeds = FEEDS[feed_rotation_offset:] + FEEDS[:feed_rotation_offset]
+    print(f"Feed scan starting at index {feed_rotation_offset} ({ordered_feeds[0]['category']}) — rotates each run for fair coverage")
+
     candidates = []
     held_for_review = []
     suggestions_made = 0
     feeds_checked = 0
     feeds_failed = 0
+    feeds_attempted_this_run = 0
 
-    for feed_source in FEEDS:
+    for feed_source in ordered_feeds:
         if suggestions_made >= MAX_SUGGESTIONS_PER_RUN:
             break
 
+        feeds_attempted_this_run += 1
         category = feed_source["category"]
         feed_url = feed_source["url"]
 
@@ -882,6 +935,9 @@ def main():
 
     queue.extend(candidates)
 
+    new_feed_rotation_offset = (feed_rotation_offset + feeds_attempted_this_run) % len(FEEDS)
+    save_feed_rotation_offset(new_feed_rotation_offset)
+
     # ---- Phase 2: post up to MAX_FACEBOOK_POSTS_PER_RUN from the FRONT of the queue ----
     facebook_posts_made = 0
     posted_entries = []
@@ -919,7 +975,7 @@ def main():
             time.sleep(1)
             continue
 
-        ok, result = post_to_facebook(message, resolved_link)
+        ok, result = post_to_facebook(message)
 
         if ok:
             facebook_posts_made += 1
@@ -988,10 +1044,12 @@ def main():
     print(f"Held for manual review: {len(held_for_review)}")
     print(f"Feeds checked: {feeds_checked}")
     print(f"Feed failures: {feeds_failed}")
+    print(f"Feeds attempted this run: {feeds_attempted_this_run} of {len(FEEDS)} (next run starts at index {new_feed_rotation_offset})")
     print(f"Output: {SUGGESTED_POSTS_FILE}")
     print(f"Seen/dedup log: {POSTED_LOG_FILE}")
     print(f"Facebook log: {FACEBOOK_POST_LOG_FILE}")
     print(f"Post queue: {POST_QUEUE_FILE}")
+    print(f"Feed rotation state: {FEED_ROTATION_STATE_FILE}")
     print("=" * 70)
 
 

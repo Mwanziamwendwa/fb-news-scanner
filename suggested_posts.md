@@ -4377,3 +4377,110 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPbHVVeUp1Rkc5ZVVSdzRocEp1b3R5ZW1Qd2JlR3pQR0VYem8xVUpBVFd4OV9CYVViV1RXOU1SUVUtUlVGY1RSbkhaT1hQbjh1VU8wZjNCcXFKelVka24tMV9QMVZ4QWtzSWxGOWZDbUJsVTBFQzdLZVJLcnpYSTBVWEhUSGloVVlkMWZ5RDM2d3lfZUh5M1I0ck9qa1ZzYkRqclVIMFVmYnR2Q3d4RzM0enZzdFk?oc=5
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 02:03 (Nairobi time)
+
+- **[Education News]** Understanding compounding learning deficits: The small gaps that become big barriers
+  - Source: Education News
+  - Link: https://educationnews.co.ke/understanding-compounding-learning-deficits-the-small-gaps-that-become-big-barriers/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-compounding-learning-deficits-the-small-gaps-that-become-big-barriers
+  - Facebook: POSTED (1289239267586516_122110836969407566)
+
+- **[Education News]** Enock Okong’o: How journalism led me to help a struggling university student — then the demands began
+  - Source: Education News
+  - Link: https://educationnews.co.ke/enock-okongo-how-journalism-led-me-to-help-a-struggling-university-student-then-the-demands-began/?utm_source=rss&utm_medium=rss&utm_campaign=enock-okongo-how-journalism-led-me-to-help-a-struggling-university-student-then-the-demands-began
+  - Facebook: POSTED (1289239267586516_122110836981407566)
+
+- **[Education News]** CSOs cry foul over pay: Are they Kenya’s forgotten education heroes?
+  - Source: Education News
+  - Link: https://educationnews.co.ke/csos-cry-foul-over-pay-are-they-kenyas-forgotten-education-heroes/?utm_source=rss&utm_medium=rss&utm_campaign=csos-cry-foul-over-pay-are-they-kenyas-forgotten-education-heroes
+  - Facebook: POSTED (1289239267586516_122110837005407566)
+
+- **[Education News]** How schools can run holistic homestretch programmes while preparing for KCSE exams
+  - Source: Education News
+  - Link: https://educationnews.co.ke/how-schools-can-run-holistic-homestretch-programmes-while-preparing-for-kcse-exams/?utm_source=rss&utm_medium=rss&utm_campaign=how-schools-can-run-holistic-homestretch-programmes-while-preparing-for-kcse-exams
+  - Facebook: POSTED (1289239267586516_122110837023407566)
+
+- **[Education News]** Egerton’s Parents’ Portal: Universities can no longer hide behind silence
+  - Source: Education News
+  - Link: https://educationnews.co.ke/egertons-parents-portal-universities-can-no-longer-hide-behind-silence/?utm_source=rss&utm_medium=rss&utm_campaign=egertons-parents-portal-universities-can-no-longer-hide-behind-silence
+  - Facebook: POSTED (1289239267586516_122110837053407566)
+
+- **[Standard Headlines]** Kenyans on their own as state agencies fail to curb political violence
+  - Source: Standard Headlines
+  - Link: https://www.standardmedia.co.ke/article/2001555819/kenyans-on-their-own-as-state-agencies-fail-to-curb-political-violence
+  - Facebook: POSTED (1289239267586516_122110837071407566)
+
+- **[Standard Headlines]** Public officers eyeing elective posts to resign by February 10 - IEBC
+  - Source: IEBC
+  - Link: https://www.standardmedia.co.ke/article/2001555822/public-officers-eyeing-elective-posts-to-resign-by-february-10-iebc
+  - Facebook: POSTED (1289239267586516_122110837101407566)
+
+- **[Standard Kenya]** Two die in mining tragedies
+  - Source: Standard Kenya
+  - Link: https://www.standardmedia.co.ke/article/2001555839/two-die-in-mining-tragedies
+  - Facebook: POSTED (1289239267586516_122110837119407566)
+
+- **[Standard Politics]** ODM power sharing demands unsettle Kenya Kwanza allies
+  - Source: Standard Politics
+  - Link: https://www.standardmedia.co.ke/politics/article/2001555823/odm-power-sharing-demands-unsettle-kenya-kwanza-allies
+  - Facebook: POSTED (1289239267586516_122110837161407566)
+
+- **[Standard Politics]** Gachagua woos Kalonzo into the Mt Kenya, Gema affiliation
+  - Source: Standard Politics
+  - Link: https://www.standardmedia.co.ke/politics/article/2001555820/gachagua-woos-kalonzo-into-the-mt-kenya-gema-affiliation
+  - Facebook: POSTED (1289239267586516_122110837203407566)
+
+- **[Standard Politics]** Wetang'ula warns against political goonism ahead of 2027 polls
+  - Source: Standard Politics
+  - Link: https://www.standardmedia.co.ke/politics/article/2001555824/wetang-ula-warns-against-political-goonism-ahead-of-2027-polls
+  - Facebook: POSTED (1289239267586516_122110837215407566)
+
+- **[Capital FM News]** IEBC freezes ballot paper, technology tenders after review
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/iebc-freezes-ballot-paper-technology-tenders-after-review/
+  - Facebook: POSTED (1289239267586516_122110837239407566)
+
+- **[Capital FM News]** IEBC targets 28.5 million voters, doubles diaspora voting countries
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/iebc-targets-28-5-million-voters-doubles-diaspora-voting-countries/
+  - Facebook: POSTED (1289239267586516_122110837275407566)
+
+- **[Politics]** Wamalwa warns Kenya could return to ICC over rising political violence - People Daily
+  - Source: People Daily
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXZ2aU82SzMyNFppMzUyRmNfZ3FWYmVWU0toRGphVUZfamFiUUFXTDg0cGpmcHVCcWlTd2ZvVThyZmJwbDRjcV91OFZwRjJ2eExIVWxLbDh6WEpURjZQS2NXdzZGSTVaMnFUNkM1c3lraHN0Wno5YkFPUnpPTW9hUnVfcWNtNEQzYnRpLS1ZYWxvT3BHeXlrRV9zNDkwQnM1aDZldS1mYkQ2b2gzam9SZzNzZnU?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110837353407566)
+
+- **[Business Topic]** ‘Rearranging deckchairs on the Titanic’: Bonds erase the impact of Treasury’s intervention - NBC News
+  - Source: NBC News
+  - Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYk5HaF9CbFJDaHhhY2JrOVlfeC1nRXVRS3NqYm5UU2Q2YmFQdmhXeVBHYWlLSHV2bF80Nl80eWU1MHhSOUloUU1FSDBXN1ItYXRZa0dnM25keVVkWE0ySlVpcWZtWnBTZkV3bkZkNWc0S0NUZWs0WkFWVFo1QzVqZzgxdHVMOFlm?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110837437407566)
+
+- **[Business Topic]** Orion180 Files for IPO, Eyeing Home and Flood Insurance Market - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxObTd6MG12dHZMWTdxN0Y2VXBYQ0pXczFBTnJ2X1lVNUhYUHJUOWt3b2kzdVNsN096aHNwV0plVzR6NHJJa2w3RVNQY1ZLamo1YnJYMXVCZm81SlFzdV9PSktmblExWG5tbXAzbjN4eFNwN2JGazZWMml3bFpNcTB4Nk5XZ2xTdTRYU3RUMl82eTgzRnptUGxnc25NYUFxU0RRWWJZMWVrQmstUktTWUpoZ1JR?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** MongoDB, Cloudflare, Okta, Zscaler, and Upstart Stocks Trade Down, What You Need To Know - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1JHN1JZRHZVSnNTMWw5eUV6aWxCd3I5eU1FTXR1UEZQLTMxYU5JX25Ma0ZCTE5qVVNJTVlxemp5OFpaaWx1Mm5IUXh0UXlhaWRGNkJiMlBGTDd5b2MyM1o5aDl0elUzVGF2QXJtejQ0TzVWT1ViWkRfY2NmaVgycHFJOUo1cFV0U3BlYkwwcVNzMndMVzBGcTM4bFJHeVhnV2ozVUotcw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** India's BSE cleared as eligible exchange in FTSE Russell equity indices - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUjlTN3hFQ3VKYjk1NG9PVHFmYS1TOWQ5ZU04QjR0M0RsUmppRUUwSnZpZmEzZGRXSlZmRHJoQkZCdm1semRHQ28teWxZbmYwYy0wbEF6ZzYwdFdzdGNyeVdFRFR4QzE2V25wTXBObUMteXZIYmhNQTJjUjhGS3piaUt1MDFlOTAxZ081eG9RdGFCMjgxZHZNTDhHUzJ6Mk5oWGFZNUF6UjR0NlJwbFRod3BSeEVPWDd2?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Cold-Water Cup Noodles Sell Out in Japan as Surprise Summer Hit - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmlrSEhzRno0VFdCU0lRQ1NLN2ZBb0R0Ymd2dkNFeEgyenI2dmExeWV5cUVxRWRaeE1qdXJjblB0T2pTVTRPd1FUXzctOTB4SzkyVUh3Z2NaYjY0dkY5eWdQTzZCbVYyaDFNOTRVREV0Xy1Jd094M21wUUxTVHBHZWpGc1hVb0RrRWFZZWs0ak1xdnRqMzlmRmZtOU5UckpRMkVCTUlJUTZKR1pETGFPaVhIbmc?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** US firm Powerus wins $22.3 million contract to protect Middle East energy infrastructure from drones - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNRlA0d3hFZ0lIUnNTWWs2TV96MnRaZEIzNnJUMkVNWVVrRHpEeVBNeU8wQWtkdGh1aDBiMmROSGpyUG92blVmSmpIX29pZC1IaGd4SHo2YkhGd09hcXNQMWhJcHNxSGsyV3d0dnhJd18tVzlYTTZCVG9fOUhKT1JudTR2bjBTYll3bTd0em45RFVVNjU1SjFOWE5iaVBUMFBXUzlabUEwWUxORXctanM4eEtTdzNVZXk0NEdLOQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Carlyle-Backed TAMKO Sees Earnings Drop After Debt-Funded Payout - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNRkFnNG1kem9FUmZHQnNhSVFuWlZwRzdOVUlLR1ZEb2RJVjhGVkpvTlFXUVUwc0JoQVZzRl9HcFhuNkRreUs3VkN5M0J1Nmk3bk1Ec2NHdEpHZmdLeDVxdE9fb1l2MExKRFhRd0lyckFJQnRTQktwa2hjQ0k0ZlBHeEpDaWtsRmRVWVhESlk5aXE3aTZ0SHNBc3MyS0k0Mk1LeC1IM0VBZk1LdVI5OHJLc0hsT2h4QQ?oc=5
+  - Facebook: queued for a future run
+

@@ -1934,3 +1934,130 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOX3h1VFJBQ0dNbmtacXhUb0J0YzR1R3RZOGNiWDl5TGRPbU5XbnFmSWxJYS1xZ2ZGVkpmRjdodGprR1k1NWJKZFpjQjB6WlBVVWFjSDhVQ0tyNmhlek5RTHktOUhaLTE0b3BaTDV4NURETTlWV2hiYnR5UHIyeVNxdmJWY1M?oc=5
   - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 00:29:59 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AaxwUX1oLydje9UM4HABtqb"}}
 
+## Scan run: 2026-08-20 12:18 (Nairobi time)
+
+- **[Kenya Latest]** "Unlawfully seizing estates": DCI nabs woman over KSh 800k father's land fraud - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMnJ4Z0VXaUlQc05XSkctN003cDZvSlRtSllBV1FxV3pHQjBQeXNFNkNJSExha2VPMXlEN2dqdUJXbkd5bGI0c3BjXzd0dXBzbHpleFdNVHlfaXJVWE1qQlRjMndPLXIxMUM3VGJhR25xa0lPMTZOc2d3Rmwtb2luZDdudnR6Mjhnd3Z4VWJmdHVrSktTMmhTN3gybVJKd2tNQVJmYjdoWFRMUQ?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:17:54 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AjqLI4wAPdBP0SSAEFsgCsk"}}
+
+- **[Kenya Latest]** ICC ghosts: Descent into lawlessness pushes United Opposition to international court - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxPelQ1amlMWU9DNUhQcm9uR0pOQXE5Vzh2UnFBZlhBRG5Ea1hsemhsTHU5NFZid1hsXzlSUWNnaXJid2hINDlqUl9hcXdjTE1oMUg3akttQmQ0b0Rycm5iU3F1TDcwTzlva2c0bnoxcWRsWU5uWFBOR25Kc1F5QUZKWXJpSGdvaVZMa3N1Q3BWMGZwamtMN25kUVdjWHpPb3FfbVNXTE9CY0RqVWJjcGR6RGx3dWl6ZHFwSW05clNYaDF3eFRSUC1RODRSYVhtNDg?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:17:55 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "Ac3m-rhyhrx4mvBF7jdRZAa"}}
+
+- **[Kenya Latest]** Wanga visits family of woman killed during Linda Mwananchi rally in Homa Bay - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxORDZXMU1Fekt2alNCbW5YQXJmWnlLY1dfdVU1dTBYV2k4RGFEZnpDV3pUdzI3VDZfc2h5SWp0YmFzNGFwbzA2MlU5eXVENmJZeTNtc05xNzZITVN3S3JmdTNxVGlCZzhvQjhUeEk1eC11SUhsSUNEX3RpeUNIUkQ1LVdxaVVDbHlqek1BakFWMi0ya2ZNUXI2M1J2cmZBVnJRVFE?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:17:56 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AUHgYcqrK9C5OEAWiigUmAp"}}
+
+- **[Kenya Latest]** Nairobi Turns to Technology to Help Identify 473 Unclaimed Bodies - Dawan Africa
+  - Source: Dawan Africa
+  - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEtfTUJBZTVRZDZsLWUtWGJKVDA1cDlJNjgydTJ6OUQ4bGxfajJ4R241QV8yZHctajBTLS1lM1lMUGsxejljXzNlclVhRF9PLVJtb3FTblMzNU40NEM4RmswMndaMGpaTXlhVGgwY0tqN05RN29pTXNqeGVodFYwVVZERXRsVlZFWUU5ZzhqeTRWQnBWOTAwejA3TQ?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:17:57 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AxEgR4eto7-1SlyQt6LopS3"}}
+
+- **[Kenya Latest]** Kenya’s private sector warns trust deficit in public, private institutions is driving up cost of doing business - Financial Fortune Media
+  - Source: Financial Fortune Media
+  - Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWkxSd1RXWnZFQlpiVnBTWGRzcmNDTzhhVU4xOGxCX2tJY1NSUFlYTUlpWDlHM19tTVplZnpVeWlMOXpibTFJYWttcWNaOTROSlVJWU11VFpiRmxaaFNxeEIxS1kwZklsZUluLVlwTVppbjZhWVg3Q2ZDNjlNS0tZakVfejdVQmVXdW9XOXVlbHJZZGZPZTBnTXhGbUFBSEFCVW1RV05PUWI5U2xmZ181VFJsMlh1czNySEU4WjJiZ0w3b28tU04tVzZNRUl6MzRla2c4M0pnbExvTV9QZTN3SUZvUThsbE1S?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:17:58 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "ABV-NxZLCR7J_6w_qNrBdlz"}}
+
+- **[Kenya Latest]** Revolt over Kalonzo and Gachagua as pair concludes deal - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxOazNic3R3NmN1ZGVXTG5Yam9hTWRfcTE0OUJISHRGSi1yOGxVeWsxN3dUelJPWFlFbmUwMm91LUZKYzQ4Z1RpZWlwa01uNlVvQXlGUHQzblBGVkZ4RW5sdGF6ZWYwVDc1M1V6R20yT3YwYi05Q3lpeFFXWVRuRVd6MTlaLWZVTld0WkVFNWpDY0hXdjl6TGJHZjVDaDJ6LVE?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:17:59 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "A2UAlGkAN45cGI7h-tjDVQW"}}
+
+- **[Kenya Latest]** Survivor and rights defenders welcome Maslaha ban as Kenya moves to prosecute all GBV cases in court - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcTlybVNMYy05OHUtV0RCMjF1cW5kYy1QUnByWlJGbFpuNl9SWVJIeldBTlQtZHRUZVh0UFUtS0g1N2ZDLVV5X2N0UFJrZWlMYnV3NjhRUEYybFRxdmVCRk43RDg1RmU4cVhmVHhaSGJIOUpDbW9zamtkR2RKRUlXSlFrMmFmMUNZYXhnUzV0UGRDVzY0WUN1cWViNzkwYzZuYWhyekZPSDVfWFNiWVlwT0todDZGTk9rV19zZjFSRXhIcUMzVXNFQ1RqUHZISEE5aXJJeGpLbDQyemptRkZPcXZR?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:18:00 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AA8Atd-lL-KYUdsnsQ3pOD7"}}
+
+- **[Kenya Latest]** Kenya: Gachagua to Ruto - 'Kenya Is Not Uganda or Tanzania' As He Warns Against Election Disruption - allAfrica.com
+  - Source: allAfrica.com
+  - Link: https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mMXpuX1huSWl5QmFySVZ2aHdpeGxSdGVENkRaWVY3Rmp0cjlmYXM4a0tNNFVwYmdBZjlnYnBPRVAyMHdhVUVwTkp1dVVqVGhSd2p5U2piQXc4ZHM?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:18:02 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "A4XoQ5CXhNa_JjbsCdZa_pC"}}
+
+- **[Business Topic]** Demand for tankers soars as Gulf oil producers search for ways to export cargoes - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOZlY5dnNBdk1jWmxQQ0hheDAtOU5VRU9mN0JIMHQyVHZScVo2WjBlSFo1QmpkR1pHTVNuMUtGQzZIakE1RUlzeXVucE1TWDVkYXlVSW5RNlhRMFVaa2pjbm1YX25rOFppNW9FYjBPekU1b3A0UEtZaHA0aWwyM25aTms5RTM?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:18:04 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "ADuJ_AwFGCfue10qkJ9o2I0"}}
+
+- **[Business Topic]** Evergrande tycoon at the heart of China’s property crisis sentenced to life in prison - CNN
+  - Source: CNN
+  - Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxOMEVDeGRNblVLUTY5N25KVmhrOXBySDE1Wk4wekl6d2J3SEVmVnZleHhSR01IVHAtd01nYXBfR2V2ZDhuUzZUTExHSWlxUWx2T1dPMmktMG55Ukp3aVlTbmtmNEdfbHV0dzc1QXZldW1YbDJyWlhudHJyZ2hNWExiVDJtVVZab0k?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:18:06 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AppHA9S8kjOkVmBULYBO3Vy"}}
+
+- **[Business Topic]** How Saudi Arabia’s Neom Megacity Dream Collapsed - WSJ
+  - Source: WSJ
+  - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ0E4NzdIWnZCNnV5ZERzMVlRX2tya3ZzVmNDU1NQNjdrS2FuNS1SMGhMYTl2S0R6eXVRa1ZJSF85NjRVeVMzQV9ReWU2cmRmSTNqaVdNVWpxOHZsRFNtbU5HbWp4YVVOOEJiLWpVOGo1cXNFa3p2VFJ6ZnFUMEtRVmNUNU0zVHRRWWNKX2dldGxqNHpfdGNROGRn?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:18:07 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "Aj6ett_LPpF0Bfn998_KLqD"}}
+
+- **[Business Topic]** South Africa's Exxaro half-year profit down 20%, cuts dividend - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxNdDhvRmwyYWRRSURYc0VpUGE5Z3hGRTFMVUZDQnpLdVlicDVfV1BRVHh4cVc0eUJybmtpblpEeGN1UjBQRmNzMHZPR0hYTkVEVkxEdXJSWlk1dWNIU3dpQUtBWDVrenNOa2JCRVJHRXZoS3VDOVNSc3hva2ZDR2JIS3pHRXZoUWZfQjdDT29jd2tMNUJ4aVNsN2pR?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:18:08 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AHwsrAqJenvjlKK07SFRZ-H"}}
+
+- **[Business Topic]** YouTube punches back at Netflix by offering top creators millions for exclusive deals - Business Insider
+  - Source: Business Insider
+  - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY1pZU3RkU3k5am5LYWtfZXQtMWJkNFlVdVU3ZkhlMHAyb1FqUTk0ZElHdGJBUS1FU0FQbU5XZkJyQzJXOC1TY21rMVFqdXBuWE9RS0dXSVNIcExmbTFOQmZvazQ2OG1ua2VtWHZnc3RDMHhFMGNHcjVlakhrS0E5a0ZXU09Jd1ZfeUZpTXlyWkI4NE02QkpWM0dacGx0S1BBTnZNSHUzaUM?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:18:09 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AFDPeqvPdBCQK5LoIj0VvtW"}}
+
+- **[Business Topic]** CBA boss’s record $8.4m share sell-off amid marriage split - The Australian
+  - Source: The Australian
+  - Link: https://news.google.com/rss/articles/CBMijwJBVV95cUxNMFFGUThYTEc1Q2dodFB0ZFQ4SlZReHJrU0sxUXBXc3RuMUxnOXltVVVockx6SnZaVjFTSjAxaHJBdjhWZGVxSXk0ektJcWZXaVNNQTZjNVNTQTZ6LVBvbFY0ZEV0cWJrZC1XSFZpa09GRjdMYjVKakFGbnB0ZGhNWEpoLUpMNXJ3Zk1LQzZyOFNmNmNaQTdHblVXOS1DOVgxd0hRMkRYOUt2ZFlDcThHMGI5c3RGZTZuaXRhaHFKS1dUb2VRakg5S3o2TzhRbWNKYlo0eXBZTWVKTWxJSmNtSExzY3ZKUUp4d3NsNlNyQ0F2MjJyS1NJZ2FGQ3JSdkFRTVljeWRVRlRfU1VMUW9J?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:18:10 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "Ao1z0-gnA-tTTj7cxuMK1yX"}}
+
+- **[Business Topic]** No loan: Safaricom responds to man with 0 Fuliza, shares code for higher limit - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxPenRHZEJXWExHd0lyd1Y4RV9GTkR0M3ZMN3hYcmxMam5IaHpkMDRhblNjbGF0bXZ6d0Y0WDVDdmdrZXc5SWk2cTRSSV9GNGhrRUJHX2FaS2hpYmtiLURCUHVBVWhCNFFBa1MwakhJX0NEdjl6dGdNb29walJuM0tKNk9pd2RSdHlsSUs4R2NzaXdFRFdvTGRJWUt4ajI0ajFoNi1iVTl5YlpyQ29Bdnh6SGRYSFZwbjhieW1GSTRZX2p1SWdkbzBWWnVn?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:18:11 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "A1shstqGHnqMxiFdEkX6IV3"}}
+
+- **[Business Topic]** If Trump wants to lower costs, he should override this California port rule - The Hill
+  - Source: The Hill
+  - Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxNaGdtS2pSR2h6SWlEQnhFLU9CeXhhNURpYVB2S21PV1FOb0ZMYXZBcTFiWjlwb2JhWXVSeEJQYk5wWmthQjNoOThFLXVUYU5yNndGQVNXaHlVZS0tbTNtZ1hRbm5TcFg1MFc3MTdoYjhNRGZYOXpmSlFsZ1BTVUsyM3VzTUFTUTUtVUlqRVN0ZE11UWNJ0gGaAUFVX3lxTE82Vkt3TlFjQ0tDSjRyVHJKbGl2OWFMOFNnRURGM1gxdWdHNjBoemswYjlSUXFvSjVXSURBekVYSGNFOFJKYVdmUEhBb3dVSW93cjNlb2FsbHVOWjdPZkNJMVhDTGI0eVZZaUJ5dm1tWmZOY3kzenNnNDJ4VG9xeFYySVgtOGhrNjhWNXlBRVQxVEt6SThWNjVvX2c?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:18:12 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "A09WtfUELBH1tPpaudy9Zfe"}}
+
+- **[Business Topic]** Japan Real Estate Investment Set to Hit Record for Second Year - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOazctVUFyTjJuYTZUa2J4dGRzaFZnd1MyTU9xUTdyTEFiTk1Qd05iWGdZdnVxRkJXYWQyT1RxU1NWZW1FNndVTGk3YXNvN2lMUXIydzV6RWc1TWxlQkpzVDUxUGFBb1FLd0NSSlRaX0RWdWgxVm82ZHpRVUFzRXZxbnVQY2cyLW5rZkREYjN6RzR3UmE4VnNPSW5kREM5WDNkOVZUQktzMm8tX3FIbl9oR0dyMA?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:18:13 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "A88dumZsfh0Ndbm82uOjpUp"}}
+
+- **[Business Topic]** Anthropic-Tied Data Center Inks $1.3 Billion Private Credit Loan - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxNSm9USkx5Qy1HeWdnOUw5QkhkSy1tVTlCN2gxRWpVbXptNVdUbmc0YllIYTdyTGd1QVB6NGVWNXpXZ0NhR2hqQ3RFeWdnM2pOVWdSMTVKWDVUbDJGWlVSVkMzQjNGckVYZDhiMlpFYWo4TU5wNkZOYzFyQlFrNlBYbDE2NGJzblNqUVNzaWE2SktnU2JzakZ3LV91UQ?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:18:14 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "A7yRaG63B7_J31B3S-OiVy2"}}
+
+- **[Business Topic]** 2026 Calling2Scale Gunma Startup Market Entry Programme - fundsforNGOs
+  - Source: fundsforNGOs
+  - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxNVkpnai1FNmhjcFBWcWFTcXd6bF9LLWhidUsyZUNYdkQ2aEJDSWVvUE5zak5zc0FSTXlzMDZLREthVHJCemZJQkMxMWJzTTNBU2kzZF9sU0g1bGh1Q0FKNjEyOHNXSFJNOTVXOHNkSmNydUs5cGxuNnptVXFSeXhwMjFkM3lzR19uYnQwQldHMk5aZUVYUU11OXBVVkgzQdIBowFBVV95cUxNUmFkTmdJRVRVeXY2QS0wTzJpY0V4VEd4eGxtbllqR1FwMk5mdTJweHUxZHdUc0dMSVp1SFJNMWVqM0I1M0RqX1VZOVhuTjFMcG1KOU51N0ZaNE9XSzlvUkxXUnpRbGtwVjVOQnNUemYwUHhQWlpyVjl6aXJ2NVFFZGRUaHNtNHpGZlRqaS1SVVZkd08yRTVuWEpQNW5rWDlwSWk0?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:18:15 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "ABPVUnpxbagI3NFa24ocEg7"}}
+
+- **[Business Topic]** US Treasury Approves Trump Family's Crypto Business to Operate as Banks, Sets Limitations - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNUEU2T3VFckdjNmVhVWNBTFFlRmhQZ0pZTHJvM1hfVmhfYUJidmZYQ3VKelJyV0oycVVpY0dxLWtuek9YaElac0E0bzFPYUFYeG56b242RWxCVmtkTjI2NFpHRUxqdFV2NGF3bkFIRlAya1Zzdk5VYUJ3VEtpRlh6WURibkxUSllLUTUtN0MtQjVRNkhCMEpLYlZvRElwQmpZZjRCdkZVVWRoY0pZazFoM1YzU0phY1hFcFNaaQ?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:18:16 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "Amsab2PVsgSHQMZIyGErV2m"}}
+
+- **[Business Topic]** Hong Kong’s IPO boom extends beyond tech, HKEX CEO says, as fundraising tops $40 billion - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxPMHBKaDEzaHduTEhzMFd3dE5nN1FnaTNjb3JDakJiUDNmQkdLbkN4Z2g0V1V6SHRXTExqOXRQMHExVjcyOFloREt5cE9xanRoM1hvY0tCeTNVcl9PbUtDM2wyMEROTEVJaVNGdFhhbVV3bEdxeXVDUFNYMTEzcnhYcWpMRdIBiAFBVV95cUxQaC1kRFFVZTdRUFU3ZGx3TnRucGFJYlNOZjB4aGRvcmlRZUw2d0RkM1JkOENLcmhlemdJZmVvQnlkSXpMR2ZzcWNyaWZSelRLVVVBVW0zVDdtM3lyS2pIdlgyeHBmNTN3S2RjREpIa0lkRk9XdFlaLXBDYi1mUzVWYnQ3NmtqS3Ix?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:18:17 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AuugH2kkd810FIYGxdELIh0"}}
+
+- **[Business Topic]** Travelodge boss quits amid fallout over hotel chain’s security failings - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRmNzQ0FOaGxNQkgtZi1CTXVhR1p4ODQ4M3BwdDV6NTBOUGhLaEJsUUpiUVRtcS1DQjZvMDVXVXhkUkZnUFNnYW9ZajY0RExzLVR3LWpGb2Z3MlVYaTlPRXlsM0hJZmpOTlBuTUdtZUxIX0p0enF0ek5Bemh6RGw5SnRhSVh5RmViSWp4QUFOUnhmMGJ5SDZCZE9NdWx3aW9YRzcwOGdfRmJPUndJVTVRckxpQ0J4ZEQ4eHVN?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:18:18 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AeWmX1vVOA7WK8BDVjSPUXI"}}
+
+- **[Business Topic]** Singapore's Temasek is on a hot streak in India as three bets surge after IPOs - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmJZNVdQZ3RKTU5YaTVhNXRFa1RURE80OFEtZk83V1hBS25KUGhlQXFITG1ETGFIOWVEQWhhQXRGQzBucjF5UmN5cnQ1MUFaeTd4UkFwaUxleURKa2QwUHYzem9mNXgtNUlkWHZFSzhHMS16cUctSFEtZWREU1JnbHNuR3BPN2I0eGdnemMtaVkwYm5a0gGaAUFVX3lxTE9ZYkZPSGlCZ0hFV3dlSkJfYXJiZjFidE80N3pvNEl2X3dvczRadlpTSncxeU9RTm04dDkwTVVoY1BkQV9xLTR6b2thOUs2d1RCZHN1aG5xQ2tkMWRkTzJuMnRHS05TWS05NTJ4c29SNHlFNmhRN0YyS01SdnJmcHJCcjhGbFFrT1RqczI0Q3pESkhycm9WSHowS0E?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:18:19 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "A1pzgf2NjD9uduJ3xRpmpAR"}}
+
+- **[Business Topic]** Hays Shifts to Hard-to-Replace Roles as AI Reshapes Hiring - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQRnBHUncwdHk2NkNHSzZvRVh6RElsNFNNeDZ3VmItQk1yMkRoXzk1UzVwWUsyNjR2bEJ4WlJhRVMxTXhhcjYwNjJYbURjYkxub3h4V0FuRDZfRWRaWXdyd1RqeDh2enNOaWQ0Vk1ucFpOeC1sVUpuSEljWnFmLWhEUjVYa1lNYjVXMDJaeE4yN0dMSXV1MW45XzBzcG1FaUpGSG5kejZQTEJQbkJldkE?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:18:21 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "A2MgdyAoZtbo3wBMArMCeXl"}}
+
+- **[Business Topic]** Robots poised for 'ChatGPT moment,' Unitree CEO says - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTBFUDUyY3VFZGlQY0VvSDFSRDV6bTJLSVV5OVd4Zk9tbzFjYkdVZ3Fxc3ZZbGNKU3lMdGhxRU4wb0F1QzIzMzFOUHBvdVlWVHB0MEFQSkN0eDVHOF9VMktYR1pETnpfcUt2TEJwLUJyMDZRam55a3hhUHFWN0ZwVWlEV0FRX21aN0lyNjhKVll1ck1CWE52cjgzNEFQeGV1Rnc?oc=5
+  - Facebook: FAILED: {"error": {"message": "Error validating access token: Session has expired on Wednesday, 19-Aug-26 14:00:00 PDT. The current time is Thursday, 20-Aug-26 02:18:22 PDT.", "type": "OAuthException", "code": 190, "error_subcode": 463, "fbtrace_id": "AW508K8FulTbhaExn0AZPwt"}}
+

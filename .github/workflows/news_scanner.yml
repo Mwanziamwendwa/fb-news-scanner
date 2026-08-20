@@ -1,8 +1,10 @@
 name: Kenya News Scanner and Facebook Publisher
+
 on:
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
+
 permissions:
   contents: write
 
@@ -33,7 +35,7 @@ jobs:
 
       - name: Debug secret presence (temporary)
         env:
-          FACEBOOK_PAGE_ID: ${{ secrets.PAGE_ID }}
+          FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
           FACEBOOK_PAGE_ACCESS_TOKEN: ${{ secrets.FACEBOOK_PAGE_ACCESS_TOKEN }}
         run: |
           if [ -z "$FACEBOOK_PAGE_ID" ]; then echo "FACEBOOK_PAGE_ID is EMPTY"; else echo "FACEBOOK_PAGE_ID is set (length ${#FACEBOOK_PAGE_ID})"; fi
@@ -41,7 +43,7 @@ jobs:
 
       - name: Run Kenya News Scanner
         env:
-          FACEBOOK_PAGE_ID: ${{ secrets.PAGE_ID }}
+          FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
           FACEBOOK_PAGE_ACCESS_TOKEN: ${{ secrets.FACEBOOK_PAGE_ACCESS_TOKEN }}
           # Optional: set this only if you want to pin a specific
           # Facebook Graph API version.

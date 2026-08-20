@@ -3508,3 +3508,155 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://k24.digital/entertainment/celebrity/ashton-hall-risks-it-all-to-hang-from-a-speeding-helicopter-in-new-extreme-fitness-stunt
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-20 23:57 (Nairobi time)
+
+- **[Nairobi Leo]** Nairobi Hospitals Set for Major Overhaul as Sakaja Signs New Health Law
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29648/nairobi-hospitals-set-for-major-overhaul-as-sakaja-signs-new-health-law
+  - Facebook: POSTED (1289239267586516_122110815135407566)
+
+- **[Nairobi Leo]** University Launches Portal for Parents to Monitor Students
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29647/egerton-university-launches-portal-for-parents-to-monitor-students
+  - Facebook: POSTED (1289239267586516_122110815147407566)
+
+- **[Nairobi Leo]** Why Faith Kipyegon Will Miss Rest of 2026 Season
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29646/why-faith-kipyegon-will-miss-rest-of-2026-season
+  - Facebook: POSTED (1289239267586516_122110815171407566)
+
+- **[Nairobi Leo]** Suspect Linked to Ksh1.57 Billion Scandal Surrenders to EACC
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29645/suspect-linked-to-ksh157-billion-scandal-surrenders-to-eacc
+  - Facebook: POSTED (1289239267586516_122110815201407566)
+
+- **[Nairobi Leo]** How Family Uncovered Fraud in Ksh800,000 Sale of Deceased Father's Land
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29644/how-family-uncovered-fraud-in-ksh800000-sale-of-deceased-fathers-land
+  - Facebook: POSTED (1289239267586516_122110815225407566)
+
+- **[KBC Digital]** Talanta Stadium nears completion, CS Mvurya confirms 94% progress
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/talanta-stadium-nears-completion-cs-mvurya-confirms-94-progress/
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** Obiri, Kipruto to headline historic 50th New York City Marathon
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/obiri-kipruto-to-headline-historic-50th-new-york-city-marathon/
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** Kipyegon prioritises recovery over comeback, pulls out of ultimate championships
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/kipyegon-prioritises-recovery-over-comeback-pulls-out-of-ultimate-championships/
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** Bensoul, Charisma to headline Driftwood Sevens entertainment in Mombasa
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/bensoul-charisma-to-headline-driftwood-sevens-entertainment-in-mombasa/
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** Kenya moves to establish first National Lottery Operator
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/kenya-moves-to-establish-first-national-lottery-operator/
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** Kipchoge backs initiative to Fund Pediatric Wheelchairs for PWD’s
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/kipchoge-backs-initiative-to-fund-pediatric-wheelchairs-for-pwds/
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** Government pushes inclusive housing finance to expand home ownership
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/government-pushes-inclusive-housing-finance-to-expand-home-ownership/
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** Over 5,000 runners, elite stars set for Belgut Half Marathon
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/over-5000-runners-elite-stars-set-for-belgut-half-marathon/
+  - Facebook: queued for a future run
+
+- **[NTV Kenya]** Defense strategy in Tupac Shakur murder case: don’t believe my client
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/news/defense-strategy-in-tupac-shakur-murder-case-dont-believe-my-client/
+  - Facebook: queued for a future run
+
+- **[NTV Kenya]** ‘Baby Shark’ boy returns to stage as a K-pop singer
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/news/baby-shark-boy-returns-to-stage-as-a-k-pop-singer/
+  - Facebook: queued for a future run
+
+- **[NTV Kenya]** China puts robocops on traffic duty, minus the arrest powers
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/news/china-deploys-robot-cops-on-traffic-duty/
+  - Facebook: queued for a future run
+
+- **[NTV Kenya]** Proposed amendments to Sexual Offences Act
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/arts-lifestyle/proposed-amendments-to-sexual-offences-act/
+  - Facebook: queued for a future run
+
+- **[NTV Kenya]** Exploring the beauty of locks with Utamaduni Salon founder Slim Njoroge | The Glam
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/arts-lifestyle/exploring-the-beauty-of-locks-with-utamaduni-salon-founder-slim-njoroge-the-glam/
+  - Facebook: queued for a future run
+
+- **[NTV Kenya]** Mosquito Day: Malaria in pregnancy
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/arts-lifestyle/mosquito-day-malaria-in-pregnancy/
+  - Facebook: queued for a future run
+
+- **[NTV Kenya]** ABSA Bank Kenya HY2026 Earnings | Business Redefined
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/business/absa-bank-kenya-hy2026-earnings-business-redefined/
+  - Facebook: queued for a future run
+
+- **[NTV Kenya]** Kenya’s Special Funds Market | Business Redefined
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/business/kenyas-special-funds-market-business-redefined/
+  - Facebook: queued for a future run
+
+- **[NTV Kenya]** Pogba and Monaco part ways after one season
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/sports/pogba-and-monaco-part-ways-after-one-season/
+  - Facebook: queued for a future run
+
+- **[NTV Kenya]** New drug could wipe out HIV in newborns
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/news/new-drug-could-wipe-out-hiv-in-newborns/
+  - Facebook: queued for a future run
+
+- **[NTV Kenya]** Several feared dead after chopper crashes in Samburu
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/news/several-feared-dead-after-chopper-crashes-in-samburu/
+  - Facebook: queued for a future run
+
+- **[NTV Kenya]** US judge allows Trump to end deportation protections for over 5,000 Ethiopians
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/news/us-judge-allows-trump-to-end-deportation-protections-for-over-5000-ethiopians/
+  - Facebook: queued for a future run
+
+- **[NTV Kenya]** As campaigns begin in Nigeria, Tinubu’s re-election bid puts his party on trial
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/news/as-campaigns-begin-in-nigeria-tinubus-re-election-bid-puts-his-party-on-trial/
+  - Facebook: queued for a future run
+
+- **[NTV Kenya]** Kenya Needs a Culture Shift to Curb Road Impunity | Naisula Lesuuda
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/arts-lifestyle/kenya-needs-a-culture-shift-to-curb-road-impunity-naisula-lesuuda/
+  - Facebook: queued for a future run
+
+- **[NTV Kenya]** The Problem With Kenya’s Education System Is We Don’t Know What It Is Supposed To Do | Caroline Mose
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/arts-lifestyle/the-problem-with-kenyas-education-system-is-we-dont-know-what-it-is-supposed-to-do-caroline-mose/
+  - Facebook: queued for a future run
+
+- **[Kenyans.co.ke]** KeNHA Reveals Major Road Works Affecting Nairobi Roads
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126373-kenha-begins-major-drainage-works-nairobi-ahead-anticipated-el-nino
+  - Facebook: queued for a future run
+
+- **[Kenyans.co.ke]** Court of Appeal Warns Couples Over Property Acquired During Marriage
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126332-court-appeal-warns-couples-over-property-acquired-during-marriage
+  - Facebook: queued for a future run
+

@@ -1,10 +1,20 @@
 """
 Kenya News Scanner + Facebook Page Publisher
 
-Reads RSS feeds, finds recent stories, deduplicates them, flags sensitive
-content, fetches up to ~1000 words of the full article and paraphrases a
-short topic + under-200-word summary (via Groq, with a safe fallback if
-any of that is unavailable), and can publish it to a Facebook Page.
+Reads RSS feeds, finds recent stories, deduplicates them (both against
+already-seen/posted stories and against other feeds reporting the same
+story in this same scan), flags sensitive content, resolves the real
+article URL (so Facebook's link preview shows the actual publisher
+page instead of a Google News interstitial), fetches up to ~1000 words
+of the full article, and paraphrases a short topic + under-200-word
+summary (via Groq, with a quality-checked local fallback if Groq is
+unavailable).
+
+Rather than posting only whatever it finds in a single run and dropping
+the rest, new stories are added to a persistent queue (post_queue.json)
+and the script posts up to MAX_FACEBOOK_POSTS_PER_RUN from the FRONT of
+that queue each run (oldest-found first), so a busy scan's extra stories
+carry over and get posted on later runs instead of being lost.
 
 IMPORTANT:
 - Never put your Facebook token or Groq key in this file.
@@ -13,13 +23,21 @@ IMPORTANT:
     FACEBOOK_PAGE_ACCESS_TOKEN
     GROQ_API_KEY   (optional — enables paraphrased topic + summary)
 - The token previously pasted into chat should be revoked/rotated.
-- This script does not copy article bodies verbatim. If Groq is
-  configured, it posts an original topic line + paraphrased summary
-  built from the fetched article (or the RSS snippet if the fetch
-  fails). Otherwise it posts a cleaned-up version of the title/snippet.
-  Either way, there's no outlet attribution line and no link text in
-  the post body — the original link is still passed to Facebook
-  separately as the post's link-preview target.
+- Posts never include an outlet-attribution line, a "Kenya Update" /
+  category header, or link text in the body. The post's title is
+  never used as-is either — Google News "full coverage" entries
+  sometimes repeat the same headline twice back to back (e.g.
+  "X. X"), so it's deduplicated before it's used anywhere.
+- The RSS summary from Google News topic feeds can bundle several
+  outlets' headlines into one blob (a "full coverage" cluster) instead
+  of describing a single story. That text is never posted verbatim:
+  the fallback (used only when Groq isn't configured or fails) prefers
+  an extractive summary built from the real fetched article page over
+  the raw RSS snippet, and if neither the article nor a clean snippet
+  is usable, the story is held and retried later rather than posted
+  with thin or junky text.
+- The link posted to Facebook (and used as the link-preview target) is
+  the resolved real article URL, not the raw Google News RSS link.
 """
 
 import os
@@ -39,23 +57,33 @@ import trafilatura
 NAIROBI_TZ = pytz.timezone("Africa/Nairobi")
 
 SUGGESTED_POSTS_FILE = "suggested_posts.md"
-POSTED_LOG_FILE = "posted_log.json"
-FACEBOOK_POST_LOG_FILE = "facebook_post_log.json"
+POSTED_LOG_FILE = "posted_log.json"          # everything ever found (posted, queued, or held) — used for dedup
+FACEBOOK_POST_LOG_FILE = "facebook_post_log.json"  # only stories actually posted to Facebook
+POST_QUEUE_FILE = "post_queue.json"          # stories found but not yet posted, oldest-first
 
 LOOKBACK_HOURS = 48
-MAX_SUGGESTIONS_PER_RUN = 25
-MAX_FACEBOOK_POSTS_PER_RUN = 5
+MAX_SUGGESTIONS_PER_RUN = 25          # cap on NEW stories gathered per run (before posting)
+MAX_FACEBOOK_POSTS_PER_RUN = 5        # cap on posts actually published per run
+MAX_POST_ATTEMPTS = 3                 # give up on a queued story after this many failed post attempts
+QUEUE_MAX_SIZE = 300                  # safety cap so the backlog can't grow unbounded
+LOG_RETENTION_DAYS = 14               # how long a "seen" story is remembered for dedup purposes
 FEED_TIMEOUT_SECONDS = 15
 FACEBOOK_TIMEOUT_SECONDS = 30
 GROQ_TIMEOUT_SECONDS = 20
 ARTICLE_FETCH_TIMEOUT_SECONDS = 15
 
-# Full article text is trimmed to this many words before being sent to
-# Groq, to keep prompts small and predictable.
+# Full article text is trimmed to this many words before being sent to Groq.
 MAX_ARTICLE_WORDS = 1000
 
-# Target length for the Groq-generated summary.
+# Target maximum length for the Groq-generated (or extractive fallback)
+# summary. Can be shorter depending on how much material is available.
 MAX_SUMMARY_WORDS = 200
+
+# How similar two titles' significant keywords need to be (as a fraction
+# of the smaller title's keyword count) to be treated as the same story
+# reported by different outlets. This is a free, local heuristic (no
+# extra API calls) — it catches clear overlaps, not every rewording.
+TITLE_SIMILARITY_THRESHOLD = 0.45
 
 # Set to false if you want suggestions only.
 AUTO_POST_TO_FACEBOOK = True
@@ -67,7 +95,7 @@ FACEBOOK_PAGE_ACCESS_TOKEN = os.getenv("FACEBOOK_PAGE_ACCESS_TOKEN", "").strip()
 FACEBOOK_GRAPH_VERSION = os.getenv("FACEBOOK_GRAPH_VERSION", "").strip()
 
 # Optional. If empty, the script skips paraphrasing and uses the
-# cleaned-text fallback instead — it never fails the run over this.
+# extractive-fallback path instead — it never fails the run over this.
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "").strip()
 GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-20b").strip()
 
@@ -84,13 +112,42 @@ SENSITIVE_TERMS = [
     "gang rape", "mob justice", "lynched",
 ]
 
-# Entries in posted_log.json that look like this (underscore-separated,
-# no spaces, no punctuation) are almost certainly category/taxonomy keys
-# from some other process, not real RSS titles. normalize_title() never
-# produces this shape from a real headline. We quarantine them on load so
-# they can't silently block or corrupt future dedup, and warn loudly so
-# the source of the pollution can be tracked down.
+# Entries that look like this (underscore-separated, no spaces, no
+# punctuation) are almost certainly category/taxonomy keys from some
+# other process, not real RSS titles. normalize_title() never produces
+# this shape from a real headline. We quarantine them on load so they
+# can't silently block or corrupt future dedup.
 _SUSPICIOUS_SLUG_RE = re.compile(r"^[a-z0-9]+(_[a-z0-9]+)+$")
+
+# Google News "topic" feeds sometimes bundle several unrelated headlines
+# and outlet names into one entry's summary (a "full coverage" style
+# cluster) instead of describing a single story — e.g. "Headline A
+# example.co.ke Headline B other-site.com ... See less". Detected
+# heuristically by 2+ outlet-domain-looking tokens, which a normal
+# single-story snippet won't contain.
+_SOURCE_DOMAIN_RE = re.compile(r"\b[\w-]+\.(?:co\.ke|com|org|net|co)\b", re.IGNORECASE)
+
+_SENTENCE_SPLIT_RE = re.compile(r"(?<=[.!?])\s+")
+
+_CANONICAL_LINK_RE = re.compile(
+    r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)["\']',
+    re.IGNORECASE,
+)
+_OG_URL_RE = re.compile(
+    r'<meta[^>]+property=["\']og:url["\'][^>]+content=["\']([^"\']+)["\']',
+    re.IGNORECASE,
+)
+
+_STOPWORDS = {
+    "the", "a", "an", "and", "or", "but", "of", "in", "on", "at", "to",
+    "for", "with", "by", "from", "as", "is", "are", "was", "were", "be",
+    "been", "being", "it", "its", "this", "that", "these", "those",
+    "he", "she", "they", "we", "you", "i", "his", "her", "their", "our",
+    "your", "my", "will", "would", "can", "could", "should", "has",
+    "have", "had", "not", "no", "after", "before", "over", "into",
+    "about", "amid", "amidst", "kenya", "kenyan", "kenyans", "news",
+    "latest", "update", "updates", "says", "say", "said",
+}
 
 FEEDS = [
     # Google News RSS
@@ -175,50 +232,146 @@ def normalize_title(title):
     return " ".join(title.lower().split())
 
 
-def load_json_set(filename, quarantine_suspicious=False):
+def dedupe_title(title):
     """
-    Load a JSON list/dict of strings into a set.
+    Google News 'full coverage' entries sometimes repeat the exact same
+    headline twice back-to-back, e.g. "X happened. X happened" — this
+    collapses that down to a single clean copy so the duplicate never
+    ends up in a Groq prompt or a fallback post body. If the title
+    isn't duplicated, it's returned unchanged (just whitespace-cleaned).
+    """
+    t = clean_text(title)
+    if ". " in t:
+        first, rest = t.split(". ", 1)
+        if first.strip().rstrip(". ").lower() == rest.strip().rstrip(". ").lower():
+            return first.strip()
+    return t
 
-    If quarantine_suspicious is True, entries that look like taxonomy/
-    category slugs (e.g. "sacco_chama", "banking_microfinance") rather
-    than normalized article titles are dropped and reported, since
-    normalize_title() never produces that shape from a real RSS title.
-    This guards the dedup log against pollution from another process
-    writing to the same file.
+
+def title_keywords(title):
+    words = re.findall(r"[a-z0-9']+", title.lower())
+    return {w for w in words if w not in _STOPWORDS and len(w) > 2}
+
+
+def titles_are_similar(title_a, title_b, threshold=TITLE_SIMILARITY_THRESHOLD):
+    """
+    Rough cross-outlet duplicate check: compares the significant
+    (non-stopword) keywords of two titles. Different outlets often
+    phrase the same story very differently, so this is a heuristic,
+    not a guarantee — it catches clear overlaps, not every rewording.
+    """
+    kw_a = title_keywords(title_a)
+    kw_b = title_keywords(title_b)
+    if not kw_a or not kw_b:
+        return False
+    overlap = kw_a & kw_b
+    smaller = min(len(kw_a), len(kw_b))
+    return (len(overlap) / smaller) >= threshold
+
+
+def find_similar_title(title, candidate_titles):
+    """Returns the first candidate title considered a likely duplicate, or None."""
+    for candidate in candidate_titles:
+        if titles_are_similar(title, candidate):
+            return candidate
+    return None
+
+
+def is_full_coverage_cluster(summary):
+    """
+    True if the summary looks like a Google News 'full coverage' style
+    cluster (several outlet-domain tokens bundled together) rather than
+    a normal single-story snippet.
+    """
+    return len(_SOURCE_DOMAIN_RE.findall(summary or "")) >= 2
+
+
+def clean_summary_for_use(summary):
+    """
+    Drops the summary entirely if it looks like a multi-story cluster
+    dump rather than a real snippet about one story — that text is
+    confusing (and was showing up verbatim in posts) rather than useful
+    as paraphrasing material.
+    """
+    if is_full_coverage_cluster(summary):
+        return ""
+    return summary
+
+
+def load_json_dict(filename):
+    """
+    Loads a JSON object of {title: iso_timestamp}. Transparently
+    migrates an old flat-list format (title strings only, no
+    timestamps) by stamping every entry with the current time, so
+    existing log files from before this change keep working.
     """
     if not os.path.exists(filename):
-        return set()
+        return {}
     try:
         with open(filename, "r", encoding="utf-8") as f:
             data = json.load(f)
-        if isinstance(data, list):
-            values = set(data)
-        elif isinstance(data, dict):
-            values = set(data.keys())
-        else:
-            print(f"[WARN] Unexpected structure in {filename}; starting fresh.")
-            return set()
     except (OSError, json.JSONDecodeError, ValueError):
         print(f"[WARN] Could not read {filename}; starting fresh.")
-        return set()
+        return {}
 
-    if quarantine_suspicious:
-        suspicious = {v for v in values if _SUSPICIOUS_SLUG_RE.match(v)}
-        if suspicious:
-            print(
-                f"[WARN] {filename}: ignoring {len(suspicious)} entries that "
-                f"look like category slugs, not article titles (these did "
-                f"not come from this script's normalize_title()): "
-                f"{sorted(suspicious)}"
-            )
-            values -= suspicious
+    now_iso = datetime.now(pytz.utc).isoformat()
 
-    return values
+    if isinstance(data, list):
+        return {title: now_iso for title in data}
+    if isinstance(data, dict):
+        return data
+
+    print(f"[WARN] Unexpected structure in {filename}; starting fresh.")
+    return {}
 
 
-def save_json_set(filename, values):
+def save_json_dict(filename, values):
     with open(filename, "w", encoding="utf-8") as f:
-        json.dump(sorted(values), f, indent=2, ensure_ascii=False)
+        json.dump(values, f, indent=2, ensure_ascii=False, sort_keys=True)
+
+
+def quarantine_suspicious(log_dict, filename):
+    suspicious = {k for k in log_dict if _SUSPICIOUS_SLUG_RE.match(k)}
+    if suspicious:
+        print(
+            f"[WARN] {filename}: ignoring {len(suspicious)} entries that "
+            f"look like category slugs, not article titles: {sorted(suspicious)}"
+        )
+        for k in suspicious:
+            log_dict.pop(k, None)
+    return log_dict
+
+
+def prune_old_entries(log_dict, retention_days=LOG_RETENTION_DAYS):
+    cutoff = datetime.now(pytz.utc) - timedelta(days=retention_days)
+    kept = {}
+    for title, timestamp in log_dict.items():
+        try:
+            when = datetime.fromisoformat(timestamp)
+        except (TypeError, ValueError):
+            kept[title] = timestamp
+            continue
+        if when >= cutoff:
+            kept[title] = timestamp
+    return kept
+
+
+def load_queue():
+    if not os.path.exists(POST_QUEUE_FILE):
+        return []
+    try:
+        with open(POST_QUEUE_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        if isinstance(data, list):
+            return data
+    except (OSError, json.JSONDecodeError, ValueError):
+        print(f"[WARN] Could not read {POST_QUEUE_FILE}; starting fresh.")
+    return []
+
+
+def save_queue(queue):
+    with open(POST_QUEUE_FILE, "w", encoding="utf-8") as f:
+        json.dump(queue, f, indent=2, ensure_ascii=False)
 
 
 def is_recent(published_parsed):
@@ -271,28 +424,71 @@ def source_name_from_title(title, category):
     return category
 
 
-def fetch_article_text(link):
+def resolve_article_url(link):
     """
-    Fetches the publisher's article page and extracts up to
-    MAX_ARTICLE_WORDS words of the main body text via trafilatura.
-    Returns None (never raises) if the fetch or extraction fails for
-    any reason — sites that block scraping, paywall, time out, or have
-    layouts trafilatura can't parse. Callers fall back to the RSS
-    snippet in that case.
+    Google News RSS links point at a news.google.com interstitial page
+    rather than the publisher's actual article. If that URL is posted
+    to Facebook as-is, Facebook's link-preview scraper renders the
+    Google News interstitial (the "popup") instead of the real story.
+
+    This follows real HTTP redirects first, and if the final URL is
+    still on news.google.com, tries to pull the true article URL out
+    of that page's canonical/og:url meta tags. Falls back to the
+    original link (and never raises) if none of that works, so a
+    resolution failure never breaks the run — it just means that one
+    story's preview may point at Google News instead of the source.
+
+    Returns (resolved_url, page_html) — page_html is passed straight
+    into fetch_article_text so we don't fetch the same page twice.
     """
     try:
         response = requests.get(
             link,
             headers=FEED_REQUEST_HEADERS,
             timeout=ARTICLE_FETCH_TIMEOUT_SECONDS,
+            allow_redirects=True,
         )
-        response.raise_for_status()
     except requests.RequestException as exc:
-        print(f"[WARN] Could not fetch article page: {exc}")
-        return None
+        print(f"[WARN] Could not resolve article URL: {exc}")
+        return link, None
+
+    final_url = response.url
+    page_html = response.text if response.ok else None
+
+    if "news.google.com" in final_url and page_html:
+        match = _CANONICAL_LINK_RE.search(page_html) or _OG_URL_RE.search(page_html)
+        if match:
+            candidate = html.unescape(match.group(1)).strip()
+            if candidate.startswith("http") and "news.google.com" not in candidate:
+                return candidate, page_html
+
+    return final_url, page_html
+
+
+def fetch_article_text(link, page_html=None):
+    """
+    Fetches (or reuses an already-fetched) publisher article page and
+    extracts up to MAX_ARTICLE_WORDS words of the main body text via
+    trafilatura. Returns None (never raises) if the fetch or extraction
+    fails for any reason — sites that block scraping, paywall, time
+    out, or have layouts trafilatura can't parse. Callers fall back to
+    the RSS snippet, or hold the story, in that case.
+    """
+    if page_html is None:
+        try:
+            response = requests.get(
+                link,
+                headers=FEED_REQUEST_HEADERS,
+                timeout=ARTICLE_FETCH_TIMEOUT_SECONDS,
+            )
+            response.raise_for_status()
+        except requests.RequestException as exc:
+            print(f"[WARN] Could not fetch article page: {exc}")
+            return None
+        page_html = response.text
 
     try:
-        extracted = trafilatura.extract(response.text)
+        extracted = trafilatura.extract(page_html)
     except Exception as exc:  # trafilatura can raise a range of parser errors
         print(f"[WARN] Could not extract article text: {exc}")
         return None
@@ -304,6 +500,31 @@ def fetch_article_text(link):
     if len(words) > MAX_ARTICLE_WORDS:
         words = words[:MAX_ARTICLE_WORDS]
     return " ".join(words)
+
+
+def extractive_summary(text, max_words=MAX_SUMMARY_WORDS):
+    """
+    Whole-sentence extractive summary used only in the local fallback
+    path (Groq unavailable/failed): takes complete sentences from the
+    front of the real fetched article, in order, up to max_words. Never
+    cuts a sentence off mid-way.
+    """
+    if not text:
+        return ""
+    sentences = _SENTENCE_SPLIT_RE.split(text.strip())
+    word_count = 0
+    kept = []
+    for sentence in sentences:
+        words = sentence.split()
+        if not words:
+            continue
+        if kept and word_count + len(words) > max_words:
+            break
+        kept.append(sentence)
+        word_count += len(words)
+        if word_count >= max_words:
+            break
+    return " ".join(kept)
 
 
 def parse_topic_and_summary(raw_text):
@@ -324,12 +545,13 @@ def parse_topic_and_summary(raw_text):
 
 def paraphrase_with_groq(title, summary, category, article_text=None):
     """
-    Asks Groq for a short topic line plus an original summary (no outlet
-    name, no links) — using the full fetched article text when available,
-    falling back to the RSS snippet otherwise. Returns a (topic, summary)
-    tuple, or None (never raises) if GROQ_API_KEY isn't set or the call
-    fails for any reason, so callers can fall back to the cleaned-text
-    version without the run ever failing over this.
+    Asks Groq for a short topic line plus an original summary (no
+    outlet name, no category/source labels, no links) — using the full
+    fetched article text when available, falling back to the cleaned
+    RSS snippet otherwise. Returns a (topic, summary) tuple, or None
+    (never raises) if GROQ_API_KEY isn't set or the call fails for any
+    reason, so callers fall back to the extractive/local path without
+    the run ever failing over this.
     """
     if not GROQ_API_KEY:
         return None
@@ -338,18 +560,21 @@ def paraphrase_with_groq(title, summary, category, article_text=None):
 
     prompt = (
         "You are given a Kenyan news story. Produce two things, entirely "
-        "in your own words:\n"
-        "1. A short topic line (under 12 words) capturing what the story "
-        "is about.\n"
+        "in your own words, as a well-constructed, natural-sounding "
+        "piece of writing (not a list of fragments):\n"
+        "1. A short topic line (under 12 words) capturing what the "
+        "story is about.\n"
         f"2. An original summary, no more than {MAX_SUMMARY_WORDS} words, "
-        "factual and neutral. Do not name the publication or outlet, do "
-        "not include any links or URLs, and do not closely mirror the "
-        "original phrasing or sentence structure. If there isn't much "
-        "detail to work with, a shorter summary is fine.\n\n"
+        "factual, neutral, and written in complete, well-formed "
+        "sentences. Do not name the publication or outlet, do not "
+        "mention 'Kenya Update' or any category label, do not include "
+        "any links or URLs, and do not closely mirror the original "
+        "phrasing or sentence structure. If there isn't much detail to "
+        "work with, a shorter summary is fine — never pad it out or "
+        "repeat the topic line.\n\n"
         "Respond in exactly this format, nothing else:\n"
         "Topic: <topic line>\n"
         "Summary: <summary text>\n\n"
-        f"Category: {category}\n"
         f"Title: {title}\n"
         f"Article text:\n{content_for_prompt}"
     )
@@ -376,45 +601,63 @@ def paraphrase_with_groq(title, summary, category, article_text=None):
             return None
         return parse_topic_and_summary(raw_text)
     except (requests.RequestException, KeyError, IndexError, ValueError) as exc:
-        print(f"[WARN] Groq paraphrase failed, using cleaned-text fallback: {exc}")
+        print(f"[WARN] Groq paraphrase failed, using local fallback: {exc}")
         return None
 
 
-def cleaned_fallback_body(title, summary):
+def build_fallback_body(title, summary, article_text):
     """
-    Zero-dependency fallback used when Groq isn't configured or fails:
-    just the title and snippet cleaned up, no outlet attribution line,
-    no link text.
+    Used only when Groq isn't configured or fails. Prefers a
+    whole-sentence extractive summary pulled from the real fetched
+    article (a single source) over the raw RSS snippet, since Google
+    News' aggregator snippets are prone to bundling several outlets'
+    headlines together even after clean_summary_for_use() filters the
+    obvious cases. Returns None if there isn't enough real content to
+    build a decent post from, so the caller holds the story for a
+    later retry instead of publishing something thin or junky.
     """
-    clean_title = title.rsplit(" - ", 1)[0].strip() if " - " in title else title
-    body = clean_title if clean_title.endswith((".", "!", "?")) else f"{clean_title}."
+    intro = title if title.endswith((".", "!", "?")) else f"{title}."
+
+    if article_text:
+        extract = extractive_summary(article_text)
+        if extract:
+            return f"{intro}\n\n{extract}"
+
     if summary:
-        body += f" {summary}"
-    return body
+        return f"{intro} {summary}"
+
+    return None
 
 
 def make_facebook_post(title, summary, link, category):
     """
     Builds the Facebook post text as a short topic line + paraphrased
-    summary of the story — no outlet attribution line, no link text in
-    the body. Fetches up to MAX_ARTICLE_WORDS of the full article first
-    (falling back to the RSS snippet if that fails), then asks Groq to
-    summarize it. If Groq isn't configured or fails, falls back to a
-    cleaned reformat of the title/snippet. The original article link is
-    still passed to Facebook separately (as the post's link-preview
-    target), so the source stays reachable via the auto-generated
-    preview card even though it's not printed here.
-    """
-    article_text = fetch_article_text(link)
-    groq_result = paraphrase_with_groq(title, summary, category, article_text)
+    summary of the story — no outlet attribution, no category/"Kenya
+    Update" header, no link text in the body. Resolves the real
+    article URL first (so the link-preview target is the actual story,
+    not a Google News interstitial), fetches up to MAX_ARTICLE_WORDS of
+    the full article, then asks Groq to summarize it. If Groq isn't
+    configured or fails, falls back to a whole-sentence extractive
+    summary of the real article (or, failing that, the cleaned RSS
+    snippet).
 
+    Returns (message, resolved_link). message is None if there wasn't
+    enough real content to build a decent post — callers should treat
+    that as a failed attempt and retry later rather than post it.
+    """
+    resolved_link, page_html = resolve_article_url(link)
+    article_text = fetch_article_text(resolved_link, page_html=page_html)
+    clean_title = dedupe_title(title)
+    cleaned_summary = clean_summary_for_use(summary)
+
+    groq_result = paraphrase_with_groq(clean_title, cleaned_summary, category, article_text)
     if groq_result:
         topic, body_summary = groq_result
-        body = f"{topic}\n\n{body_summary}" if topic else body_summary
-    else:
-        body = cleaned_fallback_body(title, summary)
+        message = f"{topic}\n\n{body_summary}" if topic else body_summary
+        return message, resolved_link
 
-    return f"📰 Kenya Update\n\n{body}"
+    message = build_fallback_body(clean_title, cleaned_summary, article_text)
+    return message, resolved_link
 
 
 def facebook_endpoint():
@@ -458,6 +701,9 @@ def post_to_facebook(message, link):
 
 
 def append_suggestions(entries):
+    if not entries:
+        return
+
     exists = os.path.exists(SUGGESTED_POSTS_FILE)
 
     with open(SUGGESTED_POSTS_FILE, "a", encoding="utf-8") as f:
@@ -471,7 +717,7 @@ def append_suggestions(entries):
         for entry in entries:
             flag = (
                 " ⚠️ REVIEW — possibly sensitive content"
-                if entry["flagged"] else ""
+                if entry.get("flagged") else ""
             )
 
             f.write(
@@ -493,17 +739,13 @@ def main():
     print(f"Scan time: {nairobi_timestamp()} (Nairobi)")
     print(f"RSS feeds configured: {len(FEEDS)}")
     print(f"Lookback: {LOOKBACK_HOURS} hours")
-    print(f"Maximum suggestions: {MAX_SUGGESTIONS_PER_RUN}")
-    print(f"Maximum Facebook posts: {MAX_FACEBOOK_POSTS_PER_RUN}")
+    print(f"Maximum new suggestions per run: {MAX_SUGGESTIONS_PER_RUN}")
+    print(f"Maximum Facebook posts per run: {MAX_FACEBOOK_POSTS_PER_RUN}")
     print(
         f"Groq paraphrasing (full-article, topic + <{MAX_SUMMARY_WORDS}w summary): "
-        f"{'enabled' if GROQ_API_KEY else 'disabled (using cleaned-text fallback)'}"
+        f"{'enabled' if GROQ_API_KEY else 'disabled (using extractive fallback)'}"
     )
 
-    # Posting is required, not optional — fail the run loudly and early
-    # if credentials are missing instead of silently downgrading to
-    # suggestions-only, so a misconfigured secret is never mistaken for
-    # "everything's fine, just no posts today."
     facebook_enabled = AUTO_POST_TO_FACEBOOK
     if facebook_enabled and (not FACEBOOK_PAGE_ID or not FACEBOOK_PAGE_ACCESS_TOKEN):
         raise SystemExit(
@@ -515,12 +757,21 @@ def main():
     print(f"Facebook auto-post: {facebook_enabled}")
     print("=" * 70)
 
-    seen_titles = load_json_set(POSTED_LOG_FILE, quarantine_suspicious=True)
-    facebook_log = load_json_set(FACEBOOK_POST_LOG_FILE, quarantine_suspicious=True)
+    now_iso = datetime.now(pytz.utc).isoformat()
 
-    new_entries = []
+    posted_log = prune_old_entries(
+        quarantine_suspicious(load_json_dict(POSTED_LOG_FILE), POSTED_LOG_FILE)
+    )
+    facebook_log = prune_old_entries(
+        quarantine_suspicious(load_json_dict(FACEBOOK_POST_LOG_FILE), FACEBOOK_POST_LOG_FILE)
+    )
+    queue = load_queue()
+    queued_titles = [item["title"] for item in queue]
+
+    # ---- Phase 1: scan feeds, collect new (deduplicated) candidate stories ----
+    candidates = []
+    held_for_review = []
     suggestions_made = 0
-    facebook_posts_made = 0
     feeds_checked = 0
     feeds_failed = 0
 
@@ -557,9 +808,11 @@ def main():
             if suggestions_made >= MAX_SUGGESTIONS_PER_RUN:
                 break
 
-            title = clean_text(entry.get("title", ""))
+            raw_title = clean_text(entry.get("title", ""))
+            title = dedupe_title(raw_title)
             link = clean_text(entry.get("link", ""))
-            summary = strip_html(entry.get("summary", ""))
+            raw_summary = strip_html(entry.get("summary", ""))
+            summary = clean_summary_for_use(raw_summary)
 
             published_parsed = (
                 entry.get("published_parsed")
@@ -571,92 +824,174 @@ def main():
 
             key = normalize_title(title)
 
-            if key in seen_titles:
+            # Exact or fuzzy duplicate of something already posted, held,
+            # or previously queued — including a late report of a story
+            # another outlet already broke, which gets auto-declined here.
+            if key in posted_log or find_similar_title(title, posted_log.keys()):
+                continue
+
+            if key in queued_titles or find_similar_title(title, queued_titles):
+                continue
+
+            # Duplicate of a story another feed already surfaced earlier
+            # in this same scan.
+            if find_similar_title(title, [c["title"] for c in candidates]):
                 continue
 
             if not is_recent(published_parsed):
                 continue
 
-            flagged = is_sensitive(title, summary)
+            flagged = is_sensitive(title, raw_summary)
+            source = source_name_from_title(raw_title, category)
 
-            source = source_name_from_title(title, category)
-
-            entry_data = {
-                "category": category,
-                "title": title,
-                "link": link,
-                "source": source,
-                "flagged": flagged,
-                "facebook_status": "not attempted",
-            }
-
-            # Sensitive stories are saved for manual review but are NOT
-            # automatically published.
             if flagged:
-                entry_data["facebook_status"] = "held for manual review"
-                new_entries.append(entry_data)
-                seen_titles.add(key)
+                held_for_review.append({
+                    "category": category,
+                    "title": title,
+                    "link": link,
+                    "source": source,
+                    "flagged": True,
+                    "facebook_status": "held for manual review",
+                })
+                posted_log[key] = now_iso
                 suggestions_made += 1
                 continue
 
-            if facebook_enabled:
-                if facebook_posts_made >= MAX_FACEBOOK_POSTS_PER_RUN:
-                    entry_data["facebook_status"] = "queued; Facebook limit reached"
-                elif key in facebook_log:
-                    entry_data["facebook_status"] = "already posted"
-                else:
-                    message = make_facebook_post(
-                        title,
-                        summary,
-                        link,
-                        category,
-                    )
-
-                    ok, result = post_to_facebook(
-                        message,
-                        link,
-                    )
-
-                    if ok:
-                        facebook_posts_made += 1
-                        facebook_log.add(key)
-                        entry_data["facebook_status"] = (
-                            f"POSTED ({result})"
-                        )
-                        print(
-                            f"[FACEBOOK] Posted: {title}"
-                        )
-                    else:
-                        entry_data["facebook_status"] = (
-                            f"FAILED: {result}"
-                        )
-                        print(
-                            f"[FACEBOOK ERROR] {category}: {result}"
-                        )
-
-                    # Small delay to reduce burst posting.
-                    time.sleep(1)
-
-            new_entries.append(entry_data)
-            seen_titles.add(key)
+            candidates.append({
+                "title": title,
+                "normalized_title": key,
+                "link": link,
+                "source": source,
+                "category": category,
+                "summary": summary,
+                "discovered_at": now_iso,
+                "attempts": 0,
+            })
+            posted_log[key] = now_iso
+            queued_titles.append(title)
             suggestions_made += 1
 
-    if new_entries:
-        append_suggestions(new_entries)
-        save_json_set(POSTED_LOG_FILE, seen_titles)
-        save_json_set(FACEBOOK_POST_LOG_FILE, facebook_log)
+    if len(queue) + len(candidates) > QUEUE_MAX_SIZE:
+        room = max(0, QUEUE_MAX_SIZE - len(queue))
+        if room < len(candidates):
+            print(
+                f"[WARN] Queue at capacity ({QUEUE_MAX_SIZE}); dropping "
+                f"{len(candidates) - room} newly found stories this run."
+            )
+        candidates = candidates[:room]
+
+    queue.extend(candidates)
+
+    # ---- Phase 2: post up to MAX_FACEBOOK_POSTS_PER_RUN from the FRONT of the queue ----
+    facebook_posts_made = 0
+    posted_entries = []
+    failed_entries = []
+    remaining_queue = []
+
+    for item in queue:
+        if not facebook_enabled or facebook_posts_made >= MAX_FACEBOOK_POSTS_PER_RUN:
+            remaining_queue.append(item)
+            continue
+
+        message, resolved_link = make_facebook_post(
+            item["title"], item["summary"], item["link"], item["category"]
+        )
+
+        if message is None:
+            item["attempts"] = item.get("attempts", 0) + 1
+            reason = "no usable article text or snippet to build a post from"
+            if item["attempts"] >= MAX_POST_ATTEMPTS:
+                failed_entries.append({
+                    "category": item["category"],
+                    "title": item["title"],
+                    "link": item["link"],
+                    "source": item["source"],
+                    "flagged": False,
+                    "facebook_status": f"FAILED permanently after {MAX_POST_ATTEMPTS} attempts: {reason}",
+                })
+                print(f"[FACEBOOK] Giving up on: {item['title']} ({reason})")
+            else:
+                remaining_queue.append(item)
+                print(
+                    f"[FACEBOOK] Will retry "
+                    f"({item['attempts']}/{MAX_POST_ATTEMPTS}): {item['title']} ({reason})"
+                )
+            time.sleep(1)
+            continue
+
+        ok, result = post_to_facebook(message, resolved_link)
+
+        if ok:
+            facebook_posts_made += 1
+            facebook_log[item["normalized_title"]] = now_iso
+            posted_entries.append({
+                "category": item["category"],
+                "title": item["title"],
+                "link": resolved_link,
+                "source": item["source"],
+                "flagged": False,
+                "facebook_status": f"POSTED ({result})",
+            })
+            print(f"[FACEBOOK] Posted: {item['title']}")
+        else:
+            item["attempts"] = item.get("attempts", 0) + 1
+            if item["attempts"] >= MAX_POST_ATTEMPTS:
+                failed_entries.append({
+                    "category": item["category"],
+                    "title": item["title"],
+                    "link": item["link"],
+                    "source": item["source"],
+                    "flagged": False,
+                    "facebook_status": f"FAILED permanently after {MAX_POST_ATTEMPTS} attempts: {result}",
+                })
+                print(f"[FACEBOOK ERROR] Giving up on: {item['title']} ({result})")
+            else:
+                remaining_queue.append(item)
+                print(
+                    f"[FACEBOOK ERROR] Will retry "
+                    f"({item['attempts']}/{MAX_POST_ATTEMPTS}): {item['title']} ({result})"
+                )
+
+        # Small delay to reduce burst posting.
+        time.sleep(1)
+
+    queue = remaining_queue
+
+    posted_or_failed_keys = {normalize_title(e["title"]) for e in posted_entries + failed_entries}
+    still_queued_entries = [
+        {
+            "category": c["category"],
+            "title": c["title"],
+            "link": c["link"],
+            "source": c["source"],
+            "flagged": False,
+            "facebook_status": "queued for a future run",
+        }
+        for c in candidates
+        if c["normalized_title"] not in posted_or_failed_keys
+    ]
+
+    all_new_entries = held_for_review + posted_entries + failed_entries + still_queued_entries
+    append_suggestions(all_new_entries)
+
+    save_json_dict(POSTED_LOG_FILE, posted_log)
+    save_json_dict(FACEBOOK_POST_LOG_FILE, facebook_log)
+    save_queue(queue)
 
     print()
     print("=" * 70)
     print("SCAN COMPLETE")
     print("=" * 70)
-    print(f"New stories: {len(new_entries)}")
-    print(f"Facebook posts made: {facebook_posts_made}")
+    print(f"New stories found this run: {len(candidates)}")
+    print(f"Facebook posts made this run: {facebook_posts_made}")
+    print(f"Stories remaining in queue: {len(queue)}")
+    print(f"Held for manual review: {len(held_for_review)}")
     print(f"Feeds checked: {feeds_checked}")
     print(f"Feed failures: {feeds_failed}")
     print(f"Output: {SUGGESTED_POSTS_FILE}")
-    print(f"Dedup log: {POSTED_LOG_FILE}")
+    print(f"Seen/dedup log: {POSTED_LOG_FILE}")
     print(f"Facebook log: {FACEBOOK_POST_LOG_FILE}")
+    print(f"Post queue: {POST_QUEUE_FILE}")
     print("=" * 70)
 
 

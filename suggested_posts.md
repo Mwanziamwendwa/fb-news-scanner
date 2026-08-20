@@ -3897,3 +3897,110 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://k24.digital/entertainment/tiktok-declines-invite-to-discuss-dangerous-driving-videos
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 00:37 (Nairobi time)
+
+- **[SPM Buzz]** Former Coordinator Sues Kiambu Woman Rep Anne Muratha for More Than KSh1.2 Million
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/kenya/former-coordinator-sues-kiambu-woman-rep-anne-muratha-for-more-than-ksh1-2-million/?utm_source=rss&utm_medium=rss&utm_campaign=former-coordinator-sues-kiambu-woman-rep-anne-muratha-for-more-than-ksh1-2-million
+  - Facebook: POSTED (1289239267586516_122110820433407566)
+
+- **[SPM Buzz]** At Least 15 Killed as Russian Strikes Hit Kyiv Amid Air Defence Crisis
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/world/at-least-15-killed-as-russian-strikes-hit-kyiv-amid-air-defence-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=at-least-15-killed-as-russian-strikes-hit-kyiv-amid-air-defence-crisis
+  - Facebook: POSTED (1289239267586516_122110820445407566)
+
+- **[SPM Buzz]** Sugarcane Revival Gives Western Kenya Farmers Fresh Hope After Years of Struggle
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/bussiness/sugarcane-revival-gives-western-kenya-farmers-fresh-hope-after-years-of-struggle/?utm_source=rss&utm_medium=rss&utm_campaign=sugarcane-revival-gives-western-kenya-farmers-fresh-hope-after-years-of-struggle
+  - Facebook: POSTED (1289239267586516_122110820463407566)
+
+- **[SPM Buzz]** From Racing Heart to Poor Sleep: How Stress Changes the Body
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/lifestyle/from-racing-heart-to-poor-sleep-how-stress-changes-the-body/?utm_source=rss&utm_medium=rss&utm_campaign=from-racing-heart-to-poor-sleep-how-stress-changes-the-body
+  - Facebook: POSTED (1289239267586516_122110820487407566)
+
+- **[SPM Buzz]** Telemundo Executive José Alberto Suárez Among Seven Killed in Samburu Helicopter Tragedy
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/kenya/telemundo-executive-jose-alberto-suarez-among-seven-killed-in-samburu-helicopter-tragedy/?utm_source=rss&utm_medium=rss&utm_campaign=telemundo-executive-jose-alberto-suarez-among-seven-killed-in-samburu-helicopter-tragedy
+  - Facebook: POSTED (1289239267586516_122110820505407566)
+
+- **[SPM Buzz]** Endometriosis Explained:Symptoms, Treatment and Why Early Diagnosis Matters
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/healt/104525/?utm_source=rss&utm_medium=rss&utm_campaign=104525
+  - Facebook: POSTED (1289239267586516_122110820529407566)
+
+- **[Ghafla]** Pastor Ng’ang’a Criticizes Kanyari And Other Religious Leaders Joining Politics
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/pastor-nganga-criticizes-kanyari-and-other-religious-leaders-joining-politics/
+  - Facebook: POSTED (1289239267586516_122110820547407566)
+
+- **[Ghafla]** Two Politicians Ditch UDA For Ndidi Nyoro’s People’s Party
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/two-politicians-ditch-uda-for-ndidi-nyoros-peoples-party/
+  - Facebook: POSTED (1289239267586516_122110820595407566)
+
+- **[Ghafla]** Charlene Ruto And Her Husband Isaya Continue Sharing Cosy Moments After Traditional Ceremony
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/charlene-ruto-and-her-husband-isaya-continue-sharing-cosy-moments-after-traditional-ceremony/
+  - Facebook: POSTED (1289239267586516_122110820613407566)
+
+- **[Ghafla]** Sifuna’s Abscence In Boni Khalwale’s Loss Draws Public Attention
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/sifunas-abscence-in-boni-khalwales-loss-draws-public-attention/
+  - Facebook: POSTED (1289239267586516_122110820637407566)
+
+- **[Ghafla]** Director Trevor Clarifies His Role in HEHA Movers
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/director-trevor-clarifies-his-role-in-heha-movers/
+  - Facebook: POSTED (1289239267586516_122110820781407566)
+
+- **[Ghafla]** Zari Hassan Denies Inheriting Wealth From Late Ex-Huband, Shares Throwback Photos While Hustling
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/zari-hassan-denies-inheriting-wealth-from-late-ex-huband-shares-throwback-photos-while-hustling/
+  - Facebook: POSTED (1289239267586516_122110820799407566)
+
+- **[Ghafla]** Late Jahmby Koikai’s Plea Resurfaces As Natalie Githinji Battles Stage 4 Endometriosis
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/late-jahmby-koikais-plea-resurfaces-as-natalie-githinji-battles-stage-4-endometriosis/
+  - Facebook: POSTED (1289239267586516_122110820847407566)
+
+- **[Ghafla]** From fertilizer to market: What Western farmers need to make agriculture pay
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/from-fertilizer-to-market-what-western-farmers-need-to-make-agriculture-pay/
+  - Facebook: POSTED (1289239267586516_122110820865407566)
+
+- **[Ghafla]** Heha Movers Responds to Critics Questioning Its Business
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/heha-movers-responds-to-critics-questioning-its-business/
+  - Facebook: POSTED (1289239267586516_122110820979407566)
+
+- **[Business Topic]** Walmart sees sales drop as US consumer spending retreats - Al Jazeera
+  - Source: Al Jazeera
+  - Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxONlV6U0lvUmN5WF8xZHBYOGN0Y0k0X0xpY2lORnNQdms1b1BVMzNLODNOUzQ2ZGRMWjBqbUllaHptQ3Z5SF8teEU2ZDgtXzczQlVDTkxadEhfSjhLNXhmSTl0d19DVXRlYkRJOE9mSlNUdGpKajBJcDllWmIyTVI1ZFZsT29mTm1GV0RLZlBSQVlxYzUzeXVkUklpLVlMMmpsbkHSAacBQVVfeXFMUFhCSGdiUDBQM3NGQ2Jpa25kZm1KcC02VEI0YnZlUjVnVDNYS0lBdTl5cEY4THdvUWJ4TjgwUjJ6SUZldC1VTGswNXlRVXF3U3phMFVZSVQ2eDMyNVByeW83cHlOUU9ZZy11YXlpNTVyaU91aFNjTnJkck5nZ1lnSHAzVF8zaWZpeTh2NFdmMl85MlFyZDB3V2J6VDFSTzhSMzNvUTN2c1E?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** US Allows Early Sales of Winter Gasoline to Help Curb Prices - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNNm1MTUNQb0xqdmtOSFdwRTIta1EyVEZmY3lTM0dSQUNuajAtaGVmX2NUN0pZMFp5TDVlQW9YbmpTaHlldWFUNk9lVUtnQ0pwdFBCU2RkNjlCODd3NzczNUxQcGlhVkxKN0MwcjgwUmlST19sdlRqVjBjdlJXNHJ4N3pwbTVaeXlrVDV3Y3FTZFZ0N0tvdzh2ei1Bb2lkMDdUZzRFWi1EbUQzRUVZV1Vwcw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Fitch Takes Various Actions on Bayview Opportunity Master Fund VII Trust 2024-SN1 - Fitch Ratings
+  - Source: Fitch Ratings
+  - Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxORGl4NnAxN0RMZ3QzaldvU1NUa1JZVHFXcllwaW94UXNiQmVPVlRmYjFwSl9vaE50RGo1dFgtdDZfZEhjcG81cDFkc3RyY2JrZ2htY0xJN3ROQWpScVNsM0RsRlUweFVJX2hzbXhVSWFtdE15U2xLRzB6NGRsZjYxT25xOGVRZWNHNzluWVREUkhCNjR5azk1UWtKd0tPMjdDaVl3SmIzOU94eklycmJWLWU3SUdjdEFrSnh6Wl9zU0pybGp3ZU9PcHJFTkg4Z3lUTHA3SUppRGFsbzV0bm5XQXFWOA?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Fitch Downgrades Class F-RR Notes in MP CLO VII, Ltd. to 'Csf' - Fitch Ratings
+  - Source: Fitch Ratings
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOQU11Z1JIVDQtekxvRFk4T1ZCMExXc0lsZVFDaVdvZmRPZktQRE16UzN2Vk5HNmZoeXdZYVBWSG5qZzJlMWhUWVJnbzZFeFQwN1B6RGFOWnd0Vjczb25KR25BT0tjVXB4dFZ6RzZNSlk4ZFRTSFBtNERQTGt4a2NLWDVGdklMUHo3TmQxNmc0NWV6Z2x5ZHhhQVpBNklpX0FYaDFtdzYxMGlELWxiX1ZCZmR4djE4VkR3WGdaUUNqZjJ4MmhM?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Fitch Assigns Final Ratings to PSA Trust 2026-STOR - Fitch Ratings
+  - Source: Fitch Ratings
+  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEhXanhyUjFsVDVSLTNNLVRmaGhrZlBoR3dqMUZVQmRGZW9rUDF6enBOUVNaTzdES2tLMUhBeE40MENYZHJlNE1KcEdybFNQd2ZDa2VfMmI1RFJvWnVoZHlwb1hxUERNZ3BWM1VYX0ZNRXE3ekRUSWxndmdoc2FmbUNqbVBaeFZMa2IxaWNUblc5STdzazlCQllPdnNiVUZRc1VNT0t1b0ZvRzBHNnA2ZGpjODQtSldRR2c?oc=5
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** 5 ways to make after-work exercise easier
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/health-and-fitness/5-ways-to-make-after-work-exercise-easier
+  - Facebook: queued for a future run
+

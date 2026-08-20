@@ -2,21 +2,24 @@
 Kenya News Scanner + Facebook Page Publisher
 
 Reads RSS feeds, finds recent stories, deduplicates them, flags sensitive
-content, paraphrases a short original summary (via Groq, with a safe
-fallback if that's unavailable), and can publish it to a Facebook Page.
+content, fetches up to ~1000 words of the full article and paraphrases a
+short topic + under-200-word summary (via Groq, with a safe fallback if
+any of that is unavailable), and can publish it to a Facebook Page.
 
 IMPORTANT:
 - Never put your Facebook token or Groq key in this file.
 - Use GitHub Secrets:
     FACEBOOK_PAGE_ID
     FACEBOOK_PAGE_ACCESS_TOKEN
-    GROQ_API_KEY   (optional — enables paraphrased summaries)
+    GROQ_API_KEY   (optional — enables paraphrased topic + summary)
 - The token previously pasted into chat should be revoked/rotated.
 - This script does not copy article bodies verbatim. If Groq is
-  configured, it posts a short original paraphrase. Otherwise it posts
-  a cleaned-up version of the title/snippet, with no outlet attribution
-  line and no link text in the post body. The original link is still
-  passed to Facebook separately as the post's link-preview target.
+  configured, it posts an original topic line + paraphrased summary
+  built from the fetched article (or the RSS snippet if the fetch
+  fails). Otherwise it posts a cleaned-up version of the title/snippet.
+  Either way, there's no outlet attribution line and no link text in
+  the post body — the original link is still passed to Facebook
+  separately as the post's link-preview target.
 """
 
 import os
@@ -30,6 +33,7 @@ from datetime import datetime, timedelta
 import feedparser
 import pytz
 import requests
+import trafilatura
 
 
 NAIROBI_TZ = pytz.timezone("Africa/Nairobi")
@@ -44,6 +48,14 @@ MAX_FACEBOOK_POSTS_PER_RUN = 5
 FEED_TIMEOUT_SECONDS = 15
 FACEBOOK_TIMEOUT_SECONDS = 30
 GROQ_TIMEOUT_SECONDS = 20
+ARTICLE_FETCH_TIMEOUT_SECONDS = 15
+
+# Full article text is trimmed to this many words before being sent to
+# Groq, to keep prompts small and predictable.
+MAX_ARTICLE_WORDS = 1000
+
+# Target length for the Groq-generated summary.
+MAX_SUMMARY_WORDS = 200
 
 # Set to false if you want suggestions only.
 AUTO_POST_TO_FACEBOOK = True
@@ -259,27 +271,87 @@ def source_name_from_title(title, category):
     return category
 
 
-def paraphrase_with_groq(title, summary, category):
+def fetch_article_text(link):
     """
-    Asks Groq for a short, original paraphrase of the story (no outlet
-    name, no links). Returns None (never raises) if GROQ_API_KEY isn't
-    set or if the call fails for any reason, so callers can fall back
-    to the cleaned-text version without the run ever failing over this.
+    Fetches the publisher's article page and extracts up to
+    MAX_ARTICLE_WORDS words of the main body text via trafilatura.
+    Returns None (never raises) if the fetch or extraction fails for
+    any reason — sites that block scraping, paywall, time out, or have
+    layouts trafilatura can't parse. Callers fall back to the RSS
+    snippet in that case.
+    """
+    try:
+        response = requests.get(
+            link,
+            headers=FEED_REQUEST_HEADERS,
+            timeout=ARTICLE_FETCH_TIMEOUT_SECONDS,
+        )
+        response.raise_for_status()
+    except requests.RequestException as exc:
+        print(f"[WARN] Could not fetch article page: {exc}")
+        return None
+
+    try:
+        extracted = trafilatura.extract(response.text)
+    except Exception as exc:  # trafilatura can raise a range of parser errors
+        print(f"[WARN] Could not extract article text: {exc}")
+        return None
+
+    if not extracted:
+        return None
+
+    words = extracted.split()
+    if len(words) > MAX_ARTICLE_WORDS:
+        words = words[:MAX_ARTICLE_WORDS]
+    return " ".join(words)
+
+
+def parse_topic_and_summary(raw_text):
+    """
+    Pulls "Topic: ..." and "Summary: ..." out of Groq's reply. If the
+    model didn't follow the format for some reason, falls back to using
+    the whole reply as the summary with no separate topic line.
+    """
+    topic_match = re.search(r"Topic:\s*(.+)", raw_text)
+    summary_match = re.search(r"Summary:\s*(.+)", raw_text, re.DOTALL)
+
+    topic = clean_text(topic_match.group(1)) if topic_match else None
+    summary_text = (
+        clean_text(summary_match.group(1)) if summary_match else clean_text(raw_text)
+    )
+    return topic, summary_text
+
+
+def paraphrase_with_groq(title, summary, category, article_text=None):
+    """
+    Asks Groq for a short topic line plus an original summary (no outlet
+    name, no links) — using the full fetched article text when available,
+    falling back to the RSS snippet otherwise. Returns a (topic, summary)
+    tuple, or None (never raises) if GROQ_API_KEY isn't set or the call
+    fails for any reason, so callers can fall back to the cleaned-text
+    version without the run ever failing over this.
     """
     if not GROQ_API_KEY:
         return None
 
+    content_for_prompt = article_text or summary or "No further details available."
+
     prompt = (
-        "Rewrite the following news item as a short, original summary "
-        "for a Facebook post, entirely in your own words. Do not name "
-        "the publication or outlet, do not include any links or URLs, "
-        "and do not closely mirror the original phrasing or sentence "
-        "structure. Keep it factual and neutral. Use 2 sentences for a "
-        "short/thin item, up to 4 sentences if there's enough detail to "
-        "say more. Return only the summary text, nothing else.\n\n"
+        "You are given a Kenyan news story. Produce two things, entirely "
+        "in your own words:\n"
+        "1. A short topic line (under 12 words) capturing what the story "
+        "is about.\n"
+        f"2. An original summary, no more than {MAX_SUMMARY_WORDS} words, "
+        "factual and neutral. Do not name the publication or outlet, do "
+        "not include any links or URLs, and do not closely mirror the "
+        "original phrasing or sentence structure. If there isn't much "
+        "detail to work with, a shorter summary is fine.\n\n"
+        "Respond in exactly this format, nothing else:\n"
+        "Topic: <topic line>\n"
+        "Summary: <summary text>\n\n"
         f"Category: {category}\n"
         f"Title: {title}\n"
-        f"Details: {summary or 'No further details available.'}"
+        f"Article text:\n{content_for_prompt}"
     )
 
     try:
@@ -293,14 +365,16 @@ def paraphrase_with_groq(title, summary, category):
                 "model": GROQ_MODEL,
                 "messages": [{"role": "user", "content": prompt}],
                 "temperature": 0.5,
-                "max_tokens": 200,
+                "max_tokens": 400,
             },
             timeout=GROQ_TIMEOUT_SECONDS,
         )
         response.raise_for_status()
         data = response.json()
-        text = clean_text(data["choices"][0]["message"]["content"])
-        return text or None
+        raw_text = data["choices"][0]["message"]["content"]
+        if not raw_text or not raw_text.strip():
+            return None
+        return parse_topic_and_summary(raw_text)
     except (requests.RequestException, KeyError, IndexError, ValueError) as exc:
         print(f"[WARN] Groq paraphrase failed, using cleaned-text fallback: {exc}")
         return None
@@ -319,18 +393,26 @@ def cleaned_fallback_body(title, summary):
     return body
 
 
-def make_facebook_post(title, summary, category):
+def make_facebook_post(title, summary, link, category):
     """
-    Builds the Facebook post text as a short paraphrased/summarized
-    version of the story — no outlet attribution line, no link text in
-    the body. Tries Groq first; falls back to a cleaned reformat of the
-    title/snippet if Groq isn't configured or the call fails. The
-    original article link is still passed to Facebook separately (as
-    the post's link-preview target), so the source stays reachable via
-    the auto-generated preview card even though it's not printed here.
+    Builds the Facebook post text as a short topic line + paraphrased
+    summary of the story — no outlet attribution line, no link text in
+    the body. Fetches up to MAX_ARTICLE_WORDS of the full article first
+    (falling back to the RSS snippet if that fails), then asks Groq to
+    summarize it. If Groq isn't configured or fails, falls back to a
+    cleaned reformat of the title/snippet. The original article link is
+    still passed to Facebook separately (as the post's link-preview
+    target), so the source stays reachable via the auto-generated
+    preview card even though it's not printed here.
     """
-    paraphrased = paraphrase_with_groq(title, summary, category)
-    body = paraphrased if paraphrased else cleaned_fallback_body(title, summary)
+    article_text = fetch_article_text(link)
+    groq_result = paraphrase_with_groq(title, summary, category, article_text)
+
+    if groq_result:
+        topic, body_summary = groq_result
+        body = f"{topic}\n\n{body_summary}" if topic else body_summary
+    else:
+        body = cleaned_fallback_body(title, summary)
 
     return f"📰 Kenya Update\n\n{body}"
 
@@ -413,7 +495,10 @@ def main():
     print(f"Lookback: {LOOKBACK_HOURS} hours")
     print(f"Maximum suggestions: {MAX_SUGGESTIONS_PER_RUN}")
     print(f"Maximum Facebook posts: {MAX_FACEBOOK_POSTS_PER_RUN}")
-    print(f"Groq paraphrasing: {'enabled' if GROQ_API_KEY else 'disabled (using cleaned-text fallback)'}")
+    print(
+        f"Groq paraphrasing (full-article, topic + <{MAX_SUMMARY_WORDS}w summary): "
+        f"{'enabled' if GROQ_API_KEY else 'disabled (using cleaned-text fallback)'}"
+    )
 
     # Posting is required, not optional — fail the run loudly and early
     # if credentials are missing instead of silently downgrading to
@@ -523,6 +608,7 @@ def main():
                     message = make_facebook_post(
                         title,
                         summary,
+                        link,
                         category,
                     )
 

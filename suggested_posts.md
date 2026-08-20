@@ -4111,3 +4111,90 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://k24.digital/lifestyle/food-and-culinary/foods-that-should-never-be-eaten-on-a-first-date
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 01:06 (Nairobi time)
+
+- **[K24 Digital]** Samburu chopper crash: Atwoli dismisses claim he was supposed to be on board
+  - Source: K24 Digital
+  - Link: https://k24.digital/news/samburu-chopper-crash-atwoli-dismisses-claim-he-was-supposed-to-be-on-board
+  - Facebook: POSTED (1289239267586516_122110828365407566)
+
+- **[K24 Digital]** Ecuador President Noboa pays emotional tribute to friends killed in Kenya chopper crash
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/ecuador-president-noboa-pays-emotional-tribute-to-friends-killed-in-kenya-chopper-crash
+  - Facebook: POSTED (1289239267586516_122110828377407566)
+
+- **[K24 Digital]** Milly Chebby’s nanny overwhelmed after fan offers to clear her 6 months’ rent
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/milly-chebbys-nanny-overwhelmed-after-fan-offers-to-clear-her-6-months-rent
+  - Facebook: POSTED (1289239267586516_122110828395407566)
+
+- **[K24 Digital]** Ride-hailing job boom: Drivers are making far more money than typical office workers in Kenya
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/money/ride-hailing-job-boom-drivers-are-making-far-more-money-than-typical-office-workers-in-kenya
+  - Facebook: POSTED (1289239267586516_122110828419407566)
+
+- **[K24 Digital]** Chidimma Adetshina saga: Nigerian beauty queen fights to stay in South Africa amid increasing calls for her deportation
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/chidimma-adetshina-saga-nigerian-beauty-queen-fights-to-stay-in-south-africa-amid-increasing-calls-for-her-deportation
+  - Facebook: POSTED (1289239267586516_122110828431407566)
+
+- **[K24 Digital]** Cost of living in Kenya: List of everyday items that have become more expensive
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/home-and-living/cost-of-living-in-kenya-list-of-everyday-items-that-have-become-more-expensive
+  - Facebook: POSTED (1289239267586516_122110828491407566)
+
+- **[K24 Digital]** Kenyan doctors raise alarm over risks of weight-loss drugs
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/health-and-fitness/kenyan-doctors-raise-alarm-over-risks-of-weight-loss-drugs
+  - Facebook: POSTED (1289239267586516_122110828509407566)
+
+- **[K24 Digital]** 83-year-old man walks 530km in support of needy students at Tharaka University
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/travel-and-leisure/83-year-old-man-walks-530km-in-support-of-needy-students-at-tharaka-university
+  - Facebook: POSTED (1289239267586516_122110828569407566)
+
+- **[K24 Digital]** Nandi: Women stage 5km march after 67-year-old granny is raped and killed
+  - Source: K24 Digital
+  - Link: https://k24.digital/news/nandi-women-stage-5km-march-after-67-year-old-granny-is-raped-and-killed
+  - Facebook: POSTED (1289239267586516_122110828611407566)
+
+- **[K24 Digital]** Ashton Hall risks it all to hang from a speeding helicopter in new extreme fitness stunt
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/ashton-hall-risks-it-all-to-hang-from-a-speeding-helicopter-in-new-extreme-fitness-stunt
+  - Facebook: POSTED (1289239267586516_122110828659407566)
+
+- **[KBC Digital]** Talanta Stadium nears completion, CS Mvurya confirms 94% progress
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/talanta-stadium-nears-completion-cs-mvurya-confirms-94-progress/
+  - Facebook: POSTED (1289239267586516_122110828701407566)
+
+- **[KBC Digital]** Obiri, Kipruto to headline historic 50th New York City Marathon
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/obiri-kipruto-to-headline-historic-50th-new-york-city-marathon/
+  - Facebook: POSTED (1289239267586516_122110828881407566)
+
+- **[KBC Digital]** Kipyegon prioritises recovery over comeback, pulls out of ultimate championships
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/kipyegon-prioritises-recovery-over-comeback-pulls-out-of-ultimate-championships/
+  - Facebook: POSTED (1289239267586516_122110828899407566)
+
+- **[KBC Digital]** Bensoul, Charisma to headline Driftwood Sevens entertainment in Mombasa
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/bensoul-charisma-to-headline-driftwood-sevens-entertainment-in-mombasa/
+  - Facebook: POSTED (1289239267586516_122110828923407566)
+
+- **[KBC Digital]** Kenya moves to establish first National Lottery Operator
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/kenya-moves-to-establish-first-national-lottery-operator/
+  - Facebook: POSTED (1289239267586516_122110829025407566)
+
+- **[Business Topic]** Broadcom Seeks More Than $60 Billion in Latest AI Debt Deal - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQaW1JdkM5Si1JUXF0SjF4aWw5SXlicHI4NmV0SndDZHc2ejdMY3ZnVjJaRG5lQ0w4YVUtejhYT1lYR0NJR3BORnFhUi1neE4yOGJHRGVNMjZFUXZxSHRXa0tHcmw4M0M2ekYxYTdSWFJJb2loaDU5MEEzYzZweF9paUdBWEVNN0ltWS00X2NWNEhmeFpvZ3U3S2N3ZTZBSGdORGo3d1lHc3o2MzhSY2c?oc=5
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Academic who accused Jason Arday of plagiarism suspended by his university
+  - Source: K24 Digital
+  - Link: https://k24.digital/news/academic-who-accused-jason-arday-of-plagiarism-suspended-by-his-university
+  - Facebook: queued for a future run
+

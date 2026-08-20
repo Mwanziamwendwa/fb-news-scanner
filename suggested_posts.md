@@ -3204,3 +3204,155 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://nairobileo.co.ke/news/article/29636/mps-call-for-crackdown-on-rogue-auctioneers-using-goons
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-20 23:22 (Nairobi time)
+
+- **[Business Topic]** Walmart sales growth slowdown tests consumer resilience, shares slide 10% - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPWHpDQjhTTjdrTGVtLWhZMUJIdWtybnk5SjJ0bWxfMjZ3VmhYXzE3UGljRlZiMmI3V0FNN09Pb1NYWlhCWTVmMlFsdjZTRDFLUFh4WV9Yb0ZGMTJWYTc0eWVWVEZiVC1oVmdXNTBNdGtGdGZoWHN3MzRndDR2YlY2bzFuWTlJeHBXdGJzZHZzMmFiVzYxWUtsZDFlN0F6OWJPTktkS0RaTmtjY0I4WU9wQ3Y4X1VsZzQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110811799407566)
+
+- **[Business Topic]** One day after doubling Treasury buybacks, Bessent says he's ready to boost them further to push down long-term yields - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMiggJBVV95cUxOT25xLUV6X0JEZDZrejlOQWR0WGtWc21ZVE9Qb19mbVpIOUlnMkZjQUdRZU1tOVAtTlNsMWRZVllQMEtSMTRGejVPckFoMUpBQ3FRNnpMU21HWC1KbFdaZW1ITTFHV2lkMGkzREgwWGpZQjJ5Wk9BdmliQ05TT2pqLUUwZzVBQXUwOFR0aXYxNUZhTmdNY21FdTVYbFZtazFnbUVpS0VKd243aW8yM3g3VklYMjhjUURBb25HdlFsaEV5Y3FtU054LTgxeWhRVDRxazdEZnMxOWZJT0tvRlQ2ZWJ3YW5teG9iT1RYSkFUeWR4UkIydXdlVWZKdlBDRzZDdmc?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110811835407566)
+
+- **[Business Topic]** How the A.I. Borrowing Binge Helps Drive Up Government Bond Yields - The New York Times
+  - Source: The New York Times
+  - Link: https://news.google.com/rss/articles/CBMifkFVX3lxTE1YUW5BM1JyalVycE9mRmNLa0xnaUE3emw4cE1XbjJwbG5DOXhwYmRwNUJ5MHN3Si16QlFLeUtZTUhDYTBrUHJUbjdxS1J1bzBLSndOM3NuS0FlM0VRRXdURWlPeFp0eWRPZl9CRzA2dHdlSXNlcldWbXEwZE1ndw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110811865407566)
+
+- **[Business Topic]** Two Binance Employees Detained in the U.A.E. Amid Police Inquiries - The New York Times
+  - Source: The New York Times
+  - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxQQUZnRmRyVHNsdjFPYmYybG56enNxSGtNN3NKMGExazNzYVA5bjZCNG5UOXNUNzVxaV8yaXdpdkhpZlJnb2k4azUwUHhsZnk0cHBIY0xpcTZiTDZRMWJFdVpYeDl6TUNjR3ZNeUFTTkZZWGtfRW9EbDktWmRublc4VFlONGhscXJERDNsOEZ3?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110811883407566)
+
+- **[Business Topic]** Material World: New Weaves, New Rules and Textile Futures - WWD
+  - Source: WWD
+  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNOHhJeDdCY3RXRXJmbTVual9MX2hPRVpmNDdlS0xOdjAxN29Fa2dHNEttU2xuMF9KdmszcW81NmRZb2NkZ0tMX1RJT2NpbUQzS2xGOXo4dXpyUkdJS3U1Zno5YklxeWJ5S3lTMWlOZjVBbi0zNWlQZ2tSeTVzeEs4OTIyYXFOUWRGM3QzUC1ZYjdQd0E0a1M0ai02a2pWRHZFS2hZ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110811913407566)
+
+- **[Kenya Latest]** Seven people, mostly foreign tourists, killed in helicopter crash in Kenya - Al Jazeera
+  - Source: Al Jazeera
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd2VDTEZHMnBBN2xCV3VVQTlrM2ZTd18wS21oZjNsSnl6a0tRX0NYRHAxamRnekUwWUJaU2xOYVEtQ2l3eHQtSjRNMmdDcVJXbE1lZVhIMmJOMGZHNFk4ZV9SR1BzTFZ1Tmt2ZElCUndBRGYyd2lLbk5hTnE1TTR5SnR1UkVuV0pINWN3YWNvNURBdk9LcWhGaEkzUXR2b094STZ5enRVcldrVk3SAbABQVVfeXFMTmEzdnVHNERIS3dPckV0OGQ2R0UyY0llWko5VTNCX2hqZUtEVnZka1N3akktUkQ5NnFxTnJzQ1NDNlVJNmQzMmNxSHZaWXFJZEJ0Z1RoN2hrVVJheEFuejhYZENvQl9TdXVSSDNfbnpRZ0ZvQ2pTMTdSczdYRGhWRTFmc0lFemNtYWpMMEtTanNaQU5PUVpFMW5SVWUta19sUWdIWmVsbWpUcVNEaWtPd1Y?oc=5
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Kenya: Maraga, Githu Muigai to Lead New Forum Ahead of 2027 Election - allAfrica.com
+  - Source: allAfrica.com
+  - Link: https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sZHptRDZoTkJfZ2VpcHZEU0RUUjljbUJWcnIxV1p3bzlqWWNBUXk2MHBNdmp1TndWVm45WVBOWWVWTUZCc1h5MjNyS0Q3eWd0ZmMyRUlzRDBOV0U?oc=5
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Samidoh declares bid for Ol Joro Orok MP seat - Citizen Digital
+  - Source: Citizen Digital
+  - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxNRFNWNThLLVctVy1iY1lBcTRMdlBpVUV0cHpvYTA0X21UZUdnbXhOUDk5WW8xamYtRjdPcnlsV3VHTHBuUmtOam9BbnI4SE90aDZ2ZlVqZUhaQ25IMjI3aFNpSFZPbW1pMjVlQnhKSjNaVlc3WVBiVlIzUWxwMVVZMnFleFZKMm5NMUVFS0p3?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** We're waiting for AI models like they're Taylor Swift albums - Axios
+  - Source: Axios
+  - Link: https://news.google.com/rss/articles/CBMiekFVX3lxTE5fdUUxZFVhLVVWWFRUSU83ZThya2VaYnhiSUJXXzVhODZZTEdyYjNMT2JpaXhOLWJOUGt5Q3I5cE82YjVaeG9qeVJmUmJFckVvcWFXTFRXTWtOUmktME00TVRob3BwX0tFbXJtWFBGUTJsc3pTaHplcGVB?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Walmart sees sales growth slip as US shoppers feel the squeeze - BBC
+  - Source: BBC
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wcnlLZlNjY284cGYxVlJ4TGJZcG1RWjhCV2dwUXdXZ2lhamNuTTUwZXBfVkhDbnJBUXhsZmlzU2dfUUZZM1ZMbmwzUmsza05TRE9HSWczMFJPdw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** JD Sports boss is still struggling to turn up the heat on a tepid trainer market - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxPanUzVmtHWEtrdHRsVjF6Z3p6bTd4U09FYjB6VGtkNEp5ajVsbjJpRE1xVE1iZ3lQZk1YNVZmbE5RR1dkR0Q0MW5ZUlRkVHRCYUxhdWJnY0tFVnhwSG1JaGpUaExzbHA1NFVickNYdFpldG8tU09SQ0hHWk16bUFTZXJVY3Q3Q016b25mLXVrSHFSTEVUYWh1Rzh6NG1PTllMU1lxWWZGMzJOM0RPWURKN3lBRTI5VEpYbFEzY3dhT1pnNEFIREx4X3M3SnlIWkJ5amdBVi01VXRCc25tcEJMT1A5eVhuRW1k?oc=5
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** Principal Secretaries Put on Notice Over Use of Public Funds
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29635/principal-secretaries-put-on-notice-over-use-of-public-funds
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** Western Farmers Hail Affordable Fertilizer as Food Production Rises
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29639/western-farmers-hail-affordable-fertilizer-as-food-production-rises
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** SHA Clears Final Batch of NHIF Claims Worth Ksh10 Million and Below
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/business/article/29638/sha-clears-final-batch-of-nhif-claims-worth-ksh10-million-and-below
+  - Facebook: queued for a future run
+
+- **[SPM Buzz]** Government Proposes New System for Collecting and Managing Tourism Levies
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/kenya/government-proposes-new-system-for-collecting-and-managing-tourism-levies/?utm_source=rss&utm_medium=rss&utm_campaign=government-proposes-new-system-for-collecting-and-managing-tourism-levies
+  - Facebook: queued for a future run
+
+- **[SPM Buzz]** Former Coordinator Sues Kiambu Woman Rep Anne Muratha for More Than KSh1.2 Million
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/kenya/former-coordinator-sues-kiambu-woman-rep-anne-muratha-for-more-than-ksh1-2-million/?utm_source=rss&utm_medium=rss&utm_campaign=former-coordinator-sues-kiambu-woman-rep-anne-muratha-for-more-than-ksh1-2-million
+  - Facebook: queued for a future run
+
+- **[SPM Buzz]** At Least 15 Killed as Russian Strikes Hit Kyiv Amid Air Defence Crisis
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/world/at-least-15-killed-as-russian-strikes-hit-kyiv-amid-air-defence-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=at-least-15-killed-as-russian-strikes-hit-kyiv-amid-air-defence-crisis
+  - Facebook: queued for a future run
+
+- **[SPM Buzz]** Sugarcane Revival Gives Western Kenya Farmers Fresh Hope After Years of Struggle
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/bussiness/sugarcane-revival-gives-western-kenya-farmers-fresh-hope-after-years-of-struggle/?utm_source=rss&utm_medium=rss&utm_campaign=sugarcane-revival-gives-western-kenya-farmers-fresh-hope-after-years-of-struggle
+  - Facebook: queued for a future run
+
+- **[SPM Buzz]** From Racing Heart to Poor Sleep: How Stress Changes the Body
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/lifestyle/from-racing-heart-to-poor-sleep-how-stress-changes-the-body/?utm_source=rss&utm_medium=rss&utm_campaign=from-racing-heart-to-poor-sleep-how-stress-changes-the-body
+  - Facebook: queued for a future run
+
+- **[SPM Buzz]** Telemundo Executive José Alberto Suárez Among Seven Killed in Samburu Helicopter Tragedy
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/kenya/telemundo-executive-jose-alberto-suarez-among-seven-killed-in-samburu-helicopter-tragedy/?utm_source=rss&utm_medium=rss&utm_campaign=telemundo-executive-jose-alberto-suarez-among-seven-killed-in-samburu-helicopter-tragedy
+  - Facebook: queued for a future run
+
+- **[SPM Buzz]** Endometriosis Explained:Symptoms, Treatment and Why Early Diagnosis Matters
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/healt/104525/?utm_source=rss&utm_medium=rss&utm_campaign=104525
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Pastor Ng’ang’a Criticizes Kanyari And Other Religious Leaders Joining Politics
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/pastor-nganga-criticizes-kanyari-and-other-religious-leaders-joining-politics/
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Two Politicians Ditch UDA For Ndidi Nyoro’s People’s Party
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/two-politicians-ditch-uda-for-ndidi-nyoros-peoples-party/
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Charlene Ruto And Her Husband Isaya Continue Sharing Cosy Moments After Traditional Ceremony
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/charlene-ruto-and-her-husband-isaya-continue-sharing-cosy-moments-after-traditional-ceremony/
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Sifuna’s Abscence In Boni Khalwale’s Loss Draws Public Attention
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/sifunas-abscence-in-boni-khalwales-loss-draws-public-attention/
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Director Trevor Clarifies His Role in HEHA Movers
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/director-trevor-clarifies-his-role-in-heha-movers/
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Zari Hassan Denies Inheriting Wealth From Late Ex-Huband, Shares Throwback Photos While Hustling
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/zari-hassan-denies-inheriting-wealth-from-late-ex-huband-shares-throwback-photos-while-hustling/
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Late Jahmby Koikai’s Plea Resurfaces As Natalie Githinji Battles Stage 4 Endometriosis
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/late-jahmby-koikais-plea-resurfaces-as-natalie-githinji-battles-stage-4-endometriosis/
+  - Facebook: queued for a future run
+
+- **[Ghafla]** From fertilizer to market: What Western farmers need to make agriculture pay
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/from-fertilizer-to-market-what-western-farmers-need-to-make-agriculture-pay/
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Heha Movers Responds to Critics Questioning Its Business
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/heha-movers-responds-to-critics-questioning-its-business/
+  - Facebook: queued for a future run
+

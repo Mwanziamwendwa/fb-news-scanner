@@ -4198,3 +4198,95 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://k24.digital/news/academic-who-accused-jason-arday-of-plagiarism-suspended-by-his-university
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 01:20 (Nairobi time)
+
+- **[KBC Digital]** Kipchoge backs initiative to Fund Pediatric Wheelchairs for PWD’s
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/kipchoge-backs-initiative-to-fund-pediatric-wheelchairs-for-pwds/
+  - Facebook: POSTED (1289239267586516_122110831347407566)
+
+- **[KBC Digital]** Government pushes inclusive housing finance to expand home ownership
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/government-pushes-inclusive-housing-finance-to-expand-home-ownership/
+  - Facebook: POSTED (1289239267586516_122110831365407566)
+
+- **[KBC Digital]** Over 5,000 runners, elite stars set for Belgut Half Marathon
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/over-5000-runners-elite-stars-set-for-belgut-half-marathon/
+  - Facebook: POSTED (1289239267586516_122110831383407566)
+
+- **[NTV Kenya]** Defense strategy in Tupac Shakur murder case: don’t believe my client
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/news/defense-strategy-in-tupac-shakur-murder-case-dont-believe-my-client/
+  - Facebook: POSTED (1289239267586516_122110831407407566)
+
+- **[NTV Kenya]** ‘Baby Shark’ boy returns to stage as a K-pop singer
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/news/baby-shark-boy-returns-to-stage-as-a-k-pop-singer/
+  - Facebook: POSTED (1289239267586516_122110831437407566)
+
+- **[NTV Kenya]** China puts robocops on traffic duty, minus the arrest powers
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/news/china-deploys-robot-cops-on-traffic-duty/
+  - Facebook: POSTED (1289239267586516_122110831443407566)
+
+- **[NTV Kenya]** Proposed amendments to Sexual Offences Act
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/arts-lifestyle/proposed-amendments-to-sexual-offences-act/
+  - Facebook: POSTED (1289239267586516_122110831461407566)
+
+- **[NTV Kenya]** Exploring the beauty of locks with Utamaduni Salon founder Slim Njoroge | The Glam
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/arts-lifestyle/exploring-the-beauty-of-locks-with-utamaduni-salon-founder-slim-njoroge-the-glam/
+  - Facebook: POSTED (1289239267586516_122110831539407566)
+
+- **[NTV Kenya]** Mosquito Day: Malaria in pregnancy
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/arts-lifestyle/mosquito-day-malaria-in-pregnancy/
+  - Facebook: POSTED (1289239267586516_122110831665407566)
+
+- **[NTV Kenya]** ABSA Bank Kenya HY2026 Earnings | Business Redefined
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/business/absa-bank-kenya-hy2026-earnings-business-redefined/
+  - Facebook: POSTED (1289239267586516_122110831677407566)
+
+- **[NTV Kenya]** Kenya’s Special Funds Market | Business Redefined
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/business/kenyas-special-funds-market-business-redefined/
+  - Facebook: POSTED (1289239267586516_122110831701407566)
+
+- **[NTV Kenya]** Pogba and Monaco part ways after one season
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/sports/pogba-and-monaco-part-ways-after-one-season/
+  - Facebook: POSTED (1289239267586516_122110831767407566)
+
+- **[NTV Kenya]** New drug could wipe out HIV in newborns
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/news/new-drug-could-wipe-out-hiv-in-newborns/
+  - Facebook: POSTED (1289239267586516_122110831929407566)
+
+- **[NTV Kenya]** Several feared dead after chopper crashes in Samburu
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/news/several-feared-dead-after-chopper-crashes-in-samburu/
+  - Facebook: POSTED (1289239267586516_122110832115407566)
+
+- **[NTV Kenya]** US judge allows Trump to end deportation protections for over 5,000 Ethiopians
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/news/us-judge-allows-trump-to-end-deportation-protections-for-over-5000-ethiopians/
+  - Facebook: POSTED (1289239267586516_122110832139407566)
+
+- **[Business Topic]** Morgan Stanley Revamps Merck Stock Target After Cancer Breakthrough - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGtOUFcxUXpNc3g2eUg5dlFQZ01vQmV6VWl5T2pwNHJjM0NqS2QyUHM3WHNWMUpMZFlHVVpGU1Aya2J0bmlEbnVxOXR2cGd1eW51Qk54Q3BZV1NOdm5hdmJJd3Y2bkFNWVZKVXd4NGo3bUpLS2xMTERQWnU2d3ozellqaDBwUkhzN0RRZnVRVEktVENDSm9lQUVyUGo2YlZQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Abbott agrees to $670 million settlement of infant formula cases - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxNbV84dDA2eTFRQnY2SjItUDFrUTRtbDVjblVraEl4VEdtNzFLZmFIc0k1aEhlX2xEa3h1SkI5REdMVlo5RW5OQ0o3alFyYUpjWnZ6UVlHWXVNSnBqWEU2Y0ZwVzJJOU9qNGxCU3hEUDZkazBQZEZlVEFaNENid19CUEh4TkcwZWUzN2NVN1hKMXRhcE9tanRmMVd3OWFqSFBjdlJHQkxmc0xFTnRSNkJv?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** JPMorgan Hints At Another Delay For Tesla Optimus Release - Investor's Business Daily
+  - Source: Investor's Business Daily
+  - Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE1GeEtSem03alY1bmgwMG5lMEZNQzF4S2ZMZENRd09NemlKM1I0QlU5LWRCRHdEeWlZOHU4VktRSHF3WVdFa1VaYTg2TkFnUm4tWlU1NTNRUWxLSEs0RzdBQktBZlBCd0ExMVkxd3hROHRBN1lEUkRDN2hQWEphRlU?oc=5
+  - Facebook: queued for a future run
+

@@ -4004,3 +4004,110 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://k24.digital/lifestyle/health-and-fitness/5-ways-to-make-after-work-exercise-easier
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 00:57 (Nairobi time)
+
+- **[Kenya Latest]** TSC nominee Lentoijoni proposes promotion reforms amid stagnation - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPV04yemIxNk5VcVk5aHpzOUlzUDNXV25YaEJiaGNCVlpINGZRMWtVYXFIQlduOGxEVm9BVHlvcVFRNWw2Rlg4dUZ4T2NhWlpDTndfaFJmcXdacF9pLXdWMjdkOGMwckFVQV9PRlBYWjduWHotYnlwUVFrMkVlajlWM0hWNjJ3eG83YmVfMTUyaGZLWEtLbFFzNi14cFRaZllYQUFXR1dkNm0yMzZnRjJRYWQ0V2U?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110826919407566)
+
+- **[Business Topic]** Alphabet Slips as $77.1 Billion AI Gain Distorts Earnings - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNYWtXT3hfSTdMWGQ3SU9TeVN1c1MwSXVJTWR5RmZPdzZMS1RzdWNUN3YzcHp6SV96UVVBa3doY3ZtZmc1SGlQUXFoYk9idW1TbjF4ZHRKYThwcjRVMktxQnZxMlFDSjZFcHhYWVBKRWFhMnUtOUp0czNjdmM5RFk2bWhZUGhreGVFdExuTHo3NHhuMVIwR1E?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110826925407566)
+
+- **[Business Topic]** Alibaba Falls as AI Spending Surges 75% and Profit Misses - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxPRTUyQWtZR1RzYkhGUDBic2RyTlJpMm9IOS1tbDhqTnl3Mm90ZlBoVEVpaDRkbS0wT3J0VnNQelVHVV9GcS1QWWhyajNxQlk1TG1xNlR5QjlCNDRwQk1JeGwzU1U2TFFxbnZvY2JMTExZVUQzNW9NX3BBby1TY19INzRCdjdHWHNia05hUk56QVhFNW51Wmc0TDRTb1NTUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110826949407566)
+
+- **[Business Topic]** MacKenzie Scott, Billionaire Philanthropist, Returns to Her First Love: Fiction - WSJ
+  - Source: WSJ
+  - Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxNT1ZUR0ZBbHYwTnMzb2tsaF9vYUo3QVhyN2FtVGV5ZXYyQy1NUmh4bk1WMlRtZVB3SjhOaF91VlREQ2Vybk5haEpaS1N4VGQyZXMyd2VNYldXNFI5WVNRUzctd1hVMEdBNW9RQ3F2MFlZRFJWUlBUUTBkVEZmVFR5bzllM1lmUERhVHpGNHF4VnR2UQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110826967407566)
+
+- **[Ghafla]** Oga Obinna Claims Politicians Tried to Woo Naomi Kuria by Smearing Him
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/oga-obinna-claims-politicians-tried-to-woo-naomi-kuria-by-smearing-him/
+  - Facebook: POSTED (1289239267586516_122110826991407566)
+
+- **[K24 Digital]** Who is Lucy Afandi? Kenyan appointed by Pope Leo XIV as Vatican consultant
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/who-is-lucy-afandi-kenyan-appointed-by-pope-leo-xiv-as-vatican-consultant
+  - Facebook: POSTED (1289239267586516_122110827009407566)
+
+- **[K24 Digital]** Boni Khalwale chooses spot for his wife’s grave: Inside Luhya burial rites in polygamous families
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/boni-khalwale-chooses-spot-for-his-wifes-grave-inside-luhya-burial-rites-in-polygamous-families
+  - Facebook: POSTED (1289239267586516_122110827075407566)
+
+- **[K24 Digital]** Naivasha MP Jayne Kihara vs Esther Passaris: What really sparked their dramatic TV clash
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/naivasha-mp-jayne-kihara-vs-esther-passaris-what-really-sparked-their-dramatic-tv-clash
+  - Facebook: POSTED (1289239267586516_122110827105407566)
+
+- **[K24 Digital]** Revealed: Pilot killed in Samburu chopper crash was a fourth-generation aviator
+  - Source: K24 Digital
+  - Link: https://k24.digital/news/revealed-pilot-killed-in-samburu-chopper-crash-was-a-fourth-generation-aviator
+  - Facebook: POSTED (1289239267586516_122110827117407566)
+
+- **[K24 Digital]** Kanyari reveals how he discovered meaning of ‘Alele mtoto’ after grooving to Kapitani’s hit on repeat
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/kanyari-reveals-how-he-discovered-meaning-of-alele-mtoto-after-grooving-to-kapitanis-hit-on-repeat
+  - Facebook: POSTED (1289239267586516_122110827159407566)
+
+- **[K24 Digital]** The Premier League’s new plan to end corner chaos
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/epl/the-premier-leagues-new-plan-to-end-corner-chaos
+  - Facebook: POSTED (1289239267586516_122110827249407566)
+
+- **[K24 Digital]** Car salesman becomes prince after Belgian royal family confirms paternity through DNA test
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/car-salesman-becomes-prince-after-belgian-royal-family-confirms-paternity-through-dna-test
+  - Facebook: POSTED (1289239267586516_122110827261407566)
+
+- **[K24 Digital]** List of areas to be affected by 8-hour blackout on Friday, August 21
+  - Source: K24 Digital
+  - Link: https://k24.digital/news/list-of-areas-to-be-affected-by-8-hour-blackout-on-friday-august-21
+  - Facebook: POSTED (1289239267586516_122110827309407566)
+
+- **[K24 Digital]** Samburu chopper crash: 7 things passengers should never do during a helicopter flight
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/travel-and-leisure/samburu-chopper-crash-7-things-passengers-should-never-do-during-a-helicopter-flight
+  - Facebook: POSTED (1289239267586516_122110827333407566)
+
+- **[K24 Digital]** Vanessa Mdee reveals why Rotimi’s ‘God with us’ film moved her to tears
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/vanessa-mdee-reveals-why-rotimis-god-with-us-film-moved-her-to-tears
+  - Facebook: POSTED (1289239267586516_122110827417407566)
+
+- **[Standard Sports]** Mombasa centre of golf attraction this weekend
+  - Source: Standard Sports
+  - Link: https://www.standardmedia.co.ke/sports/article/2001555841/mombasa-centre-of-golf-attraction-this-weekend
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Health Care Roundup: Market Talk - WSJ
+  - Source: WSJ
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxQRnRJZ1JDanVyNlZtZ1VyMkhOSUttajRjTlBvUXlxY3FVLTB2Q3FIdnRneGVMRnRCZTdEc3VXQWRmNU1JRUFaazlBRFJHUC1XRXd5LTZydFNfNDFvSDktN2dpS08xYzVhaHBEcm51OURXS2FWMEFRclNhY2x5S21kZkV1QWg?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Fitch Maintains NCR Atleos' 'BB-' Ratings on Positive Watch - Fitch Ratings
+  - Source: Fitch Ratings
+  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNZU1yTmZBRTF0em9aZjlDZ2ltZHhQSE03a0tabXU3TGV5bzlUSEpWNUZGeEhGY3lmamVBRUJpY3Rqck1DR2JQNXVaMG9PRDlQaDQwWHVVOHY3YXIzTkoyYzMzbmdQVDJIeTFiYzdEd0tFeFIyOWViaVp3MnRzRlZnSm9UTWxJMEJtT1hnVXpsRE5OMFlZZXA5ZjBLVG9ZdUxXMDhGRDFENmJqYkdFU01HT3BGU0hSMnNCTFFfV1RjVQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Ross Stores raises annual profit forecast again on discounted apparel demand - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxNdFVKb3hYaVFIUG96TkNVVnhCaUJNRUlYelZmQ1RFUmhEMWxkelNZRVdjV21rMjlzbnNYaXBzblVKcU1HOTQyQ3pLZ0dvWGZoLXpIZklkME00Y3VSS0hzUnBORi1EV2dVNk9mek9WckNkd0E2Z3ZGdHJQVHFaVkVQelVob1JNaFI0eFMwMXdzRC1nRVVrM2xDcVpGVURHeXVYWXd6bXlMX09IdERfaXBpaUt0VXdVc2VpME9lTTI3QnozcHg0ZU41S2RWbURteGM?oc=5
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Kenya eyes AFCON 2027 opening and closing ceremonies as preparations hit 80 per cent
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/kenya-eyes-afcon-2027-opening-and-closing-ceremonies-as-preparations-hit-80-per-cent
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Foods that should never be eaten on a first date
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/food-and-culinary/foods-that-should-never-be-eaten-on-a-first-date
+  - Facebook: queued for a future run
+

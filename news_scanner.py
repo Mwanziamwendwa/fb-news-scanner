@@ -16,6 +16,10 @@ and the script posts up to MAX_FACEBOOK_POSTS_PER_RUN from the FRONT of
 that queue each run (oldest-found first), so a busy scan's extra stories
 carry over and get posted on later runs instead of being lost.
 
+Runs on a 4-hour schedule (see the workflow's cron). MAX_SUGGESTIONS_PER_RUN
+and MAX_FACEBOOK_POSTS_PER_RUN are sized for 6 runs/day instead of 48, so
+daily throughput doesn't collapse just because the interval got longer.
+
 IMPORTANT:
 - Never put your Facebook token or Groq key in this file.
 - Use GitHub Secrets:
@@ -70,9 +74,18 @@ FACEBOOK_POST_LOG_FILE = "facebook_post_log.json"  # only stories actually poste
 POST_QUEUE_FILE = "post_queue.json"          # stories found but not yet posted, oldest-first
 FEED_ROTATION_STATE_FILE = "feed_rotation_state.json"  # which feed to start scanning from next run
 
-LOOKBACK_HOURS = 48
-MAX_SUGGESTIONS_PER_RUN = 25          # cap on NEW stories gathered per run (before posting)
-MAX_FACEBOOK_POSTS_PER_RUN = 5        # cap on posts actually published per run
+# The workflow runs every 4 hours, so this window is set to 5 hours —
+# matching the 4-hour gap plus a 1-hour buffer, so a run that's delayed
+# by GitHub Actions' scheduler (cron start times aren't guaranteed to
+# the minute) still catches everything published since the last run
+# actually happened, instead of a story silently falling in the gap.
+LOOKBACK_HOURS = 5
+# The workflow now runs every 4 hours (6 runs/day) instead of every
+# 30 minutes (48 runs/day) — these two caps are raised roughly 3x from
+# their original values so the site doesn't end up posting far less
+# per day just because the interval got longer.
+MAX_SUGGESTIONS_PER_RUN = 60          # cap on NEW stories gathered per run (before posting)
+MAX_FACEBOOK_POSTS_PER_RUN = 15       # cap on posts actually published per run
 MAX_POST_ATTEMPTS = 3                 # give up on a queued story after this many failed post attempts
 QUEUE_MAX_SIZE = 300                  # safety cap so the backlog can't grow unbounded
 LOG_RETENTION_DAYS = 14               # how long a "seen" story is remembered for dedup purposes

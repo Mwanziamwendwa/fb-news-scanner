@@ -2696,3 +2696,130 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://news.google.com/rss/articles/CBMihgJBVV95cUxON2JTQWZjcEtvMUhpVnR2OFVEajc0ZWh2NlAyT1NaZkt4RTJucUZjaUhCbjc1R25UYXZDOEhTNVhFZTRobHU2WllmU0llV2hnWEFuS20wRFNFelY0OWR2YjZIQmFDcWk3b3BoNFN3ZDhOdnI1SUM3aEdHV0NhQjctUFFhWDM3c2QySWN6N25PcG50QVFycGtuNGFVeVZ1YkVpcEYxUVZYWHBKU1VFeVU3ZGVPbS00elc5eTIzMmUyaDVJbVlPc0RHLV9VRVk5Rjc5dGkxZ3g0YTBoVHVNWmhZMGVvaXZ5dEQtb3hUd3JubFZrLXV4bWprdDFnbEV2bFhWdkY0cUx3?oc=5
   - Facebook: FAILED: {"error": {"message": "(#200) If posting to a group, requires app being installed in the group, and \\\n          either publish_to_groups permission with user token, or both pages_read_engagement \\\n          and pages_manage_posts permission with page token; If posting to a page, \\\n          requires both pages_read_engagement and pages_manage_posts as an admin with \\\n          sufficient administrative permission", "type": "OAuthException", "code": 200, "fbtrace_id": "AlrNYmRO_Z3EOzhiPZgaPtz"}}
 
+## Scan run: 2026-08-20 21:06 (Nairobi time)
+
+- **[Kenya Latest]** Kenya: MPs Demand Action As Political Goonism Threatens Public Gatherings - allAfrica.com
+  - Source: allAfrica.com
+  - Link: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FWU50djQzYVAzbW42TGp6dDhoU19LVzZYNmxBWFBhWmVpcmhvLVZSZWFEZHhReHZPRFRISzFodnVHZTZMOFF0MHhNTkhUTnlFN043MW5CSUNBRUU?oc=5
+  - Facebook: POSTED (1289239267586516_122110796955407566)
+
+- **[Kenya Latest]** Alarm in Kirinyaga as four bodies retrieved in River Ragati over last two months - Citizen Digital
+  - Source: Citizen Digital
+  - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNaW03cXpxUTZhdEZpd0VXZUJyYkkzU1BwS3E5SHBYOWJMZ3pxeE0xOEJGSkNES0VMcUg2Yklqb1AxdDBGbmZMM3NiSjdmT2dUSnFSdXJGc2FCZTR5ZnQ5WFVESlQ5LWVhTEZ4S1dBd2ZmU2U0eldZcW9UZVcwV3p4emVvWkxaQXNzNjZqcWZhWVg3UUxXTXpXdFZlcmlzcm1qZ1RPSncwQ2dKS21nMWJDMmRCSURsYkZtdWJEcg?oc=5
+  - Facebook: POSTED (1289239267586516_122110797015407566)
+
+- **[Kenya Latest]** Police Issue New Orders Days After Deadly Homa Bay Violence - Kenyans.co.ke
+  - Source: Kenyans.co.ke
+  - Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxNUU13RUR2X3RiU0hqczhMdUpVS2lQSktTM2RveUNLMEdFaUxMZnV5VV9hMndzbjY2X0tXNk9ObGtSNmZsSkdhZEdXSkxCS3QyWXpCU1dacnlISkJuOEZmSG1mZm1mZmNhS3VmR3R6LURYMWEzN1A4VFA0SWtBSXVBbjJZNjJQNk5rX0JvQ2Z1dHhOcGE2Zk1pQVBnNHFkWDBEaU9lUA?oc=5
+  - Facebook: POSTED (1289239267586516_122110797141407566)
+
+- **[Kenya Latest]** 'Get an experienced operator!' Angry Water CS Mugaa advises Governor Wanga over 'dead' water facility - Citizen Digital
+  - Source: Citizen Digital
+  - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR2h5a25kRXlYU0R1c3BSd3hHUVFsb1h2elhYemtGeWN4Y0FGY3pEZW1TOXgzc2FIMlRLWjhVVE93OFdhN0ZYN2xuVDFYZm1pSTZuYXNhSjdJb3pYU0VSUFJMMjJKd0xCXzBzcFJNTDRuejBPV0NHeXBGSFVzOWxKSjRjdUU1dWUxY0c1YnZyRHVDenE0Rm54d3J5QnZLNFd4MVZLRXpFa1gzRFZpcTJrTm5oXzRYQzJXV2JZVnh0cDc3Vml5NmtPb0xmTTNfOXdad3c?oc=5
+  - Facebook: POSTED (1289239267586516_122110797201407566)
+
+- **[Kenya Latest]** Killed at home: Fired farmhand sought in employer's murder probe - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPaGpJX0NoZGo1LUVqN01DcXYyWGtjbmhKaENKSXllZEFvbjlKdXg0M1doMm0xWjdWeV9vQ013Q3JIR2RFdzFva3VRbXloNzZ6Z0Q4R0hjRFlFTjZ4ZjRDZjVBV3d3ekFYMFQxZGV4NHhxWkNxcXM3MkJaejRodThwZGVvTW5xX19fdkVneUxjeHJ0aFJDTlBzS0xCbHNYQ01QRXF0ZlFFNnQwMWg4bWoyblZDY0k3U1F1Tmc?oc=5
+  - Facebook: POSTED (1289239267586516_122110797231407566)
+
+- **[Kenya Latest]** The Ndindi factor: Option or decoy? - NTV Kenya
+  - Source: NTV Kenya
+  - Link: https://news.google.com/rss/articles/CBMib0FVX3lxTFA1RWFmOVhSdm0zbi1QazZyY1FHRE5FZm11cjNwNVo2OGJUTzJoWm5XOXVXRTBYamZtYVMyWVpWcndobWt2M25LUk1RRjNlQlk2TXdPVXBsMGZDS2hSQzdmS1Y4bUg4dGI5N3E5dDBpdw?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Kenya Latest]** Supreme Court halts recovery of Sh1.5bn Ruaraka land compensation - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVWFnSl9Bbk9ER3Vsa0hBY1V2MWdUekMzZGxoOWpuSGtPMW8tcEg4ak01aTBoQWRtcUdVSDI0dEhBQkFFcFJqeUZITTIyT0lvMUNlbGxWQjVkT2VjZkhLekZJdnkxNDBMQlVvQ2Ftb1BQZ1NVa0FfV0ZKOERnbkVYaVU1eU1oelhVUUI0SlZkZTVKdS1PVUFaVjJRRTE0elBvZi1uQ0FEdExkNkk?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Kenya Latest]** Court strikes out case challenging Atwoli’s re-election - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxQa2JTZE5XeVFDWVEzekR5MWUwend2TXFpalBOQjJ4eVJiYW5VZVRZV0YzUVVfZVdvbDBYUzNIeERCNGl1VUh5ZG41ZjRvU09SM2hzdDJvRUFyelJ5akhrTnNPdUhoMEhoajZvRnNSZmtheVI5YWZ2Wm4xaWdTTkJtM0x4dlBlWGVaaWZOdG9EMU5LWXpweGVPSElaMzdVUQ?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Kenya Latest]** Heha Movers: A day with Kibera’s viral comedy group taking Kenya by storm - Citizen Digital
+  - Source: Citizen Digital
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQb3RDbWpEeEx2SkV6cmgwOHJHbEtCcjhkXzA0OWd1LTFrZGRqQXcxRGpJRmU0YU8tTlVpcWNoTmc2YmVibmpoLW5UUHRWejFnTXNrZ2JuZWxvRDY5ZjVNdEJqNEtXdGtkSGpVVEEtc1Bfd2U5QjlIU0dFVVJ0OFNuTDJuR1FQcHdiSmx0ZDF2NmE4QVdxN0NvV1ltVi12dkdpVUl5UDNBUGw5d3Nmcks3SQ?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Kenya Latest]** Why Parliament wants tougher borrower protections - Sacco Review
+  - Source: Sacco Review
+  - Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxPZHA3WnlxRUlVcm5DMVNDNHZDenFENUdka3FHVVFseGxnVEdlNDRhVjNZdVZmMllDQjBUS01xaDRCSUZ3ckpVaTkzUnczWTVHR1lhaDJoWnVqN3piMFA5X0hnQTZWODVHaHpqcTM4M2p5OHFESF9fRk5IWnV0ZWpzcmJn?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Kenya Latest]** Wetang’ula visits Khalwale family after wife's death, conveys Ruto’s condolences - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPamxuc2cwMG81Q3VXSl90aHIydVlmdUpBSGxUbzZuVEVTNkJZaTJJcF9HQk1yUUxpZ1BwNmVvMm54VlJwOHZ4Yzl2Wi1pRktvdWhMTHN1NUhtNmJZNFB5Uk9LOVd3aEtWSzFRVHJTR1UtV2dXTS0wVDVmSExlbFpYYUpBZjIyVE5TSnRoTmltaXhUdEU0c1lzeQ?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Kenya Latest]** Police order Kassim Abdi Sebu to surrender over Homa Bay violence - KBC Digital
+  - Source: KBC Digital
+  - Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ19MYTlFLVU1bURnVFN3dl9TLUpGS1RkUjFGbmtMbnpTOE4tVWJzczMwa1RUTG1wYlh0UnpBeEhiSllXTVF2MnpHRTFXZ1VVVFh4MHdCWkdsV2wzMkFZZ25zdkVYTlVhUjBIX2lzRzNjeFlCaE92SVJ5R1J0WnkzeHg5eTN6UWhhNVJTaHVtcnViUQ?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Politics]** MP Keynan warns political violence hurting Kenya’s tourism, investment - The Eastleigh Voice
+  - Source: The Eastleigh Voice
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPME9QczNONjNfY19pVXFhZlREYXlQdnMzeXVMMjdWUEVfbW5GTFBoUDhqOEQtNnRTSXNobzZ2N2Q3RW9Bc2VKNF9HZ1J4Mk44NC1SMER1Mk1nZXhWUnN5TGtuMGY0Y1RfbGYzWWZfbFpSZDYwVGZYNzhrYnpwb0lmYmFwdHZGc3VMUUlKeDZCdFVPV3otNUpSSldiUjZNdERYdFZYLTRZRjVEcUtMdFFjLQ?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Politics]** Wiper denies Kalonzo-Gachagua political deal - Capital FM Africa
+  - Source: Capital FM Africa
+  - Link: https://news.google.com/rss/articles/CBMiekFVX3lxTE0xMmNvNUY2UzNjMTVCdWpiM3FUM0ppc2oyTjdMZHV6RHYyUjJIcWdIcjJ6MUo2WGpXVV9nMGVwZnUyOVJITkxhNW5XZnpYZjJ4M1JtZmtNbUYyQVgwWUEtNktqbVlBNHpkeDFkX2xHRndSQXRxVS1Odmdn?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** BSidesSF 2026 - From Noise To Notes: Orchestrating SAST With Developers Through AI-Driven Remediation - Security Boulevard
+  - Source: Security Boulevard
+  - Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTHpER1NpVWNQelZveGJUMzFmZWFLY1puajd2UzU4X1MwdGFoWHUzS1ZacS1FZERzWldHQWIxa0ZhbVVfbDFEWGR5dmd4ZnpHaWh3UnpzU1laWDFJVmVvWFF5N0dVSmpUWEFxcEN6M1NmejN5d3k1a0g1Z0dDUC1ZYnRWY21QZ1FXaWdMVjJERzVKbTV4Z2pRMHJHTEkwcTZZRnJIMEN1Y3lSdnd0RXJYZEFwcWJNbWxoY2NBWHV1aF9ZYVdwVklCSW9uUmpqOFBEYVNz?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Mithun, WTA, and Skanska reveal Bevel, a timber tower in Bellevue - The Architect’s Newspaper
+  - Source: The Architect’s Newspaper
+  - Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE9GRkI2aVctb1RTSm9nSndyU042YlMxNU5wNTNjMnEwZFRwUUVrRFVuTm5oWWR5SVhKN3F2cmtEMUk4Zy1mVE50dGdZZURvbkhoUXlYSnkzZms1eWxFOVc5RTNGUHU1Y00zMXAya1NXVEtHbWV5bURnM3AwcE8?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Consumer Reports tests outdoor pizza ovens - KCRA
+  - Source: KCRA
+  - Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQYTFsZTVkZVltSkM4OFhMbmx2VVI5X05NM1ZRY1hVdlVMVzVjck5uNWVsNXpydjhaUnV0Y3JSUXM3UjF5Q0ZUMDgyczRMcWVhRDloLUlMcUdiUWc5cG1FU1ZnVF9iNkNJNnBNb294QUJnZEFscnFfMmxWRGpBc1Z2aTZLRWh2TVE?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Kenya triples its power target, aiming to expand use of nuclear and geothermal energy - Yahoo
+  - Source: Yahoo
+  - Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxQZTdhODFsNzhYTkhzZXZDQ3JIa0lYemRUZWVXQ3NWaUxBSUdFTU5HVVJwTUdUYmdxcENjY3RCRVlFSnhIUmg3TVhsY1VJQjhqclV2V1pXLWgyMk53VURxdDh2cFhFU1I5Wkc1b3lMSWFMcjNvOERnRnl1eWlnWDJ1UHF2eXZRbFgwV2szeEkyWUdYT2h0aWRz?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** A Dive into the Dangote Refinery IPO and Its Anticipated Impact on African Markets - Modern Ghana
+  - Source: Modern Ghana
+  - Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0U5bTFHVlRYNkRSZGVHclFWYjZQUVpETElJOTdsWlZvN3d2VVdSSjhzNy04YXg2WW16eXB5Q0hqU1FRX0J3QWZXSXlCUi00REVBNnNUdE0zcmVDU1ZaQi11cUJtZnJ3cVNLMjluZmI5aU5acER1bk5pY1hxZ1ItUldUb1NZNWZLVURNZ0t1QnloWU83NXluRXRzQkTSAZsBQVVfeXFMTkhTbFBiNXBWMlEzbnFWclZsd2gxeEdzMWNPa0RxV3FINXBmc3NIR0pJR0hLQjc2d3hiVkhpTERfTDR1RTBGRTdTYzZqbE5UTlZMSktvQVpnX3ZZU2ZMZkNWaWIwX3dyTjlxeHdWbDVlRzRIbm1ITi0tbVViNjd2TWRqMkQ1Z1pvZzVDcTZ4dWJJdWc0MklNX2ZXU2c?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Specsavers pays £12m dividend to parent company after jump in earnings - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcklCd19WX1Y5NkhEZVZPSzc2LW5mZFRIVXl2TloyWEFqZ1dsQ01YSzV3LTQtWWtDdll4X2RvRXdDemJ3Z2hYeTVwUVh5ZG5ZTlcyd3Myc1FiZlhxLV82ZV93YlVTdWJ0R215V1pobTY3ekdjakIwOFQ4cjFOeGZoUU5HRzJ3M3VSMm84S2ttX01IQ20tVzdWQ1hoN01GdGxMMFBRMHVKY0ZnRnM?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Bessent says Treasury buyback operation could be more than $4 billion - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeWZjRVVHUzlOcHFTZ2hxdzZ4dFlaT3ZTU3F1Q2lmN04zaTJIc1N2UHBXX2trSnlVZHdPR0pyX3pSaVlhaGItcGliQ2VsMUQxaWI0MEg3UmVHWnQtYkdKVHJzNTZxUlJiY3FNaTU5eEVPSFBQRVVsNVF2LXVkS0ZWVUt0YTBMWFNjYWF2TExwZ1RkQ2Zkb1FfX3RBYnNISzFVcWVyTTNQRELSAa4BQVVfeXFMTjNnTXA3d05yZGM2amxXYnpNRVkyM0VmZVVRM1pidlhfNzU1a3JnZkN0VkNJckNTNVVJWFZzaEt3LUdycFFHYWswTGRXZUVneDlQZWVKQ3RnTVd0c3M3TkpXSFdrNGNMd1M1Tm04TUZpRzJWa05jWlBlNEhhSW5mLXEteFlzRmpwMWVidnJiVzRPMjk0OWo3RUpiODZ0a1hxQWpnUTBDdGZlUldtM3hR?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Mark Zuckerberg buys 440-acre Strancally castle estate in Ireland - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNR192X29nak1rZTZva1JhNjQ5UnZ1dGIzUmZtWG1KS0l0TWt1dkZPdFlMZmVYdlhybDhPTjF6MVdhc0RQVDdWNl9PMnJvbm5JZkZvbTVJUEZuZUgzbHhWbzVtTFhkcmlIMy1IQ3BUdDRHWlNQcHZjSExPOUNYSWQ0bVlvUDdtelMzc3h2WW9rQXNucURDVFE4aWEzd01YaW1qVWo4NXA3Qzd2ODJ2VXd3ag?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Gatekeeping bots, piles of slop: Welcome to the age of AI weirdness at work - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXU5akdIVl9XNk1vNGxBckVmS3VXOEpTTzVscVZ6SGFwT1NQd3YtTzdPU0d2a2M1OUpGWGVkVVEtZ19McDlHNko3cGV3MWFZSXlZeHhWMmJabXU5UFBOVHhFckpYQmkwVVo2bEFmVGZfbmNvaHVhaTl0SFV2dTNtX0tzV1AwRy1zaHFFTUNhQXkzZXRiWnZ6ODFvSUJ1RlZ3ZU5vRi16M0pMZ01ySmpZ0gG0AUFVX3lxTE1KV0tYTFZ6QXgzbTVIU2tXdEs2elo1QUh3eWZDQmpWMU9oODlsdmU5VVdqQWtLTDJueV9wRE4zMFptVC1HeFVJNVl0VUg2Sk11eEdRbDJ4c0JsdXRENXNra3g0MzZhaDhaN1BZX2xXVzZrNncxT2k4dW9xUVZDLXNKR3RzeGpieUp4a3k0QmVnQVlUZldmNl9MdGh3Q3Q0SVh5MXo1cHdONnZwREVHdG5STFFlMA?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Starbucks Laying Off More Than 200 Workers in Streamlining Drive - WSJ
+  - Source: WSJ
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNVUE5SkVEcnhHMmVnc2k3WWpkcHFLN1dDMHVIdDk3Z3h6djhIbWpILVJPbmpiMHlIXzQ5OHpNNXViWV9zQWlrOHlzcVBranZSZkVuVnRRbC1wanM4Q1ZvSU9HXzhxZnkxazVJeU5LdGdsODAyMWNIMGhtclJrX2o0YWpONUtQamlUMVJtVnpUVEZHS0FUeVowYWZ5dWhtTnpfQXlXUkFraU5LSlJ6azBmOVliUHg?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Rationale Behind Baron Focused Growth Fund’s IDEXX Laboratories (IDXX) Holding - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxQU1k1cDczZlhMalhrYTZORkF2WGI0MnFibHZfeFR5dlNJZmx1Q205dHFyTThVWXV3aTMyblp4dUk3d09QVk1QYUU0YktTenl3QXFwR1FLUFRxNk4xSDJ2QmNVMkZqcnlQeGEwYTVOZW5ibmpOZENlWlRVNlhwanB6MWljMVFySHg5WG1RQlJfS3UzQmJfY19Wckh2TEdDdDdIWHdZcg?oc=5
+  - Facebook: queued; Facebook limit reached
+

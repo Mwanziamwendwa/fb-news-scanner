@@ -2,17 +2,21 @@
 Kenya News Scanner + Facebook Page Publisher
 
 Reads RSS feeds, finds recent stories, deduplicates them, flags sensitive
-content, creates a short source-attributed post, and can publish it to a
-Facebook Page.
+content, paraphrases a short original summary (via Groq, with a safe
+fallback if that's unavailable), and can publish it to a Facebook Page.
 
 IMPORTANT:
-- Never put your Facebook token in this file.
+- Never put your Facebook token or Groq key in this file.
 - Use GitHub Secrets:
     FACEBOOK_PAGE_ID
     FACEBOOK_PAGE_ACCESS_TOKEN
+    GROQ_API_KEY   (optional — enables paraphrased summaries)
 - The token previously pasted into chat should be revoked/rotated.
-- This script does not copy article bodies. It posts a short attribution
-  and links readers to the original report.
+- This script does not copy article bodies verbatim. If Groq is
+  configured, it posts a short original paraphrase. Otherwise it posts
+  a cleaned-up version of the title/snippet, with no outlet attribution
+  line and no link text in the post body. The original link is still
+  passed to Facebook separately as the post's link-preview target.
 """
 
 import os
@@ -39,6 +43,7 @@ MAX_SUGGESTIONS_PER_RUN = 25
 MAX_FACEBOOK_POSTS_PER_RUN = 5
 FEED_TIMEOUT_SECONDS = 15
 FACEBOOK_TIMEOUT_SECONDS = 30
+GROQ_TIMEOUT_SECONDS = 20
 
 # Set to false if you want suggestions only.
 AUTO_POST_TO_FACEBOOK = True
@@ -48,6 +53,11 @@ FACEBOOK_PAGE_ACCESS_TOKEN = os.getenv("FACEBOOK_PAGE_ACCESS_TOKEN", "").strip()
 
 # Optional. If omitted, the script uses the unversioned Graph endpoint.
 FACEBOOK_GRAPH_VERSION = os.getenv("FACEBOOK_GRAPH_VERSION", "").strip()
+
+# Optional. If empty, the script skips paraphrasing and uses the
+# cleaned-text fallback instead — it never fails the run over this.
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "").strip()
+GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-20b").strip()
 
 FEED_REQUEST_HEADERS = {
     "User-Agent": (
@@ -249,25 +259,80 @@ def source_name_from_title(title, category):
     return category
 
 
-def make_facebook_post(title, source, link, category):
+def paraphrase_with_groq(title, summary, category):
     """
-    Uses cautious attribution instead of presenting the publisher's reporting
-    as our own. The article link remains the source for the full report.
+    Asks Groq for a short, original paraphrase of the story (no outlet
+    name, no links). Returns None (never raises) if GROQ_API_KEY isn't
+    set or if the call fails for any reason, so callers can fall back
+    to the cleaned-text version without the run ever failing over this.
     """
-    # Remove a trailing " - Source" from Google News titles so the source
-    # appears once in our attribution line.
-    clean_title = title.rsplit(" - ", 1)[0].strip() if " - " in title else title
+    if not GROQ_API_KEY:
+        return None
 
-    return (
-        f"📰 Kenya Update\n\n"
-        f"{clean_title}\n\n"
-        f"According to {source}, this report is among the latest updates "
-        f"in {category.lower()}.\n\n"
-        f"Read the full report from the original publisher:\n"
-        f"{link}\n\n"
-        f"ℹ️ This post is a brief source-attributed summary for discussion "
-        f"and does not claim independent verification of the report."
+    prompt = (
+        "Rewrite the following news item as a short, original summary "
+        "for a Facebook post, entirely in your own words. Do not name "
+        "the publication or outlet, do not include any links or URLs, "
+        "and do not closely mirror the original phrasing or sentence "
+        "structure. Keep it factual and neutral. Use 2 sentences for a "
+        "short/thin item, up to 4 sentences if there's enough detail to "
+        "say more. Return only the summary text, nothing else.\n\n"
+        f"Category: {category}\n"
+        f"Title: {title}\n"
+        f"Details: {summary or 'No further details available.'}"
     )
+
+    try:
+        response = requests.post(
+            "https://api.groq.com/openai/v1/chat/completions",
+            headers={
+                "Authorization": f"Bearer {GROQ_API_KEY}",
+                "Content-Type": "application/json",
+            },
+            json={
+                "model": GROQ_MODEL,
+                "messages": [{"role": "user", "content": prompt}],
+                "temperature": 0.5,
+                "max_tokens": 200,
+            },
+            timeout=GROQ_TIMEOUT_SECONDS,
+        )
+        response.raise_for_status()
+        data = response.json()
+        text = clean_text(data["choices"][0]["message"]["content"])
+        return text or None
+    except (requests.RequestException, KeyError, IndexError, ValueError) as exc:
+        print(f"[WARN] Groq paraphrase failed, using cleaned-text fallback: {exc}")
+        return None
+
+
+def cleaned_fallback_body(title, summary):
+    """
+    Zero-dependency fallback used when Groq isn't configured or fails:
+    just the title and snippet cleaned up, no outlet attribution line,
+    no link text.
+    """
+    clean_title = title.rsplit(" - ", 1)[0].strip() if " - " in title else title
+    body = clean_title if clean_title.endswith((".", "!", "?")) else f"{clean_title}."
+    if summary:
+        body += f" {summary}"
+    return body
+
+
+def make_facebook_post(title, summary, category):
+    """
+    Builds the Facebook post text as a short paraphrased/summarized
+    version of the story — no outlet attribution line, no link text in
+    the body. Tries Groq first; falls back to a cleaned reformat of the
+    title/snippet if Groq isn't configured or the call fails. The
+    original article link is still passed to Facebook separately (as
+    the post's link-preview target), so the source stays reachable via
+    the auto-generated preview card even though it's not printed here.
+    """
+    paraphrased = paraphrase_with_groq(title, summary, category)
+    body = paraphrased if paraphrased else cleaned_fallback_body(title, summary)
+
+    return f"📰 Kenya Update\n\n{body}"
 
 
 def facebook_endpoint():
@@ -348,6 +413,7 @@ def main():
     print(f"Lookback: {LOOKBACK_HOURS} hours")
     print(f"Maximum suggestions: {MAX_SUGGESTIONS_PER_RUN}")
     print(f"Maximum Facebook posts: {MAX_FACEBOOK_POSTS_PER_RUN}")
+    print(f"Groq paraphrasing: {'enabled' if GROQ_API_KEY else 'disabled (using cleaned-text fallback)'}")
 
     # Posting is required, not optional — fail the run loudly and early
     # if credentials are missing instead of silently downgrading to
@@ -456,8 +522,7 @@ def main():
                 else:
                     message = make_facebook_post(
                         title,
-                        source,
-                        link,
+                        summary,
                         category,
                     )
 

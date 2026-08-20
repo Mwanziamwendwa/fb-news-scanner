@@ -3356,3 +3356,155 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://www.ghafla.co.ke/heha-movers-responds-to-critics-questioning-its-business/
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-20 23:36 (Nairobi time)
+
+- **[Nairobi Leo]** Gov't Chemist Laboratory Attains Key International Accreditation
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29654/govt-chemist-laboratory-attains-key-international-accreditation
+  - Facebook: POSTED (1289239267586516_122110813089407566)
+
+- **[Nairobi Leo]** Rigathi Gachagua to Fly Out of the Country
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29653/rigathi-gachagua-to-fly-out-of-the-country
+  - Facebook: POSTED (1289239267586516_122110813095407566)
+
+- **[Nairobi Leo]** Gov’t Warns of New Scam Targeting Business Owners
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29652/govt-warns-of-new-scam-targeting-business-owners
+  - Facebook: POSTED (1289239267586516_122110813113407566)
+
+- **[Nairobi Leo]** Gachagua Throws Huge Party at His Wamunyoro Home [Photos]
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29651/gachagua-throws-huge-party-at-his-wamunyoro-home-photos
+  - Facebook: POSTED (1289239267586516_122110813131407566)
+
+- **[Nairobi Leo]** Wilson Sossion Reveals His Net Worth
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29649/wilson-sossion-reveals-his-net-worth
+  - Facebook: POSTED (1289239267586516_122110813161407566)
+
+- **[Kenya Latest]** TSC nominee Lentoijoni proposes promotion reforms amid stagnation - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPV04yemIxNk5VcVk5aHpzOUlzUDNXV25YaEJiaGNCVlpINGZRMWtVYXFIQlduOGxEVm9BVHlvcVFRNWw2Rlg4dUZ4T2NhWlpDTndfaFJmcXdacF9pLXdWMjdkOGMwckFVQV9PRlBYWjduWHotYnlwUVFrMkVlajlWM0hWNjJ3eG83YmVfMTUyaGZLWEtLbFFzNi14cFRaZllYQUFXR1dkNm0yMzZnRjJRYWQ0V2U?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Alphabet Slips as $77.1 Billion AI Gain Distorts Earnings - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNYWtXT3hfSTdMWGQ3SU9TeVN1c1MwSXVJTWR5RmZPdzZMS1RzdWNUN3YzcHp6SV96UVVBa3doY3ZtZmc1SGlQUXFoYk9idW1TbjF4ZHRKYThwcjRVMktxQnZxMlFDSjZFcHhYWVBKRWFhMnUtOUp0czNjdmM5RFk2bWhZUGhreGVFdExuTHo3NHhuMVIwR1E?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Alibaba Falls as AI Spending Surges 75% and Profit Misses - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxPRTUyQWtZR1RzYkhGUDBic2RyTlJpMm9IOS1tbDhqTnl3Mm90ZlBoVEVpaDRkbS0wT3J0VnNQelVHVV9GcS1QWWhyajNxQlk1TG1xNlR5QjlCNDRwQk1JeGwzU1U2TFFxbnZvY2JMTExZVUQzNW9NX3BBby1TY19INzRCdjdHWHNia05hUk56QVhFNW51Wmc0TDRTb1NTUQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** MacKenzie Scott, Billionaire Philanthropist, Returns to Her First Love: Fiction - WSJ
+  - Source: WSJ
+  - Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxNT1ZUR0ZBbHYwTnMzb2tsaF9vYUo3QVhyN2FtVGV5ZXYyQy1NUmh4bk1WMlRtZVB3SjhOaF91VlREQ2Vybk5haEpaS1N4VGQyZXMyd2VNYldXNFI5WVNRUzctd1hVMEdBNW9RQ3F2MFlZRFJWUlBUUTBkVEZmVFR5bzllM1lmUERhVHpGNHF4VnR2UQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Oga Obinna Claims Politicians Tried to Woo Naomi Kuria by Smearing Him
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/oga-obinna-claims-politicians-tried-to-woo-naomi-kuria-by-smearing-him/
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Who is Lucy Afandi? Kenyan appointed by Pope Leo XIV as Vatican consultant
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/who-is-lucy-afandi-kenyan-appointed-by-pope-leo-xiv-as-vatican-consultant
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Boni Khalwale chooses spot for his wife’s grave: Inside Luhya burial rites in polygamous families
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/boni-khalwale-chooses-spot-for-his-wifes-grave-inside-luhya-burial-rites-in-polygamous-families
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Naivasha MP Jayne Kihara vs Esther Passaris: What really sparked their dramatic TV clash
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/naivasha-mp-jayne-kihara-vs-esther-passaris-what-really-sparked-their-dramatic-tv-clash
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Revealed: Pilot killed in Samburu chopper crash was a fourth-generation aviator
+  - Source: K24 Digital
+  - Link: https://k24.digital/news/revealed-pilot-killed-in-samburu-chopper-crash-was-a-fourth-generation-aviator
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Kanyari reveals how he discovered meaning of ‘Alele mtoto’ after grooving to Kapitani’s hit on repeat
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/kanyari-reveals-how-he-discovered-meaning-of-alele-mtoto-after-grooving-to-kapitanis-hit-on-repeat
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** The Premier League’s new plan to end corner chaos
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/epl/the-premier-leagues-new-plan-to-end-corner-chaos
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Car salesman becomes prince after Belgian royal family confirms paternity through DNA test
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/car-salesman-becomes-prince-after-belgian-royal-family-confirms-paternity-through-dna-test
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** List of areas to be affected by 8-hour blackout on Friday, August 21
+  - Source: K24 Digital
+  - Link: https://k24.digital/news/list-of-areas-to-be-affected-by-8-hour-blackout-on-friday-august-21
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Samburu chopper crash: 7 things passengers should never do during a helicopter flight
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/travel-and-leisure/samburu-chopper-crash-7-things-passengers-should-never-do-during-a-helicopter-flight
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Vanessa Mdee reveals why Rotimi’s ‘God with us’ film moved her to tears
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/vanessa-mdee-reveals-why-rotimis-god-with-us-film-moved-her-to-tears
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Samburu chopper crash: Atwoli dismisses claim he was supposed to be on board
+  - Source: K24 Digital
+  - Link: https://k24.digital/news/samburu-chopper-crash-atwoli-dismisses-claim-he-was-supposed-to-be-on-board
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Ecuador President Noboa pays emotional tribute to friends killed in Kenya chopper crash
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/ecuador-president-noboa-pays-emotional-tribute-to-friends-killed-in-kenya-chopper-crash
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Milly Chebby’s nanny overwhelmed after fan offers to clear her 6 months’ rent
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/milly-chebbys-nanny-overwhelmed-after-fan-offers-to-clear-her-6-months-rent
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Ride-hailing job boom: Drivers are making far more money than typical office workers in Kenya
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/money/ride-hailing-job-boom-drivers-are-making-far-more-money-than-typical-office-workers-in-kenya
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Chidimma Adetshina saga: Nigerian beauty queen fights to stay in South Africa amid increasing calls for her deportation
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/chidimma-adetshina-saga-nigerian-beauty-queen-fights-to-stay-in-south-africa-amid-increasing-calls-for-her-deportation
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Cost of living in Kenya: List of everyday items that have become more expensive
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/home-and-living/cost-of-living-in-kenya-list-of-everyday-items-that-have-become-more-expensive
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Kenyan doctors raise alarm over risks of weight-loss drugs
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/health-and-fitness/kenyan-doctors-raise-alarm-over-risks-of-weight-loss-drugs
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** 83-year-old man walks 530km in support of needy students at Tharaka University
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/travel-and-leisure/83-year-old-man-walks-530km-in-support-of-needy-students-at-tharaka-university
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Nandi: Women stage 5km march after 67-year-old granny is raped and killed
+  - Source: K24 Digital
+  - Link: https://k24.digital/news/nandi-women-stage-5km-march-after-67-year-old-granny-is-raped-and-killed
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Ashton Hall risks it all to hang from a speeding helicopter in new extreme fitness stunt
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/ashton-hall-risks-it-all-to-hang-from-a-speeding-helicopter-in-new-extreme-fitness-stunt
+  - Facebook: queued for a future run
+

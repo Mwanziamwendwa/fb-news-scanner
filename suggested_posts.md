@@ -2950,3 +2950,130 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxQemhGcTA3VzZlMm1PdXNhWUFmVks0U3o5QUdDLTdtcVVhTnNPOTlvd1hVVmtTTTAySlhYVU16U083clNHdWhYRTJIQnNaV0Zydk9KWGJSS09XUmpDOE00QlpHenVEYzhkZlFoMXczUXZfMmVyQ0pPRnZFUW9BVXZNd3cxZXRSMkdHbE10TDRIWXl2ZElnODdvalViQzk1bTFG?oc=5
   - Facebook: queued; Facebook limit reached
 
+## Scan run: 2026-08-20 22:48 (Nairobi time)
+
+- **[Kenya Latest]** Sossion vows to end TSC - Ministry of Education rift if approved as commissioner - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZW96QWxIR2xBRDRpYmVCOVVtS2FDdUFBU1cxczJ1RExkTzFVM0tpbUJCZlJVQzNESF9yYWNRMTBJaTNERHgzeW1xSzBXb1RYRzRNeXBBaXhQeW5JOC1uWFFpMlpES2syNk52cUxwdlgtUjVJNFk3RE9Dck1Hc1V5V3dxMzB2R0VhOVgzMTJXUjdZbld5SDFNbjFvNXFTeTZsaVR5TzBYTFp5UHpBcHZXVXZ2UlJ0aDZfbHBDTHZRa2VTOWhvcFdmN3FrS1Q0NDNFR2hkeQ?oc=5
+  - Facebook: POSTED (1289239267586516_122110808415407566)
+
+- **[Kenya Latest]** Supreme Court halts recovery of Sh1.5bn in Ruaraka land compensation case - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQV1F1OW4wci1OVGpMb3JaSGdCSm1rRzJfXzF3UFItSGZRTGFUUF9xNjd6NGYxZ1NXZXpZenFFVGRlYmFMNDdCbmpvQzRsZ1NIc180SGlmdVlNM2JOZU5adHpQNUZBTjNnUEFhekN5cDQ2dzUzWURQaDdQcnM5aHRWamRoVXdVZDhvbXpnb2g5Yi1qUVh0X3JMbkhHakhPbjRVd2RWR3libXAyZDZDRDl3ZFZUUkE2WUQ1YzVFMW9rSjFBVHcycVRTTGlKOU0?oc=5
+  - Facebook: POSTED (1289239267586516_122110808433407566)
+
+- **[Business Topic]** Facial Recognition Startup ClarityCheck Left 9 Million Face Photos on an Unsecured Server - finance.biggo.com
+  - Source: finance.biggo.com
+  - Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE9Mcndtd1gwLXEtV1cwTHVCdjFlRUJNQi00QXQ1UVBHTzVfc0JYcGRsa0FsdlpVYnhyV0J3R213TVZzajZrNldvZU1HQTBDSW9UYWhJSUJ5NG9OT0tjamZ3MDdveWdsOHdzSlRaMW5TYWhRNEREZnc?oc=5
+  - Facebook: POSTED (1289239267586516_122110808475407566)
+
+- **[Business Topic]** Meta's new app, Pocket, lets you vibe code the memes of your dreams - Business Insider
+  - Source: Business Insider
+  - Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxNQTJZUW9vdU5Tb3hibV9mM3MwX05sbTNiZTJCMnItV3EwWU9WSWtXZ1JibjJWa3FXZUJJejRwem1wbHVTWUxSZVBTbmNESW94QmdIOS14R2VuTzBMZy0zcU4xajhzSm55UGR3UXlSV3EtdWVOcXRQZXdqZ01LVXU1Wk5yU2pkbnYtVEQtMnRQeW4yNWhI?oc=5
+  - Facebook: POSTED (1289239267586516_122110808493407566)
+
+- **[Business Topic]** Anthropic Expects to Match SpaceX’s Record IPO Size or Top It - Bloomberg
+  - Source: Bloomberg
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPZjdKM3p6TTVON2FNcXFDRVhHd056NU03dGQxNzFYYkNYc09xWDhwS1hETzdFUkoyVkpWM0o1VENSaENzWnIwODBmUThla2dsUWF5UkRuWThvVmRsRVdCZHhCaDVQZ2NYSVdLU2J4aHdaZ19OeDY5LUREbVg1cmR6ZmZxVk5OcG5YX0lHMmFUelNSYjNoVVBJVWNYdENoeFFZdmxEQVBPSDNsQWdIMFdtQnJn?oc=5
+  - Facebook: POSTED (1289239267586516_122110808541407566)
+
+- **[Business Topic]** Anthropic Plans to Change Data Retention Policy for Advanced AI - Bloomberg
+  - Source: Bloomberg
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0dDcm5LNjRqTjcxaTdsWG8wTjBncjVoei1vT2dpOU5TQ05ieWNZOVhqYkQxZGpXclN2ekpMX084bl9udzJTRnhrd2dQNlBEem04bDBSZzhVR1plRF93VS15WDJGZElDSDhJbEVwcTZxRkJtNWxUc3YwZFhmX0JseFZfTXhkM0p5VWJrb3o0RXFCX3h5WkFEME1EQXE0VGdvcjhPYUxSZnhFblVzYjh6bGsyVmQ?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Zuckerberg buys Gothic castle in Ireland: spokesman - France 24
+  - Source: France 24
+  - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxOYnp0TVpoOWVkYmQ0d042akVzdWtkNVBuSWZOeHZUakZ0eHI1Q3Q2VklsRHBMUWd6RjBpLVNtenVNUWhBUm9TbHp0dlRuYnhNeU5idWQ1U2ViSEtDRmF4UGJ6UUU2QXRzYWtQYnFSd212dkowX1RWZ1lTZkZjSmxLdlNYaWFEaFFkLTdSN1FfY2trTmhadndnUFkyT1d6Zw?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Citi Turns Negative on Dollar After Warning on US Buyback Risk - Bloomberg
+  - Source: Bloomberg
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxPTURBN1YxMWNmVXBIVkoyWTNNdmQzV2JXMk1nb3BULUN4eWMwT3dnOGJGbGt3RU5Hd2M2UGlUZGVBNnN4dTVqc29nLUpXTW1oeG9RRzl2TzVyWWlCV09xWkNqTlM5d280WjlIM013N2Q4ellGemprOWwxUzZ4Tmc5a1JvUGowb2hWWVEtZ09ucWtaNUtabVVxS3h6ajM4Vk5RVDhhS2ZpUzN4b0I5b0ZXSldlZw?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Guggenheim loan returns to distressed territory after investor call - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWFLQVRMMzVnWi1jcVEyRTZwQVFjbktjVkw5a3RBQjJpc2ZRdmgyZWhUcnh6djNnamZBZUtzZXhQSHBRWjBFVGtTN1ZqVTlVSl9uYkRNZUlDU05MM1FVemFKRm01UUw3Ty1xWkJZUElSRDIwRVczWlpWSXJlR014QnY5Tko?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Nvidia's China H200 Return May Barely Move Revenue - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxQeV9qbi1ZZV82TGhFLUp2ZlFXM3VOQk5Jb3VTUHF5SHhZWEVWZWMxcDhVRnozc0ROQy1sWHp4RmNSbWdpeWNPdHdzNno5ZEt1bG9NWlhBNktHMGpWUE1HZWJibHd1TlRrcENnOWczS0RmZW5Sck9BQ3EzSXNjZF9RbE9Mc1RGSzdmb3FZamxFTkdLM1ZkbnhGeQ?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Evergrande founder Hui Ka Yan, from property tycoon to life in jail - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxOeU1JcFVldWhYODZiWmJKTWVWSTRCT3hKMHJ2TkhrcWhtODF5TGl0Q2xDdGNnOUVReEJlRXZ6SklhanR1Q0l6TG1aalNXVTlvRUdnZS1FclNQTGZRcFNXZEVkOU1WVFl0aXFnZDJ0RXpsRF9nSjdQMU0xZmJzZXpzVFJ2TEZZTzB3cE1BTV90WHVBaWN5SElEeFBKeU5XWlVnYjhOQzdR?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Why Is Moderna Stock Down Today? - Forbes
+  - Source: Forbes
+  - Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY096N2NVMzNOcFFhd2pZZjV1bHJmdFVTS3dpcDFQWVlnMHhSbWdQRklFX29hX3ZuWFZfT1VCa3J3OGZrRUR5bEJITmlpR20xaG4tcnVYVjdSVC1fX0VfM1Vja0VhUFFtOGZSQmZqNHg2amhlUjIzU2M3d1Nxc09uOVZlYnd1VXJaQXdqbGxOWk9ldlhrOFVZQmJVY3R2a2pHTS01aktaX2F6dUd0VEl6Q3JiWjFMc0xqZU5nRThwNUkzUlpVR0ZJZ2hoOVBrdWI1OGxMWUZOcFg?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Business Topic]** Brazilian municipalities join BHP and Vale dam collapse payout scheme - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxQVlpIeFBfczlnNGplNVpHRnM3UUJBNU83UERfQndKNXRLXzNxRV9USlI4UzU3UUZJeUlDWm85R3lCZnhLdEpvVm5ud2F4TWU5a1R3SUZGeW1jWGZSbm83LW1OcnlraUI4TnNEcWk3RUh4N3NWYVZsbTlDa1praXFJWmlkZWM?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Entertainment]** Akothee Interesting Investing Advice to Celebrities - Mpasho
+  - Source: Mpasho
+  - Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxQUmhSTm84bHRXR0tpdTlEY3oxTFIzd2J1Q3BfUXlpYVJQNHBwSE1JQmpST1VZenY0SHJLS3c5eDB0VVNKUkNydTZldjJCdF90S2p2R3BPNFNxUS1lLXNTS1lybmZBRktTWXNxMkp0MWUwQl83R3ZGS2FfX09FZzhEMVdYam51QXNyeXliZzRKU3AyY3gzZ0xyTXdBWTQ?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Sports]** Why the new FKF premier league season is in limbo - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNSEpmdTc5c1NVWkF6eXFiMXlmb2E3UHM2Vlo0a2dMVmxIRGlyUkxITzk3a1J6Z2hYU051dktaVVBTb01iUEx4cE02eHNfWl9odFcxcm1mQnYyYkZRblozSVZmbXZneV81cGl5bHB6U293RENhN0tfMmlYbFU5TTdLWjVNdjZuM1ZuNXZldVdVUkU0OTJiR1doWE5XVlZxdS1veE9r?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Trending]** VIDEO: Kenyan mum hilariously flips viral 'bag ni ya nini?' trend - TNX Africa
+  - Source: TNX Africa
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeDRyaXRhc1JPNF9ua0NNRFU3cVBhb2JkeGI2N3hiUFNOcHdlYmh1M3VzQVFxNzI2M1RqVXZLZ01VZEFLSXlLTnYyUzE0NndLVWV0WW5vQ1R0ZEFIN2FVRkIzMFUyUU5rSUVXLUV2QnNPdDh0a3Ezd1NBTjFQZm1fOUxrRFlnT2RnMFQzZTJjbmcyY3ZwbkhWaVdNanNjZHNWUkhONHVJWjRJU2xaTE9XTlJJcXhjVHNo0gG-AUFVX3lxTE9mMWYwM3Z6V2s0Qk51dEZwQVNPajZQVEliVkhRUGZWb2lwME1xR2tVVEplZzRuVnpHa2E0UmhMekVwTVJQdnhLakxlVDJTX0pvcjRVN09hZDYwTDRsUkhMQ1R3blViT3ZWZkVsWnNULTVoeDNGVjdRX0NfUFRoN2YxT2doSFdIR0F4aHU3WVFTVVI1YTNUaWlNZEtMejk1TENIQm5rYjQ4aFJXdzlKWE81UkNnZHJZcEtBc0NrekE?oc=5
+  - Facebook: queued; Facebook limit reached
+
+- **[Nairobi Leo]** KNH Announces Measures as County Health Strike Drives Patient Surge
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29663/knh-announces-measures-as-county-health-strike-drives-patient-surge
+  - Facebook: queued; Facebook limit reached
+
+- **[Nairobi Leo]** Mbadi Explains Using Soda Consumption to Justify Economic Growth
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29662/mbadi-explains-using-soda-consumption-to-justify-economic-growth
+  - Facebook: queued; Facebook limit reached
+
+- **[Nairobi Leo]** Raila Odinga Mausoleum Hits 50% Completion Ahead of September Opening [Photos]
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29661/raila-odinga-mausoleum-hits-50percent-completion-ahead-of-september-opening-photos
+  - Facebook: queued; Facebook limit reached
+
+- **[Nairobi Leo]** Education CS Goes After Leaders Opposing the New Education Funding Model
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29660/education-cs-goes-after-leaders-opposing-the-new-education-funding-model
+  - Facebook: queued; Facebook limit reached
+
+- **[Nairobi Leo]** Wiper Addresses Kalonzo's Alleged Deal With Gachagua After Wamunyoro Meeting
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29659/wiper-addresses-kalonzos-alleged-deal-with-gachagua-after-wamunyoro-meeting
+  - Facebook: queued; Facebook limit reached
+
+- **[Nairobi Leo]** KPLC Announces Power Shutdowns in 2 Counties on Friday
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29658/kplc-announces-power-shutdowns-in-2-counties-on-friday
+  - Facebook: queued; Facebook limit reached
+
+- **[Nairobi Leo]** Gov't Unveils New Prisons Hospital Ahead of Ruto Commissioning [Photos]
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29657/govt-unveils-new-prisons-hospital-ahead-of-ruto-commissioning-photos
+  - Facebook: queued; Facebook limit reached
+
+- **[Nairobi Leo]** Atwoli Responds to Claims He Ditched Fatal Samburu Helicopter Ride at Last Minute
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29655/atwoli-responds-to-claims-he-ditched-fatal-samburu-helicopter-ride-at-last-minute
+  - Facebook: queued; Facebook limit reached
+
+- **[Nairobi Leo]** Kivutha Kibwana Installed as International Leadership University Chancellor
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29656/kivutha-kibwana-installed-as-international-leadership-university-chancellor
+  - Facebook: queued; Facebook limit reached
+

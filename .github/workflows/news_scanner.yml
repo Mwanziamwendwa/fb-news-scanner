@@ -46,7 +46,7 @@ jobs:
           # Only stage log files that actually exist. suggested_posts.md
           # in particular is only written when a run finds at least one
           # new entry, so it may not exist yet on an early/quiet run.
-          for f in suggested_posts.md posted_log.json facebook_post_log.json post_queue.json; do
+          for f in suggested_posts.md posted_log.json facebook_post_log.json post_queue.json feed_rotation_state.json; do
             if [ -f "$f" ]; then
               git add "$f"
             fi

@@ -1,55 +1,43 @@
 """
-Kenya News Scanner + Facebook Page Publisher
+Kenya News Scanner (suggestions only — no auto-posting)
 
 Reads RSS feeds, finds recent stories, deduplicates them (both against
-already-seen/posted stories and against other feeds reporting the same
-story in this same scan), flags sensitive content, resolves the real
-article URL (so Facebook's link preview shows the actual publisher
-page instead of a Google News interstitial), fetches up to ~1000 words
-of the full article, and builds a short topic + under-200-word summary
-using a local, whole-sentence extractive summarizer (no external
-paraphrasing API is used).
+already-seen stories and against other feeds reporting the same story
+in this same scan), flags sensitive content, resolves the real article
+URL (so you have a link back to the actual publisher page instead of a
+Google News interstitial), fetches up to ~1000 words of the full
+article, and builds a whole-sentence extractive summary from that real
+article text (falling back to the cleaned RSS snippet if the article
+can't be fetched).
 
-Rather than posting only whatever it finds in a single run and dropping
-the rest, new stories are added to a persistent queue (post_queue.json)
-and the script posts up to MAX_FACEBOOK_POSTS_PER_RUN from the FRONT of
-that queue each run (oldest-found first), so a busy scan's extra stories
-carry over and get posted on later runs instead of being lost.
+This script NEVER posts to Facebook. It only writes suggestions to
+suggested_posts.md — you paraphrase and post manually.
 
-Runs automatically every 3 hours (see the workflow's cron) and can
-also be triggered manually at any time from the Actions tab.
-LOOKBACK_HOURS (4) covers both cases safely — dedup via
-posted_log.json prevents duplicate posts if a manual run overlaps
-a scheduled one.
+Before scanning, it does a lightweight reachability check on every
+configured feed URL (a quick HTTP request) and skips any that are
+unreachable for this run, logging the result to feed_health.json so
+you can see which feeds are chronically broken over time. A feed
+failing this check is skipped only for the current run — it stays in
+the FEEDS list and is retried next run.
+
+Runs on whatever schedule the workflow's cron sets.
 
 IMPORTANT:
-- Never put your Facebook token in this file.
-- Use GitHub Secrets:
-    FACEBOOK_PAGE_ID
-    FACEBOOK_PAGE_ACCESS_TOKEN
-- The token previously pasted into chat should be revoked/rotated.
-- Posts never include an outlet-attribution line, a "Kenya Update" /
-  category header, or link text in the body. The post's title is
-  never used as-is either — Google News "full coverage" entries
-  sometimes repeat the same headline twice back to back (e.g.
-  "X. X"), so it's deduplicated before it's used anywhere.
+- No third-party AI summarization (Groq) is used — summaries are a
+  straightforward extractive pull from the real fetched article, so
+  they are NOT ready-to-post as-is. You are expected to paraphrase
+  before posting.
+- Suggestions never include an outlet-attribution line, a "Kenya
+  Update" / category header, or link text baked into the body. The
+  post's title is never used as-is either — Google News "full
+  coverage" entries sometimes repeat the same headline twice back to
+  back (e.g. "X. X"), so it's deduplicated before use.
 - The RSS summary from Google News topic feeds can bundle several
   outlets' headlines into one blob (a "full coverage" cluster) instead
-  of describing a single story. That text is never posted verbatim:
-  the post body prefers a whole-sentence extractive summary built from
-  the real fetched article page over the raw RSS snippet, and if
-  neither the article nor a clean snippet is usable, the story is held
-  and retried later rather than posted with thin or junky text.
-- Posts go out as plain text status updates — no link is attached to
-  the Facebook post at all, so no link-preview card ever shows a
-  source domain (publisher or otherwise). The real article URL is
-  still resolved and fetched internally (to build the summary content)
-  and is recorded in suggested_posts.md for your own reference, but it
-  is never sent to Facebook.
-- Every run rotates which feed it starts scanning from
-  (feed_rotation_state.json), so with 62 feeds and a per-run cap on
-  new stories, every feed gets fair coverage over time instead of the
-  same first few always winning.
+  of describing a single story. That text is never used verbatim: the
+  extractive summary prefers the real fetched article page over the
+  raw RSS snippet, and if neither is usable the story is held and
+  retried later rather than surfaced with thin or junky text.
 """
 
 import os
@@ -57,7 +45,6 @@ import json
 import socket
 import html
 import re
-import time
 from datetime import datetime, timedelta
 
 import feedparser
@@ -69,34 +56,23 @@ import trafilatura
 NAIROBI_TZ = pytz.timezone("Africa/Nairobi")
 
 SUGGESTED_POSTS_FILE = "suggested_posts.md"
-POSTED_LOG_FILE = "posted_log.json"          # everything ever found (posted, queued, or held) — used for dedup
-FACEBOOK_POST_LOG_FILE = "facebook_post_log.json"  # only stories actually posted to Facebook
-POST_QUEUE_FILE = "post_queue.json"          # stories found but not yet posted, oldest-first
+SEEN_LOG_FILE = "seen_log.json"              # everything ever found — used for dedup across runs
 FEED_ROTATION_STATE_FILE = "feed_rotation_state.json"  # which feed to start scanning from next run
+FEED_HEALTH_FILE = "feed_health.json"        # last-known reachability per feed, for visibility over time
 
-# The workflow runs automatically every 3 hours and can also be
-# triggered manually at any time. This window is set to 4 hours —
-# matching the 3-hour gap plus a 1-hour buffer, so a scheduled run
-# that's delayed (cron start times aren't guaranteed to the minute)
-# still catches everything, and a manual run in between scheduled
-# ones is always safe too: dedup against posted_log.json means
-# running more often than the window never causes duplicate posts.
-LOOKBACK_HOURS = 4
-# These caps limit how much a single manual run does — how many new
-# candidate stories it gathers, and how many it actually posts to
-# Facebook before stopping (anything left over carries over in
-# post_queue.json for the next time you press Run).
-MAX_SUGGESTIONS_PER_RUN = 45          # cap on NEW stories gathered per run (before posting)
-MAX_FACEBOOK_POSTS_PER_RUN = 12       # cap on posts actually published per run
-MAX_POST_ATTEMPTS = 3                 # give up on a queued story after this many failed post attempts
-QUEUE_MAX_SIZE = 300                  # safety cap so the backlog can't grow unbounded
+# The workflow runs every 4 hours, so this window is set to 5 hours —
+# matching the 4-hour gap plus a 1-hour buffer, so a run that's delayed
+# by GitHub Actions' scheduler (cron start times aren't guaranteed to
+# the minute) still catches everything published since the last run
+# actually happened, instead of a story silently falling in the gap.
+LOOKBACK_HOURS = 5
+MAX_SUGGESTIONS_PER_RUN = 60          # cap on NEW stories gathered per run
 LOG_RETENTION_DAYS = 14               # how long a "seen" story is remembered for dedup purposes
 FEED_TIMEOUT_SECONDS = 15
-FACEBOOK_TIMEOUT_SECONDS = 30
 ARTICLE_FETCH_TIMEOUT_SECONDS = 15
+FEED_HEALTH_CHECK_TIMEOUT_SECONDS = 10
 
-# Full article text is trimmed to this many words before being stored
-# or summarized.
+# Full article text is trimmed to this many words before summarizing.
 MAX_ARTICLE_WORDS = 1000
 
 # Target maximum length for the extractive summary. Can be shorter
@@ -108,15 +84,6 @@ MAX_SUMMARY_WORDS = 200
 # reported by different outlets. This is a free, local heuristic (no
 # extra API calls) — it catches clear overlaps, not every rewording.
 TITLE_SIMILARITY_THRESHOLD = 0.45
-
-# Set to false if you want suggestions only.
-AUTO_POST_TO_FACEBOOK = True
-
-FACEBOOK_PAGE_ID = os.getenv("FACEBOOK_PAGE_ID", "").strip()
-FACEBOOK_PAGE_ACCESS_TOKEN = os.getenv("FACEBOOK_PAGE_ACCESS_TOKEN", "").strip()
-
-# Optional. If omitted, the script uses the unversioned Graph endpoint.
-FACEBOOK_GRAPH_VERSION = os.getenv("FACEBOOK_GRAPH_VERSION", "").strip()
 
 FEED_REQUEST_HEADERS = {
     "User-Agent": (
@@ -256,8 +223,9 @@ def dedupe_title(title):
     Google News 'full coverage' entries sometimes repeat the exact same
     headline twice back-to-back, e.g. "X happened. X happened" — this
     collapses that down to a single clean copy so the duplicate never
-    ends up in the post body. If the title isn't duplicated, it's
-    returned unchanged (just whitespace-cleaned).
+    ends up in the extractive summary or the suggestion body. If the
+    title isn't duplicated, it's returned unchanged (just whitespace-
+    cleaned).
     """
     t = clean_text(title)
     if ". " in t:
@@ -309,8 +277,7 @@ def clean_summary_for_use(summary):
     """
     Drops the summary entirely if it looks like a multi-story cluster
     dump rather than a real snippet about one story — that text is
-    confusing (and was showing up verbatim in posts) rather than useful
-    as summarizing material.
+    confusing rather than useful as summarization material.
     """
     if is_full_coverage_cluster(summary):
         return ""
@@ -375,24 +342,6 @@ def prune_old_entries(log_dict, retention_days=LOG_RETENTION_DAYS):
     return kept
 
 
-def load_queue():
-    if not os.path.exists(POST_QUEUE_FILE):
-        return []
-    try:
-        with open(POST_QUEUE_FILE, "r", encoding="utf-8") as f:
-            data = json.load(f)
-        if isinstance(data, list):
-            return data
-    except (OSError, json.JSONDecodeError, ValueError):
-        print(f"[WARN] Could not read {POST_QUEUE_FILE}; starting fresh.")
-    return []
-
-
-def save_queue(queue):
-    with open(POST_QUEUE_FILE, "w", encoding="utf-8") as f:
-        json.dump(queue, f, indent=2, ensure_ascii=False)
-
-
 def load_feed_rotation_offset():
     """
     Each run stops scanning once it collects MAX_SUGGESTIONS_PER_RUN
@@ -418,6 +367,100 @@ def load_feed_rotation_offset():
 def save_feed_rotation_offset(offset):
     with open(FEED_ROTATION_STATE_FILE, "w", encoding="utf-8") as f:
         json.dump({"offset": offset}, f, indent=2, ensure_ascii=False)
+
+
+def load_feed_health():
+    if not os.path.exists(FEED_HEALTH_FILE):
+        return {}
+    try:
+        with open(FEED_HEALTH_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        if isinstance(data, dict):
+            return data
+    except (OSError, json.JSONDecodeError, ValueError):
+        print(f"[WARN] Could not read {FEED_HEALTH_FILE}; starting fresh.")
+    return {}
+
+
+def save_feed_health(health):
+    with open(FEED_HEALTH_FILE, "w", encoding="utf-8") as f:
+        json.dump(health, f, indent=2, ensure_ascii=False, sort_keys=True)
+
+
+def validate_feeds(feeds):
+    """
+    Quick reachability check run before the scan starts. For each
+    configured feed, tries a lightweight HEAD request first (cheap),
+    falling back to a small GET if the server doesn't support HEAD
+    (some return 403/405 for it). A feed is considered reachable if it
+    returns any status under 400.
+
+    Returns (live_feeds, health) where live_feeds is the subset of
+    `feeds` that passed, and health is a {category: {...}} dict
+    persisted to FEED_HEALTH_FILE so you can see which feeds are
+    chronically broken over time. A feed failing this check is only
+    skipped for the current run — it's never removed from FEEDS, so
+    it's retried again next run in case the outage was temporary.
+    """
+    now_iso = datetime.now(pytz.utc).isoformat()
+    health = load_feed_health()
+    live_feeds = []
+    dead_count = 0
+
+    for feed_source in feeds:
+        category = feed_source["category"]
+        url = feed_source["url"]
+        ok = False
+        error = None
+        status_code = None
+
+        try:
+            resp = requests.head(
+                url,
+                headers=FEED_REQUEST_HEADERS,
+                timeout=FEED_HEALTH_CHECK_TIMEOUT_SECONDS,
+                allow_redirects=True,
+            )
+            status_code = resp.status_code
+            if status_code >= 400:
+                # Some servers don't implement HEAD properly — retry with GET
+                resp = requests.get(
+                    url,
+                    headers=FEED_REQUEST_HEADERS,
+                    timeout=FEED_HEALTH_CHECK_TIMEOUT_SECONDS,
+                    allow_redirects=True,
+                    stream=True,
+                )
+                status_code = resp.status_code
+            ok = status_code < 400
+        except requests.RequestException as exc:
+            error = str(exc)
+
+        entry = {
+            "url": url,
+            "ok": ok,
+            "status_code": status_code,
+            "error": error,
+            "last_checked": now_iso,
+        }
+        if not ok:
+            # Preserve when this feed last succeeded, if we know it.
+            prev = health.get(category, {})
+            entry["last_ok"] = prev.get("last_ok") if not prev.get("ok") else prev.get("last_checked")
+
+        health[category] = entry
+
+        if ok:
+            live_feeds.append(feed_source)
+        else:
+            dead_count += 1
+            print(f"[FEED HEALTH] Unreachable, skipping this run: {category} "
+                  f"(status={status_code}, error={error})")
+
+    print(f"[FEED HEALTH] {len(live_feeds)}/{len(feeds)} feeds reachable "
+          f"({dead_count} skipped this run)")
+    save_feed_health(health)
+    return live_feeds, health
 
 
 def is_recent(published_parsed):
@@ -473,16 +516,13 @@ def source_name_from_title(title, category):
 def resolve_article_url(link):
     """
     Google News RSS links point at a news.google.com interstitial page
-    rather than the publisher's actual article. If that URL is posted
-    to Facebook as-is, Facebook's link-preview scraper renders the
-    Google News interstitial (the "popup") instead of the real story.
-
-    This follows real HTTP redirects first, and if the final URL is
-    still on news.google.com, tries to pull the true article URL out
-    of that page's canonical/og:url meta tags. Falls back to the
-    original link (and never raises) if none of that works, so a
-    resolution failure never breaks the run — it just means that one
-    story's preview may point at Google News instead of the source.
+    rather than the publisher's actual article. This follows real HTTP
+    redirects first, and if the final URL is still on news.google.com,
+    tries to pull the true article URL out of that page's
+    canonical/og:url meta tags. Falls back to the original link (and
+    never raises) if none of that works, so a resolution failure never
+    breaks the run — it just means that one story's reference link may
+    point at Google News instead of the source.
 
     Returns (resolved_url, page_html) — page_html is passed straight
     into fetch_article_text so we don't fetch the same page twice.
@@ -552,7 +592,9 @@ def extractive_summary(text, max_words=MAX_SUMMARY_WORDS):
     """
     Whole-sentence extractive summary: takes complete sentences from
     the front of the real fetched article, in order, up to max_words.
-    Never cuts a sentence off mid-way.
+    Never cuts a sentence off mid-way. This is NOT a paraphrase — it's
+    lifted straight from the source, so treat it as raw material to
+    rewrite before posting, not as post-ready text.
     """
     if not text:
         return ""
@@ -572,102 +614,36 @@ def extractive_summary(text, max_words=MAX_SUMMARY_WORDS):
     return " ".join(kept)
 
 
-def build_fallback_body(title, summary, article_text):
+def build_suggestion_body(title, summary, link):
     """
     Prefers a whole-sentence extractive summary pulled from the real
     fetched article (a single source) over the raw RSS snippet, since
     Google News' aggregator snippets are prone to bundling several
     outlets' headlines together even after clean_summary_for_use()
     filters the obvious cases. Returns None if there isn't enough real
-    content to build a decent post from, so the caller holds the story
-    for a later retry instead of publishing something thin or junky.
-    """
-    intro = title if title.endswith((".", "!", "?")) else f"{title}."
+    content to build anything useful from, so the caller holds the
+    story rather than surfacing something thin or junky.
 
-    if article_text:
-        extract = extractive_summary(article_text)
-        if extract:
-            return f"{intro}\n\n{extract}"
-
-    if summary:
-        return f"{intro} {summary}"
-
-    return None
-
-
-def make_facebook_post(title, summary, link, category):
-    """
-    Builds the Facebook post text as a title + extractive summary of
-    the story — no outlet attribution, no category/"Kenya Update"
-    header, no link text or URL in the body (the post is published as
-    a plain text status update with no link attached at all — see
-    post_to_facebook). Resolves the real article URL first (purely to
-    fetch the actual article text, not a Google News interstitial),
-    fetches up to MAX_ARTICLE_WORDS of the full article, then builds a
-    whole-sentence extractive summary of it (or, failing that, the
-    cleaned RSS snippet).
-
-    Returns (message, resolved_link). resolved_link is not posted to
-    Facebook — it's only used for the suggested_posts.md log so you
-    have a reference back to the source story. message is None if
-    there wasn't enough real content to build a decent post — callers
-    should treat that as a failed attempt and retry later rather than
-    post it.
+    Returns (body, resolved_link). resolved_link is only used for the
+    suggested_posts.md log so you have a reference back to the source
+    story — it's never posted anywhere.
     """
     resolved_link, page_html = resolve_article_url(link)
     article_text = fetch_article_text(resolved_link, page_html=page_html)
     clean_title = dedupe_title(title)
     cleaned_summary = clean_summary_for_use(summary)
 
-    message = build_fallback_body(clean_title, cleaned_summary, article_text)
-    return message, resolved_link
+    intro = clean_title if clean_title.endswith((".", "!", "?")) else f"{clean_title}."
 
+    if article_text:
+        extract = extractive_summary(article_text)
+        if extract:
+            return f"{intro}\n\n{extract}", resolved_link
 
-def facebook_endpoint():
-    if FACEBOOK_GRAPH_VERSION:
-        return (
-            f"https://graph.facebook.com/"
-            f"{FACEBOOK_GRAPH_VERSION}/"
-            f"{FACEBOOK_PAGE_ID}/feed"
-        )
-    return f"https://graph.facebook.com/{FACEBOOK_PAGE_ID}/feed"
+    if cleaned_summary:
+        return f"{intro} {cleaned_summary}", resolved_link
 
-
-def post_to_facebook(message):
-    """
-    Posts as a plain text status update — no link parameter at all.
-    Attaching a link makes Facebook render a link-preview card that
-    shows the source domain (whether that's the resolved publisher
-    site or, when resolution fails, a bare "news.google.com" card),
-    which is exactly the "shows where this came from" problem. Posting
-    message-only avoids that entirely.
-    """
-    if not FACEBOOK_PAGE_ID or not FACEBOOK_PAGE_ACCESS_TOKEN:
-        return False, "Facebook credentials are missing."
-
-    payload = {
-        "message": message,
-        "access_token": FACEBOOK_PAGE_ACCESS_TOKEN,
-    }
-
-    try:
-        response = requests.post(
-            facebook_endpoint(),
-            data=payload,
-            timeout=FACEBOOK_TIMEOUT_SECONDS,
-        )
-    except requests.RequestException as exc:
-        return False, f"Network error: {exc}"
-
-    try:
-        result = response.json()
-    except ValueError:
-        result = {"raw": response.text}
-
-    if response.ok and result.get("id"):
-        return True, str(result["id"])
-
-    return False, json.dumps(result, ensure_ascii=False)
+    return None, resolved_link
 
 
 def append_suggestions(entries):
@@ -679,6 +655,10 @@ def append_suggestions(entries):
     with open(SUGGESTED_POSTS_FILE, "a", encoding="utf-8") as f:
         if not exists:
             f.write("# Suggested Posts\n\n")
+            f.write(
+                "_Raw extractive material only — paraphrase before "
+                "posting. Nothing here is auto-posted._\n\n"
+            )
 
         f.write(
             f"## Scan run: {nairobi_timestamp()} (Nairobi time)\n\n"
@@ -696,51 +676,38 @@ def append_suggestions(entries):
             )
             f.write(f"  - Source: {entry['source']}\n")
             f.write(f"  - Link: {entry['link']}\n")
-            f.write(
-                f"  - Facebook: "
-                f"{entry.get('facebook_status', 'not attempted')}\n\n"
-            )
+            if entry.get("body"):
+                f.write(f"  - Draft material: {entry['body']}\n")
+            f.write("\n")
 
 
 def main():
     print("=" * 70)
-    print("KENYA NEWS SCANNER + FACEBOOK PUBLISHER")
+    print("KENYA NEWS SCANNER (suggestions only)")
     print("=" * 70)
     print(f"Scan time: {nairobi_timestamp()} (Nairobi)")
     print(f"RSS feeds configured: {len(FEEDS)}")
     print(f"Lookback: {LOOKBACK_HOURS} hours")
     print(f"Maximum new suggestions per run: {MAX_SUGGESTIONS_PER_RUN}")
-    print(f"Maximum Facebook posts per run: {MAX_FACEBOOK_POSTS_PER_RUN}")
-    print(
-        f"Summary method: local whole-sentence extractive summary "
-        f"(max {MAX_SUMMARY_WORDS} words), no external paraphrasing API"
-    )
-
-    facebook_enabled = AUTO_POST_TO_FACEBOOK
-    if facebook_enabled and (not FACEBOOK_PAGE_ID or not FACEBOOK_PAGE_ACCESS_TOKEN):
-        raise SystemExit(
-            "[FATAL] AUTO_POST_TO_FACEBOOK is True but FACEBOOK_PAGE_ID / "
-            "FACEBOOK_PAGE_ACCESS_TOKEN are not set. Check the repository "
-            "secrets — refusing to run in suggestions-only mode."
-        )
-
-    print(f"Facebook auto-post: {facebook_enabled}")
     print("=" * 70)
 
     now_iso = datetime.now(pytz.utc).isoformat()
 
-    posted_log = prune_old_entries(
-        quarantine_suspicious(load_json_dict(POSTED_LOG_FILE), POSTED_LOG_FILE)
+    seen_log = prune_old_entries(
+        quarantine_suspicious(load_json_dict(SEEN_LOG_FILE), SEEN_LOG_FILE)
     )
-    facebook_log = prune_old_entries(
-        quarantine_suspicious(load_json_dict(FACEBOOK_POST_LOG_FILE), FACEBOOK_POST_LOG_FILE)
-    )
-    queue = load_queue()
-    queued_titles = [item["title"] for item in queue]
+
+    # ---- Phase 0: validate feed reachability before scanning ----
+    live_feeds, _ = validate_feeds(FEEDS)
+
+    if not live_feeds:
+        print("[FATAL] No feeds were reachable this run; nothing to scan.")
+        save_json_dict(SEEN_LOG_FILE, seen_log)
+        return
 
     # ---- Phase 1: scan feeds, collect new (deduplicated) candidate stories ----
-    feed_rotation_offset = load_feed_rotation_offset() % len(FEEDS)
-    ordered_feeds = FEEDS[feed_rotation_offset:] + FEEDS[:feed_rotation_offset]
+    feed_rotation_offset = load_feed_rotation_offset() % len(live_feeds)
+    ordered_feeds = live_feeds[feed_rotation_offset:] + live_feeds[:feed_rotation_offset]
     print(f"Feed scan starting at index {feed_rotation_offset} ({ordered_feeds[0]['category']}) — rotates each run for fair coverage")
 
     candidates = []
@@ -800,13 +767,10 @@ def main():
 
             key = normalize_title(title)
 
-            # Exact or fuzzy duplicate of something already posted, held,
-            # or previously queued — including a late report of a story
-            # another outlet already broke, which gets auto-declined here.
-            if key in posted_log or find_similar_title(title, posted_log.keys()):
-                continue
-
-            if key in queued_titles or find_similar_title(title, queued_titles):
+            # Exact or fuzzy duplicate of something already surfaced —
+            # including a late report of a story another outlet already
+            # broke, which gets auto-declined here.
+            if key in seen_log or find_similar_title(title, seen_log.keys()):
                 continue
 
             # Duplicate of a story another feed already surfaced earlier
@@ -827,9 +791,9 @@ def main():
                     "link": link,
                     "source": source,
                     "flagged": True,
-                    "facebook_status": "held for manual review",
+                    "body": None,
                 })
-                posted_log[key] = now_iso
+                seen_log[key] = now_iso
                 suggestions_made += 1
                 continue
 
@@ -840,141 +804,64 @@ def main():
                 "source": source,
                 "category": category,
                 "summary": summary,
-                "discovered_at": now_iso,
-                "attempts": 0,
             })
-            posted_log[key] = now_iso
-            queued_titles.append(title)
+            seen_log[key] = now_iso
             suggestions_made += 1
 
-    if len(queue) + len(candidates) > QUEUE_MAX_SIZE:
-        room = max(0, QUEUE_MAX_SIZE - len(queue))
-        if room < len(candidates):
-            print(
-                f"[WARN] Queue at capacity ({QUEUE_MAX_SIZE}); dropping "
-                f"{len(candidates) - room} newly found stories this run."
-            )
-        candidates = candidates[:room]
-
-    queue.extend(candidates)
-
-    new_feed_rotation_offset = (feed_rotation_offset + feeds_attempted_this_run) % len(FEEDS)
+    new_feed_rotation_offset = (feed_rotation_offset + feeds_attempted_this_run) % len(live_feeds)
     save_feed_rotation_offset(new_feed_rotation_offset)
 
-    # ---- Phase 2: post up to MAX_FACEBOOK_POSTS_PER_RUN from the FRONT of the queue ----
-    facebook_posts_made = 0
-    posted_entries = []
-    failed_entries = []
-    remaining_queue = []
+    # ---- Phase 2: build draft material for each new candidate ----
+    ready_entries = []
+    thin_entries = []
 
-    for item in queue:
-        if not facebook_enabled or facebook_posts_made >= MAX_FACEBOOK_POSTS_PER_RUN:
-            remaining_queue.append(item)
-            continue
-
-        message, resolved_link = make_facebook_post(
-            item["title"], item["summary"], item["link"], item["category"]
-        )
-
-        if message is None:
-            item["attempts"] = item.get("attempts", 0) + 1
-            reason = "no usable article text or snippet to build a post from"
-            if item["attempts"] >= MAX_POST_ATTEMPTS:
-                failed_entries.append({
-                    "category": item["category"],
-                    "title": item["title"],
-                    "link": item["link"],
-                    "source": item["source"],
-                    "flagged": False,
-                    "facebook_status": f"FAILED permanently after {MAX_POST_ATTEMPTS} attempts: {reason}",
-                })
-                print(f"[FACEBOOK] Giving up on: {item['title']} ({reason})")
-            else:
-                remaining_queue.append(item)
-                print(
-                    f"[FACEBOOK] Will retry "
-                    f"({item['attempts']}/{MAX_POST_ATTEMPTS}): {item['title']} ({reason})"
-                )
-            time.sleep(1)
-            continue
-
-        ok, result = post_to_facebook(message)
-
-        if ok:
-            facebook_posts_made += 1
-            facebook_log[item["normalized_title"]] = now_iso
-            posted_entries.append({
-                "category": item["category"],
-                "title": item["title"],
-                "link": resolved_link,
-                "source": item["source"],
+    for c in candidates:
+        body, resolved_link = build_suggestion_body(c["title"], c["summary"], c["link"])
+        if body is None:
+            thin_entries.append({
+                "category": c["category"],
+                "title": c["title"],
+                "link": c["link"],
+                "source": c["source"],
                 "flagged": False,
-                "facebook_status": f"POSTED ({result})",
+                "body": None,
             })
-            print(f"[FACEBOOK] Posted: {item['title']}")
-        else:
-            item["attempts"] = item.get("attempts", 0) + 1
-            if item["attempts"] >= MAX_POST_ATTEMPTS:
-                failed_entries.append({
-                    "category": item["category"],
-                    "title": item["title"],
-                    "link": item["link"],
-                    "source": item["source"],
-                    "flagged": False,
-                    "facebook_status": f"FAILED permanently after {MAX_POST_ATTEMPTS} attempts: {result}",
-                })
-                print(f"[FACEBOOK ERROR] Giving up on: {item['title']} ({result})")
-            else:
-                remaining_queue.append(item)
-                print(
-                    f"[FACEBOOK ERROR] Will retry "
-                    f"({item['attempts']}/{MAX_POST_ATTEMPTS}): {item['title']} ({result})"
-                )
+            print(f"[SKIP] Not enough real content to draft: {c['title']}")
+            continue
 
-        # Small delay to reduce burst posting.
-        time.sleep(1)
-
-    queue = remaining_queue
-
-    posted_or_failed_keys = {normalize_title(e["title"]) for e in posted_entries + failed_entries}
-    still_queued_entries = [
-        {
+        ready_entries.append({
             "category": c["category"],
             "title": c["title"],
-            "link": c["link"],
+            "link": resolved_link,
             "source": c["source"],
             "flagged": False,
-            "facebook_status": "queued for a future run",
-        }
-        for c in candidates
-        if c["normalized_title"] not in posted_or_failed_keys
-    ]
+            "body": body,
+        })
 
-    all_new_entries = held_for_review + posted_entries + failed_entries + still_queued_entries
+    all_new_entries = held_for_review + ready_entries + thin_entries
     append_suggestions(all_new_entries)
 
-    save_json_dict(POSTED_LOG_FILE, posted_log)
-    save_json_dict(FACEBOOK_POST_LOG_FILE, facebook_log)
-    save_queue(queue)
+    save_json_dict(SEEN_LOG_FILE, seen_log)
 
     print()
     print("=" * 70)
     print("SCAN COMPLETE")
     print("=" * 70)
     print(f"New stories found this run: {len(candidates)}")
-    print(f"Facebook posts made this run: {facebook_posts_made}")
-    print(f"Stories remaining in queue: {len(queue)}")
+    print(f"Ready with draft material: {len(ready_entries)}")
+    print(f"Too thin to draft: {len(thin_entries)}")
     print(f"Held for manual review: {len(held_for_review)}")
     print(f"Feeds checked: {feeds_checked}")
-    print(f"Feed failures: {feeds_failed}")
-    print(f"Feeds attempted this run: {feeds_attempted_this_run} of {len(FEEDS)} (next run starts at index {new_feed_rotation_offset})")
+    print(f"Feed parse failures: {feeds_failed}")
+    print(f"Feeds attempted this run: {feeds_attempted_this_run} of {len(live_feeds)} reachable "
+          f"(next run starts at index {new_feed_rotation_offset})")
     print(f"Output: {SUGGESTED_POSTS_FILE}")
-    print(f"Seen/dedup log: {POSTED_LOG_FILE}")
-    print(f"Facebook log: {FACEBOOK_POST_LOG_FILE}")
-    print(f"Post queue: {POST_QUEUE_FILE}")
+    print(f"Seen/dedup log: {SEEN_LOG_FILE}")
     print(f"Feed rotation state: {FEED_ROTATION_STATE_FILE}")
+    print(f"Feed health log: {FEED_HEALTH_FILE}")
     print("=" * 70)
 
 
 if __name__ == "__main__":
     main()
+    

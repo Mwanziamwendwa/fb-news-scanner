@@ -7762,3 +7762,125 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ3VudmtYdTVvWmY2TDBJangtaW1hR2l0dzluMFdkZnV1S2FtSjVUZUVKMDhuNVlydGFfcmhGdHYwS3JkQVJ1a2RtdTc1OUpxSFdzSDIyNkpUc2ZOem1OY1dFYnpwSm5kYkpzOFFNLWhjVXJHUThKMml1YkJLYng1RHhnbkZmMHlzeElBOEpaeTJuUGgzMFh4WTA3bUo0d2JWT0YtMU1uamlPOU5CMHNZVnJzQXY3Zm1vdkNpU1ZVbkw5VWlRVmt6cDN5Mm1QUQ?oc=5
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 19:15 (Nairobi time)
+
+- **[Business Topic]** EBU and Superpositions Partner to Add Quantum Computing to Business Education - The Quantum Insider
+  - Source: The Quantum Insider
+  - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxOY29ibTJzRThjSjgzOEI5X0VITUNzamdpQzE1RzFPWHpGS1lxd0VMT3VMMFpuMTg0R1c1b3JTVGNYQlFEWmV4TkZ2MTVUZ2VKY3ZDaDdjSS1VT0c5MzFGT09UZmZLT3MtaVVPSHhDUzUta0lpaGhscWNTT0F3RkRfcDVOcnV3Q1hWYlhPMGVRTThWbHZtUDFRWklUSnktZw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111014173407566)
+
+- **[Business Topic]** Firefighters rescue mule trapped in deep mud in Essex - BBC
+  - Source: BBC
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZRDZxR0ZQX2ViN1JPbDRFUlpRN2ROdC0ya1N4NllNTkd2RmkwREdIWEVzQThiQUZTZ0x4Q2diQnZ2N2VITVpPZEZuY3kyeUFsX3RkNzBBakZ1QQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111014191407566)
+
+- **[Business Topic]** Australian electricity giant says about 60 customers' bank account details accessed in data breach - Xinhua
+  - Source: Xinhua
+  - Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE5CeGE5ZFREVm1fSjlYWE9mem4tQ1VBYTBsSnNZQko3R1RyY2hNUUhnREtZSTJwLUFQRGd6VUtFWTNqUVdsa1NXM3FLMlNfeDlBbkNhQWdrQTRibWtncTcyNkRNTTY3aWxYR2lOTkc3VTA4NTB0Q2taSkh2NW8?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111014203407566)
+
+- **[Business Topic]** Website of India's IndiGo blocks some bookings in week's second disruption - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQSnN1OTNUSWRyNlktYWh0emNxc0RUTnM3U1dsRDdzaHpQaml4T0NrNnRkR1MwRnVqcDlHbXFSbnB5NzlzOE93RXBudWlPMXB5RVl0dVhiS3R1MkNpOVd6dVdORnNrc3FxT0lUN2ZwNHJpNVJkcFR2Zk13NjEtUnlaSVZNRjhXMlRMNmF3RlZYZE5TdDBIRjlQcjNHTUZvdzl1V2NjMVNmNEg4eDktaEF3dEJDQlQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111014227407566)
+
+- **[SPM Buzz]** Always on Your Phone? Here’s What It Could Mean for Your Brain
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/tech-ai/always-on-your-phone-heres-what-it-could-mean-for-your-brain/?utm_source=rss&utm_medium=rss&utm_campaign=always-on-your-phone-heres-what-it-could-mean-for-your-brain
+  - Facebook: POSTED (1289239267586516_122111014257407566)
+
+- **[Nation Africa]** The EPL returns and the weekends belong to football again
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/sports/football/the-epl-returns-and-the-weekends-belong-to-football-again-5565270
+  - Facebook: POSTED (1289239267586516_122111014299407566)
+
+- **[Nation Africa]** Treasury rejects call for merger of two public servants' pension schemes
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/business/treasury-rejects-call-for-merger-of-two-public-servants-pension-schemes-5565588
+  - Facebook: POSTED (1289239267586516_122111014329407566)
+
+- **[Nation Africa]** The great school divide: Irony of congestion in Cluster 1 schools as day schools remain under-enrolled
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/education/the-great-school-divide-irony-of-congestion-in-cluster-1-schools-as-day-schools-remain-under-enrolled-5565582
+  - Facebook: POSTED (1289239267586516_122111014353407566)
+
+- **[Nation Africa]** Win for community schools as MPs review admission criteria
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/education/win-for-community-schools-as-mps-review-admission-criteria-5565586
+  - Facebook: POSTED (1289239267586516_122111014383407566)
+
+- **[The Kenya Times]** Why Food Prices in Kenya are Set for Fresh Hike
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/latest-kenya-times-news/cbk-survey-new-prices/
+  - Facebook: POSTED (1289239267586516_122111014443407566)
+
+- **[Education News]** HELB grapples with Sh25 billion in loan defaults as demand for loans rises
+  - Source: Education News
+  - Link: https://educationnews.co.ke/helb-grapples-with-sh25-billion-in-loan-defaults-as-demand-for-loans-rises/?utm_source=rss&utm_medium=rss&utm_campaign=helb-grapples-with-sh25-billion-in-loan-defaults-as-demand-for-loans-rises
+  - Facebook: POSTED (1289239267586516_122111014527407566)
+
+- **[Education News]** Siaya National Poly launches new electric mobility training curriculum
+  - Source: Education News
+  - Link: https://educationnews.co.ke/siaya-national-poly-launches-new-electric-mobility-training-curriculum/?utm_source=rss&utm_medium=rss&utm_campaign=siaya-national-poly-launches-new-electric-mobility-training-curriculum
+  - Facebook: POSTED (1289239267586516_122111014599407566)
+
+- **[Capital FM News]** Kenya moves to regulate AI, but who will call the shots?
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/kenya-moves-to-regulate-ai-but-who-will-call-the-shots/
+  - Facebook: POSTED (1289239267586516_122111014617407566)
+
+- **[Business Topic]** Cut cost of loans for solar panels on UK homes, ministers urged - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPNHp0OEFKampEY1hXNHNrd0dtYjRLYk1LMGZGY0MxRm9oSFlPb0tsMVpLcWFrTWRtQ3BzS1Z3dzMzVURQN1U3bFVnUG4yNUdCaFlrd2JCUVp4azQ5dWl3a3pjR3UxdFUyMmo1N3AyM2QxUWY1cFpVcDdrVlFHcWV6RWUzVzhRbTd1UXhyallRRjlQc3NIYUhLUmROY3RNUkNmckdDWEQ5Q2tFQ1RPckZwWjhmZHM?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111014635407566)
+
+- **[Business Topic]** China Plans New Fiscal Support Policies Soon Amid Slowdown - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQdkJjOGVfZFNCWTJMSmRPWENPZ2hfZEJINFpXU3BpUjR1bmRuTVF5QVhNcjI1RXpFcHpqT1JyM3NyYVF3RUJJT2NvbHpKbmhRYWlrZHMxSVNhazQ5endGT0cxR3BqdHYyWFJWNHFLbG1BTU5rbEJaVzRGV2dPQTRrQUFSbU12ZDNiNFZNWklKOXBEdDBKdHlZN1JfMHMtTXhEekE0RVJzclhNZFBTY0M5d3Z3QS0?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111014677407566)
+
+- **[Business Topic]** In China first, project breathes new life into ageing wind turbines - South China Morning Post
+  - Source: South China Morning Post
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSE9GQ0FwaVdINkJWZ3hvelVzU0lTb2U5emo2ZV9NQjZfcEk3X3lmNnpzTTBuakNsdHZ5eE9sbjRPaGNOSnBuSVE3UklPb0F0UHp5czJPWnhHQ0x2N1I5N1FITmtNZmtKWEFSMlpNelZibm9rclJZZ3dEMlp0ekw3WmZEYzIwQ2Y2N1N3TVdNeURjUkhaMDJLdkpyaHZoMVd5ODlzSmVyV0s5UHZURnJMeU84Q1Z0OUFD0gG4AUFVX3lxTE14WUZqZ0cxNWVPOEtzLW1KcElnQkxMSWhNUWF3ZlFCaW9zZ1d5REtuMDJFQ19KTFpXdzI0R1gxczEwdU5DMXlOZXdESFBBZ09NelRmQlBsb0NubERQam5GdjJVVm9pWTU4ZUZHRVpYTW0zZ1UzN2xXZlBhd0FtSUotVGxXOGk1M0FZWFFEWUhxbnVaTEQ0ZGxid01SaFlOQ1FIeW9kUHkydWNxT1NVNDE1dFNMN0NGVks?oc=5
+  - Facebook: FAILED permanently after 3 attempts: no usable article text or snippet to build a post from
+
+- **[Education News]** Two education Bills could reshape student funding, placement and curriculum development
+  - Source: Education News
+  - Link: https://educationnews.co.ke/two-education-bills-could-reshape-student-funding-placement-and-curriculum-development/?utm_source=rss&utm_medium=rss&utm_campaign=two-education-bills-could-reshape-student-funding-placement-and-curriculum-development
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Senator Kajwang apologises for Homa Bay chaos, says Luo community and ODM not to blame - People Daily
+  - Source: People Daily
+  - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVjJuNmVvRFZnbFlvVDdqTEZ5cGE5M182STE2aVFOWG5vQktObEczZmtvV0hiTm9BUnc3elpuQnhmdkYwN3E3T1BkLW5KNE1VYW1WcmZYOVk5NnpwOGZzM1BybERybm55bmxOWktVWmJSZHJrREh5VzRxTnFfTjNMUHJVakZmamNFNWFiNXVoVktINmp3aldXWnZHMV9mNk9ST1ZPNFowRk5hNWcwN1VDc29TSmdlVEFqS0phY1JZZm1vWWp2ZDlOZA?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** What your out-of-office email says about you - Yahoo
+  - Source: Yahoo
+  - Link: https://news.google.com/rss/articles/CBMifkFVX3lxTFB5akhRNElYNjlzV0RWbjRhX25kcTI4RmgxbmFHa0x3WVQ4STJrUUE3QnIxNDdvU0MwWVZrTExqbWlvUmxSN2c2bVpyemdGNmhZSkdOZ21WTm5TZmZhN3pUMXNCUlktR1U0ZlE0T25OaTRtTUh5Zk1hdkl0aE1YZw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Nearly 40,000 "non-compliant" condoms sold in France: authorities urge testing - Euronews.com
+  - Source: Euronews.com
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMGROOWxWVzJ0N2tGTjNmSi1UVFc2Z1dZMDZNTjVaZGo5Wl9Ib19lcUJYNmpPMWQyZzN2NUJBU1RUTVFTU0g4dUQzVVVKOG9Wb2RvaTBsbWxrVVEwdGhVNE43NjN6RkRiM1JkWE43WHVhTnQ3QVk3OGNPQVBuOFZQVjE1UXEtUkdBcWJWV2R1UG82dlRHdjRJRldLUFJKRUdOdFhqZHdmY0NlblZhRS04SEtmeGlnN3Bq?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Portugal's pension surplus is an illusion, new report warns - Euronews.com
+  - Source: Euronews.com
+  - Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxQblhRRGRxM0xyOTdmTmg2aGZDcDBiZzBZeVVIcU1ITTRaaUdBV2FOVjZsWU1NdDFwZTZyeHhIS3hUUVFMaXJpRVNGMTBQM3dJaTM2OUVWcmdHNHFOdTJjb1duNE5Zb2pTeHVpTGxJckVVMnpveEkwRnZtX3k0N1cyTlVzenVSRWdRQlE4ZzFvYkRJZ0c0VFQ3b3Myb19wWVpiSDVSUw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Tesla and others begin record vehicle recall in China - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjEyamNWRHVrWi10M3pudDZBWVhwa1pMU2MtRkhpY1BEUEVab1lOaVljX296UVVraG9vcUVOczZndEFfVXp4Y0lEdUpzX2tHMERTMGFsYnQ4UklkMVBRbGx1RElGbFRDdGVsazdUVlhuQjQ3NU9XTXNaMFlqNi1GWFdXV01zWjFVZ0pRaklBdFFuRnFVOElxSG1YVHlKNWFY?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Target Is Winning Back Shoppers As Store Traffic Builds And Its Turnaround Takes Hold - Forbes
+  - Source: Forbes
+  - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWXdVQUZPOTkxZXlGUkdsX3lLUGpNV3RsUlJjaHdOWUV5a2xUeTZvZVdiMG9IMjdoSFNmajZvMUpLU24ycjZOeTROcm5SZ1NyOHY1WUlfTkw2LUNYdTZTaGg0d0dMdUE0RUhOb1BSd25NejVkeDVsVGJ2MDNYSEtTRTU1VU9GdUpXMVRvZkdRR3k3RktjLS1GY29uMHpwVWNmMHZSVm1RWWtkRFRLNUd0NjFrdGxOcWJrVVUwMGhfWXdwQ0JVZlJVckxvYkpSZFJJbTZkbg?oc=5
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Just vibes and 3 points: Winnie Odinga confident as Arsenal prepares for 10 pm kick-off
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/just-vibes-and-3-points-winnie-odinga-confident-as-arsenal-prepares-for-10-pm-kick-off
+  - Facebook: queued for a future run
+

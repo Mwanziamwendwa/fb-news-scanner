@@ -5764,3 +5764,125 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://www.kenyans.co.ke/news/126382-lsk-pursue-removal-govt-officials-linked-political-violence
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 11:06 (Nairobi time)
+
+- **[Business Topic]** Japan's historic yen intervention has ‘turbo-charged’ the carry trade - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxPTFVsQ3hRTFEtd2hhV2J3UTI0c1Z2Ml83WkRNbGFBaTR4ZzA2eGV3SFpsZmxpVVR4LTVBLWMweEpXZ2JKZnV5Zkxya2lvekRrb3VXaGVuM2dlS3hPWnRWX3daTVhOTDJ2eHJacDJva2owbUtPc25NcDVqaXBjazMxcmNmdVFvMklYR3loWVdLQ19Fd9IBlwFBVV95cUxQN1NKcXg4ckxXVV83Z2ljdDlLZXpYbEJhamZJV2JyeGhmdlUxSXQzUVAwOURzRjJjVHExSmJ5SzZob1RVaFMydno0d0pXbDkwMHBVRlhSWE9UbGVpWWlPR2Z1anZCRWJpTXhjNG1hQ21LY29oRlhmOXFoRk1rcUgyRjc0Ti01dVZFQ1p1US1BUVdMeDJPeWk4?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110903311407566)
+
+- **[KBC Digital]** Wetang’ula calls for peaceful political activities and end to goonism
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/wetangula-calls-for-peaceful-political-activities-and-end-to-goonism/
+  - Facebook: POSTED (1289239267586516_122110903359407566)
+
+- **[KBC Digital]** Murkomen pledges partnership on drugs fight, bolstering security
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/murkomen-pledges-partnership-on-drugs-fight-bolstering-security/
+  - Facebook: POSTED (1289239267586516_122110903371407566)
+
+- **[Taifa Leo]** Faili ya uchunguzi wa mlinzi wa Katibu Fikirini Jacobs yafungwa
+  - Source: Taifa Leo
+  - Link: https://taifaleo.nation.co.ke/habari/habari-za-kitaifa/faili-ya-uchunguzi-wa-mlinzi-wa-katibu-fikirini-jacobs-yafungwa/
+  - Facebook: POSTED (1289239267586516_122110903389407566)
+
+- **[Taifa Leo]** Afisa wa polisi aliyeuawa Homa Bay alikuwa akisubiri kupandishwa cheo
+  - Source: Taifa Leo
+  - Link: https://taifaleo.nation.co.ke/habari/habari-za-kitaifa/afisa-wa-polisi-aliyeuawa-homa-bay-alikuwa-akisubiri-kupandishwa-cheo/
+  - Facebook: POSTED (1289239267586516_122110903401407566)
+
+- **[Taifa Leo]** Mapanga 500 na silaha zingine zilisambaziwa wahuni Homa Bay, polisi wafichua
+  - Source: Taifa Leo
+  - Link: https://taifaleo.nation.co.ke/habari/habari-za-kitaifa/mapanga-500-na-silaha-zingine-zilisambaziwa-wahuni-homa-bay-polisi-wafichua/
+  - Facebook: POSTED (1289239267586516_122110903467407566)
+
+- **[Nairobi Wire]** Hilarious Memes Trending in Nairobi This Friday
+  - Source: Nairobi Wire
+  - Link: https://nairobiwire.com/2026/08/hilarious-memes-trending-in-nairobi-this-friday-4.html
+  - Facebook: POSTED (1289239267586516_122110903485407566)
+
+- **[Nairobi Wire]** Mbadi Defends ‘Soda Economy’ Claim as Kenyans Ask Where the Money Is
+  - Source: Nairobi Wire
+  - Link: https://nairobiwire.com/2026/08/mbadi-defends-soda-economy-claim-kenya.html
+  - Facebook: POSTED (1289239267586516_122110903509407566)
+
+- **[Nairobi Wire]** Atwoli Breaks Silence on Viral Claims Linking Him to Samburu Helicopter Crash
+  - Source: Nairobi Wire
+  - Link: https://nairobiwire.com/2026/08/atwoli-denies-samburu-helicopter-crash-claims.html
+  - Facebook: POSTED (1289239267586516_122110903563407566)
+
+- **[Nairobi Wire]** 81% of Nairobi Residents Say Rising Cost of Living Is Their Biggest Concern
+  - Source: Nairobi Wire
+  - Link: https://nairobiwire.com/2026/08/nairobi-cost-of-living-survey-2026.html
+  - Facebook: POSTED (1289239267586516_122110903581407566)
+
+- **[Nairobi Wire]** Talanta Stadium Set for Test Matches as Mvurya Reveals Opening Date
+  - Source: Nairobi Wire
+  - Link: https://nairobiwire.com/2026/08/talanta-stadium-94-percent-complete-november-opening.html
+  - Facebook: POSTED (1289239267586516_122110903671407566)
+
+- **[Nairobi Wire]** UoN Ordered to Pay Graduate Sh3 Million After Graduation Day Humiliation
+  - Source: Nairobi Wire
+  - Link: https://nairobiwire.com/2026/08/uon-graduate-sh3-million-graduation-day.html
+  - Facebook: POSTED (1289239267586516_122110903695407566)
+
+- **[Nairobi Wire]** Govt’s Minimum Fare Rules Could Push Ride-Hailing Users Back to Matatus, Poll Shows
+  - Source: Nairobi Wire
+  - Link: https://nairobiwire.com/2026/08/govts-minimum-fare-rules-could-push-ride-hailing-users-back-to-matatus-poll-shows.html
+  - Facebook: POSTED (1289239267586516_122110903743407566)
+
+- **[The Kenya Times]** Kenya Airways: The Paradox of a National Asset That Cannot Yet Convert Opportunity into Wealth
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/opinions/kenya-airways-wealth/
+  - Facebook: POSTED (1289239267586516_122110903773407566)
+
+- **[The Kenya Times]** How to Watch Arsenal vs Coventry Live in Kenya: TV Channel, Stream Options and Team News
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/football/arsenal-vs-coventry-live-match-match-preview-tv-channel-expected-lineups/
+  - Facebook: POSTED (1289239267586516_122110903845407566)
+
+- **[Kenya Latest]** EXPERT COMMENT: Separate mobilisation could be lethal to Ruto - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxQMTlpcFZwckd3emVYVGk4Z2VIczZDTFRpOUJiTVF3anJTXzZaaHU0VkNtdlo2UFZKaGhKRjNEOWE5TG5xcWtPakZmRmMtNEhSSFdFeXdGc1N0ZkN1TnhqcHR4alQzZFc2RlJFYmQyNFlRczc5ZHJscW1TSENpUF8tZ3JuS2pmbXoxcDlJd1dIQjFTQ25heExWMG1BNS1mdTlKd1pqeXFn?oc=5
+  - Facebook: FAILED permanently after 3 attempts: no usable article text or snippet to build a post from
+
+- **[Taifa Leo]** Athari za dawa za kufisha ganzi wakati wa kujifungua kwa upasuaji
+  - Source: Taifa Leo
+  - Link: https://taifaleo.nation.co.ke/makala/afya-na-jamii/athari-za-dawa-za-kufisha-ganzi-wakati-wa-kujifungua-kwa-upasuaji/
+  - Facebook: queued for a future run
+
+- **[Capital FM News]** Kenya’s presidential jet completes year-long overhaul with new technology upgrades
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/kenyas-presidential-jet-completes-year-long-overhaul-with-new-technology-upgrades/
+  - Facebook: queued for a future run
+
+- **[Business Topic]** EBU and Superpositions Partner to Add Quantum Computing to Business Education - The Quantum Insider
+  - Source: The Quantum Insider
+  - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxOY29ibTJzRThjSjgzOEI5X0VITUNzamdpQzE1RzFPWHpGS1lxd0VMT3VMMFpuMTg0R1c1b3JTVGNYQlFEWmV4TkZ2MTVUZ2VKY3ZDaDdjSS1VT0c5MzFGT09UZmZLT3MtaVVPSHhDUzUta0lpaGhscWNTT0F3RkRfcDVOcnV3Q1hWYlhPMGVRTThWbHZtUDFRWklUSnktZw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Korean Chipmakers’ Cash Payout Plans May Drive Won Rally Further - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNV25UUWMxcVBuSjNpMVBZWHpNMnZsUDBhV3JXa0FSVXByVGw2WV9aVTE1OTNPMWNfR2Z0NzRqOHBuQlRvLWI4M1hrVDJvc1lER2RZZ0tUOGlQZmkwYnBoZXVJTXB1c3hMbXpya1ZQQ290RXVDYTJFY0dHb2FwVzdxNlBQei1xS0VfcldHLVR6VVVRUmsyc3pzTGlsQUlyYjQtamZxdzV0LXd4OHJJUW56NDU5YS0?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Firefighters rescue mule trapped in deep mud in Essex - BBC
+  - Source: BBC
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZRDZxR0ZQX2ViN1JPbDRFUlpRN2ROdC0ya1N4NllNTkd2RmkwREdIWEVzQThiQUZTZ0x4Q2diQnZ2N2VITVpPZEZuY3kyeUFsX3RkNzBBakZ1QQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Australian electricity giant says about 60 customers' bank account details accessed in data breach - Xinhua
+  - Source: Xinhua
+  - Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE5CeGE5ZFREVm1fSjlYWE9mem4tQ1VBYTBsSnNZQko3R1RyY2hNUUhnREtZSTJwLUFQRGd6VUtFWTNqUVdsa1NXM3FLMlNfeDlBbkNhQWdrQTRibWtncTcyNkRNTTY3aWxYR2lOTkc3VTA4NTB0Q2taSkh2NW8?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Website of India's IndiGo blocks some bookings in week's second disruption - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQSnN1OTNUSWRyNlktYWh0emNxc0RUTnM3U1dsRDdzaHpQaml4T0NrNnRkR1MwRnVqcDlHbXFSbnB5NzlzOE93RXBudWlPMXB5RVl0dVhiS3R1MkNpOVd6dVdORnNrc3FxT0lUN2ZwNHJpNVJkcFR2Zk13NjEtUnlaSVZNRjhXMlRMNmF3RlZYZE5TdDBIRjlQcjNHTUZvdzl1V2NjMVNmNEg4eDktaEF3dEJDQlQ?oc=5
+  - Facebook: queued for a future run
+
+- **[SPM Buzz]** Always on Your Phone? Here’s What It Could Mean for Your Brain
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/tech-ai/always-on-your-phone-heres-what-it-could-mean-for-your-brain/?utm_source=rss&utm_medium=rss&utm_campaign=always-on-your-phone-heres-what-it-could-mean-for-your-brain
+  - Facebook: queued for a future run
+

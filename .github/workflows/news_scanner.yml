@@ -1,7 +1,7 @@
 name: Kenya News Scanner and Facebook Publisher
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 */3 * * *"
   workflow_dispatch:
 permissions:
   contents: write
@@ -33,16 +33,12 @@ jobs:
           # Optional: set this only if you want to pin a specific
           # Facebook Graph API version.
           FACEBOOK_GRAPH_VERSION: ${{ secrets.FACEBOOK_GRAPH_VERSION }}
-          # Optional: enables Groq paraphrasing (topic + summary).
-          # Without it, the script uses its local extractive fallback.
-          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: |
           python news_scanner.py
       - name: Commit scanner logs
         run: |
           git config user.name "Kenya News Scanner"
           git config user.email "actions@github.com"
-
           # Only stage log files that actually exist. suggested_posts.md
           # in particular is only written when a run finds at least one
           # new entry, so it may not exist yet on an early/quiet run.
@@ -51,14 +47,11 @@ jobs:
               git add "$f"
             fi
           done
-
           if git diff --cached --quiet; then
             echo "No log changes to commit."
             exit 0
           fi
-
           git commit -m "Update Kenya news scanner logs"
-
           # Rebase onto the latest remote branch before pushing, in case
           # another run (or a manual commit) landed in the meantime.
           # Retry once on failure — covers the narrow race window between
@@ -68,7 +61,6 @@ jobs:
             git rebase "origin/${GITHUB_REF_NAME}"
             git push origin "HEAD:${GITHUB_REF_NAME}"
           }
-
           if ! push_with_retry; then
             echo "Push failed, retrying once after a short delay..."
             sleep 5

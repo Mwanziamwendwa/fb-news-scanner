@@ -6,9 +6,9 @@ already-seen/posted stories and against other feeds reporting the same
 story in this same scan), flags sensitive content, resolves the real
 article URL (so Facebook's link preview shows the actual publisher
 page instead of a Google News interstitial), fetches up to ~1000 words
-of the full article, and paraphrases a short topic + under-200-word
-summary (via Groq, with a quality-checked local fallback if Groq is
-unavailable).
+of the full article, and builds a short topic + under-200-word summary
+using a local, whole-sentence extractive summarizer (no external
+paraphrasing API is used).
 
 Rather than posting only whatever it finds in a single run and dropping
 the rest, new stories are added to a persistent queue (post_queue.json)
@@ -16,16 +16,17 @@ and the script posts up to MAX_FACEBOOK_POSTS_PER_RUN from the FRONT of
 that queue each run (oldest-found first), so a busy scan's extra stories
 carry over and get posted on later runs instead of being lost.
 
-Runs on a 4-hour schedule (see the workflow's cron). MAX_SUGGESTIONS_PER_RUN
-and MAX_FACEBOOK_POSTS_PER_RUN are sized for 6 runs/day instead of 48, so
-daily throughput doesn't collapse just because the interval got longer.
+Runs automatically every 3 hours (see the workflow's cron) and can
+also be triggered manually at any time from the Actions tab.
+LOOKBACK_HOURS (4) covers both cases safely — dedup via
+posted_log.json prevents duplicate posts if a manual run overlaps
+a scheduled one.
 
 IMPORTANT:
-- Never put your Facebook token or Groq key in this file.
+- Never put your Facebook token in this file.
 - Use GitHub Secrets:
     FACEBOOK_PAGE_ID
     FACEBOOK_PAGE_ACCESS_TOKEN
-    GROQ_API_KEY   (optional — enables paraphrased topic + summary)
 - The token previously pasted into chat should be revoked/rotated.
 - Posts never include an outlet-attribution line, a "Kenya Update" /
   category header, or link text in the body. The post's title is
@@ -35,17 +36,16 @@ IMPORTANT:
 - The RSS summary from Google News topic feeds can bundle several
   outlets' headlines into one blob (a "full coverage" cluster) instead
   of describing a single story. That text is never posted verbatim:
-  the fallback (used only when Groq isn't configured or fails) prefers
-  an extractive summary built from the real fetched article page over
-  the raw RSS snippet, and if neither the article nor a clean snippet
-  is usable, the story is held and retried later rather than posted
-  with thin or junky text.
+  the post body prefers a whole-sentence extractive summary built from
+  the real fetched article page over the raw RSS snippet, and if
+  neither the article nor a clean snippet is usable, the story is held
+  and retried later rather than posted with thin or junky text.
 - Posts go out as plain text status updates — no link is attached to
   the Facebook post at all, so no link-preview card ever shows a
   source domain (publisher or otherwise). The real article URL is
-  still resolved and fetched internally (to build the paraphrased
-  content) and is recorded in suggested_posts.md for your own
-  reference, but it is never sent to Facebook.
+  still resolved and fetched internally (to build the summary content)
+  and is recorded in suggested_posts.md for your own reference, but it
+  is never sent to Facebook.
 - Every run rotates which feed it starts scanning from
   (feed_rotation_state.json), so with 62 feeds and a per-run cap on
   new stories, every feed gets fair coverage over time instead of the
@@ -74,31 +74,33 @@ FACEBOOK_POST_LOG_FILE = "facebook_post_log.json"  # only stories actually poste
 POST_QUEUE_FILE = "post_queue.json"          # stories found but not yet posted, oldest-first
 FEED_ROTATION_STATE_FILE = "feed_rotation_state.json"  # which feed to start scanning from next run
 
-# The workflow runs every 4 hours, so this window is set to 5 hours —
-# matching the 4-hour gap plus a 1-hour buffer, so a run that's delayed
-# by GitHub Actions' scheduler (cron start times aren't guaranteed to
-# the minute) still catches everything published since the last run
-# actually happened, instead of a story silently falling in the gap.
-LOOKBACK_HOURS = 5
-# The workflow now runs every 4 hours (6 runs/day) instead of every
-# 30 minutes (48 runs/day) — these two caps are raised roughly 3x from
-# their original values so the site doesn't end up posting far less
-# per day just because the interval got longer.
-MAX_SUGGESTIONS_PER_RUN = 60          # cap on NEW stories gathered per run (before posting)
-MAX_FACEBOOK_POSTS_PER_RUN = 15       # cap on posts actually published per run
+# The workflow runs automatically every 3 hours and can also be
+# triggered manually at any time. This window is set to 4 hours —
+# matching the 3-hour gap plus a 1-hour buffer, so a scheduled run
+# that's delayed (cron start times aren't guaranteed to the minute)
+# still catches everything, and a manual run in between scheduled
+# ones is always safe too: dedup against posted_log.json means
+# running more often than the window never causes duplicate posts.
+LOOKBACK_HOURS = 4
+# These caps limit how much a single manual run does — how many new
+# candidate stories it gathers, and how many it actually posts to
+# Facebook before stopping (anything left over carries over in
+# post_queue.json for the next time you press Run).
+MAX_SUGGESTIONS_PER_RUN = 45          # cap on NEW stories gathered per run (before posting)
+MAX_FACEBOOK_POSTS_PER_RUN = 12       # cap on posts actually published per run
 MAX_POST_ATTEMPTS = 3                 # give up on a queued story after this many failed post attempts
 QUEUE_MAX_SIZE = 300                  # safety cap so the backlog can't grow unbounded
 LOG_RETENTION_DAYS = 14               # how long a "seen" story is remembered for dedup purposes
 FEED_TIMEOUT_SECONDS = 15
 FACEBOOK_TIMEOUT_SECONDS = 30
-GROQ_TIMEOUT_SECONDS = 20
 ARTICLE_FETCH_TIMEOUT_SECONDS = 15
 
-# Full article text is trimmed to this many words before being sent to Groq.
+# Full article text is trimmed to this many words before being stored
+# or summarized.
 MAX_ARTICLE_WORDS = 1000
 
-# Target maximum length for the Groq-generated (or extractive fallback)
-# summary. Can be shorter depending on how much material is available.
+# Target maximum length for the extractive summary. Can be shorter
+# depending on how much material is available.
 MAX_SUMMARY_WORDS = 200
 
 # How similar two titles' significant keywords need to be (as a fraction
@@ -115,11 +117,6 @@ FACEBOOK_PAGE_ACCESS_TOKEN = os.getenv("FACEBOOK_PAGE_ACCESS_TOKEN", "").strip()
 
 # Optional. If omitted, the script uses the unversioned Graph endpoint.
 FACEBOOK_GRAPH_VERSION = os.getenv("FACEBOOK_GRAPH_VERSION", "").strip()
-
-# Optional. If empty, the script skips paraphrasing and uses the
-# extractive-fallback path instead — it never fails the run over this.
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", "").strip()
-GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-20b").strip()
 
 FEED_REQUEST_HEADERS = {
     "User-Agent": (
@@ -259,8 +256,8 @@ def dedupe_title(title):
     Google News 'full coverage' entries sometimes repeat the exact same
     headline twice back-to-back, e.g. "X happened. X happened" — this
     collapses that down to a single clean copy so the duplicate never
-    ends up in a Groq prompt or a fallback post body. If the title
-    isn't duplicated, it's returned unchanged (just whitespace-cleaned).
+    ends up in the post body. If the title isn't duplicated, it's
+    returned unchanged (just whitespace-cleaned).
     """
     t = clean_text(title)
     if ". " in t:
@@ -313,7 +310,7 @@ def clean_summary_for_use(summary):
     Drops the summary entirely if it looks like a multi-story cluster
     dump rather than a real snippet about one story — that text is
     confusing (and was showing up verbatim in posts) rather than useful
-    as paraphrasing material.
+    as summarizing material.
     """
     if is_full_coverage_cluster(summary):
         return ""
@@ -553,10 +550,9 @@ def fetch_article_text(link, page_html=None):
 
 def extractive_summary(text, max_words=MAX_SUMMARY_WORDS):
     """
-    Whole-sentence extractive summary used only in the local fallback
-    path (Groq unavailable/failed): takes complete sentences from the
-    front of the real fetched article, in order, up to max_words. Never
-    cuts a sentence off mid-way.
+    Whole-sentence extractive summary: takes complete sentences from
+    the front of the real fetched article, in order, up to max_words.
+    Never cuts a sentence off mid-way.
     """
     if not text:
         return ""
@@ -576,94 +572,15 @@ def extractive_summary(text, max_words=MAX_SUMMARY_WORDS):
     return " ".join(kept)
 
 
-def parse_topic_and_summary(raw_text):
-    """
-    Pulls "Topic: ..." and "Summary: ..." out of Groq's reply. If the
-    model didn't follow the format for some reason, falls back to using
-    the whole reply as the summary with no separate topic line.
-    """
-    topic_match = re.search(r"Topic:\s*(.+)", raw_text)
-    summary_match = re.search(r"Summary:\s*(.+)", raw_text, re.DOTALL)
-
-    topic = clean_text(topic_match.group(1)) if topic_match else None
-    summary_text = (
-        clean_text(summary_match.group(1)) if summary_match else clean_text(raw_text)
-    )
-    return topic, summary_text
-
-
-def paraphrase_with_groq(title, summary, category, article_text=None):
-    """
-    Asks Groq for a short topic line plus an original summary (no
-    outlet name, no category/source labels, no links) — using the full
-    fetched article text when available, falling back to the cleaned
-    RSS snippet otherwise. Returns a (topic, summary) tuple, or None
-    (never raises) if GROQ_API_KEY isn't set or the call fails for any
-    reason, so callers fall back to the extractive/local path without
-    the run ever failing over this.
-    """
-    if not GROQ_API_KEY:
-        return None
-
-    content_for_prompt = article_text or summary or "No further details available."
-
-    prompt = (
-        "You are given a Kenyan news story. Produce two things, entirely "
-        "in your own words, as a well-constructed, natural-sounding "
-        "piece of writing (not a list of fragments):\n"
-        "1. A short topic line (under 12 words) capturing what the "
-        "story is about.\n"
-        f"2. An original summary, no more than {MAX_SUMMARY_WORDS} words, "
-        "factual, neutral, and written in complete, well-formed "
-        "sentences. Do not name the publication or outlet, do not "
-        "mention 'Kenya Update' or any category label, do not include "
-        "any links or URLs, and do not closely mirror the original "
-        "phrasing or sentence structure. If there isn't much detail to "
-        "work with, a shorter summary is fine — never pad it out or "
-        "repeat the topic line.\n\n"
-        "Respond in exactly this format, nothing else:\n"
-        "Topic: <topic line>\n"
-        "Summary: <summary text>\n\n"
-        f"Title: {title}\n"
-        f"Article text:\n{content_for_prompt}"
-    )
-
-    try:
-        response = requests.post(
-            "https://api.groq.com/openai/v1/chat/completions",
-            headers={
-                "Authorization": f"Bearer {GROQ_API_KEY}",
-                "Content-Type": "application/json",
-            },
-            json={
-                "model": GROQ_MODEL,
-                "messages": [{"role": "user", "content": prompt}],
-                "temperature": 0.5,
-                "max_tokens": 400,
-            },
-            timeout=GROQ_TIMEOUT_SECONDS,
-        )
-        response.raise_for_status()
-        data = response.json()
-        raw_text = data["choices"][0]["message"]["content"]
-        if not raw_text or not raw_text.strip():
-            return None
-        return parse_topic_and_summary(raw_text)
-    except (requests.RequestException, KeyError, IndexError, ValueError) as exc:
-        print(f"[WARN] Groq paraphrase failed, using local fallback: {exc}")
-        return None
-
-
 def build_fallback_body(title, summary, article_text):
     """
-    Used only when Groq isn't configured or fails. Prefers a
-    whole-sentence extractive summary pulled from the real fetched
-    article (a single source) over the raw RSS snippet, since Google
-    News' aggregator snippets are prone to bundling several outlets'
-    headlines together even after clean_summary_for_use() filters the
-    obvious cases. Returns None if there isn't enough real content to
-    build a decent post from, so the caller holds the story for a
-    later retry instead of publishing something thin or junky.
+    Prefers a whole-sentence extractive summary pulled from the real
+    fetched article (a single source) over the raw RSS snippet, since
+    Google News' aggregator snippets are prone to bundling several
+    outlets' headlines together even after clean_summary_for_use()
+    filters the obvious cases. Returns None if there isn't enough real
+    content to build a decent post from, so the caller holds the story
+    for a later retry instead of publishing something thin or junky.
     """
     intro = title if title.endswith((".", "!", "?")) else f"{title}."
 
@@ -680,16 +597,15 @@ def build_fallback_body(title, summary, article_text):
 
 def make_facebook_post(title, summary, link, category):
     """
-    Builds the Facebook post text as a short topic line + paraphrased
-    summary of the story — no outlet attribution, no category/"Kenya
-    Update" header, no link text or URL in the body (the post is
-    published as a plain text status update with no link attached at
-    all — see post_to_facebook). Resolves the real article URL first
-    (purely to fetch the actual article text, not a Google News
-    interstitial), fetches up to MAX_ARTICLE_WORDS of the full article,
-    then asks Groq to summarize it. If Groq isn't configured or fails,
-    falls back to a whole-sentence extractive summary of the real
-    article (or, failing that, the cleaned RSS snippet).
+    Builds the Facebook post text as a title + extractive summary of
+    the story — no outlet attribution, no category/"Kenya Update"
+    header, no link text or URL in the body (the post is published as
+    a plain text status update with no link attached at all — see
+    post_to_facebook). Resolves the real article URL first (purely to
+    fetch the actual article text, not a Google News interstitial),
+    fetches up to MAX_ARTICLE_WORDS of the full article, then builds a
+    whole-sentence extractive summary of it (or, failing that, the
+    cleaned RSS snippet).
 
     Returns (message, resolved_link). resolved_link is not posted to
     Facebook — it's only used for the suggested_posts.md log so you
@@ -702,12 +618,6 @@ def make_facebook_post(title, summary, link, category):
     article_text = fetch_article_text(resolved_link, page_html=page_html)
     clean_title = dedupe_title(title)
     cleaned_summary = clean_summary_for_use(summary)
-
-    groq_result = paraphrase_with_groq(clean_title, cleaned_summary, category, article_text)
-    if groq_result:
-        topic, body_summary = groq_result
-        message = f"{topic}\n\n{body_summary}" if topic else body_summary
-        return message, resolved_link
 
     message = build_fallback_body(clean_title, cleaned_summary, article_text)
     return message, resolved_link
@@ -802,8 +712,8 @@ def main():
     print(f"Maximum new suggestions per run: {MAX_SUGGESTIONS_PER_RUN}")
     print(f"Maximum Facebook posts per run: {MAX_FACEBOOK_POSTS_PER_RUN}")
     print(
-        f"Groq paraphrasing (full-article, topic + <{MAX_SUMMARY_WORDS}w summary): "
-        f"{'enabled' if GROQ_API_KEY else 'disabled (using extractive fallback)'}"
+        f"Summary method: local whole-sentence extractive summary "
+        f"(max {MAX_SUMMARY_WORDS} words), no external paraphrasing API"
     )
 
     facebook_enabled = AUTO_POST_TO_FACEBOOK

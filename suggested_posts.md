@@ -7670,3 +7670,95 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://www.kbc.co.ke/kenya-chinas-fiberhome-deepen-ties-as-digital-superhighway-push-gathers-pace/
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 19:06 (Nairobi time)
+
+- **[Business Topic]** AI boom enters new phase as investors turn more selective - Fund Selector Asia
+  - Source: Fund Selector Asia
+  - Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxPZlZHVkEzREZIQWVLeDNNblB1WExXRDNMZWVYUDZPVTVVa0pnNXZIajlmNlo2eTVGYXVNZ0JpUUxqTkNtM0lhMkU3NkprWU5YNXRYNnZBZ3Y1RzNhR1hST1g2cWdXUy1vcHBRczV1dTlwRS1qRG5wcWRRSlMtU3dLRGUtRjFOU0FoZkdwMnMtSG0?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111012631407566)
+
+- **[Nairobi Leo]** Sudi's Message to Emurua Dikirr Residents as Gachagua Visits Constituency
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29672/sudis-message-to-emurua-dikirr-residents-as-gachagua-visits-constituency
+  - Facebook: POSTED (1289239267586516_122111012655407566)
+
+- **[Nairobi Leo]** Ruto Would Lose if He Runs for President Without a Coalition - Millie Odhiambo
+  - Source: Millie Odhiambo
+  - Link: https://nairobileo.co.ke/news/article/29671/ruto-would-lose-if-he-runs-for-president-without-a-coalition-millie-odhiambo
+  - Facebook: POSTED (1289239267586516_122111012661407566)
+
+- **[Ghafla]** Corazon Kwamboka Responds to Speculation She Is Back With Frankie Just Gym It
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/corazon-kwamboka-responds-to-speculation-she-is-back-with-frankie-just-gym-it/
+  - Facebook: POSTED (1289239267586516_122111012685407566)
+
+- **[Ghafla]** Kenyan pastor comes out as gay, celebrates his boyfriend
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/kenyan-pastor-comes-out-as-gay-celebrates-his-boyfriend/
+  - Facebook: POSTED (1289239267586516_122111012709407566)
+
+- **[K24 Digital]** Not rehab: Magix Enga reveals secret behind his transformation after viral photos
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/not-rehab-magix-enga-reveals-secret-behind-his-transformation-after-viral-photos
+  - Facebook: POSTED (1289239267586516_122111012727407566)
+
+- **[K24 Digital]** A costlier Mara experience: What tourists and Kenya stand to gain
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/travel-and-leisure/a-costlier-mara-experience-what-tourists-and-kenya-stand-to-gain
+  - Facebook: POSTED (1289239267586516_122111012775407566)
+
+- **[K24 Digital]** Premier League 2026/27: Top new signings to watch
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/epl/premier-league-2026-27-top-new-signings-to-watch
+  - Facebook: POSTED (1289239267586516_122111012787407566)
+
+- **[K24 Digital]** Corazon Kwamboka breaks down over Sam Kitiki’s health struggle, calls for support
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/corazon-kwamboka-breaks-down-over-sam-kitikis-health-struggle-calls-for-support
+  - Facebook: POSTED (1289239267586516_122111012859407566)
+
+- **[K24 Digital]** Naisula Lesuuda reveals FGM and marriage pressure she faced during first political bid
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/naisula-lesuuda-reveals-fgm-and-marriage-pressure-she-faced-during-first-political-bid
+  - Facebook: POSTED (1289239267586516_122111012937407566)
+
+- **[KBC Digital]** Stakeholders call for political goodwill and resources to drive CBE reforms
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/stakeholders-call-for-political-goodwill-and-resources-to-drive-cbe-reforms/
+  - Facebook: POSTED (1289239267586516_122111012985407566)
+
+- **[KBC Digital]** Pakistan ex-PM Imran Khan back in jail after hospital examination
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/pakistan-ex-pm-imran-khan-back-in-jail-after-hospital-examination/
+  - Facebook: POSTED (1289239267586516_122111013003407566)
+
+- **[Kenyans.co.ke]** LSK to Pursue Removal of Select Civil Servants After Uproar
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126382-lsk-pursue-removal-govt-officials-linked-political-violence
+  - Facebook: POSTED (1289239267586516_122111013057407566)
+
+- **[Taifa Leo]** Athari za dawa za kufisha ganzi wakati wa kujifungua kwa upasuaji
+  - Source: Taifa Leo
+  - Link: https://taifaleo.nation.co.ke/makala/afya-na-jamii/athari-za-dawa-za-kufisha-ganzi-wakati-wa-kujifungua-kwa-upasuaji/
+  - Facebook: POSTED (1289239267586516_122111013105407566)
+
+- **[Capital FM News]** Kenya’s presidential jet completes year-long overhaul with new technology upgrades
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/kenyas-presidential-jet-completes-year-long-overhaul-with-new-technology-upgrades/
+  - Facebook: POSTED (1289239267586516_122111013189407566)
+
+- **[Education News]** CS Ogamba challenges University of Embu graduates to turn knowledge into solutions
+  - Source: Education News
+  - Link: https://educationnews.co.ke/cs-ogamba-challenges-university-of-embu-graduates-to-turn-knowledge-into-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=cs-ogamba-challenges-university-of-embu-graduates-to-turn-knowledge-into-solutions
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Ex-Abercrombie & Fitch CEO Mike Jeffries competent enough for trial, judge rules - BBC
+  - Source: BBC
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ma2E4Y3UyMFE0TFhibFBRR1pkRk1FengtS3VnVklwZmh5RWQ5YzQtVGtlS0RpUVYzQl9jMTlWcVQwYnhqdldJRzdfeEFodXZLT01EMFJTRms3UQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Eric Trump-backed Space-Eyes to appoint ex-Delta Force officer and ex-banker, sources say - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ3VudmtYdTVvWmY2TDBJangtaW1hR2l0dzluMFdkZnV1S2FtSjVUZUVKMDhuNVlydGFfcmhGdHYwS3JkQVJ1a2RtdTc1OUpxSFdzSDIyNkpUc2ZOem1OY1dFYnpwSm5kYkpzOFFNLWhjVXJHUThKMml1YkJLYng1RHhnbkZmMHlzeElBOEpaeTJuUGgzMFh4WTA3bUo0d2JWT0YtMU1uamlPOU5CMHNZVnJzQXY3Zm1vdkNpU1ZVbkw5VWlRVmt6cDN5Mm1QUQ?oc=5
+  - Facebook: queued for a future run
+

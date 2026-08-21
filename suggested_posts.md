@@ -6889,3 +6889,175 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://www.kenyans.co.ke/news/126389-senator-khalwale-reveals-he-asked-ruto-not-attend-wifes-burial
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 15:13 (Nairobi time)
+
+- **[Business Topic]** Subaru faces Australian court action over alleged right-to-repair breaches - MLex
+  - Source: MLex
+  - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTJtaDVQVU9UVE1KZjI3SlBlQy0ySHVweEF4X3hVRllkcVBRNXhKZ1c4M2NZMll3VkJHQ2l6bzZUVzd6Zml3Z0ZrQlJxdFZfMXVKZmUxTzY5ZlVmY1pFWVdOdkxURTB3ZDFJYVg4cnhLMnMwVnZuODhtRFpiTmdVbFR6MkRMcU4wYkJHZFdnTG9jVGg0QTVockRvcGNJNHp2STN6QzJoMklIenhkelRsMDV0S3pCQ3lOekQxbV9mTDBkRjlUaVHSAVpBVV95cUxQZGlrSE1Fd3JLOU0zX09ZMjlVYm5sbEVZU3VGbGxxQmZWWFlJMllkMjk2N2dzbEVyU19SR2VoS2xPQmJlX3V4MEYxNW5EUWVGMEtSbkhHUV9ZQ1E?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110954059407566)
+
+- **[Business Topic]** INDIA CEO SERIES: Vedanta Oil and Gas targets diversified portfolio amid energy security push - S&P Global
+  - Source: S&P Global
+  - Link: https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSWl0dHVtX1hYTnVBSExfdkt5VmRTNkszTEtqTnNHbjc4QjRvS29yS19LaXdQdnFuVkdpSkRCbFgzV2hPLUdIWFJPVlpnN05ZM1VheUhBUDIxOV9lRTh6Qmo4bFQyeGtkOG9VS0xzYzBfZlA1RmQ3cUVNeHRtdWtKTnRIbmt0STlPdElMRkVZS0JJMlNNVUEzRlR4aExZWnI2RGFaUE1NY21tWGR3OUlHejVUekt2U256YVZLbVZURUhOaVkxY21NOVZhVl9QR0o2X1JkaVNCRW55UFktdG5EQ01KcnFzNm5iTmd6SzRjVzVmZEhTdnI2QkhGbldfLUE?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110954071407566)
+
+- **[Business Topic]** NI saw largest rise in disposable income of any UK region in 2024 - BBC
+  - Source: BBC
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE11dHowSTctLTZ0Q1lfSUU5YkotMWM0YU5jRzdadFpZQUhrVXVFREFKbWJOYVlMRHdvbXhvZ1R4SnlCMmlCQ3dldUJGcEt1dTh5NmxiUTBsc3pzQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110954095407566)
+
+- **[Business Topic]** Tobacco sales continue to fall in New Zealand - Xinhua
+  - Source: Xinhua
+  - Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE96ckhsMV9EUnY5Tzg1V2YzSlJSRG81T0wwWlQtcVFGWVFZWDRKQ3cwdnR6ZFE5VXFNN1NwUWdIanVxb2dfcTRaa21qMmQzOFhMbG5oZTZJa2p2V18zSVBUNUdERWZxXzczQnc4S1F6UEtkNHVYX3BWT3pFMjg?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110954113407566)
+
+- **[Business Topic]** India Economic Growth May Beat RBI’s 6.7% Forecast, Gupta Says - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPVnBYdFhVbVZ3NVJaSkJpUEhqbU9SLVZTRzJNWlNKc05Rb0lQWXNQdklFT2lJeG0yTEdUQkV4dFFXN25LNTRfM3JkY3Nudm9vLVQtcXMycmUzc2JxQzZ1cmJHVlVFNEdMLXlEU2hLby1qekVuWUM3VlB1VkRXelRvbDM3dEVXY2hWTDUwMS00Q0JsM0x5NHNfbzR1MXQ5QUJ1N3VDWHB2NEV1aXNfenIzWA?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110954143407566)
+
+- **[Business Topic]** Sydney air traffic controllers warn of grave safety concerns - chinadailyasia.com
+  - Source: chinadailyasia.com
+  - Link: https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1dWhwcWg2WmtQd0FnTmh2YU9PRGgzX3dITlIwbHZFN2UzRkdiQ3M4OEYyc0wzVjBOQ3lkNnNGMkpIMEZ2VEFwVkpTcVplRzNnWExDZmFxU1Q?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110954173407566)
+
+- **[Nairobi Leo]** IEBC Reveals Number of New Registered Voters
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29670/iebc-reveals-number-of-new-registered-voters
+  - Facebook: POSTED (1289239267586516_122110954185407566)
+
+- **[Ghafla]** MCA Tricky Earns EBK Registration as He Expands Into Engineering
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/mca-tricky-earns-ebk-registration-as-he-expands-into-engineering/
+  - Facebook: POSTED (1289239267586516_122110954197407566)
+
+- **[Ghafla]** Kenya Power Announces Planned Power Maintenance for August 21
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/kenya-power-announces-planned-power-maintenance-for-august-21/
+  - Facebook: POSTED (1289239267586516_122110954275407566)
+
+- **[K24 Digital]** Redsan questions music originality as millennials’ era gets celebrated
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/redsan-questions-music-originality-as-millennials-era-gets-celebrated
+  - Facebook: POSTED (1289239267586516_122110954281407566)
+
+- **[K24 Digital]** AFC Leopards vs KCCA FC: Ingwe announce new kick-off time following venue switch
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/kpl/afc-leopards-vs-kcca-fc-ingwe-announce-new-kick-off-time-following-venue-switch
+  - Facebook: POSTED (1289239267586516_122110954329407566)
+
+- **[K24 Digital]** Redsan at 30: 5 things Gen Z may not know about Kenya’s dancehall icon
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/redsan-at-30-5-things-gen-z-may-not-know-about-kenyas-dancehall-icon
+  - Facebook: POSTED (1289239267586516_122110954461407566)
+
+- **[K24 Digital]** Director Trevor challenges Kenyan brands to turn World Tourism Day into a national showcase
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/director-trevor-challenges-kenyan-brands-to-turn-world-tourism-day-into-a-national-showcase
+  - Facebook: POSTED (1289239267586516_122110954491407566)
+
+- **[K24 Digital]** Why some Kenyan parents are struggling to get children back into a school routine
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/why-some-kenyan-parents-are-struggling-to-get-children-back-into-a-school-routine
+  - Facebook: POSTED (1289239267586516_122110954557407566)
+
+- **[K24 Digital]** New Season, New Rules! EPL introduces new regulation to stop goalkeeper tactical timeouts
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/epl/new-season-new-rules-epl-introduces-new-regulation-to-stop-goalkeeper-tactical-timeouts
+  - Facebook: POSTED (1289239267586516_122110954563407566)
+
+- **[The Kenya Times]** Senator Khalwale Reveals Why Ruto Did Not Attend His Wife’s Funeral
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/latest-kenya-times-news/senator-khalwale-reveals-why-ruto-did-not-attend-his-wifes-funeral/
+  - Facebook: queued for a future run
+
+- **[Education News]** When love becomes a trap: The hidden dangers of dating apps
+  - Source: Education News
+  - Link: https://educationnews.co.ke/when-love-becomes-a-trap-the-hidden-dangers-of-dating-apps/?utm_source=rss&utm_medium=rss&utm_campaign=when-love-becomes-a-trap-the-hidden-dangers-of-dating-apps
+  - Facebook: queued for a future run
+
+- **[Education News]** Bomet University optimistic of meeting 4,900 student target as reporting continues
+  - Source: Education News
+  - Link: https://educationnews.co.ke/bomet-university-optimistic-of-meeting-4900-student-target-as-reporting-continues/?utm_source=rss&utm_medium=rss&utm_campaign=bomet-university-optimistic-of-meeting-4900-student-target-as-reporting-continues
+  - Facebook: queued for a future run
+
+- **[Capital FM News]** Health PS Muthoni embarks on nationwide caravan to amplify govt agenda
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/health-ps-muthoni-embarks-on-nationwide-caravan-to-amplify-govt-agenda/
+  - Facebook: queued for a future run
+
+- **[Capital FM News]** Gachagua visits late MP Ngeno family, pledges support for hospitalised relative
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/gachagua-visits-late-mp-ngeno-family-pledges-support-for-hospitalised-relative/
+  - Facebook: queued for a future run
+
+- **[Capital FM Business]** Siaya County links salary delays to slow budget process
+  - Source: Capital FM Business
+  - Link: https://capitalfm.africa/siaya-county-links-salary-delays-to-slow-budget-process/
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Cybercrime tests Kenya’s extradition system as US seeks suspects - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTElqcGtNNlpOMkRzQmJ5cTNGa2JhYnljZXBOMURtdl9IQnRhdFZBVUVOVXh2UkZVcGlOUE4zYnl4ZnFoVG5zT2x1cjZDNUs0LU12R0trcGczMFNSYk9XcDdHcFJHWlFNandnT08yNG45UUFDUmw2bVpYVG1FQWxwU2Vrbk41UTBBUzlOVzlWNmZGV3NFaWZ5a0V1VHkxbTFka0J6SmpFRW0?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Sugar Prices Rise in Kenya Rise for 4th Consecutive Month Despite Increased Local Production - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxQYXk4WF9ZTmhtWHJoTmloRDYtUnhFUEM3X1kzLXBjdUw2NTA5WXFDN0JwV05TazhwYk4zeUNFbzE3elQ4ZXloZWptaVJnTlBZOEVZblpxbmpsNmFHanFSOGdsVWNObVFlQWRPM09mbGxINS1JQUphSU1kVTA2MWVyMjhLYTcxTW4zNWlENk5PQVgwQXd2c1I4R1Y5cVJXNkdTZ09HbW1hYWR0VWZ3RE9sOEhwU0pUVEdhQjBuNE1oMFJFS2o0YTlMUzhIaFhGU0U?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** London cabbies plot ‘skulduggery’ to take on robotaxis - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNVERJVjh1bW9ubENMMU9pVmh5bzBNMWdyVFdCMURtVVBDWXpDaXNOZzIwU2s0dWw2a3BlTzlKY0NLUDB5elM1bUE1SDJPX29TcUFGT0RlWkw3SVdIbjNKWUtLY1hLV25tSkdLMlNvbEFaMDJPVVFfdjJHZUFvUkpldGlHcDM?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Safaricom's Ziidi Trader Expands Eligibility to Military IDs, Kenyan and Foreign Passports - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW03Vjd0NUlONkJtTWk2MzRZazF2SGVxWFRwakZkYXplMVFNSWZsM0ZLa2NBcGhkWWRaWVdMM1c3NlpPNDMtRXViRzRQRldxS0xaWmVPeFVPR0owRjNKLTFpek50WWJQS0VxQm9kb1k2b1Vvb2JCUVpwZXJQeVkxY3g4aFJlcmc1UWVvZy1TQ1NWSElUbEFwMUVZU0RUckJibWIzWUl2eFp1VVBMY1lEYl92bGpUdlhfUTUwT2l1LXdRdw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Bitcoin on track for 20% weekly gain as investor optimism floods back - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjRGYUZ1N0FTMjBSWUZKS3BUU2dhVVVxYzdLQ0lMRkhNZ0hua3c3Uzg2N3AyNThYb3JfR3BYQ09sWkl1Ni1Pd3R3UEFkNFRRUGtMNW9TTllKQ2huZ1c3UWN5ME85dHFOblprdVNjWk5GN2xvRXBXSU1HdTNyRmpyVUtZTUZDV08xVzN3dUJR0gGTAUFVX3lxTE91YXlLVVY1aGtjTzVEU05mWTU4c0pFT0I4ZW5OOHltMk1zV0FwNTVQZnZrQzlVazVIOTgtWkp6d3lxTmljc0ptZUwtU05oUEs0MXNRYXlDVmpjUHVuRnFMdzBEbGMzWDFrekdnbmY2ajl1TzRkQ09TcDZTWlBYWlJGak4xOFkzMElveWZOVzBKcEpxWQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Oil Slips But Remains on Track for Significant Weekly Gain - WSJ
+  - Source: WSJ
+  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmhlcXljTnlMOFFrSDdrck14Umk3WXVZUFhoX1N5ZDBxVTExWDBfUC16UTAwYnNacFp4MW1HZHh2c21MNVNPNDNkaDFSYkJrSlRGbEhsTTdjU3NWOUNFY3ZZTkxsc3NRX1QxcHRpM2pXcHQ0TkV5c2hUU1RtTFdWVHJpS0pSMmx5SFdsMGtXaFQyQkZaQ2JKNEppYTAtb0tJcVM3dlJuTQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027 - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQWDBxcmZmdGdPSTkzWHdLVTN5d3VIbU9mbDdrMDE5enl4MlNGa3RuTnFJQjJZWFpMX3k0Q3g0MWVlcTdTbGZwSFJNY2ZZN3VLRzBpWEdiYXRGZmgxRmlJZVVuRG45bUNHdlg4UnA5WWhFbzJPc29hT1hLcHM4d09fUjE4TS1rUVFlTkhsVlN1Mk9xY0pRakZUTlJ6enpZT0VlSlN5djk1cTNySVhodFM1a1NLa2Z2bUZhYWc?oc=5
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** HELB Warns as 290,000 Kenyans Default on Ksh29 Billion Loans
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29678/helb-warns-as-290000-kenyans-default-on-ksh29-billion-loans
+  - Facebook: queued for a future run
+
+- **[SPM Buzz]** Skills Every Student Needs Before Studying Abroad
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/work-study-abroad/skills-every-student-needs-before-studying-abroad/?utm_source=rss&utm_medium=rss&utm_campaign=skills-every-student-needs-before-studying-abroad
+  - Facebook: queued for a future run
+
+- **[SPM Buzz]** Khalwale Claims Predicts Sifuna-Kalonzo Win Over Ruto in 2027
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/politics/khalwale-claims-predicts-sifuna-kalonzo-win-over-ruto-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=khalwale-claims-predicts-sifuna-kalonzo-win-over-ruto-in-2027
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** UK Chevening Scholarship: What Kenyan applicants need to know before applying
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/uk-chevening-scholarship-what-kenyan-applicants-need-to-know-before-applying
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** 10 of the best films to watch this September
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/movies/10-of-the-best-films-to-watch-this-september
+  - Facebook: queued for a future run
+
+- **[NTV Kenya]** After 11 years, Ronaldinho returns to soccer with a primary goal
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/news/after-11-years-ronaldinho-returns-to-soccer-with-a-primary-goal/
+  - Facebook: queued for a future run
+

@@ -7,7 +7,7 @@
     "category": "Kenya Latest",
     "summary": "",
     "discovered_at": "2026-08-21T07:06:25.264996+00:00",
-    "attempts": 1
+    "attempts": 2
   },
   {
     "title": "Nairobi issues seven-day notice for 59 unclaimed bodies - the-star.co.ke",
@@ -17,67 +17,7 @@
     "category": "Kenya Latest",
     "summary": "",
     "discovered_at": "2026-08-21T07:06:25.264996+00:00",
-    "attempts": 1
-  },
-  {
-    "title": "Subaru faces Australian court action over alleged right-to-repair breaches - MLex",
-    "normalized_title": "subaru faces australian court action over alleged right-to-repair breaches - mlex",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTJtaDVQVU9UVE1KZjI3SlBlQy0ySHVweEF4X3hVRllkcVBRNXhKZ1c4M2NZMll3VkJHQ2l6bzZUVzd6Zml3Z0ZrQlJxdFZfMXVKZmUxTzY5ZlVmY1pFWVdOdkxURTB3ZDFJYVg4cnhLMnMwVnZuODhtRFpiTmdVbFR6MkRMcU4wYkJHZFdnTG9jVGg0QTVockRvcGNJNHp2STN6QzJoMklIenhkelRsMDV0S3pCQ3lOekQxbV9mTDBkRjlUaVHSAVpBVV95cUxQZGlrSE1Fd3JLOU0zX09ZMjlVYm5sbEVZU3VGbGxxQmZWWFlJMllkMjk2N2dzbEVyU19SR2VoS2xPQmJlX3V4MEYxNW5EUWVGMEtSbkhHUV9ZQ1E?oc=5",
-    "source": "MLex",
-    "category": "Business Topic",
-    "summary": "Subaru faces Australian court action over alleged right-to-repair breaches MLex See more headlines and perspectives on Google News",
-    "discovered_at": "2026-08-21T07:06:25.264996+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "INDIA CEO SERIES: Vedanta Oil and Gas targets diversified portfolio amid energy security push - S&P Global",
-    "normalized_title": "india ceo series: vedanta oil and gas targets diversified portfolio amid energy security push - s&p global",
-    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSWl0dHVtX1hYTnVBSExfdkt5VmRTNkszTEtqTnNHbjc4QjRvS29yS19LaXdQdnFuVkdpSkRCbFgzV2hPLUdIWFJPVlpnN05ZM1VheUhBUDIxOV9lRTh6Qmo4bFQyeGtkOG9VS0xzYzBfZlA1RmQ3cUVNeHRtdWtKTnRIbmt0STlPdElMRkVZS0JJMlNNVUEzRlR4aExZWnI2RGFaUE1NY21tWGR3OUlHejVUekt2U256YVZLbVZURUhOaVkxY21NOVZhVl9QR0o2X1JkaVNCRW55UFktdG5EQ01KcnFzNm5iTmd6SzRjVzVmZEhTdnI2QkhGbldfLUE?oc=5",
-    "source": "S&P Global",
-    "category": "Business Topic",
-    "summary": "INDIA CEO SERIES: Vedanta Oil and Gas targets diversified portfolio amid energy security push S&P Global",
-    "discovered_at": "2026-08-21T07:06:25.264996+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "NI saw largest rise in disposable income of any UK region in 2024 - BBC",
-    "normalized_title": "ni saw largest rise in disposable income of any uk region in 2024 - bbc",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11dHowSTctLTZ0Q1lfSUU5YkotMWM0YU5jRzdadFpZQUhrVXVFREFKbWJOYVlMRHdvbXhvZ1R4SnlCMmlCQ3dldUJGcEt1dTh5NmxiUTBsc3pzQQ?oc=5",
-    "source": "BBC",
-    "category": "Business Topic",
-    "summary": "NI saw largest rise in disposable income of any UK region in 2024 BBC",
-    "discovered_at": "2026-08-21T07:06:25.264996+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Tobacco sales continue to fall in New Zealand - Xinhua",
-    "normalized_title": "tobacco sales continue to fall in new zealand - xinhua",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96ckhsMV9EUnY5Tzg1V2YzSlJSRG81T0wwWlQtcVFGWVFZWDRKQ3cwdnR6ZFE5VXFNN1NwUWdIanVxb2dfcTRaa21qMmQzOFhMbG5oZTZJa2p2V18zSVBUNUdERWZxXzczQnc4S1F6UEtkNHVYX3BWT3pFMjg?oc=5",
-    "source": "Xinhua",
-    "category": "Business Topic",
-    "summary": "Tobacco sales continue to fall in New Zealand Xinhua Tobacco Sales Continue To Fall supermarketnews.co.nz",
-    "discovered_at": "2026-08-21T07:06:25.264996+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "India Economic Growth May Beat RBI’s 6.7% Forecast, Gupta Says - Bloomberg.com",
-    "normalized_title": "india economic growth may beat rbi’s 6.7% forecast, gupta says - bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVnBYdFhVbVZ3NVJaSkJpUEhqbU9SLVZTRzJNWlNKc05Rb0lQWXNQdklFT2lJeG0yTEdUQkV4dFFXN25LNTRfM3JkY3Nudm9vLVQtcXMycmUzc2JxQzZ1cmJHVlVFNEdMLXlEU2hLby1qekVuWUM3VlB1VkRXelRvbDM3dEVXY2hWTDUwMS00Q0JsM0x5NHNfbzR1MXQ5QUJ1N3VDWHB2NEV1aXNfenIzWA?oc=5",
-    "source": "Bloomberg.com",
-    "category": "Business Topic",
-    "summary": "India Economic Growth May Beat RBI’s 6.7% Forecast, Gupta Says Bloomberg.com India's income growth is lagging consumption, says CLSA; GDP seen easing to 6% in FY27 CNBC TV18 India's FY27 growth seen at 6.8% amid El Nino, inflation: Ind-Ra Fibre2Fashion GDP may grow beyond projected 6.7%: RBI DG The Times of India India's Q1 GDP growth likely to ease to one-year low of 7.2% Informist",
-    "discovered_at": "2026-08-21T07:06:25.264996+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Sydney air traffic controllers warn of grave safety concerns - chinadailyasia.com",
-    "normalized_title": "sydney air traffic controllers warn of grave safety concerns - chinadailyasia.com",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1dWhwcWg2WmtQd0FnTmh2YU9PRGgzX3dITlIwbHZFN2UzRkdiQ3M4OEYyc0wzVjBOQ3lkNnNGMkpIMEZ2VEFwVkpTcVplRzNnWExDZmFxU1Q?oc=5",
-    "source": "chinadailyasia.com",
-    "category": "Business Topic",
-    "summary": "Sydney air traffic controllers warn of grave safety concerns chinadailyasia.com Australia news live: Hiker Lily Hooper remembered as someone ‘everyone liked’; testing under way after dozens of little penguins found dead The Guardian Fourth Sydney Airport safety incident in three weeks under investigation ABC News & Headlines – Australian Broadcasting Corporation Qantas jets almost collide in fourth near miss Yahoo News Australia Video Podcast: How do you solve a problem like Sydney? Australian Aviation",
-    "discovered_at": "2026-08-21T07:06:25.264996+00:00",
-    "attempts": 0
+    "attempts": 2
   },
   {
     "title": "How Kangaroo Bonds Are a New Front in AI Debt Boom - Bloomberg.com",
@@ -87,97 +27,7 @@
     "category": "Business Topic",
     "summary": "",
     "discovered_at": "2026-08-21T07:06:25.264996+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "IEBC Reveals Number of New Registered Voters",
-    "normalized_title": "iebc reveals number of new registered voters",
-    "link": "https://nairobileo.co.ke/news/article/29670/iebc-reveals-number-of-new-registered-voters",
-    "source": "Nairobi Leo",
-    "category": "Nairobi Leo",
-    "summary": "The Independent Electoral and Boundaries Commission (IEBC) has registered a total of 2,936,516 new voters.",
-    "discovered_at": "2026-08-21T07:06:25.264996+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "MCA Tricky Earns EBK Registration as He Expands Into Engineering",
-    "normalized_title": "mca tricky earns ebk registration as he expands into engineering",
-    "link": "https://www.ghafla.co.ke/mca-tricky-earns-ebk-registration-as-he-expands-into-engineering/",
-    "source": "Ghafla",
-    "category": "Ghafla",
-    "summary": "Kenyan comedian and media personality MCA Tricky, whose real name is Francis Munyao, has marked a new milestone in his professional journey after receiving his Certificate of Registration from the Engineers Board of Kenya (EBK). Tricky shared news of the achievement on Wednesday, August 19, 2026, posting photographs from his visit to the EBK offices. […] The post MCA Tricky Earns EBK Registration as He Expands Into Engineering appeared first on Ghafla! .",
-    "discovered_at": "2026-08-21T07:06:25.264996+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Kenya Power Announces Planned Power Maintenance for August 21",
-    "normalized_title": "kenya power announces planned power maintenance for august 21",
-    "link": "https://www.ghafla.co.ke/kenya-power-announces-planned-power-maintenance-for-august-21/",
-    "source": "Ghafla",
-    "category": "Ghafla",
-    "summary": "Kenya Power has announced scheduled electricity maintenance in parts of Nyeri and Taita Taveta counties on Friday, August 21, 2026. The planned outages are expected to affect customers in the Mt. Kenya and Coast regions as the utility company carries out maintenance work on its power network. Nyeri County In Nyeri County, the maintenance will […] The post Kenya Power Announces Planned Power Maintenance for August 21 appeared first on Ghafla! .",
-    "discovered_at": "2026-08-21T07:06:25.264996+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Redsan questions music originality as millennials’ era gets celebrated",
-    "normalized_title": "redsan questions music originality as millennials’ era gets celebrated",
-    "link": "https://k24.digital/entertainment/celebrity/redsan-questions-music-originality-as-millennials-era-gets-celebrated",
-    "source": "K24 Digital",
-    "category": "K24 Digital",
-    "summary": "Kenyan musician Redsan has questioned the direction of modern music, raising concerns about originality while reflecting on artificial",
-    "discovered_at": "2026-08-21T07:06:25.264996+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "AFC Leopards vs KCCA FC: Ingwe announce new kick-off time following venue switch",
-    "normalized_title": "afc leopards vs kcca fc: ingwe announce new kick-off time following venue switch",
-    "link": "https://k24.digital/sports/kpl/afc-leopards-vs-kcca-fc-ingwe-announce-new-kick-off-time-following-venue-switch",
-    "source": "K24 Digital",
-    "category": "K24 Digital",
-    "summary": "AFC Leopards have altered their Saturday, August 22, 2026, kick-off time for their preseason friendly against Ugandan outfit",
-    "discovered_at": "2026-08-21T07:06:25.264996+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Redsan at 30: 5 things Gen Z may not know about Kenya’s dancehall icon",
-    "normalized_title": "redsan at 30: 5 things gen z may not know about kenya’s dancehall icon",
-    "link": "https://k24.digital/entertainment/celebrity/redsan-at-30-5-things-gen-z-may-not-know-about-kenyas-dancehall-icon",
-    "source": "K24 Digital",
-    "category": "K24 Digital",
-    "summary": "Kenyan musician Redsan is marking 30 years in the music industry, giving a new generation a chance to",
-    "discovered_at": "2026-08-21T07:06:25.264996+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Director Trevor challenges Kenyan brands to turn World Tourism Day into a national showcase",
-    "normalized_title": "director trevor challenges kenyan brands to turn world tourism day into a national showcase",
-    "link": "https://k24.digital/entertainment/celebrity/director-trevor-challenges-kenyan-brands-to-turn-world-tourism-day-into-a-national-showcase",
-    "source": "K24 Digital",
-    "category": "K24 Digital",
-    "summary": "Kenyan digital content creator and filmmaker Director Trevor has challenged Kenyan brands to use World Tourism Day as",
-    "discovered_at": "2026-08-21T07:06:25.264996+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Why some Kenyan parents are struggling to get children back into a school routine",
-    "normalized_title": "why some kenyan parents are struggling to get children back into a school routine",
-    "link": "https://k24.digital/lifestyle/why-some-kenyan-parents-are-struggling-to-get-children-back-into-a-school-routine",
-    "source": "K24 Digital",
-    "category": "K24 Digital",
-    "summary": "As the third term approaches, some Kenyan parents are finding that getting children back into a structured school",
-    "discovered_at": "2026-08-21T07:06:25.264996+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "New Season, New Rules! EPL introduces new regulation to stop goalkeeper tactical timeouts",
-    "normalized_title": "new season, new rules! epl introduces new regulation to stop goalkeeper tactical timeouts",
-    "link": "https://k24.digital/sports/epl/new-season-new-rules-epl-introduces-new-regulation-to-stop-goalkeeper-tactical-timeouts",
-    "source": "K24 Digital",
-    "category": "K24 Digital",
-    "summary": "The Premier League season will get under way on Friday night when champions Arsenal host promoted Coventry, with",
-    "discovered_at": "2026-08-21T07:06:25.264996+00:00",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "title": "El Niño set to be ‘strongest in living memory’, says UK Met Office",
@@ -2047,6 +1897,196 @@
     "category": "Kenyans.co.ke",
     "summary": "Concerns emerged over why senior leaders, led by the President, skipped the burial service despite Khalwale being a UDA-elected Senator and a once-close ally of Ruto.",
     "discovered_at": "2026-08-21T11:47:27.458138+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Senator Khalwale Reveals Why Ruto Did Not Attend His Wife’s Funeral",
+    "normalized_title": "senator khalwale reveals why ruto did not attend his wife’s funeral",
+    "link": "https://thekenyatimes.com/latest-kenya-times-news/senator-khalwale-reveals-why-ruto-did-not-attend-his-wifes-funeral/",
+    "source": "The Kenya Times",
+    "category": "The Kenya Times",
+    "summary": "The Kenya Times ~ Trending, Breaking News and Videos Senator Khalwale Reveals Why Ruto Did Not Attend His Wife’s Funeral Kakamega Senator Boni Khalwale has explained why President William Ruto did not attend the funeral of his late wife, Gloria Sekeiyan Khalwale, despite saying he was willing to travel to Kakamega to condole with the family. Speaking during Gloria’s burial on Friday, August 21, Khalwale said Ruto had contacted him and asked for coordinates for […] This post Senator Khalwale Reveals Why Ruto Did Not Attend His Wife’s Funeral first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Mary Wanjohi",
+    "discovered_at": "2026-08-21T12:10:51.237668+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "When love becomes a trap: The hidden dangers of dating apps",
+    "normalized_title": "when love becomes a trap: the hidden dangers of dating apps",
+    "link": "https://educationnews.co.ke/when-love-becomes-a-trap-the-hidden-dangers-of-dating-apps/?utm_source=rss&utm_medium=rss&utm_campaign=when-love-becomes-a-trap-the-hidden-dangers-of-dating-apps",
+    "source": "Education News",
+    "category": "Education News",
+    "summary": "The promise of finding love has never been easier to fulfil, or easier to exploit. With a smartphone, an internet connection and a carefully constructed profile, a stranger can enter another person’s emotional world within minutes. Dating applications have transformed how people meet, but they have also created new opportunities for deception, manipulation and predatory... The post When love becomes a trap: The hidden dangers of dating apps first appeared on Education News .",
+    "discovered_at": "2026-08-21T12:10:51.237668+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Bomet University optimistic of meeting 4,900 student target as reporting continues",
+    "normalized_title": "bomet university optimistic of meeting 4,900 student target as reporting continues",
+    "link": "https://educationnews.co.ke/bomet-university-optimistic-of-meeting-4900-student-target-as-reporting-continues/?utm_source=rss&utm_medium=rss&utm_campaign=bomet-university-optimistic-of-meeting-4900-student-target-as-reporting-continues",
+    "source": "Education News",
+    "category": "Education News",
+    "summary": "Bomet University has set a target of enrolling 4,900 students, with 75 to 80 per cent expected to have reported by tomorrow. The university has planned a mop-up exercise for next week to reach students who have not yet reported. The growing student population has contributed to demand for accommodation, transport and other services in... The post Bomet University optimistic of meeting 4,900 student target as reporting continues first appeared on Education News .",
+    "discovered_at": "2026-08-21T12:10:51.237668+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Health PS Muthoni embarks on nationwide caravan to amplify govt agenda",
+    "normalized_title": "health ps muthoni embarks on nationwide caravan to amplify govt agenda",
+    "link": "https://capitalfm.africa/health-ps-muthoni-embarks-on-nationwide-caravan-to-amplify-govt-agenda/",
+    "source": "Capital FM News",
+    "category": "Capital FM News",
+    "summary": "Muthoni said the initiative seeks to take government programmes and information directly to communities.",
+    "discovered_at": "2026-08-21T12:10:51.237668+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Gachagua visits late MP Ngeno family, pledges support for hospitalised relative",
+    "normalized_title": "gachagua visits late mp ngeno family, pledges support for hospitalised relative",
+    "link": "https://capitalfm.africa/gachagua-visits-late-mp-ngeno-family-pledges-support-for-hospitalised-relative/",
+    "source": "Capital FM News",
+    "category": "Capital FM News",
+    "summary": "He described Ngeno as a close personal friend and said he had travelled to the family home to convey his condolences to Ngeno’s mother, relatives and the wider Emurua Dikirr community.",
+    "discovered_at": "2026-08-21T12:10:51.237668+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Siaya County links salary delays to slow budget process",
+    "normalized_title": "siaya county links salary delays to slow budget process",
+    "link": "https://capitalfm.africa/siaya-county-links-salary-delays-to-slow-budget-process/",
+    "source": "Capital FM Business",
+    "category": "Capital FM Business",
+    "summary": "Acting County Secretary and Head of Public Service Elizabeth Adongo said the delayed budget process had constrained the county's financial and expenditure operations.",
+    "discovered_at": "2026-08-21T12:10:51.237668+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Cybercrime tests Kenya’s extradition system as US seeks suspects - Daily Nation",
+    "normalized_title": "cybercrime tests kenya’s extradition system as us seeks suspects - daily nation",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTElqcGtNNlpOMkRzQmJ5cTNGa2JhYnljZXBOMURtdl9IQnRhdFZBVUVOVXh2UkZVcGlOUE4zYnl4ZnFoVG5zT2x1cjZDNUs0LU12R0trcGczMFNSYk9XcDdHcFJHWlFNandnT08yNG45UUFDUmw2bVpYVG1FQWxwU2Vrbk41UTBBUzlOVzlWNmZGV3NFaWZ5a0V1VHkxbTFka0J6SmpFRW0?oc=5",
+    "source": "Daily Nation",
+    "category": "Kenya Latest",
+    "summary": "Cybercrime tests Kenya’s extradition system as US seeks suspects Daily Nation",
+    "discovered_at": "2026-08-21T12:10:51.237668+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Sugar Prices Rise in Kenya Rise for 4th Consecutive Month Despite Increased Local Production - Tuko News",
+    "normalized_title": "sugar prices rise in kenya rise for 4th consecutive month despite increased local production - tuko news",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYXk4WF9ZTmhtWHJoTmloRDYtUnhFUEM3X1kzLXBjdUw2NTA5WXFDN0JwV05TazhwYk4zeUNFbzE3elQ4ZXloZWptaVJnTlBZOEVZblpxbmpsNmFHanFSOGdsVWNObVFlQWRPM09mbGxINS1JQUphSU1kVTA2MWVyMjhLYTcxTW4zNWlENk5PQVgwQXd2c1I4R1Y5cVJXNkdTZ09HbW1hYWR0VWZ3RE9sOEhwU0pUVEdhQjBuNE1oMFJFS2o0YTlMUzhIaFhGU0U?oc=5",
+    "source": "Tuko News",
+    "category": "Business Topic",
+    "summary": "Sugar Prices Rise in Kenya Rise for 4th Consecutive Month Despite Increased Local Production Tuko News",
+    "discovered_at": "2026-08-21T12:10:51.237668+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "London cabbies plot ‘skulduggery’ to take on robotaxis - Financial Times",
+    "normalized_title": "london cabbies plot ‘skulduggery’ to take on robotaxis - financial times",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVERJVjh1bW9ubENMMU9pVmh5bzBNMWdyVFdCMURtVVBDWXpDaXNOZzIwU2s0dWw2a3BlTzlKY0NLUDB5elM1bUE1SDJPX29TcUFGT0RlWkw3SVdIbjNKWUtLY1hLV25tSkdLMlNvbEFaMDJPVVFfdjJHZUFvUkpldGlHcDM?oc=5",
+    "source": "Financial Times",
+    "category": "Business Topic",
+    "summary": "London cabbies plot ‘skulduggery’ to take on robotaxis Financial Times Robotaxi risk: what potential \"skulduggery\" tactics mean for UK motor insurers Insurance Business",
+    "discovered_at": "2026-08-21T12:10:51.237668+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Safaricom's Ziidi Trader Expands Eligibility to Military IDs, Kenyan and Foreign Passports - Tuko News",
+    "normalized_title": "safaricom's ziidi trader expands eligibility to military ids, kenyan and foreign passports - tuko news",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW03Vjd0NUlONkJtTWk2MzRZazF2SGVxWFRwakZkYXplMVFNSWZsM0ZLa2NBcGhkWWRaWVdMM1c3NlpPNDMtRXViRzRQRldxS0xaWmVPeFVPR0owRjNKLTFpek50WWJQS0VxQm9kb1k2b1Vvb2JCUVpwZXJQeVkxY3g4aFJlcmc1UWVvZy1TQ1NWSElUbEFwMUVZU0RUckJibWIzWUl2eFp1VVBMY1lEYl92bGpUdlhfUTUwT2l1LXdRdw?oc=5",
+    "source": "Tuko News",
+    "category": "Business Topic",
+    "summary": "Safaricom's Ziidi Trader Expands Eligibility to Military IDs, Kenyan and Foreign Passports Tuko News",
+    "discovered_at": "2026-08-21T12:10:51.237668+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Bitcoin on track for 20% weekly gain as investor optimism floods back - CNBC",
+    "normalized_title": "bitcoin on track for 20% weekly gain as investor optimism floods back - cnbc",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjRGYUZ1N0FTMjBSWUZKS3BUU2dhVVVxYzdLQ0lMRkhNZ0hua3c3Uzg2N3AyNThYb3JfR3BYQ09sWkl1Ni1Pd3R3UEFkNFRRUGtMNW9TTllKQ2huZ1c3UWN5ME85dHFOblprdVNjWk5GN2xvRXBXSU1HdTNyRmpyVUtZTUZDV08xVzN3dUJR0gGTAUFVX3lxTE91YXlLVVY1aGtjTzVEU05mWTU4c0pFT0I4ZW5OOHltMk1zV0FwNTVQZnZrQzlVazVIOTgtWkp6d3lxTmljc0ptZUwtU05oUEs0MXNRYXlDVmpjUHVuRnFMdzBEbGMzWDFrekdnbmY2ajl1TzRkQ09TcDZTWlBYWlJGak4xOFkzMElveWZOVzBKcEpxWQ?oc=5",
+    "source": "CNBC",
+    "category": "Business Topic",
+    "summary": "Bitcoin on track for 20% weekly gain as investor optimism floods back CNBC Bitcoin Surges as Treasury Buybacks and Washington Fuel the Rally equiti.com BTCRallyOrSqueeze Bitcoin’s long stretch of low volatility OKX Bitcoin’s Best Week In 3 Years Amid Record Short Liquidations Puts $126K Overshoot Back In Play, Standard Chartered Says TradingView Bitcoin faces $80,000 test as thinner weekend liquidity looms CoinDesk",
+    "discovered_at": "2026-08-21T12:10:51.237668+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Oil Slips But Remains on Track for Significant Weekly Gain - WSJ",
+    "normalized_title": "oil slips but remains on track for significant weekly gain - wsj",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmhlcXljTnlMOFFrSDdrck14Umk3WXVZUFhoX1N5ZDBxVTExWDBfUC16UTAwYnNacFp4MW1HZHh2c21MNVNPNDNkaDFSYkJrSlRGbEhsTTdjU3NWOUNFY3ZZTkxsc3NRX1QxcHRpM2pXcHQ0TkV5c2hUU1RtTFdWVHJpS0pSMmx5SFdsMGtXaFQyQkZaQ2JKNEppYTAtb0tJcVM3dlJuTQ?oc=5",
+    "source": "WSJ",
+    "category": "Business Topic",
+    "summary": "Oil Slips But Remains on Track for Significant Weekly Gain WSJ Crude Oil Markets Split Into Escalation and Resolution, With No Middle stonex.com WTI Futures (USOIL-F) Is up 2.08% on Aug 20: What You Need to Watch TradingKey Natural Gas and Oil Forecast: Hormuz Risks Support Oil as U.S. Inventories Build FXEmpire Oil on Track for Second Week of Gains amid Supply Concerns Fana News -",
+    "discovered_at": "2026-08-21T12:10:51.237668+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "ACE Robotics chairman says robot brains will have 'ChatGPT moment' by end of 2027 - Reuters",
+    "normalized_title": "ace robotics chairman says robot brains will have 'chatgpt moment' by end of 2027 - reuters",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWDBxcmZmdGdPSTkzWHdLVTN5d3VIbU9mbDdrMDE5enl4MlNGa3RuTnFJQjJZWFpMX3k0Q3g0MWVlcTdTbGZwSFJNY2ZZN3VLRzBpWEdiYXRGZmgxRmlJZVVuRG45bUNHdlg4UnA5WWhFbzJPc29hT1hLcHM4d09fUjE4TS1rUVFlTkhsVlN1Mk9xY0pRakZUTlJ6enpZT0VlSlN5djk1cTNySVhodFM1a1NLa2Z2bUZhYWc?oc=5",
+    "source": "Reuters",
+    "category": "Business Topic",
+    "summary": "",
+    "discovered_at": "2026-08-21T12:10:51.237668+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "HELB Warns as 290,000 Kenyans Default on Ksh29 Billion Loans",
+    "normalized_title": "helb warns as 290,000 kenyans default on ksh29 billion loans",
+    "link": "https://nairobileo.co.ke/news/article/29678/helb-warns-as-290000-kenyans-default-on-ksh29-billion-loans",
+    "source": "Nairobi Leo",
+    "category": "Nairobi Leo",
+    "summary": "The Higher Education Loans Board (HELB) has raised concern over the growing number of beneficiaries who have failed to repay student loans amounting to Ksh29 billion.",
+    "discovered_at": "2026-08-21T12:10:51.237668+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Skills Every Student Needs Before Studying Abroad",
+    "normalized_title": "skills every student needs before studying abroad",
+    "link": "https://spmbuzz.com/work-study-abroad/skills-every-student-needs-before-studying-abroad/?utm_source=rss&utm_medium=rss&utm_campaign=skills-every-student-needs-before-studying-abroad",
+    "source": "SPM Buzz",
+    "category": "SPM Buzz",
+    "summary": "Studying abroad can be an exciting opportunity to experience a new culture, meet people from different backgrounds and gain an international education. But adjusting to life in another country involves much more than attending classes. From managing money to communicating across cultures, students need practical skills that can help them become confident, independent and adaptable. […] The post Skills Every Student Needs Before Studying Abroad first appeared on Spm Buzz .",
+    "discovered_at": "2026-08-21T12:10:51.237668+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Khalwale Claims Predicts Sifuna-Kalonzo Win Over Ruto in 2027",
+    "normalized_title": "khalwale claims predicts sifuna-kalonzo win over ruto in 2027",
+    "link": "https://spmbuzz.com/politics/khalwale-claims-predicts-sifuna-kalonzo-win-over-ruto-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=khalwale-claims-predicts-sifuna-kalonzo-win-over-ruto-in-2027",
+    "source": "SPM Buzz",
+    "category": "SPM Buzz",
+    "summary": "Kakamega Senator Boni Khalwale has reignited debate over Kenya’s 2027 presidential contest after claiming that a study by unnamed Chinese researchers gives an opposition ticket led by Edwin Sifuna and Kalonzo Musyoka a commanding advantage over President William Ruto. Speaking at the burial of his late wife, Gloria, in Malinya, Kakamega County, on Friday, August […] The post Khalwale Claims Predicts Sifuna-Kalonzo Win Over Ruto in 2027 first appeared on Spm Buzz .",
+    "discovered_at": "2026-08-21T12:10:51.237668+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "UK Chevening Scholarship: What Kenyan applicants need to know before applying",
+    "normalized_title": "uk chevening scholarship: what kenyan applicants need to know before applying",
+    "link": "https://k24.digital/lifestyle/uk-chevening-scholarship-what-kenyan-applicants-need-to-know-before-applying",
+    "source": "K24 Digital",
+    "category": "K24 Digital",
+    "summary": "Kenyan professionals seeking to advance their careers through postgraduate studies in the United Kingdom have an opportunity to",
+    "discovered_at": "2026-08-21T12:10:51.237668+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "10 of the best films to watch this September",
+    "normalized_title": "10 of the best films to watch this september",
+    "link": "https://k24.digital/entertainment/movies/10-of-the-best-films-to-watch-this-september",
+    "source": "K24 Digital",
+    "category": "K24 Digital",
+    "summary": "From Robert Pattinson in a grim drama about a reality TV show, to witchy sequel Practical Magic 2,",
+    "discovered_at": "2026-08-21T12:10:51.237668+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "After 11 years, Ronaldinho returns to soccer with a primary goal",
+    "normalized_title": "after 11 years, ronaldinho returns to soccer with a primary goal",
+    "link": "https://ntvkenya.co.ke/news/after-11-years-ronaldinho-returns-to-soccer-with-a-primary-goal/",
+    "source": "NTV Kenya",
+    "category": "NTV Kenya",
+    "summary": "Brazilian soccer legend Ronaldinho is returning to the game, 11 years after his retirement. He has signed with Ravenna of Italy’s third-tier Serie C with one goal in mind: to score the final goal of his career. “He’ll play one game in the hope of scoring the final goal of his career with us,” said […]",
+    "discovered_at": "2026-08-21T12:10:51.237668+00:00",
     "attempts": 0
   }
 ]

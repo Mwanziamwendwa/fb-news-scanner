@@ -7884,3 +7884,330 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://k24.digital/entertainment/celebrity/just-vibes-and-3-points-winnie-odinga-confident-as-arsenal-prepares-for-10-pm-kick-off
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 20:58 (Nairobi time)
+
+- **[Business Topic]** Korean Chipmakers’ Cash Payout Plans May Drive Won Rally Further - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNV25UUWMxcVBuSjNpMVBZWHpNMnZsUDBhV3JXa0FSVXByVGw2WV9aVTE1OTNPMWNfR2Z0NzRqOHBuQlRvLWI4M1hrVDJvc1lER2RZZ0tUOGlQZmkwYnBoZXVJTXB1c3hMbXpya1ZQQ290RXVDYTJFY0dHb2FwVzdxNlBQei1xS0VfcldHLVR6VVVRUmsyc3pzTGlsQUlyYjQtamZxdzV0LXd4OHJJUW56NDU5YS0?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111027577407566)
+
+- **[Business Topic]** South African rand strengthens against weaker dollar, supported by gold gains - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZHZPRld0NlUwNUZsYlNzalpPUEdZNHR0dU9VaWRDVmt5WDNaNDJpdm1ranFOdHM5WVdoOVcxaUZuLXVtV19zT3kxNEFaMEFlQ2JsVXhnTVBJcGZ1a3FtT0lQQjVUeXd5SDNuM1lxLU5FZmE5dzVvTlB6eHc1Q2R4aUxlSTVNYjVxbEt1b29kM2lNRUJKeFpjMS1uY2hCa1RyOGxyZGNpRlptTnU3M3ViWXRIS2NoZzFBZGRHeVpDMnE5T3c?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111027595407566)
+
+- **[Business Topic]** Europe Has Its Own Biotech Star as Argenx Soars on Trial Success - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNbExyV3RWVVA1Y3NXdWU4bGZNalFoY3dUajNJZUY5azRuSGMwWWJDZHhLWDJGTERCUlNQcnBiaDM3QWxLc01WN01DSFdfVE5GVTJnZW5EUXlidl9rV3A4eUthd2htSlJ4WVdBTDhtdmJ5N3NaRFM3b2F1QzhqOUdvYnMtbjlfSnNGRVVadWVFVEREUkl0WWFGMUgtaTVCcUZFblVhWnhaUVRuUER2QTJLYnZLUEoxQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111027613407566)
+
+- **[Business Topic]** Alibaba-Backed Robot Firm Seeks $3 Billion Value in New Funding - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQeTBZclU5RDhHSTlMRXE5Nkp5N3lfTnhvUVJzQVRoV1NhYWNnTjZUN1lIWVhvRjgxTjNWTThTMW5aTVlCZkZ3NkFjWG1qMVBQX1puUGFDbGpDb1NTWkZ1VHZBWmlHaWJucHdKNkZxTDFxblkxWXVPY18xQ0pBTks0eVR3X0NmT2hReV90d2R0VFZHZ1hWSklUd0JSRW9kZGRhbEU0S2JfUU94MDNRTUFkbjYybw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111027631407566)
+
+- **[Business Topic]** South Korea plans chip windfall fund to back youth, AI investment - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWx2Uko2TGV3T04xUFk4dXpjR1Y2V2FDQ295Rm5ydHNSYUdKcWFWM1daM3VuWkdveFl2MTNiY19hdmhVUTBud3cyR3A1YmtGd0licHpNN2xoWmdTeE85WTRyVW9OWVd4Vi01bERRWGtvbzNJaDY4VUlETEcwMzZYMW1DLTBPWXQ3MUFoSUFXSVNzSnlpdFAyOWdPZlNLZHBuZERhTkpmTFNCVEhGTU5NUjl1RldmR28?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111027655407566)
+
+- **[Business Topic]** The $28,000 Course for an AI Job Nobody Quite Understands Yet - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbTlHXzFIY3V2SmswM3pWVzhJUFpYdWtYYU1qcUtOV1ZZNVpOVUk3U3Q5WXRlS3ZtckYyd0UzRVBmTEttMmNZOXByVlVGdF9Vc3BnU3FvcWQ3TF81c1RobFNXdmwydG5vSFAtT0dNVTRTVno4eGdwSnZ0WGxuNXlUTlpVbk5FZHNBQS1GSmpkaGtQdzFzLXcwdFgtTGtxdWlkM2xYaDQtWUQxdw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111027727407566)
+
+- **[Business Topic]** Guangzhou court accepts Chinese developer Evergrande Group's bankruptcy liquidation application - Global Times
+  - Source: Global Times
+  - Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WUTA2Z2p3cUQxbWFlQ3h0MzFPeFVNaGlkZnJRZlh4bXQtME9oRmlaRGx6ZGpJODBPWXdxM2dNX1FoTXo2QzhkckhadzdaaW5WdXR3YU11VkF6dndMZVBqNVFB?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111027751407566)
+
+- **[Business Topic]** India's August private sector growth recovers slightly from over four-year low, PMI shows - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUlBHUnlER21BaVdUWDZaMTk5Uk4wRTJVQU1tX2J0M2VGUkJYMmlYN2w1VDhIY0RuRkg5Rm9oVnRuUnpBSXlmT3JvSmhaX1NVdzljbTZHMkUwOWcwd3dzQ2lfZ09tYTF2SGh6T3JLekxacTFlWEhRdllKS1QwbHNJSXRmclBaV3h2UklEbEZjRm53QldURWdOY0NhV0QxVlQ2YlctQlR0cjFabUFvTXBvR25fTkdDa05zbHllRmRKS3NwZw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111027769407566)
+
+- **[Nairobi Leo]** Gachagua Offers to Build Grave Slab for Late Johana Ng'eno
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29673/gachagua-offers-to-build-grave-slab-for-late-johana-ngeno
+  - Facebook: POSTED (1289239267586516_122111027805407566)
+
+- **[Nairobi Leo]** Why I'm Not Going for the Presidency - Governor Natembeya
+  - Source: Governor Natembeya
+  - Link: https://nairobileo.co.ke/news/article/29674/why-im-not-going-for-the-presidency-governor-natembeya
+  - Facebook: POSTED (1289239267586516_122111027841407566)
+
+- **[SPM Buzz]** Powerful El Niño Raises Fresh Fears of Extreme Weather Worldwide
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/science/powerful-el-nino-raises-fresh-fears-of-extreme-weather-worldwide/?utm_source=rss&utm_medium=rss&utm_campaign=powerful-el-nino-raises-fresh-fears-of-extreme-weather-worldwide
+  - Facebook: POSTED (1289239267586516_122111027949407566)
+
+- **[K24 Digital]** What happens inside your body when your joints crack
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/health-and-fitness/what-happens-inside-your-body-when-your-joints-crack
+  - Facebook: POSTED (1289239267586516_122111027961407566)
+
+- **[K24 Digital]** Why creatives are rethinking LinkedIn as more than just a corporate platform
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/why-creatives-are-rethinking-linkedin-as-more-than-just-a-corporate-platform
+  - Facebook: POSTED (1289239267586516_122111028045407566)
+
+- **[K24 Digital]** Mimi ni mmoja wenu: Redsan reveals how he convinces people he’s Kenyan
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/mimi-ni-mmoja-wenu-redsan-reveals-how-he-convinces-people-hes-kenyan
+  - Facebook: POSTED (1289239267586516_122111028087407566)
+
+- **[NTV Kenya]** Ruto administration steps up communication strategy ahead of 2027 polls
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/news/ruto-administration-steps-up-communication-strategy-ahead-of-2027-polls/
+  - Facebook: POSTED (1289239267586516_122111028285407566)
+
+- **[The Kenya Times]** New MCK Guidelines to Allow Journalists Seeking Political Office to Keep Their Jobs
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/latest-kenya-times-news/new-mck-guidelines-to-allow-journalists-seeking-political-office-to-keep-their-jobs/
+  - Facebook: queued for a future run
+
+- **[Education News]** KCSE candidates, your past does not determine your future — yes, you can
+  - Source: Education News
+  - Link: https://educationnews.co.ke/kcse-candidates-your-past-does-not-determine-your-future-yes-you-can/?utm_source=rss&utm_medium=rss&utm_campaign=kcse-candidates-your-past-does-not-determine-your-future-yes-you-can
+  - Facebook: queued for a future run
+
+- **[Education News]** Over 2,000 converge on Kerio Valley as sport drives peace among nine counties
+  - Source: Education News
+  - Link: https://educationnews.co.ke/over-2000-converge-on-kerio-valley-as-sport-drives-peace-among-nine-counties/?utm_source=rss&utm_medium=rss&utm_campaign=over-2000-converge-on-kerio-valley-as-sport-drives-peace-among-nine-counties
+  - Facebook: queued for a future run
+
+- **[Education News]** Schools urged to prepare early for El Niño and protect learning
+  - Source: Education News
+  - Link: https://educationnews.co.ke/schools-urged-to-prepare-early-for-el-nino-and-protect-learning/?utm_source=rss&utm_medium=rss&utm_campaign=schools-urged-to-prepare-early-for-el-nino-and-protect-learning
+  - Facebook: queued for a future run
+
+- **[Education News]** CBC needs Nehemiah-like leadership to rebuild Kenya’s education system
+  - Source: Education News
+  - Link: https://educationnews.co.ke/cbc-needs-nehemiah-like-leadership-to-rebuild-kenyas-education-system/?utm_source=rss&utm_medium=rss&utm_campaign=cbc-needs-nehemiah-like-leadership-to-rebuild-kenyas-education-system
+  - Facebook: queued for a future run
+
+- **[Education News]** Community rallies behind 28 Nandi students as they begin university journey
+  - Source: Education News
+  - Link: https://educationnews.co.ke/community-rallies-behind-28-nandi-students-as-they-begin-university-journey/?utm_source=rss&utm_medium=rss&utm_campaign=community-rallies-behind-28-nandi-students-as-they-begin-university-journey
+  - Facebook: queued for a future run
+
+- **[Education News]** Julius Melly: The Education Committee chair whose hands-on leadership is wowing Kenyans
+  - Source: Education News
+  - Link: https://educationnews.co.ke/julius-melly-the-education-committee-chair-whose-hands-on-leadership-is-wowing-kenyans/?utm_source=rss&utm_medium=rss&utm_campaign=julius-melly-the-education-committee-chair-whose-hands-on-leadership-is-wowing-kenyans
+  - Facebook: queued for a future run
+
+- **[Education News]** Narok Woman Rep Tonkei steps up drive to keep girls in school
+  - Source: Education News
+  - Link: https://educationnews.co.ke/narok-woman-rep-tonkei-steps-up-drive-to-keep-girls-in-school/?utm_source=rss&utm_medium=rss&utm_campaign=narok-woman-rep-tonkei-steps-up-drive-to-keep-girls-in-school
+  - Facebook: queued for a future run
+
+- **[Education News]** Education Amendment Bill 2026 proposes major reforms in basic and higher education
+  - Source: Education News
+  - Link: https://educationnews.co.ke/education-amendment-bill-2026-proposes-major-reforms-in-basic-and-higher-education/?utm_source=rss&utm_medium=rss&utm_campaign=education-amendment-bill-2026-proposes-major-reforms-in-basic-and-higher-education
+  - Facebook: queued for a future run
+
+- **[Education News]** 2026 Belgut Half Marathon targets education support for needy learners
+  - Source: Education News
+  - Link: https://educationnews.co.ke/2026-belgut-half-marathon-targets-education-support-for-needy-learners/?utm_source=rss&utm_medium=rss&utm_campaign=2026-belgut-half-marathon-targets-education-support-for-needy-learners
+  - Facebook: queued for a future run
+
+- **[Education News]** Musingu Boys, St Joseph’s Girls Kitale reach FEASSA handball finals
+  - Source: Education News
+  - Link: https://educationnews.co.ke/musingu-boys-st-josephs-girls-kitale-reach-feassa-handball-finals/?utm_source=rss&utm_medium=rss&utm_campaign=musingu-boys-st-josephs-girls-kitale-reach-feassa-handball-finals
+  - Facebook: queued for a future run
+
+- **[Education News]** Kenya guaranteed FEASSA girls’ volleyball gold as Mwitoti, Kesogon storm final
+  - Source: Education News
+  - Link: https://educationnews.co.ke/kenya-guaranteed-feassa-girls-volleyball-gold-as-mwitoti-kesogon-storm-final/?utm_source=rss&utm_medium=rss&utm_campaign=kenya-guaranteed-feassa-girls-volleyball-gold-as-mwitoti-kesogon-storm-final
+  - Facebook: queued for a future run
+
+- **[Education News]** How to handle a question-and-answer session after delivering a speech
+  - Source: Education News
+  - Link: https://educationnews.co.ke/how-to-handle-a-question-and-answer-session-after-delivering-a-speech/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-handle-a-question-and-answer-session-after-delivering-a-speech
+  - Facebook: queued for a future run
+
+- **[Standard Headlines]** City Hall in rush to expand drainage system ahead of El Nino
+  - Source: Standard Headlines
+  - Link: https://www.standardmedia.co.ke/article/2001555902/city-hall-in-rush-to-expand-drainage-system-ahead-of-el-nino
+  - Facebook: queued for a future run
+
+- **[Capital FM News]** ‘You were fired like a fool,’ Kindiki takes fresh swipe at Gachagua
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/you-were-fired-like-a-fool-kindiki-takes-fresh-swipe-at-gachagua/
+  - Facebook: queued for a future run
+
+- **[Capital FM News]** 5,732 students yet to complete university funding applications ahead of deadline
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/5732-students-yet-to-complete-university-funding-applications-ahead-of-deadline/
+  - Facebook: queued for a future run
+
+- **[Capital FM Lifestyle]** Ministry Of Tourism Endorses Africa’s Next Super Model As Search For Africa’s Next Global Star Begins
+  - Source: Capital FM Lifestyle
+  - Link: https://capitalfm.africa/ministry-of-tourism-endorses-africas-next-super-model-as-search-for-africas-next-global-star-begins/
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Remembering Baraka, the blind rhino who became a conservation icon - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxOTUNhMFVSbjJXbnB6YkVBNU4tT1pHVWJHdVZPTzBlbnIyQXdCNU56d0ctcmNZVlRVNWZPMEJQTFJhLVM1X1B2Z21yWUJHOEhzSjJlbGdhWEw3U19nMkZjYjVENkh4U29MOGdWdmRHUzhrMlFvSG5ybXA5MEdRZlgyLS1KMkxBZ2xIMnZDV3pJNm5pWkRnMFZaNzZTcXo0NlVGQ0NHTUtMbXRxdW5vMnc?oc=5
+  - Facebook: queued for a future run
+
+- **[Politics]** DP Kindiki asserts UDA dominance, dismisses Gachagua’s DCP as ‘visionless’ party - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxOVjZIZjVpU1FOMHpFcE9wY2FUQzBhOGlFZ0l2dnRqRDZVazN3bGxTaUpqOTFvQWV6VHEzQ0xkZTl6eUpaLU9VM2FJZ3c2TWQ0MkxiTGZaTXRCWlpUREdpOUlrT1JxMk5YV1BrMnV1LTB6RF9VWGhzT3pxZXVncE81cTFPQWgxOWlwQW5Mc2ZISGIzUUtBa05OVGhZd0NkNjV0ZFNUU3Nmbzc2a2FYdEs0MG83RlIzMnZtNXBrMHFSa1JKM3V5dVE?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Quarter of branded baby foods in UK still have too much sugar, analysis finds - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxQQTF4M0RlVkM5RVFGOVY5OVhScGpGVDA0eUNkTVVza2d0eGhiNkNKVDVTRkkxRWdUVFNMR0tRaVl2RU9oVVpsRVZkd0hiSEZ5ZXA1elZITm1yanI0RDkzS0VhQm5hTWxVbFlYWW03U2lRZlB3QVVtUzJsamJrVEJkSU5n?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Panelists talk domestic enrichment expansion at Global 2026 - American Nuclear Society -- ANS
+  - Source: American Nuclear Society -- ANS
+  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQb2RiZ2dHQmJDZnVSb1VFNEpkS2twdEpxd0hOWGhPN3hfVFYzalNJS0s4STlpazhwS0J0bG5Pd1dTczU2UHROOUIwOFZBc29HUWNpNjBTRGNQakZCU3Q5eVQ0UWRFUDRESmlIWEw3V1VqdUZaZEw0TDdwR3BZak1aZWlSRGE2dTIzSlFKd1JKWkpLSTlTR3R1WkFKaVVsWjg?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Kenyan Shilling Trades Within Narrow Range Against US Dollar, Loses to Pound in August - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnpLc0hBZElHdUFOZkVVWWdOTHNoUzV3WVRLb2U4bEwzcVgyaUpvdHlpdnJFdVlqbFFwMGdWV0FJV01LMTRTNUFNZDQ1ZTE4eDJuaU43eG14dVhvSnZDZjgwMS1oYUpfSEN3UnNXWEtnd05JRmxXR3MwU3ZPeVBzeGxWeWs2SjFadW9XclpFT19VbG9qTUdQQ0lSVGhHWEFiQkcxZG5GczhWb3dGY0dXVEFqYm1ycjM4TDMtUw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Week Ahead for FX, Bonds: Warsh Speech at Jackson Hole, U.S. PCE Data in Focus - WSJ
+  - Source: WSJ
+  - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxOdW1JNTZvSFlCc2c2S1RUb0tZNWhqbWdlRkF6SXJMZG9xWVRmeHJ3dkNIdFd5dEd6ODRuRTdOaDZ0NzhjQWJuR2pLazJtQjJRSVNqYTFZSTRFUzIyTjh0ZEJCV1BvUjhRNEp1UngwU2xLUnpYcldLU2JsOVZ6eXl4akFDWU16bnB5ZFhQcEFMdmoxd3NNUURLdzR3dmZrcDRLeWEwRlhuR2VVeVJwV2c4N2RQcWhrVElLNkJzekxkVDFYZVl6bHc?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Shein, a Fast-Fashion Giant, Struggles to Grow Ahead of a Much-Delayed IPO - The New York Times
+  - Source: The New York Times
+  - Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zc0RaanItQlJ2LUY3U3c4OUtmc1YyUk8xWi1mVndVRFBtWkRJV3hsVk1IVjlUVHgxQVV0M3ZZQjVERFZJbm5zYkYwWTMyekE5bmZUeFN2UXd2cEx4cGlHM2h2MG5vMG1Rako5VXBiSC1QdzlSSTNZ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Stockpickers: Costain, Oxford Nanopore Technologies, BHP - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMicEFVX3lxTE5fMVNfWk43Z3hQWU5JbmEwb19PeXZ5X2FkZzRJb0t3SWV6Y0U0dVZMY2haQ1VNV09XM2xjTzJVd2FVREZEUGlBTzA2aXF2UlpUMXJyUDA4U2JTdFhtSU5QVjJmWnZSUll0bG1hTUIwNEI?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Directors’ Deals: Pearson executive cashes in as digital growth boosts shares - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMicEFVX3lxTFB5YXlFYVJHcVRTWlpmQzV6Wktvam1RTk9xUkh0UFNwSXJ6ZEhOUWhSZGJCaTRMQmtUXzBLM05ZZFdaTXJkUGw0UzVxanVST0sySFZLUVlMTG1YVkRmR2FXT3EtNXQtUFM0cUZYWEhaaXc?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Bank of America's sell signals are flashing red, but 56% of fund managers are going all-in on stocks anyway - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxOM0g0UUh3QlByUm5PdFUtd01WUUNFRm1iZUIwUXNmLWVLQkN3eldBYWduWVhIMFFUTENCaXZoSnBwckpNaGIzVGVLaTVBTGNSMkhvMUFtQVNIV29xbTVaRnZKa3F2MGdqQkY4alJSUWJ4QXQ3ME9KbFVLLTJ2SmpmdzFwVzk4TzNHNEUyV2NLV2R3a3hhSXZGOHc2eE1VVTRMS0E?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Apollo Reports Data Breach From ‘Social Engineering Incident’ - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxNenJkQllLYXJyMjBSYVhwYjN2amxhbHJUdThxTnQtUVV2MTVEVnJJYmdCZ3ZVTVhyMmZ6NjNWaGRzSjJ1bzgwVDBHVnRlaTZyYS13Y1d1X1UtTXpNM1JWQlZSU2toOUZuQkczbVlRVkhoNnF3QWxha3JyR2xRUHdTM1ZCOU1Ta2puQTZMOW40aWRFTVVUSXEwMEtTcDB2eVJIdVNmWUpYX0VOSHRicTdr?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Global hiring expands, but compliance challenges are keeping payroll teams on alert - Thomson Reuters tax
+  - Source: Thomson Reuters tax
+  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYVFvNXQ0QmJDM2dRLUVBUTIzeWc2NG5tQXRONGVJbnZYSHZWbmZUbWNYN29LLTRfWnd6M1Z0cHZHSVBLVkY4T00xTFJkVDZZZTR4TXhQNzlITGd0RGNQdTJxUzNObHRKNFlHem1Pb2pVVnRWS2FVYl9JTkxHcFhQazhweEpJSzQ4VFpuSUI2eUVSUWZTaUtJSUxkelE1bk12RWFDTmgzbFBneEg3OEZEdGlGTTIyN3Z0RlZ3?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** US borrowing costs rise as attempts to ease rates prove short-lived - BBC
+  - Source: BBC
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKMnlsZ2pibVF5UzUyVDk1UnJ0OVVSLVVOaGdxSG81d3ZERXRpSDgtR09FVVRJVEFGVWpfLVVrNjh3aWlFTTN2VGV4TVFQRjFhZTFvU1pnU0pDUQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** FOS confirms next phase of redress system reforms - Herbert Smith Freehills Kramer
+  - Source: Herbert Smith Freehills Kramer
+  - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNeFJxWmVrUzQyNkVwWjlEZkc3ZmxtdFk1TEFqQU8xcVVlQlp6WU0wUHduQ1VINDAyNUZhbm01YktGUHh1UV9sMzh6a2lVazJ2bE90TjU3MDRCRll4NWZMYWZKVHhWWHJ6YTJOTlN1Q0RaRndBVWhPLUFRWjJXbnJHbjBXTmFqVDI5Vm9sWWNMd2lkMjlQYWdGcUJUUlpRVzlYTy1BZUxzcGdhaGtH?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Walmart to Offer Apple Pay in Push for Contactless Payments - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0xtNUlwcEpVSG5nTndrcjJrWnNSSlVVeUVOTHhMdW9Bd0hRbnc4SkVaSG1Ic21nYVFLTHc2Q3BiLVpxRE9iUGF0eDh5bS05TGI0c2dlTHU0dG1JejA3ZzF6SzNKS3BoTF93VTdIM25vcW1RYXRjZEZJRWdQYXNHU2xUc0pWckMwSWk2Ry1tcFNRckRoZmNmdG9DekFHTDNRdWZhTndJdWtjRnpESWZZ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** ChatGPT to start showing ads across Europe next week - Euronews
+  - Source: Euronews
+  - Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNSW53aDZ1TE9jcWJuWGFEYlltX05ydXJWZXBmZ0RPNUJWdW5HcHVfbWNvcS1acGtJU2RUaktuUjZzYndqV1FmZVJEdWQ2dUNVR21YQkstWjk1c19aTkxhd2FyQ3RGRnp6d01lZ0FXb0tjZ3RreWxhTjAtZkdoM1BFbE1sVUNfXzFvUnJuZmtCbmNfME04ZnZBZw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Peru GDP Grows a Bit Faster Than Expected in Boost for Fujimori - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxOaENtemhvb0xHZDM2WkRaTGdyTVZDVzV1WndoNXpTWlFBUm9MT2ZkMFBDbHBvRk1SdlZzZW9IbXNFcFBzTnUwQlF2azVpaGMxYi1CYWZmRFhWdHdYdWlGMzVSa0Y2WXh0MmkyVkFoQVRoWG5iNEJRNDlpakpoX1BKd3BPUmowRmlTMUVCOExUNzd5UkhYY3VZa2g2NTg5WEdQSmN4dVJDOTkzdUE0VGpVTDAtRXU?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Loci Controls launches AI-assisted landfill emissions monitoring - Waste Dive
+  - Source: Waste Dive
+  - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPZFYtV3dpZVNmS1ZPTjNNZlVKbVlOWURtU3NEMENuYzlMXzdKWExlM2N2RWlUMnQyRkZIZy1fT2tTb2UzVnJ3VW9QaGFxOE4wU2tHd01WdktDdDJubnVvcVJjY21xUHA1RmJXZDF5anlVVjJ0NTI2NnFhQ3c4alFGMjI1Z3VWR2pvTVZodkFtbzZNYmtKMDV2MU8zWC1QdFFpREFVY1BaSHpaX0hFNDRV?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Why Anthropic’s AI watermark is going further than its rivals — for now - Business Insider
+  - Source: Business Insider
+  - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxQeEJ6TTlIZ0pHOUhVV0pKcHJpR2pTYTY0c0swNmlzR2k0LThTaVQzSWROVHJKX1NveEJpOWtEYXZlSkRvLVVDcFROZDA2SURkQXFlaGMtVDY1dllLQUZJb1RzUHZqdUkxVXVGc2gyUDF1NHA4VzBRbmVvd3p2YTNzY0gwSm5aalZXZW10NWpvOVBoMXdYRmc?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Canada Bank Earnings Face a Tougher Test After Stock Selloff - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPaENFOEN0Z05DNWlmMU5DOEpRd1JNZHJVX0gwNWhmaTVhTG5VWldOY0I4THZKdG1iNkVkN1VLelNCckVKd3hxV0FORFNRbkNWZ0pJSVd1eExBNEJob0RtWS1hc1dGNmlJSWFILXVvXzM1VVY2WXAzZTIwTy1CU0Rna3FRNGFQUDZLSV93czZRVzJ5NDRLV0plNUFGeDZ2VW12ZzMyN19jdjNiMFNvbGdqX0M3NEd1c0E?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Buyout firm Vista explores $3 billion sale of private markets data provider Allvue, sources say - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWZvOEdKLWNvVGVFdjVVVmVscElRTHRudGZNakI1N0RQaXpqaDdDX29XclZqQkREeWNMVmlNa29KZVdWSFlNOEh6cl9Ldklka3N1cWxONGE0MFVOSl9LRURmckpFNHFRbko3eTNabUVrUmN1S3NrUDVFZW9WR2JzRVZfbzA4b3BUQ1FYcTI3THRmb09CcnZ4WmxRTzlEMWVsT3ZkWDVGWkFfaHR5cmxkMzJNdlY0ODdET3QxcWJzUGkwMlNkOGlyTUZRMA?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Beijing police bust fraud gang that made member undergo 20 CT scans - Global Times
+  - Source: Global Times
+  - Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZMHp3a0FEbUtoT3BIakVmbHRQQ1lWRnVPLTFRSVItWXB5U04zS1p2Z1ZiRkJmRUJfODZ1YVlGUUhPS2JwOUlVLUtNb0w2SkZITEs4OVA1MUowaFZtTlNjOThR?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** China Chipmaker YMTC Seeks to Raise $4.9 Billion in Shanghai IPO - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxOMUF3OV85aTVBV2xiS1EzWWI2QnFWalJPZXNpeDRnU2JwMElxZXZ4TkxUTGhwZjZBTHhVN0E5ZHVRVzBITnV6eUtaWVdJOUJDaGJ5NFVhQnpwQnRCSU5YOVQ3Wk15ZUZiSkVvWkNzM3RIOG1uYS01bnYycVhnRWFaTXJzYjNzNHQzTExNSmlEZ2NYOFZMcDhQOVBXMzYzMWQzaVNydGlBRDZpVmZzNC0xNWRMX0Q?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Balanced energy transition could reduce Irish household energy costs by 20% versus a supply-led pathway - Aurora Energy Research
+  - Source: Aurora Energy Research
+  - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTFNRSUkzYkJkNWxhakllSjQ1YXMzX0x2R2ZnUmR2aC1UUXFwWHFIOVBiSnhlT0FKS3d3cm05T2lYcXlybVFlRjdYNTFlcHFIcjVlRE1YTlRvTHJBWGlhWkhhX2JXdUVKLUhkSU1IWXc2RTBSZjE3RkZzZThuSXFfdnR1bC1QVVVPX1cwdVRBUUlqRklPRzdPQ1BwbER0dWdkbGNhX3FJdkxHVXRPZXhaSzllb05mVjV1VGg0VGNyTml0X0g2U0M4Um5Md1JBcjlHT1JTYW9ISG5Xdw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** How ‘gentle power’ can preserve traditional biodiversity in Tokyo - news - Mongabay
+  - Source: Mongabay
+  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQdU5LVVhRaTI0eHBkLUxjVHJJNUxaQVRfNDkzNTBEVVo2V3ZiVnBCTXMwcE5ibXg1eDVCdkdPUE5NQ2NRMEZBSFpNM3JucW1PMkRiV0dXMmlGa19CSGlYN1h1VnhLUXQ3UE9rNHlpVllfM1pfMENsR19CT1FzdUdPU0ZKWjZPS2poUV9CQ0RQb2IzRGpqcGVZWE9GY1hFTknSAaQBQVVfeXFMT3h2WnZOc0FsY1NrcnhzYkpBaDg4bloxVGdEdV8xTWk3WXgzOGpidGU1b09ydTNsbTc5cE9XLUZCYXFKV1dFcUd3Sm1OVUFJbHcyekxNS192LVg5aWRDQnhpbFdfcTlvdnU0bEJaa2NYUWpfam8wMk1WVjZqbFlRdTZmUHo1ZDI0aXdya2V5NUJKTzJ4UEpGWGdOTkRZM0pfbVlzXy0?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** OpenAI-backed legal tech firm pivots to Chinese Kimi K3 open-weight model - South China Morning Post
+  - Source: South China Morning Post
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3V2NUpuTnpmZndzZFE0LTF3Y1dzM05ZLW1SM1I0UTVpV0dsYktwWHNldFZaZ1NMa3otTGE4SkJWLVpJZmx1dkhyU1NZM2tMV1dCcUl2RFhDRGpuemhYdUlVS184ZHloTmtMTk1BV0tYRUs2VEc4RDJFSWhNbmZvWFVVMUZ6YXVCajRsbUVfZjNUaVE5Skg1VnZJaGFINE04MzJ1NEhvdUViaWRoU2ZTSHkwakoxTUVLSURBeEExaGRBZ9IBwgFBVV95cUxPemJYVXlXZ3R5TUJYbkRkV2NmaWN2cUJ5SGxtaHlsSTV1UFJwdVd5R3hKck9hZkY5aXgySVczWldwM1dpS0taOW03OHAxaDE2clF5ZEJ3LXJEX3ljUzhKQ2lOUExNclVSbG5FQ3VmMndsWTE3anpnaG9fX3IyRFlaRms3VXkzS21mb3JjMXFaTE5rQ1h1Z3VzNC02cTNOSFhabTdiQkg0R0Q1RUNUTmNUZEhRcmprTl9MNmEyUHUzTkVfdw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** SNB Would Cut Rates Below Zero If Needed, Tschudin Tells FuW - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxNdjdYNHdTY3dNOVBnTDZMMmY4WXJkdjN1aGRSRmdJQkd3bWNoUkdVNFRoMHZEbkkyYW9nSHVXUzZaQ08yODI2aDRNRGJRUnFOQ1luVmhaRUVVSy1KeXFmeTMyZVF6YWVBdEs1ZzNURGZNeVY1OUFLOHFuejFuTWk3VGc5ZFUtSUZHTVBTRWxYNFVtbEJ2RVphMDN0V3UyelNyaVNBYzJhMmxFcGp5V0tJ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Vessel owners to benefit from Blenheim Partnerships’ new-build delivery failure solution - Reinsurance News
+  - Source: Reinsurance News
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVkpGaWI5Ml9RRThtb3Q3Y1VTTDh1VTdMT0lOMGs1SUd6MDIzV2NwN1NSc0RBZ3huVFZHNkJReUZMOVNmb1YydENRakNVWU5pS3VKRy14Rzl5by1mMmNqOXpJQ25YZFE5Vm85b21HTEN2VnlGQ1FEMjQybmlQNDF1Qkp4LUJ2MFJ2RmkxN3Fia3h6UXBFQ1huZDNvQkVlVVBfcTdfdGxESWk0N3VVNmZnR3g5UmM5bk5I?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Academy Press Plc (ACADEM.ng) 2025 Abridged Report - AfricanFinancials
+  - Source: AfricanFinancials
+  - Link: https://news.google.com/rss/articles/CBMibEFVX3lxTE94YnY3cWNzSUlyMDRUZFVOdnJvb3J3cUdEOFdlbXh4NXhKUWxBQ0t0X1BWTTZNWjR2T2F1MWphS0xhNUx1dWRWWkc0RndfWjdNa0VDYkZjbXAwOFdWZ2ZtbS1TdkF1b2pPTkY2aQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** India Buys Its Most Expensive LNG in Years as War Upends Market - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQN21XbTRjbldzTmVjTTRQdDNZYTF6a1M2c0M5VG8yWGFHYlBUNGhCWkpDU1NnSkVXRjc5Q2pzR1JwLUhualI2QmJUc292UE9QS05lR1B2S09Nd2dIU3pHV3UzYlFhSE4xb2ZUbTZobkhHY1htSUpaX0YxNERjQTJxN096QUxGX3BZdFJZZ1JibVA1d1FLNm9nTzFaSmU1dWh5VWQ2VEpHbElYMmtGREVYRU9oRUo?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** A leap into Alberta led to a life of engineering, service and impact for Adetoyese Oyedun — Ron Fanfair - Ron Fanfair
+  - Source: Ron Fanfair
+  - Link: https://news.google.com/rss/articles/CBMifEFVX3lxTFB4UXREaVVPRkJGYTNiZHpPcHRlbzFTcXJSV1E3cnpGY1B6YjZXZ0s4WTFIMWtaSmpZN0JhdE5GZjRZNkZWZVN6LS1jNHlkQXF3S2NkWGFwdkZsWkpEM3ZnZXUwMFdram5SQ01DbGJONTVBdkRWMUFmbG1ZZFY?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** INTerpath-001 Trial of mRNA-Based Individualized Neoantigen Therapy Meets Primary and Key Secondary Endpoints in Patients With High-Risk Resected Melanoma - The ASCO Post
+  - Source: The ASCO Post
+  - Link: https://news.google.com/rss/articles/CBMingJBVV95cUxQYjUwY3ZSaEtKVks5T2V5OUZpYnFHWjYtUF9kOWhCekVDYnA5dmgzUXB6cDNtUWJMekdzUWpkUmEtWmxnM0llRHRjV2FnWVBDS1JTVWZMV0xKMmNkSG1LMmdvMEg4UlhOOHJoNnpONGtBVlpLWUQ5X3NqaEFQM0VDTEI0dUxYWjF1N1ZyR2FqSTNBMS1ac0JmeDVMRVU0ZnB6UWhwdzVhS3hNNWpGZGJXQVEzUW12alU1R2ZBdkZRVDBrd1pRTjhyT3RzWDdtWmFIWjBtajVfN2U1WFozc0NfUk9pc1RCRFlJQ0hqNlRVejl6aWRVMkl1XzNFeVhZWWp4LURHT1IxMzRDU055bFJCdnN1UkdyY2RzZ3l1ZFR3?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Colombia Housing Market Under Pressure, but Rated RMBS Continue to Perform - Fitch Ratings
+  - Source: Fitch Ratings
+  - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMl9vaHQxOG1zTEtOQnpHaVdvZnFvTjh0SVJ0dmJKOG1iS3E0S0FxYzl5NmdfbFR4dzFtSGxvU1F0X0w3U0ZfeHdmLUk5bkJ4SUZYQVU5RVZhZEtwUnBrdUZ3Rm1IeHpPYWtjakJ6SDM5ZFl5S2tBR3JaUU1uNF9KUmxmT3dUSGwzb1FHaVhtbEUzUlRBTEdDYnN5eGFHWmpHaWxzbjZsZFdRVnFDU2xvd0g4TENVblc0eGV6Ynhkc3JmQlc3bEtfWndBYzFNZDVQaFE?oc=5
+  - Facebook: queued for a future run
+

@@ -8211,3 +8211,155 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMl9vaHQxOG1zTEtOQnpHaVdvZnFvTjh0SVJ0dmJKOG1iS3E0S0FxYzl5NmdfbFR4dzFtSGxvU1F0X0w3U0ZfeHdmLUk5bkJ4SUZYQVU5RVZhZEtwUnBrdUZ3Rm1IeHpPYWtjakJ6SDM5ZFl5S2tBR3JaUU1uNF9KUmxmT3dUSGwzb1FHaVhtbEUzUlRBTEdDYnN5eGFHWmpHaWxzbjZsZFdRVnFDU2xvd0g4TENVblc0eGV6Ynhkc3JmQlc3bEtfWndBYzFNZDVQaFE?oc=5
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 22:19 (Nairobi time)
+
+- **[Kenyans.co.ke]** CBK Warns of Rise in Prices of Several Key Food Commodities
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126383-cbk-warns-food-prices-could-rise-poor-rains-threaten-maize-harvest
+  - Facebook: POSTED (1289239267586516_122111039235407566)
+
+- **[The Kenya Times]** Safaricom Explains How to Reactivate Your Old Inactive SIM Card Before It Is Recycled
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/latest-kenya-times-news/safaricom-explains-how-to-reactivate-your-old-inactive-sim-card-before-it-is-recycled/
+  - Facebook: POSTED (1289239267586516_122111039247407566)
+
+- **[The Kenya Times]** Is Your Job Secure? What Kenyan Companies Are Planning for 2026
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/jobs-careers/is-your-job-secure-what-kenyan-companies-are-planning-for-2026/
+  - Facebook: POSTED (1289239267586516_122111039277407566)
+
+- **[Education News]** From Chimamanda’s Ghosts to Kenya’s Moi University pension crisis: When retirees become forgotten
+  - Source: Education News
+  - Link: https://educationnews.co.ke/from-chimamandas-ghosts-to-kenyas-moi-university-pension-crisis-when-retirees-become-forgotten/?utm_source=rss&utm_medium=rss&utm_campaign=from-chimamandas-ghosts-to-kenyas-moi-university-pension-crisis-when-retirees-become-forgotten
+  - Facebook: POSTED (1289239267586516_122111039307407566)
+
+- **[Standard Sports]** African players to watch in the 202627 English Premier League
+  - Source: Standard Sports
+  - Link: https://www.standardmedia.co.ke/sports/article/2001555862/african-players-to-watch-in-the-202627-english-premier-league
+  - Facebook: POSTED (1289239267586516_122111039325407566)
+
+- **[Capital FM Business]** AWS to spend $1bn putting AI engineers inside customer teams
+  - Source: Capital FM Business
+  - Link: https://capitalfm.africa/aws-to-spend-1bn-putting-ai-engineers-inside-customer-teams/
+  - Facebook: POSTED (1289239267586516_122111039337407566)
+
+- **[Capital FM Business]** Gandhi’s handwritten notes on life sold for $1.69m at Indian auction
+  - Source: Capital FM Business
+  - Link: https://capitalfm.africa/gandhis-handwritten-notes-on-life-sold-for-1-69m-at-indian-auction/
+  - Facebook: POSTED (1289239267586516_122111039463407566)
+
+- **[Kenya Latest]** Terry Atieno reflects on championing immigrant rights in Germany - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVMxWlU4M1J2ZkZGSmlJRkJrREI0OVpXUnVsN3RpMVpqak9VUV9tQVNzUjlZMFA2RnVyd3VQakM5UURERm1QRlAwRW0wZ3hWdVN4TWg4QjNTcEprLU13MEdQVk1CZlhaU3V3R3VvSjVGOUQ2SkU0YWdkLVh5X1FGNWItUjZKZHB4Z1Rzbkp3bG9XSHNyaVdjdVVERHBJTUlFRUx1cnZVLTFNV25pa3c?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111039475407566)
+
+- **[Kenya Latest]** Kenya Army honours senior officers for decades of distinguished service - People Daily
+  - Source: People Daily
+  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQcUFydHQ1dDF5RTN2RVBEVHJsZFJaYndEa2xYdmtKY0Z3LWhBdVlDWHhkOEI0dlFZQmQ4cEVvZnN0YlkwMk9NZmlWeFVtVDFhajNuUGpYTnh0VTdMeG1QOXZjeFhYYmZGaFdPeDNJdmZQaElYeEtKTnZkelc5Q3B0WXFfMUFRWUF0VUVsbHE5a2ZxVHhhcHFvN3JsY1E2V3oyMWk4SUNWQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111039493407566)
+
+- **[Business Topic]** T. Rowe Price Says Nigeria Attractive Even After 64% Stock Rally - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxPVEE0YTZGckNkSnFQQ3NDbnFIaWpiWTVXX2tnUVN2UEhiMFpqWGd5ejRIeDBzWTItNUJDMDVhUV9IMHpnQ3Z0MzBmQ2k2UjVzZ09YSG5HXy1Ja0d0bWpkNFZMak1VN2N6WDNOMGV3bGNHWUlydjBMU0lXN0o3SkNkN2pFLXJ6aG1WZ2IyamdsdkJyaUVTdU9jc2tuYlgya0V0Vk5PV25BRWFYLUhpOXFFN3dmVQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111039517407566)
+
+- **[Business Topic]** Samsung to return record $80bn to shareholders - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPNzlrU2ViVnNoTUFqUDY3ek5JMndrcXBrMjN2VkxySnZvR2JEMjBPMjI0TTBiT1ZFZlZZTjBKUERSSFhObEpfY1pxV3dKVlgzS1pnVDhTYUYyNXFtcUxWbmlsNGd4OFFHSmdfVkduTDJVSFVCSFRTalhyYU51WWVmNzd1VXQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111039565407566)
+
+- **[Business Topic]** Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdkN2SURXc0pxNUsxbnFOazZUQ05fb2JQYWNQMTFOcVB0ZmRaXzRxNEtCV0paRVBtOGxya3lVUURPUWE1a3RQVFFsWmRGXzJGUTc0My02bTQ5czhxbHFlUzlwSkFmYU9WdzdRdWlfSzJVQzlTLVotMjAxRUlwODTSAYQBQVVfeXFMUGliQ04zRUFPR3RTcGpUYTlNd0F3al9YVVFJMFB6M3ZMVzBCS2JxVzAybG5IVHBDRG90VlVCYXNjX1Y5WWVWRU42aTFMbmdQMnVETW5ESG13d2FZejJ2MUFlanp1dFhfWkJqcTJSb3hwQlZVajB6S19uc3d4eFViNnNSa0Q1?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111039673407566)
+
+- **[Business Topic]** Landspace aims to refly recovered Zhuque-3 booster within six months - SpaceNews
+  - Source: SpaceNews
+  - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNdFRTampSSkc4eFBZSVI5VDZHTXVSTXZncmdVUUdCQzBJa3p4akFnUkpuckw0STJRMXdUMGxXaENDRlVlTU9FRW0yYVNnb3NaUHZTTlNmTkI3dEwwdWpObVhqNzcyb21WQnROZEc0MnQ1SlRGVWdNajI1eElHS0RjRE9ia0FYcGpKcUQyRDk1eDZ1Z1B6eEE?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111039745407566)
+
+- **[Business Topic]** A China Chip Denial Lands Before Nvidia’s (NVDA) Big Week - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxOZW1lV3FlLW9WN1NSTU9MTWZwaE55Um1KZ1ZoQ21HWHZsSGc4RW9qdkpDU09STXNvVUN1N0VUMm9sZHBwczR1cDU4enh1Y3pJTXdGbUZyYVlJYVNES3B5UGg2VnNYdUNLRU9Gd3lFVERBQzRXZUg5MFpBX2xLLVBDTUUtR1VKdWJmZXE5b2FsQ2JjSFZNaTZnNXhBdw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111039757407566)
+
+- **[Business Topic]** Cambricon advances sixth-gen AI silicon, broadens support for DeepSeek, Qwen and GLM - digitimes
+  - Source: digitimes
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOYk04Zkt1QXNZNjd2WEdpb191NkU2LWEzZmRuU0hKOGRFRy1CbENHcFU1anRQVFZYNUJkZ3hSaTB3ZHd3QVluMGNXT0FidzZCWEtNeVk3aFZ1V0czQTNHMWF4U0dQa0ZadXZ4UzU1eHZYMzR4dzBKdkdEY2taU29NTGxxTEc?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111039901407566)
+
+- **[Capital FM News]** Universities Fund secures ISO 9001:2015 recertification amid rising student financing demand
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/universities-fund-secures-iso-90012015-recertification-amid-rising-student-financing-demand/
+  - Facebook: queued for a future run
+
+- **[Capital FM Sports]** Wanyonyi erases London heartbreaking loss with win at Lausanne Diamond League
+  - Source: Capital FM Sports
+  - Link: https://capitalfm.africa/wanyonyi-erases-london-heartbreaking-loss-with-win-at-lausanne-diamond-league/
+  - Facebook: queued for a future run
+
+- **[Capital FM Sports]** Muthaiga Golf Club on course to defend Patron’s Cup after healthy lead on Day One
+  - Source: Capital FM Sports
+  - Link: https://capitalfm.africa/muthaiga-golf-club-on-course-to-defend-patrons-cup-after-healthy-lead-on-day-one/
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Court clears CA’s Sh220m cyber-defence project tender - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNc1gxaG4tWmZVTktnVlltc0ZjUGJFSUpFZVVZRFNNYmQ5Y0FDM0VqcHFlY3pQTWVGNm4ydFh1SGJoeGp6M2hXdGdMNC13Zms0ZjlObW9kV3lPN2ZVSHNISjRqel9qSURPOWlxTWpCeENxVmVMYmV6M2o1cFBUbWtZa0tRS2owZlp4cFc2V0NhUmV1RVpNbl9zMlQwRjRFaDg?oc=5
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** How once-profitable pyrethrum sector lost farmers and markets - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOTlluem1ULXEzVE1kWkZlS01MVDhSQTBUM05CT3VpLXZhNS0zbmZBcUk3RHdwM29DbjNoOVdacVBfM3RZVnI1Si0ta2huSnpaUldqdENHQ0xwUmxsZDJ2eldYSDRxd0VYUURfeUtxYzlNMlJ6MnJaSTVud2ljbDBaYnVfeFViZEdtam92MHY1amhCQnRiVS1QLUxHT1FhanB6TjV4S1FOUHIzUWVQeno2M2N6SzV2TUJWOTRWaA?oc=5
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Kenya and World Bank Explore Investment in Local Medical Manufacturing - Zawya
+  - Source: Zawya
+  - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRUsyOFRBT0pUdmtmY3R3cUhyMzRxWTJ5OWhvejhUai1DS1VXTlpORkVJcjZFNFJ3TzBDcF9QdUE4d2J2WUczTFNRb3ZJLXduNVh0TE5MZHJ0LTdIamxndUJoS0ZrblRVQm1nWDRFaXlBamFEMGtKN0Q1YVN0ZnRHVVAxeVJCTDV4OHAzQ0NSWXR2WGRLQWt3WURnUkNDMjBOVDFMRDYyUkJabHZmUnozTW1SR2xUdkZMbDVCU0V6ZE1uOXFNczFuRUhvRlVCb3pkVWEzcg?oc=5
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Kenya and U.S. Sign New Military Training Partnership - Dawan Africa
+  - Source: Dawan Africa
+  - Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWjhlWTZjZ08wOFVaTDFnN1B1ZWpZdDUzd0l5SF82cGxPT1Q0UnFWQzFiNlVfWXk2TldjWGcwVU5hMVVrNk9DWEhwTUtzaDF2S1JTVlFXYkJoUFRWbFlIa2pyUURuUEVhdFFDR2haU3FfX3VodlJON2pBbjhaRHVWWVJnY0xiMmt6?oc=5
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** All bark, no bite? NCIC 'helpless' as summoned leaders defy directives - The Eastleigh Voice
+  - Source: The Eastleigh Voice
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNRDB0eWVQZFhpUFc5VVRDa1d0Qno5dHAwTjJrSFhTVkx5dGdFaFNrUmV0enM3Nk1sSDRqblA0ZlBQVFpGNjBXd2Noakx2a1J0QTNpTnhMbWxZVzZEb2ZuV2p4VUlpU1NVejlfV3FsY1ctdG5yekVXSVhpdksxaExOWEFFaDlCX0sxZ3JsYnJFUGV3SzRkTXltaVlOb1A1bzRkNjlpMzUzOHk5bDJnczlRMQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** CBK signals on-site inspection of banks' credit pricing model from March 2027 - Citizen Digital
+  - Source: Citizen Digital
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxOSG9LT1NHczlKaFNGN2tvSmdEOHFzWUc0eFZzWThEZkYyUWtkTThMWmlPVFVBa21NUDljMmswYmVpLU5lUWpoLWh2SEdXSjJwXzVFdG02VG56SUxTc3pRLVBFV2U5RUNsbzN2dTJyQ2MwTnBuYUZYaGFqSU5LOUNPZ1dKOFRoYnBJb0ZrY2dDV2tSaFowZkFNemZfaE9KWkY1ZlRUMGVDNHpNNVZPbkdBVWJFQjVnUkk?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** A Jensen Huang double-signed workstation Blackwell GPU sold for over $57,000 - Business Insider
+  - Source: Business Insider
+  - Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxNTW9wM1pZRzMtTDJHX0xJc0tvQTZBU0dRRGI4VGR3VE1laEZmNEtFTmUzcmUxZVV4V1J0ODZoNGxfWmZmZ0d6dlR2YWpaWGliZTlteUk2WmNGZWpnNWRmQ3RKMlRIRF93aGxlMTY0LS0tcjRVOEd1c0pHbUV4eXM1dUlzZmdOVFh4WmJrUHpFVWxqLWJtU3FjWUF3RUo?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** WPP seeks to seal 'highly confidential and sensitive' client information from lawsuit with former exec - Business Insider
+  - Source: Business Insider
+  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHduLXFtcTBoRV9DSWVDZGJrQ0ZQa2RRaWgtUUVWcG9BZ1Q3UE0xUk1INXZ6bTNpeFBYY2liVGZqVWlnV3F0WnprQldudmhuUzN5d1M1Ml9nVWEwVFVVMG9ON083NEpPbzVwOW11V3BuMUtfRVVWMDVYRGhaZ19kOWFJZG1jWDVKRnFNdGIwZlJsd1hsV2pRTEljdjZVems?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Bessent's bond gambit aimed at calming markets is instead stirring inflation worries - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxPbFduci0wN2hKbnNSSWY4OVhUVnZSMU9TWFpCS2xtU1AyZlZudHJJTFJneW1weXNpelUwY0JlaUp4VC0xZFdLVERSYWRablV2LWRWaTU3cVVuOVB1N2ktOEdteno4eU8wRTRjQ2NPY3RVM1N6amxsSzA0TnIyeHZVZFU3MEx0QzB5VGJDRDNLZ0pVRTdtUHNkaFRWX0k5YnZMbkZ4bWpHeDA2bUFvNzJzR3ZKTlVTekEwRVFmZm9n0gHDAUFVX3lxTE8zSnhXOEp2SjVHTV9jRVNGQTd4ZTVzaVBVUzUtM3EyTjNMN1pfcG1peGVlZVBEeWtueVRDSHVpdkdjZ2x1dkF3UFdzT0VDaW5sakVmVkhrcUxNdVFKV21zSHBZWGRySDhIUEJvRkUtX3NVdGZxRXE0RTg3b2tsVEZpNmpZRndJNHNydHZZc2xrbHljQ1hEdjc1SWwxNTA5cDN1S2dQUldMSXhRaE1CLW1VNHZkeEpaa3YtOFhQRXpfLWJvSQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Britain’s railway prepares for more extreme weather as intense El Niño develops - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxPUlNYVkJpMEIzUjlmYlhkSVRMMm1WRFhiZEFreWllYm5xcUpiVGZSVVVUZTV5SEZHbzdZZWJDS2x2X1B4R3YyQWJiRm9hZ3E3VnhLNU1mUDg4SkNUT3BrV3UzdnZ0UFloWWU4eF9JaEV2SVpsQVhHZGRMRDQ1cmZsNTNEN1RIOHpvSW1iNTJyN0kzU2xxSGF3Y0hMdzVBVXlnS0FrLTktd0lpaXliaDJBQmZhQjJQanhxSi1tVTRfZzNIQnhncXJvZ2Z3?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Eye drops recalled over possible contamination, FDA reports - NBC News
+  - Source: NBC News
+  - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3NvVmNrbFFwMk8xdGdXMTVhdWVVV25VcWdJTEZvWFhtV1QwQjVDQTFCU0JVTEhhNkdrVjRmQ3NXQmFMVXNHZXhzSnZhQkQwM25HVWdxNDNJYXFzdllEMkhjdW1vVUlmTUV3dGVWaDRIMVFvQ0l4TkNiSFlGVXhYZFotbTVydG5UZ0dsckVIV3g0bndmT2RNQ1pkS2NzNVdwUXZPSXF1Qkx2OW9iaTcydEJYY25hX0hYTlNJc2pmcTg?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Gold And Silver Hit Highest Prices In Months—Here’s Why - Forbes
+  - Source: Forbes
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOVDU2N3c1eFlTakRfemkzQ1NKbHVPV2h3R05YYnd5VWFJZTBzcUFRSXVGTmtoLVVkTGxsRWtHQXUzQWVXSHBWUVJSZHZSODNCeDFFNEpVeVhZUnpnVVppb20teUJQMUtEVHFqaVlCLWZTQnFjV1pvZDVHOGtMTjVqRlJyejQtSk1qTGozdnpzaTJSdU5TYzl4LVdBdHZ4TWN6NGJXajNZNl84Um1UNnhDUHFlUQ?oc=5
+  - Facebook: queued for a future run
+

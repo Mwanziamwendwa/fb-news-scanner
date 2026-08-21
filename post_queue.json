@@ -1,95 +1,5 @@
 [
   {
-    "title": "CBK Warns of Rise in Prices of Several Key Food Commodities",
-    "normalized_title": "cbk warns of rise in prices of several key food commodities",
-    "link": "https://www.kenyans.co.ke/news/126383-cbk-warns-food-prices-could-rise-poor-rains-threaten-maize-harvest",
-    "source": "Kenyans.co.ke",
-    "category": "Kenyans.co.ke",
-    "summary": "This comes even as the government plans to import more bags of commodities such as maize, with mixed expectations on the potential impacts of the El Niño rains.",
-    "discovered_at": "2026-08-21T08:41:54.053219+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Safaricom Explains How to Reactivate Your Old Inactive SIM Card Before It Is Recycled",
-    "normalized_title": "safaricom explains how to reactivate your old inactive sim card before it is recycled",
-    "link": "https://thekenyatimes.com/latest-kenya-times-news/safaricom-explains-how-to-reactivate-your-old-inactive-sim-card-before-it-is-recycled/",
-    "source": "The Kenya Times",
-    "category": "The Kenya Times",
-    "summary": "The Kenya Times ~ Trending, Breaking News and Videos Safaricom Explains How to Reactivate Your Old Inactive SIM Card Before It Is Recycled Safaricom has issued an explanation on how customers who had stopped using their old mobile lines can recreate eligible inactive numbers from the comfort of their homes before the numbers are recycled. The service, known as Recreate Old SIM, lets customers restore an old inactive line that hasn’t been recycled yet using an active Safaricom […] This post Safaricom Explains How to Reactivate Your Old Inactive SIM Card Before It Is Recycled first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Annah Nanjala Wekesa",
-    "discovered_at": "2026-08-21T09:30:40.250994+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Is Your Job Secure? What Kenyan Companies Are Planning for 2026",
-    "normalized_title": "is your job secure? what kenyan companies are planning for 2026",
-    "link": "https://thekenyatimes.com/jobs-careers/is-your-job-secure-what-kenyan-companies-are-planning-for-2026/",
-    "source": "The Kenya Times",
-    "category": "The Kenya Times",
-    "summary": "The Kenya Times ~ Trending, Breaking News and Videos Is Your Job Secure? What Kenyan Companies Are Planning for 2026 Kenyan firms expect to maintain their current hiring levels in 2026, with banks and selected non-bank sectors showing moderate optimism about taking on new employees, according to the Central Bank of Kenya (CBK). According to the CBK’s July 2026 Market Perceptions Survey, firms were asked whether they expected to increase new hires in 2026 compared […] This post Is Your Job Secure? What Kenyan Companies Are Planning for 2026 first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Janeffer Katila",
-    "discovered_at": "2026-08-21T09:30:40.250994+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "From Chimamanda’s Ghosts to Kenya’s Moi University pension crisis: When retirees become forgotten",
-    "normalized_title": "from chimamanda’s ghosts to kenya’s moi university pension crisis: when retirees become forgotten",
-    "link": "https://educationnews.co.ke/from-chimamandas-ghosts-to-kenyas-moi-university-pension-crisis-when-retirees-become-forgotten/?utm_source=rss&utm_medium=rss&utm_campaign=from-chimamandas-ghosts-to-kenyas-moi-university-pension-crisis-when-retirees-become-forgotten",
-    "source": "Education News",
-    "category": "Education News",
-    "summary": "Ashford has drawn a parallel between Chimamanda Ngozi Adichie’s short story “Ghosts” and the decades-long wait faced by Moi University retirees. More than 200 subordinate staff retrenched from Moi University’s former Chepkoilel campus have waited up to 25 years for their pension dues. Institutional neglect, not bureaucracy alone, has turned retirees into figures the university... The post From Chimamanda’s Ghosts to Kenya’s Moi University pension crisis: When retirees become forgotten first appeared on Education News .",
-    "discovered_at": "2026-08-21T09:30:40.250994+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "African players to watch in the 202627 English Premier League",
-    "normalized_title": "african players to watch in the 202627 english premier league",
-    "link": "https://www.standardmedia.co.ke/sports/article/2001555862/african-players-to-watch-in-the-202627-english-premier-league",
-    "source": "Standard Sports",
-    "category": "Standard Sports",
-    "summary": "Salah has left Liverpool. Several of the continent's established stars have moved on, while a new generation is arriving with something to prove.",
-    "discovered_at": "2026-08-21T09:30:40.250994+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "AWS to spend $1bn putting AI engineers inside customer teams",
-    "normalized_title": "aws to spend $1bn putting ai engineers inside customer teams",
-    "link": "https://capitalfm.africa/aws-to-spend-1bn-putting-ai-engineers-inside-customer-teams/",
-    "source": "Capital FM Business",
-    "category": "Capital FM Business",
-    "summary": "The new AWS Forward Deployed Engineering (FDE) organisation will work directly with customers to build and deploy so-called \"agentic\" AI systems. These systems can carry out tasks and make decisions with limited human intervention.",
-    "discovered_at": "2026-08-21T09:30:40.250994+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Gandhi’s handwritten notes on life sold for $1.69m at Indian auction",
-    "normalized_title": "gandhi’s handwritten notes on life sold for $1.69m at indian auction",
-    "link": "https://capitalfm.africa/gandhis-handwritten-notes-on-life-sold-for-1-69m-at-indian-auction/",
-    "source": "Capital FM Business",
-    "category": "Capital FM Business",
-    "summary": "The notes, owned and preserved by the family of close associate and freedom fighter Anand T Hingorani, include 688 of Gandhi's handwritten messages on truth, non-violence and self-restraint written between 1944 and 1946.",
-    "discovered_at": "2026-08-21T09:30:40.250994+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Terry Atieno reflects on championing immigrant rights in Germany - Daily Nation",
-    "normalized_title": "terry atieno reflects on championing immigrant rights in germany - daily nation",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVMxWlU4M1J2ZkZGSmlJRkJrREI0OVpXUnVsN3RpMVpqak9VUV9tQVNzUjlZMFA2RnVyd3VQakM5UURERm1QRlAwRW0wZ3hWdVN4TWg4QjNTcEprLU13MEdQVk1CZlhaU3V3R3VvSjVGOUQ2SkU0YWdkLVh5X1FGNWItUjZKZHB4Z1Rzbkp3bG9XSHNyaVdjdVVERHBJTUlFRUx1cnZVLTFNV25pa3c?oc=5",
-    "source": "Daily Nation",
-    "category": "Kenya Latest",
-    "summary": "Terry Atieno reflects on championing immigrant rights in Germany Daily Nation",
-    "discovered_at": "2026-08-21T09:30:40.250994+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Kenya Army honours senior officers for decades of distinguished service - People Daily",
-    "normalized_title": "kenya army honours senior officers for decades of distinguished service - people daily",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcUFydHQ1dDF5RTN2RVBEVHJsZFJaYndEa2xYdmtKY0Z3LWhBdVlDWHhkOEI0dlFZQmQ4cEVvZnN0YlkwMk9NZmlWeFVtVDFhajNuUGpYTnh0VTdMeG1QOXZjeFhYYmZGaFdPeDNJdmZQaElYeEtKTnZkelc5Q3B0WXFfMUFRWUF0VUVsbHE5a2ZxVHhhcHFvN3JsY1E2V3oyMWk4SUNWQQ?oc=5",
-    "source": "People Daily",
-    "category": "Kenya Latest",
-    "summary": "Kenya Army honours senior officers for decades of distinguished service People Daily",
-    "discovered_at": "2026-08-21T09:30:40.250994+00:00",
-    "attempts": 0
-  },
-  {
     "title": "Kenya: Kalonzo Emerges As Leading Opposition Choice in 2027 Race, Swiss Poll Shows - allAfrica.com",
     "normalized_title": "kenya: kalonzo emerges as leading opposition choice in 2027 race, swiss poll shows - allafrica.com",
     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90X0lrenU4a1BVWUNnZzY5ZXM2SFB1dDFZdGVCYmsweTZIU2NHZ0I3RzVSVGZZNTZNZVlxSFpGVGhYVFBMVWF4Q0x4T3VZa09nTnh1R0tlQk43dVk?oc=5",
@@ -97,17 +7,7 @@
     "category": "Kenya Latest",
     "summary": "",
     "discovered_at": "2026-08-21T09:30:40.250994+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "T. Rowe Price Says Nigeria Attractive Even After 64% Stock Rally - Bloomberg.com",
-    "normalized_title": "t. rowe price says nigeria attractive even after 64% stock rally - bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVEE0YTZGckNkSnFQQ3NDbnFIaWpiWTVXX2tnUVN2UEhiMFpqWGd5ejRIeDBzWTItNUJDMDVhUV9IMHpnQ3Z0MzBmQ2k2UjVzZ09YSG5HXy1Ja0d0bWpkNFZMak1VN2N6WDNOMGV3bGNHWUlydjBMU0lXN0o3SkNkN2pFLXJ6aG1WZ2IyamdsdkJyaUVTdU9jc2tuYlgya0V0Vk5PV25BRWFYLUhpOXFFN3dmVQ?oc=5",
-    "source": "Bloomberg.com",
-    "category": "Business Topic",
-    "summary": "T. Rowe Price Says Nigeria Attractive Even After 64% Stock Rally Bloomberg.com African markets defy global shocks as investors return to local assets Financial Fortune Media Why African stocks are beating global markets, and what could keep the rally going Business News Nigeria West African country overtakes Nigeria as best-performing stock market globally Legit News S’Korea, Ghana push Nigeria to third best-performing stock market The Guardian Nigeria News",
-    "discovered_at": "2026-08-21T09:30:40.250994+00:00",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "title": "Bitcoin Tops $75,000 For The First Time Since May As Crypto Surge Continues - Forbes",
@@ -117,27 +17,7 @@
     "category": "Business Topic",
     "summary": "",
     "discovered_at": "2026-08-21T09:30:40.250994+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Samsung to return record $80bn to shareholders - Financial Times",
-    "normalized_title": "samsung to return record $80bn to shareholders - financial times",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNzlrU2ViVnNoTUFqUDY3ek5JMndrcXBrMjN2VkxySnZvR2JEMjBPMjI0TTBiT1ZFZlZZTjBKUERSSFhObEpfY1pxV3dKVlgzS1pnVDhTYUYyNXFtcUxWbmlsNGd4OFFHSmdfVkduTDJVSFVCSFRTalhyYU51WWVmNzd1VXQ?oc=5",
-    "source": "Financial Times",
-    "category": "Business Topic",
-    "summary": "Samsung to return record $80bn to shareholders Financial Times Why Micron Isn’t Buying Back Stock Like Memory-Chip Rivals—and Why It Could Barron's Samsung board set to discuss huge shareholder return package on Friday Reuters Is Samsung’s $72B payout a vote of confidence in AI? CryptoRank Korean Chipmakers’ Cash Payout Plans May Drive Won Rally Further Bloomberg.com",
-    "discovered_at": "2026-08-21T09:30:40.250994+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out - CNBC",
-    "normalized_title": "longer-dated treasury yields rise as bessent's bond buyback rally fizzles out - cnbc",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdkN2SURXc0pxNUsxbnFOazZUQ05fb2JQYWNQMTFOcVB0ZmRaXzRxNEtCV0paRVBtOGxya3lVUURPUWE1a3RQVFFsWmRGXzJGUTc0My02bTQ5czhxbHFlUzlwSkFmYU9WdzdRdWlfSzJVQzlTLVotMjAxRUlwODTSAYQBQVVfeXFMUGliQ04zRUFPR3RTcGpUYTlNd0F3al9YVVFJMFB6M3ZMVzBCS2JxVzAybG5IVHBDRG90VlVCYXNjX1Y5WWVWRU42aTFMbmdQMnVETW5ESG13d2FZejJ2MUFlanp1dFhfWkJqcTJSb3hwQlZVajB6S19uc3d4eFViNnNSa0Q1?oc=5",
-    "source": "CNBC",
-    "category": "Business Topic",
-    "summary": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out CNBC An alarmed bond market gets the Trump administration to act again AP News The Treasury Bond Buyback Is Not QE. Here Is What It Really Is. tastylive Bessent says Treasury buyback operation could be more than $4 billion CNBC Treasury Turns to Interventionist Tactics to Lower Interest Rates The New York Times",
-    "discovered_at": "2026-08-21T09:30:40.250994+00:00",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "title": "UK Reports Unexpected £1.8 Billion Budget Deficit in July - Bloomberg.com",
@@ -147,27 +27,7 @@
     "category": "Business Topic",
     "summary": "",
     "discovered_at": "2026-08-21T09:30:40.250994+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Landspace aims to refly recovered Zhuque-3 booster within six months - SpaceNews",
-    "normalized_title": "landspace aims to refly recovered zhuque-3 booster within six months - spacenews",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdFRTampSSkc4eFBZSVI5VDZHTXVSTXZncmdVUUdCQzBJa3p4akFnUkpuckw0STJRMXdUMGxXaENDRlVlTU9FRW0yYVNnb3NaUHZTTlNmTkI3dEwwdWpObVhqNzcyb21WQnROZEc0MnQ1SlRGVWdNajI1eElHS0RjRE9ia0FYcGpKcUQyRDk1eDZ1Z1B6eEE?oc=5",
-    "source": "SpaceNews",
-    "category": "Business Topic",
-    "summary": "Landspace aims to refly recovered Zhuque-3 booster within six months SpaceNews China's LandSpace lands rocket booster; joins SpaceX, Blue Origin with reusable tech Reuters Interview: Chinese rocket team prepares to strive for more reuses after successful land recovery 昆明信息港 LandSpace and China’s race for reusable spaceflight AeroMorning.com What China’s latest reusable rocket feat reveals about its space ambitions Scientific American",
-    "discovered_at": "2026-08-21T09:30:40.250994+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "A China Chip Denial Lands Before Nvidia’s (NVDA) Big Week - Yahoo Finance",
-    "normalized_title": "a china chip denial lands before nvidia’s (nvda) big week - yahoo finance",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZW1lV3FlLW9WN1NSTU9MTWZwaE55Um1KZ1ZoQ21HWHZsSGc4RW9qdkpDU09STXNvVUN1N0VUMm9sZHBwczR1cDU4enh1Y3pJTXdGbUZyYVlJYVNES3B5UGg2VnNYdUNLRU9Gd3lFVERBQzRXZUg5MFpBX2xLLVBDTUUtR1VKdWJmZXE5b2FsQ2JjSFZNaTZnNXhBdw?oc=5",
-    "source": "Yahoo Finance",
-    "category": "Business Topic",
-    "summary": "A China Chip Denial Lands Before Nvidia’s (NVDA) Big Week Yahoo Finance China eases limits on Nvidia H200 chips as AI race escalates Financial Times Nvidia’s AI Chip Curbs Face A New Test As Chinese Firms Tap Overseas Computing Power Tekedia ByteDance, Tencent Receive 20,000 Nvidia H200 Shipments Under Relaxed Beijing Rules TechRepublic Nvidia Pushes Back On Talk Of A China-Only LPU Finimize",
-    "discovered_at": "2026-08-21T09:30:40.250994+00:00",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "title": "NexG Says Malaysia Weighs $1.9 Billion Passport Supplier Buyout - Bloomberg.com",
@@ -177,17 +37,7 @@
     "category": "Business Topic",
     "summary": "",
     "discovered_at": "2026-08-21T09:30:40.250994+00:00",
-    "attempts": 0
-  },
-  {
-    "title": "Cambricon advances sixth-gen AI silicon, broadens support for DeepSeek, Qwen and GLM - digitimes",
-    "normalized_title": "cambricon advances sixth-gen ai silicon, broadens support for deepseek, qwen and glm - digitimes",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYk04Zkt1QXNZNjd2WEdpb191NkU2LWEzZmRuU0hKOGRFRy1CbENHcFU1anRQVFZYNUJkZ3hSaTB3ZHd3QVluMGNXT0FidzZCWEtNeVk3aFZ1V0czQTNHMWF4U0dQa0ZadXZ4UzU1eHZYMzR4dzBKdkdEY2taU29NTGxxTEc?oc=5",
-    "source": "digitimes",
-    "category": "Business Topic",
-    "summary": "Cambricon advances sixth-gen AI silicon, broadens support for DeepSeek, Qwen and GLM digitimes",
-    "discovered_at": "2026-08-21T09:30:40.250994+00:00",
-    "attempts": 0
+    "attempts": 1
   },
   {
     "title": "Redsan Reveals How Being Mistaken for a Ugandan Inspired ‘Shika Glasi’",
@@ -2847,6 +2697,156 @@
     "category": "Business Topic",
     "summary": "Colombia Housing Market Under Pressure, but Rated RMBS Continue to Perform Fitch Ratings",
     "discovered_at": "2026-08-21T17:56:29.903799+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Universities Fund secures ISO 9001:2015 recertification amid rising student financing demand",
+    "normalized_title": "universities fund secures iso 9001:2015 recertification amid rising student financing demand",
+    "link": "https://capitalfm.africa/universities-fund-secures-iso-90012015-recertification-amid-rising-student-financing-demand/",
+    "source": "Capital FM News",
+    "category": "Capital FM News",
+    "summary": "Wanyonyi said the certification provides assurance to students, universities, the Government, taxpayers and development partners that the Fund has systems capable of managing its growing responsibilities.",
+    "discovered_at": "2026-08-21T19:16:40.004861+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Wanyonyi erases London heartbreaking loss with win at Lausanne Diamond League",
+    "normalized_title": "wanyonyi erases london heartbreaking loss with win at lausanne diamond league",
+    "link": "https://capitalfm.africa/wanyonyi-erases-london-heartbreaking-loss-with-win-at-lausanne-diamond-league/",
+    "source": "Capital FM Sports",
+    "category": "Capital FM Sports",
+    "summary": "NAIROBI, Kenya, August 21, 2026 – Olympic and world champion Emmanuel Wanyonyi returned to winning ways, with victory at the Lausanne Diamond League in Switzerland on Friday night. Wanyonyi clocked…",
+    "discovered_at": "2026-08-21T19:16:40.004861+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Muthaiga Golf Club on course to defend Patron’s Cup after healthy lead on Day One",
+    "normalized_title": "muthaiga golf club on course to defend patron’s cup after healthy lead on day one",
+    "link": "https://capitalfm.africa/muthaiga-golf-club-on-course-to-defend-patrons-cup-after-healthy-lead-on-day-one/",
+    "source": "Capital FM Sports",
+    "category": "Capital FM Sports",
+    "summary": "NAIROBI, Kenya, August 21, 2026 – Defending champions Muthaiga Golf Club shot into an early lead on Day One of the Patron’s Cup on home soil on Friday. The team…",
+    "discovered_at": "2026-08-21T19:16:40.004861+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Court clears CA’s Sh220m cyber-defence project tender - Daily Nation",
+    "normalized_title": "court clears ca’s sh220m cyber-defence project tender - daily nation",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc1gxaG4tWmZVTktnVlltc0ZjUGJFSUpFZVVZRFNNYmQ5Y0FDM0VqcHFlY3pQTWVGNm4ydFh1SGJoeGp6M2hXdGdMNC13Zms0ZjlObW9kV3lPN2ZVSHNISjRqel9qSURPOWlxTWpCeENxVmVMYmV6M2o1cFBUbWtZa0tRS2owZlp4cFc2V0NhUmV1RVpNbl9zMlQwRjRFaDg?oc=5",
+    "source": "Daily Nation",
+    "category": "Kenya Latest",
+    "summary": "Court clears CA’s Sh220m cyber-defence project tender Daily Nation",
+    "discovered_at": "2026-08-21T19:16:40.004861+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "How once-profitable pyrethrum sector lost farmers and markets - Daily Nation",
+    "normalized_title": "how once-profitable pyrethrum sector lost farmers and markets - daily nation",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTlluem1ULXEzVE1kWkZlS01MVDhSQTBUM05CT3VpLXZhNS0zbmZBcUk3RHdwM29DbjNoOVdacVBfM3RZVnI1Si0ta2huSnpaUldqdENHQ0xwUmxsZDJ2eldYSDRxd0VYUURfeUtxYzlNMlJ6MnJaSTVud2ljbDBaYnVfeFViZEdtam92MHY1amhCQnRiVS1QLUxHT1FhanB6TjV4S1FOUHIzUWVQeno2M2N6SzV2TUJWOTRWaA?oc=5",
+    "source": "Daily Nation",
+    "category": "Kenya Latest",
+    "summary": "How once-profitable pyrethrum sector lost farmers and markets Daily Nation",
+    "discovered_at": "2026-08-21T19:16:40.004861+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Kenya and World Bank Explore Investment in Local Medical Manufacturing - Zawya",
+    "normalized_title": "kenya and world bank explore investment in local medical manufacturing - zawya",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRUsyOFRBT0pUdmtmY3R3cUhyMzRxWTJ5OWhvejhUai1DS1VXTlpORkVJcjZFNFJ3TzBDcF9QdUE4d2J2WUczTFNRb3ZJLXduNVh0TE5MZHJ0LTdIamxndUJoS0ZrblRVQm1nWDRFaXlBamFEMGtKN0Q1YVN0ZnRHVVAxeVJCTDV4OHAzQ0NSWXR2WGRLQWt3WURnUkNDMjBOVDFMRDYyUkJabHZmUnozTW1SR2xUdkZMbDVCU0V6ZE1uOXFNczFuRUhvRlVCb3pkVWEzcg?oc=5",
+    "source": "Zawya",
+    "category": "Kenya Latest",
+    "summary": "Kenya and World Bank Explore Investment in Local Medical Manufacturing Zawya",
+    "discovered_at": "2026-08-21T19:16:40.004861+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Kenya and U.S. Sign New Military Training Partnership - Dawan Africa",
+    "normalized_title": "kenya and u.s. sign new military training partnership - dawan africa",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWjhlWTZjZ08wOFVaTDFnN1B1ZWpZdDUzd0l5SF82cGxPT1Q0UnFWQzFiNlVfWXk2TldjWGcwVU5hMVVrNk9DWEhwTUtzaDF2S1JTVlFXYkJoUFRWbFlIa2pyUURuUEVhdFFDR2haU3FfX3VodlJON2pBbjhaRHVWWVJnY0xiMmt6?oc=5",
+    "source": "Dawan Africa",
+    "category": "Kenya Latest",
+    "summary": "Kenya and U.S. Sign New Military Training Partnership Dawan Africa",
+    "discovered_at": "2026-08-21T19:16:40.004861+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "All bark, no bite? NCIC 'helpless' as summoned leaders defy directives - The Eastleigh Voice",
+    "normalized_title": "all bark, no bite? ncic 'helpless' as summoned leaders defy directives - the eastleigh voice",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRDB0eWVQZFhpUFc5VVRDa1d0Qno5dHAwTjJrSFhTVkx5dGdFaFNrUmV0enM3Nk1sSDRqblA0ZlBQVFpGNjBXd2Noakx2a1J0QTNpTnhMbWxZVzZEb2ZuV2p4VUlpU1NVejlfV3FsY1ctdG5yekVXSVhpdksxaExOWEFFaDlCX0sxZ3JsYnJFUGV3SzRkTXltaVlOb1A1bzRkNjlpMzUzOHk5bDJnczlRMQ?oc=5",
+    "source": "The Eastleigh Voice",
+    "category": "Kenya Latest",
+    "summary": "All bark, no bite? NCIC 'helpless' as summoned leaders defy directives The Eastleigh Voice From Gachagua to Duale: Inside NCIC's widening hate speech net Daily Nation NCIC summons Gachagua over alleged inflammatory utterances the-star.co.ke MP Ngogoyo urges NCIC to act early on political rhetoric to prevent unrest People Daily Gachagua declines NCIC summons, cites foreign trip Citizen Digital",
+    "discovered_at": "2026-08-21T19:16:40.004861+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "CBK signals on-site inspection of banks' credit pricing model from March 2027 - Citizen Digital",
+    "normalized_title": "cbk signals on-site inspection of banks' credit pricing model from march 2027 - citizen digital",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSG9LT1NHczlKaFNGN2tvSmdEOHFzWUc0eFZzWThEZkYyUWtkTThMWmlPVFVBa21NUDljMmswYmVpLU5lUWpoLWh2SEdXSjJwXzVFdG02VG56SUxTc3pRLVBFV2U5RUNsbzN2dTJyQ2MwTnBuYUZYaGFqSU5LOUNPZ1dKOFRoYnBJb0ZrY2dDV2tSaFowZkFNemZfaE9KWkY1ZlRUMGVDNHpNNVZPbkdBVWJFQjVnUkk?oc=5",
+    "source": "Citizen Digital",
+    "category": "Business Topic",
+    "summary": "CBK signals on-site inspection of banks' credit pricing model from March 2027 Citizen Digital",
+    "discovered_at": "2026-08-21T19:16:40.004861+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "A Jensen Huang double-signed workstation Blackwell GPU sold for over $57,000 - Business Insider",
+    "normalized_title": "a jensen huang double-signed workstation blackwell gpu sold for over $57,000 - business insider",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTW9wM1pZRzMtTDJHX0xJc0tvQTZBU0dRRGI4VGR3VE1laEZmNEtFTmUzcmUxZVV4V1J0ODZoNGxfWmZmZ0d6dlR2YWpaWGliZTlteUk2WmNGZWpnNWRmQ3RKMlRIRF93aGxlMTY0LS0tcjRVOEd1c0pHbUV4eXM1dUlzZmdOVFh4WmJrUHpFVWxqLWJtU3FjWUF3RUo?oc=5",
+    "source": "Business Insider",
+    "category": "Business Topic",
+    "summary": "A Jensen Huang double-signed workstation Blackwell GPU sold for over $57,000 Business Insider",
+    "discovered_at": "2026-08-21T19:16:40.004861+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "WPP seeks to seal 'highly confidential and sensitive' client information from lawsuit with former exec - Business Insider",
+    "normalized_title": "wpp seeks to seal 'highly confidential and sensitive' client information from lawsuit with former exec - business insider",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUHduLXFtcTBoRV9DSWVDZGJrQ0ZQa2RRaWgtUUVWcG9BZ1Q3UE0xUk1INXZ6bTNpeFBYY2liVGZqVWlnV3F0WnprQldudmhuUzN5d1M1Ml9nVWEwVFVVMG9ON083NEpPbzVwOW11V3BuMUtfRVVWMDVYRGhaZ19kOWFJZG1jWDVKRnFNdGIwZlJsd1hsV2pRTEljdjZVems?oc=5",
+    "source": "Business Insider",
+    "category": "Business Topic",
+    "summary": "WPP seeks to seal 'highly confidential and sensitive' client information from lawsuit with former exec Business Insider See more headlines and perspectives on Google News",
+    "discovered_at": "2026-08-21T19:16:40.004861+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries - CNBC",
+    "normalized_title": "bessent's bond gambit aimed at calming markets is instead stirring inflation worries - cnbc",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbFduci0wN2hKbnNSSWY4OVhUVnZSMU9TWFpCS2xtU1AyZlZudHJJTFJneW1weXNpelUwY0JlaUp4VC0xZFdLVERSYWRablV2LWRWaTU3cVVuOVB1N2ktOEdteno4eU8wRTRjQ2NPY3RVM1N6amxsSzA0TnIyeHZVZFU3MEx0QzB5VGJDRDNLZ0pVRTdtUHNkaFRWX0k5YnZMbkZ4bWpHeDA2bUFvNzJzR3ZKTlVTekEwRVFmZm9n0gHDAUFVX3lxTE8zSnhXOEp2SjVHTV9jRVNGQTd4ZTVzaVBVUzUtM3EyTjNMN1pfcG1peGVlZVBEeWtueVRDSHVpdkdjZ2x1dkF3UFdzT0VDaW5sakVmVkhrcUxNdVFKV21zSHBZWGRySDhIUEJvRkUtX3NVdGZxRXE0RTg3b2tsVEZpNmpZRndJNHNydHZZc2xrbHljQ1hEdjc1SWwxNTA5cDN1S2dQUldMSXhRaE1CLW1VNHZkeEpaa3YtOFhQRXpfLWJvSQ?oc=5",
+    "source": "CNBC",
+    "category": "Business Topic",
+    "summary": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries CNBC An alarmed bond market gets the Trump administration to act again AP News Treasury doubles debt buybacks as Bessent moves to steady bond market CNBC The Treasury Bond Buyback Is Not QE. Here Is What It Really Is. tastylive Daily discussion thread for August 20, 2026 equiti.com",
+    "discovered_at": "2026-08-21T19:16:40.004861+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Britain’s railway prepares for more extreme weather as intense El Niño develops - The Guardian",
+    "normalized_title": "britain’s railway prepares for more extreme weather as intense el niño develops - the guardian",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUlNYVkJpMEIzUjlmYlhkSVRMMm1WRFhiZEFreWllYm5xcUpiVGZSVVVUZTV5SEZHbzdZZWJDS2x2X1B4R3YyQWJiRm9hZ3E3VnhLNU1mUDg4SkNUT3BrV3UzdnZ0UFloWWU4eF9JaEV2SVpsQVhHZGRMRDQ1cmZsNTNEN1RIOHpvSW1iNTJyN0kzU2xxSGF3Y0hMdzVBVXlnS0FrLTktd0lpaXliaDJBQmZhQjJQanhxSi1tVTRfZzNIQnhncXJvZ2Z3?oc=5",
+    "source": "The Guardian",
+    "category": "Business Topic",
+    "summary": "Britain’s railway prepares for more extreme weather as intense El Niño develops The Guardian Rail boss calls for more funding to tackle climate change after two derailments | ITV News ITVX Can Britain’s railways cope with ever-more extreme heat? An expert Q&A The Conversation What happens when train lines buckle and can it cause a derailment? Yahoo News New Zealand Two derailments in 24 hours: asset condition and resilience notes for rail engineers Geomechanics.io",
+    "discovered_at": "2026-08-21T19:16:40.004861+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Eye drops recalled over possible contamination, FDA reports - NBC News",
+    "normalized_title": "eye drops recalled over possible contamination, fda reports - nbc news",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3NvVmNrbFFwMk8xdGdXMTVhdWVVV25VcWdJTEZvWFhtV1QwQjVDQTFCU0JVTEhhNkdrVjRmQ3NXQmFMVXNHZXhzSnZhQkQwM25HVWdxNDNJYXFzdllEMkhjdW1vVUlmTUV3dGVWaDRIMVFvQ0l4TkNiSFlGVXhYZFotbTVydG5UZ0dsckVIV3g0bndmT2RNQ1pkS2NzNVdwUXZPSXF1Qkx2OW9iaTcydEJYY25hX0hYTlNJc2pmcTg?oc=5",
+    "source": "NBC News",
+    "category": "Business Topic",
+    "summary": "Eye drops recalled over possible contamination, FDA reports NBC News Nearly 40,000 Bottles of Eye Drops Are Being Recalled—Here’s How to Check Yours marthastewart.com FDA recalls eye drop that relieves ocular itch for potential contamination Ophthalmology Times Popular eye drops sold nationwide recalled over sterility concerns WTOK Nearly 40,000 Clear Eyes bottles recalled over contamination risk Yahoo",
+    "discovered_at": "2026-08-21T19:16:40.004861+00:00",
+    "attempts": 0
+  },
+  {
+    "title": "Gold And Silver Hit Highest Prices In Months—Here’s Why - Forbes",
+    "normalized_title": "gold and silver hit highest prices in months—here’s why - forbes",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVDU2N3c1eFlTakRfemkzQ1NKbHVPV2h3R05YYnd5VWFJZTBzcUFRSXVGTmtoLVVkTGxsRWtHQXUzQWVXSHBWUVJSZHZSODNCeDFFNEpVeVhZUnpnVVppb20teUJQMUtEVHFqaVlCLWZTQnFjV1pvZDVHOGtMTjVqRlJyejQtSk1qTGozdnpzaTJSdU5TYzl4LVdBdHZ4TWN6NGJXajNZNl84Um1UNnhDUHFlUQ?oc=5",
+    "source": "Forbes",
+    "category": "Business Topic",
+    "summary": "Gold And Silver Hit Highest Prices In Months—Here’s Why Forbes Gold Near $4,600 as Dollar Slides and Treasury Buybacks Stir Volatility VT Markets Gold Has Found Its Niche. Forecast as of 21.08.2026 LiteFinance Gold Holds Gains Supported by Weaker Dollar Fana News - Can Treasury intervention keep the Gold rally alive? FXStreet",
+    "discovered_at": "2026-08-21T19:16:40.004861+00:00",
     "attempts": 0
   }
 ]

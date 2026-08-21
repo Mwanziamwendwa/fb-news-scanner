@@ -8783,3 +8783,130 @@ The shift toward an industrial model of 5G in the BRICS+ countries is driven by 
   - Source: Yahoo Finance
   - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxNR29qS0twb1ZRTHlzcjlCbHdEWFpUbG5Qc2pBeHJwWjFLQlVRRzNmRkdLOTcxY3ZrdVFPaC1nazBWY2hNazZGaXdWbklxUTNCOWh6NWljRXV6SjhYMk1GVkNsclNmanVfdmhLTnJvLWV0aEJqX0w2NElhdFpwSnlYSzVPX1VuX2xiZ0lfRGlJLXZhYXB2TlFCS0x0S0hIdw?oc=5
 
+## Scan run: 2026-08-22 01:58 (Nairobi time)
+
+- **[Business Topic]** Kenya’s 2026 growth forecast falls to 4.13% as trade, real estate and tourism weaken – CBK - People Daily
+  - Source: People Daily
+  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNOUpXeFI1dWFDV05CU1F5elZlRGVMN2ZQRDl1QmYwTkNveDdRV2NiR0t0Z2FFa250dkJneWo0WTJfYzlfaUNLMHMtMC1Mank4VDVDc2NILWVCa3JDeE9YQVpmOVowUlkyU1IzX2EwM09mOWhGN1dqM1dwaTcwdHlFZ2NSZzR0Ym5DOXBRYWNYNWVPSjI4R2t4SjdIdFltTGNtUXNvTWV1TlZocDlIWTk1WTdKckU3cXJjVDdqRmVBZw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Kenya’s 2026 growth forecast falls to 4.13% as trade, real estate and tourism weaken – CBK - People Daily. Kenya’s 2026 growth forecast falls to 4.13% as trade, real estate and tourism weaken – CBK People Daily
+
+- **[Business Topic]** Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXdwbzNJcERVMTFvY2JtSkNBMUVaWGpSNlRqYXM1MndRT0lFOWw0NFpURjU4aVFZeTZvdjNRRWs0VWNaWXhzTXQ1QlJ4eUEwR2FXdl9Ca2xIQzVwQmgteVVLRkZneTlHMUt1dXJWNGk3UWladzNVQWZRc3ZpRFlQR2xTbGZLdGlRZzF2RWRvTk5CcVJQM19ZZlA1U2tCN1lkRkHSAacBQVVfeXFMTXQtbkxtMGJVQ0lSUjgwcG1EUFZkb1pWRjY4czE4M3NlQ1RsVWtWOVBESjM2SllMby1jN2haVy1wMWYxR2FnSFpwOUhKT180bVpRTzlETERmYjVQdE1SYjBiYXc0VzRRQnVSUC10Z2lpc0FqZlJibF8waTdOSndRa091YXZwUkRSWnlxbEI3NTYyeW55a1NkZ2NGVTc4YUM3UHZtQ056aGM?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Anthropic IPO filing will show AI backlash as a risk factor, sources say - CNBC. Anthropic IPO filing will show AI backlash as a risk factor, sources say CNBC Anthropic Revenue Surges to Over $11.5 Billion in Second Quarter Bloomberg.com EXCLUSIVE Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say Reuters Anthropic: Building the Future of Safe AI for the Ideal "Rebels" 36 Kr What retail investors need to know before jumping into Anthropic’s IPO Financial Times
+
+- **[Business Topic]** TikTok agrees to $400m settlement to resolve US children’s privacy litigation - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxOMkhsb3o0S3R6SXp6SW1SRU50MVhoS2VINmZjQ0gtSGtueWE1X0dYaGdlSjM0bGxUNnE5RndfZlB3UFZqSHpuM25VQ2pKRDdncWNlX2oyNVdLS2lfbGVpR0lySTZOWjZSdWZxSzhvb2d0YU4wVS16QVFaNmIxUHVQLV91YmZGdnZOZlB3RW5n?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: TikTok agrees to $400m settlement to resolve US children’s privacy litigation - The Guardian. TikTok agrees to $400m settlement to resolve US children’s privacy litigation The Guardian TikTok to pay $400m to US in one of largest child privacy settlements BBC TikTok and ByteDance Agree to Pay $400 Million Over US Child Privacy Claims Межа. Новини України. US Justice Department and TikTok Settle for $400 Million in Children's Privacy Suit, Axios Reports U.S. News - Money TikTok to pay $400 million to settle claims it violated children's online privacy laws CBS News
+
+- **[Business Topic]** Bond Yields Rise Despite Treasury Efforts to Curb Borrowing Costs - WSJ
+  - Source: WSJ
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOVVI3d0FHMjU4Y2t2THNmZVdyemNFVlYwVkxsM0VvQ3JwTFE3bGlsVUlscXN0Y0J3YkxaTmRueEUweFZoZURHdFVpZXdPVTVESVhTS3dSMzRKaXJWT2l5RC10QW5zOTQ2c2dDelVtM3JGVTNlXzlsQVo1Ni1GTnFEVlFhN1Nkbk92N2dZX3o4X215X2Y5UGVXaGkwZVVxUGFxSFVfM2FpVGRMZ3M3STNqUVNn?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Bond Yields Rise Despite Treasury Efforts to Curb Borrowing Costs - WSJ. Bond Yields Rise Despite Treasury Efforts to Curb Borrowing Costs WSJ Why is the Trump administration causing turmoil in the bond markets? | Richard Partington The Guardian Lenders yearn for stability amid sovereign debt volatility pei-privaterealestate.com Global bond yields are surging. Here’s why it matters CNN The bond market is sending CEOs a blunt message: Borrowing costs are going to go up Fortune
+
+- **[Business Topic]** Boeing engineers, technical workers reject contract offer - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWRLZV9NaG9pak9pZ050XzlKd0Y1eDFmYVBESlJnVHFOM1FQRHlsRy00UnRuU1FhMk1XeGRISXBibzE0a1QzeEZtSG5lUEp5cFhOOTl0MjJhcjJmX2RTZGFfU0ZKc0VEQ3VLdjk1OEdjV0s3V2RFSndXU0tnbDFabEpibTNpY0lPNnhaNWl0MWV5THQtTkt6TdIBngFBVV95cUxNd1JFMy1jQWtRdEw3Mkl4eTBCNU9TVjRuRnZQVVZfdGlLNXU1RnFZVHBVVmkyWTFPOVcyUWcteTFKSkNQMGlTYk1ZVHVtS213cmNLOExGTjYydkRGRko4OWNHZ25IdlA2VEpzMkJfbjhSWUdDWVNVb1JmYkk1eVdUSC1leHh0UGhJbElmaVlGYWJiQllwLVRmMk9jNTJfQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Boeing engineers, technical workers reject contract offer - CNBC. Boeing engineers, technical workers reject contract offer CNBC Boeing union rejects latest contract proposal, approves strike. HeraldNet.com Boeing’s contract offer ‘just not enough,’ some SPEEA workers say The Daily Chronicle Boeing white-collar union contract vote results expected today The Mighty 790 KFGO SPEEA members reject Boeing contract offer, authorize strike but willing to talk Everett Post
+
+- **[Business Topic]** Uber fined 825 mln euros over automated driver deactivations - Xinhua
+  - Source: Xinhua
+  - Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE51ODdQVDBudVdhcTI5SlVHLW9pNTRwT3FsM09TTkdnT3MxREhSSWtEd1VNR3pPY1BxSlIwYjBoaUdWd0FjNmQ3WU9FdFFpOHdTYjFzTEFOcGZzYUw2cnhNQVY0UlhEVlA1NHF4N3VTZ1o1QXNEbmdKV1RtNTY?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Uber fined 825 mln euros over automated driver deactivations - Xinhua. Uber fined 825 mln euros over automated driver deactivations Xinhua EXCLUSIVE: Dutch regulator fines Uber $966 million for automating driver suspensions Reuters Daily Digest: New fire rules for high-risk California homes, Uber's big Dutch fine The Business Journals Uber fined nearly $1 billion by Dutch regulators over automated suspensions of driver accounts morning-times.com Netherlands Fines Uber 825 Million Euros Over Driver Account Deactivations NDTV
+
+- **[Business Topic]** Jamie and Jools Oliver pay themselves £1.5m dividend as profits almost halve - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFJGQXEwSWxNMnpzc2c0LVh0QVN4Y3Q5a2dxR3NfbTVNQkFTbUNiczR2UVUtV0V0TGQxdlB6ZU5vTENsWkkya3NuVjBJV2J5UTZxNW9ncHFVX3dEVWUtV2xlX2hYTkMtcTFfZmlraDBBVUlQY016ckgzblFNRWQ3NFItNFl2enM5X0FBVzc0QnhOSy15UDBYZk9Kc0VvNHFOOEE?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Jamie and Jools Oliver pay themselves £1.5m dividend as profits almost halve - The Guardian. Jamie and Jools Oliver pay themselves £1.5m dividend as profits almost halve The Guardian Jamie Oliver’s business profits fall for third year in a row The Times Restaurants drive turnover for Jamie Oliver Group The Caterer Savings and efficiencies drive profitability at Jamie Oliver Group restaurantonline.co.uk Jamie Oliver Group lifts EBITDA 12% to £5m Hospitality Week
+
+- **[Business Topic]** Meta Platforms (META) Undercuts Anthropic and OpenAI on Price With New Coding Agent - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxPM3lJZHhnbnh1QzJvVHFncFJOWk1rOXh4Mk9PQXdZLVEtS0JkVE9vMnpMZEp5TVB3emlNc3VTUFJSNkFzdjVqYVdnNzdOdUJNLUozTVhoNERGSVZkbVFRVmJvTGwyeUFZYjAtMEdpdEkyWWJ4ckFtNHVjdmExQ0hlSXVTZEFFMnJua0hVajJkWC1xejZRWWZuNEFIeWZuWTJScFB2RzN3?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Meta Platforms (META) Undercuts Anthropic and OpenAI on Price With New Coding Agent - Yahoo Finance. Meta Platforms (META) Undercuts Anthropic and OpenAI on Price With New Coding Agent Yahoo Finance Muse Code: Meta's Terminal Coding Agent — Setup, Pricing Tiers, and First Look SitePoint
+
+- **[Business Topic]** Meta Platforms (META) Pitches AI for Everyone While Apple (AAPL) Quietly Turns to China - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPN1RXdmFjMC1faXdmaHNHelFOc2lXZWpzVjNmWUI1YkliUGNtbkoyT3gxcEt5TXB4ajFlSEgzWVNPaFVLSlFOdzlEcjhfb254eVlVcTc0cGxPZUJhQ2pBM1JIOUpfRUhod3Q5UG92NGFGTTZKaGp4TzRsTUZsNWNLUHJjemlSVEVKOVNNeVhJODNEWjR1dndJdC1R?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Meta Platforms (META) Pitches AI for Everyone While Apple (AAPL) Quietly Turns to China - Yahoo Finance. Meta Platforms (META) Pitches AI for Everyone While Apple (AAPL) Quietly Turns to China Yahoo Finance “It’s laughable”: Global AI experts challenge Zuckerberg’s “AI for everyone” Rest of World Zuckerberg's manifesto: Do Meta's promises and actions align? TechTarget Manifesto Destiny: Can Meta Deliver on Individual Empowerment? Cato Institute Top Meta Reporter: Zuckerberg Dropped a Major Hint About Meta’s Next AI Breakthrough and Nobody's Paying Attention 24/7 Wall St.
+
+- **[Business Topic]** Cellebrite (CLBT): CEO Shift and Guidance Cuts Contrast With Surging AI and FedRAMP Gains - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWY2SUNyZzVURTJvaDR5WHFqVmc4bmkyWTJxWmRMLU9nNDAzTjVwQkpwTzhtQmFjMjB0MDctd1RNa1h2bGNDTjJYMGRpR3E4LTVDQ2JReGdFVWlfS0RXdzZad0VqTVNSUlhvVEh5eVVhME5WREZEMHdpUkR1aDRlcVpZYjlWWDl4WXh0b2hieGQyTFdaY1ZYTXRIelUwU1pf?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Cellebrite (CLBT): CEO Shift and Guidance Cuts Contrast With Surging AI and FedRAMP Gains - Yahoo Finance. Cellebrite (CLBT): CEO Shift and Guidance Cuts Contrast With Surging AI and FedRAMP Gains Yahoo Finance Kaplan Fox Launches Securities Probe into Cellebrite DI Ltd (CLBT) Following 29% Stock Plunge and CEO Replacement Kalkine Media Cellebrite’s New CEO Resets 2026 Outlook After Record 2025 and Calls September Shareholder Meeting The Globe and Mail CLBT Q1 2026 Earnings: EPS Delivers Strong 18.8% Upside Surprise - Diluted EPS Report Vinanet Cellebrite Appoints Shiven Ramji Chief Executive Officer, Succeeding Thomas E. Hogan PR Newswire
+
+- **[Business Topic]** Fitch Assigns C-IV Asset Management Commercial Special Servicer Rating - Fitch Ratings
+  - Source: Fitch Ratings
+  - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNlhIQkFfbG9ibEo3ei1DNm4wT1BJMGFoVTZ2NlVmcU1uZnVwMFpVWGlYeHhlNmd5SjZQWDduOUhMaXhxdlhYTGdOUmR4VS1FQ2JYSUZyUDQ1cnBoeWhtUUYwbXZrLVVnLTJaN2pzTWgtVjRVR3RRR3VkNVM1ckp0WWRaNzY5N0dZS0ZIVjlnSm83dndCQ3pEMnhXTXhFX0NXTGRwb2JpTGRfMnNheHhHZlpINlZIRTVmZ29ESW9oNVM2MkN6LS1hT3JZQUY5dGhZU3J4eg?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Fitch Assigns C-IV Asset Management Commercial Special Servicer Rating - Fitch Ratings. Fitch Assigns C-IV Asset Management Commercial Special Servicer Rating Fitch Ratings
+
+- **[Business Topic]** Spotting Winners: Trimble (NASDAQ:TRMB) And Internet of Things Stocks In Q2 - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxQVHoySElrOEQtWkdtbDBqbVlBRTdiTjFPa3ljc01OclpXS193REtOZkg0cG5sTkVjOHY2UjhmVU56RzBhYk45Q3g3SDdXbXowVEFNS3BILVpSTy16OEtYclVSTTU4U0FIMXBJQ1o1cGkyVDRnMzlzTDI4NU5fY0pSczlrOEowYW1NSFJOZjhDX2FhZlFlak9NTWdJVUxlazZvZmd3?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Spotting Winners: Trimble (NASDAQ:TRMB) And Internet of Things Stocks In Q2 - Yahoo Finance. Spotting Winners: Trimble (NASDAQ:TRMB) And Internet of Things Stocks In Q2 Yahoo Finance Trimble Inc. stock outperforms competitors on strong trading day MarketWatch 3 Reasons TRMB is Risky and 1 Stock to Buy Instead StockStory Trimble Inc. (TRMB) Slips 1.85% as Shares Approach Critical Support Zone - Naked POC Vinanet 5 Must-Read Analyst Questions From Trimble’s Q2 Earnings Call TradingView
+
+- **[Business Topic]** Fitch Revises Tanzania's Outlook to Positive, Affirms at 'B+' - Fitch Ratings
+  - Source: Fitch Ratings
+  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQZTZ2Tzd3M2c1cW1UcVcyaFdrZmpZNUFkZ3REZ1FDY24yU0RaRkNTYW5pT0xSY1NLUzlzOGd6d013eXY2TWExSmN2MWU2b0hlZVdEbXduUWVnNHhoS21USGRMMnREUV93WkVIOERoLXRzUE1aUnhDUkNXMkRWb1I4X1NfeGZZUUVzZzRUeGx1QnJtZ2xfMTV4bmx0NTdqal9Jajd5dnFmaUFNRGgyQ2M0SldxYXFfQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Fitch Revises Tanzania's Outlook to Positive, Affirms at 'B+' - Fitch Ratings. Fitch Revises Tanzania's Outlook to Positive, Affirms at 'B+' Fitch Ratings See more headlines and perspectives on Google News
+
+- **[Business Topic]** Fitch Upgrades Summit Midstream Corp. to 'B'; Outlook Stable - Fitch Ratings
+  - Source: Fitch Ratings
+  - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRlZUdkp1SlJpRHRDdDZtVGVFYkRFZlM2YWNsZC1fc0YzQXpaaVlUT1hDUFNJM3JqMUtJcnZUQzhXVEpROU5xSEpQaklmYjBYTDhpVkpFNGZUT3lRRElXbjFQU1c5cEZmSFhMeDBEZXM1U3JqRk82UUlZTXBpU2RjMTVZakRzT3BiZkZnU0wwajM1SDYyUXhHVkhrNVNGTVlmODkyUXNCMjA4dFl2amFhT3hBRURVVXlvRFJGeVM3S28?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Fitch Upgrades Summit Midstream Corp. to 'B'; Outlook Stable - Fitch Ratings. Fitch Upgrades Summit Midstream Corp. to 'B'; Outlook Stable Fitch Ratings
+
+- **[Business Topic]** Spark New Zealand Ltd (NZTCF) (FY 2026) Earnings Call Highlights: Mobile Growth Offsets Legacy ... - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxOUVlacXRpZm9GdlBTUFoyU29yMDE5MUZnT1k4Um41cVJDLVRkQ0NtcEZtUlFlSnNhbWJFNThyLTdVbEJndVM4RFBFaVU1M3FmWGE5cnJQdWJ2bnV1aDNhT3lqbi16UEdKRlVwS0l6RnlwMlBxaDk1VWh3WDZkcFFGZ3gzVDNtSjlCaWJyeU9CR2JuWUJEMkE?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Spark New Zealand Ltd (NZTCF) (FY 2026) Earnings Call Highlights: Mobile Growth Offsets Legacy ... - Yahoo Finance. Spark New Zealand Ltd (NZTCF) (FY 2026) Earnings Call Highlights: Mobile Growth Offsets Legacy ... Yahoo Finance Spark New Zealand Limited Reports Earnings Results for the Full Year Ended June 30, 2026 marketscreener.com The rationale behind Spark’s digital services strategic review National Business Review Tech: Spark's future, rogue AI, aged care algorithms RNZ New Zealand Stocks Took A Breather As US Yields Calmed Finimize
+
+- **[Business Topic]** HSBC Holdings plc (HSBC) vs. UBS Group AG (UBS): Two European Banking Giants, Two Very Different Stories This Quarter - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxOeFBlSDQzVEhDbGJiTFpZdjVacG9vcDNEOHd0T3NHTEU5cWtacFZvMWY5SzU5N21TZkwtUnBYZ2hjOGF5R0FDSjlUeHNBYmFZQnl6c09WeGdrV0VTcktUNDdfTUgtZUM4Z0NHS3hzamRhYUZlRktEOWp0RkExTTNKSVhHVUdkTzFqdVpPX0hjTUNnTk10?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: HSBC Holdings plc (HSBC) vs. UBS Group AG (UBS): Two European Banking Giants, Two Very Different Stories This Quarter - Yahoo Finance. HSBC Holdings plc (HSBC) vs. UBS Group AG (UBS): Two European Banking Giants, Two Very Different Stories This Quarter Yahoo Finance HSBC Bought Back 3 Million Total Shares On Other Exchanges For GBP45.4 Million On Aug 19, HKEX Says TradingView HSBC Shares Fall 1.2% as a $1 Billion Buyback Equals 0.3% of Market Value TechStock² Share buyback program reduces outstanding shares: HSBA resistance levels in focus Traders Union HSBC Advances Global Share Buy-Back, Cancelling Over 16 Million Shares TipRanks
+
+- **[Business Topic]** Fitch Takes Various Rating Actions on Affirm Asset Securitization Trust 2024-B - Fitch Ratings
+  - Source: Fitch Ratings
+  - Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNDVtdFVLMVBYN2xkYmFsakpXd0k1QllEWjJURkI3dEhkY1pRRTdSSTlEb185emhIM19rQ0U1VnNwSk16SG5BMVo5ZzkwVEg4VS1UNmc1RjM2M1hkQjZWMWQzbXBsMHJDQ0tWS1VGMG5wRXA5dDZ0eExZME1GbkM1UndmRDZvcER1R2loNk4wakV4eHl4XzE4ZWhKZzE3cGhFZmI1SWxlbGQ3Q3prOF9UR1d5ME5mNEl2ZVNGY0d4Q3pHdVhieTFyY1Z1ZUsxRjNGOFlwODd6MUZoT3UtNmxr?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Fitch Takes Various Rating Actions on Affirm Asset Securitization Trust 2024-B - Fitch Ratings. Fitch Takes Various Rating Actions on Affirm Asset Securitization Trust 2024-B Fitch Ratings
+
+- **[Business Topic]** Apple's Next CEO Could Spend More to Catch Up in AI - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNeG5jZXZPQnpDcjBEVWxDMDljRDYxMVd3Q0xKTS10WUtRdzlKVlNXRzBQNHdvSDhOMTdqaXR1TFdXTnVYaEZzR05lYkd5VGFJSklLZnY1aXVhdVBrTFVNTGQ2WEdBWU5vVl85WUNFaGtsRnBkc1F6N0d5WWgtUzFkeWNleWVHVW1GN3J6dHp1WmxaOWs1RkE?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Apple's Next CEO Could Spend More to Catch Up in AI - Yahoo Finance. Apple's Next CEO Could Spend More to Catch Up in AI Yahoo Finance See more headlines and perspectives on Google News
+
+- **[Business Topic]** Deep Dive: Same HFrEF Data Drives Differing Guidance: Which Is Correct? - Medscape
+  - Source: Medscape
+  - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWtMSnB4MTlOcGp4VFFqSGpadlFuNlZvYjZ6YnNjVnVFbVVDYzdQOUdmSGJ4WDR3M2JSU2M5Vk44T3BhRzlnN2tDWFlIY2p2VnhMUGRTbDU3WkgzNDNmOVdDcl9vZlhZUGpySmtwWjg3THZmOFdZZmZNR3dWQVRueW9rdEowWE9UNW01bFFzNEJITzRhN08ta2gtdENtN3hlMWFzaTFBYkV0R0Vm?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Deep Dive: Same HFrEF Data Drives Differing Guidance: Which Is Correct? - Medscape. Deep Dive: Same HFrEF Data Drives Differing Guidance: Which Is Correct? Medscape
+
+- **[Business Topic]** Anthropic brings Mythos 5 to its Claude Security vulnerability scanner - The New Stack
+  - Source: The New Stack
+  - Link: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xOVkyRXJmZzVxWWJubzdfRHRMZWJmZ0ZaSEhhRkNjUU1wZkNsdEJBanRIOHAwa3p4dEdhd2dlMmNhY2tPRVdzTjY0Qi1sVjRPcXFMa1JXcEwteWNDclIwSks2VFN4cjA?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Anthropic brings Mythos 5 to its Claude Security vulnerability scanner - The New Stack. Anthropic brings Mythos 5 to its Claude Security vulnerability scanner The New Stack Anthropic embeds Claude Mythos 5 in security tools, pledges $35M in credits Dealroom Crypto Exchange Kraken Says It Has Access to Anthropic’s Mythos Bloomberg Law News Kraken's parent Payward joins Anthropic’s Project Glasswing, taps Claude Mythos 5 for security CoinDesk Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access MarkTechPost
+
+- **[Business Topic]** Goldman Sachs Sees Nvidia Setup Few Expect - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxPbExEOHdxdFNYdm1XMUhnRjFtSHFRc2F4dFFqazNnM1VxZXAyWk9KQlA1bm9DcVBQUEN2WXpEY0dwNTY4aWJ1UXoxTEhGMnVLYnhZOGotemlxbXRCamFpMXg2dm8yeERLaWVITEtzbnkzQ1hsZTBRd3JzVHNCQW12a1lxbVFVZDZrLWlyZnF4bmNvc3hPRmF2MFN2NC0?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Goldman Sachs Sees Nvidia Setup Few Expect - Yahoo Finance. Goldman Sachs Sees Nvidia Setup Few Expect Yahoo Finance See more headlines and perspectives on Google News
+
+- **[Business Topic]** Big week coming up with PCE, Nvidia earnings and then Jackson Hole. Here's what to expect - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxNWUF5cVVGcVhtWlpsRFlabG52NFZDcDdZdUFfX3ZyemttcVdZN1lxUGMyeG93TkI1bk1CVkhZaTZ1OHQyb2k2RWtwcDhuaElvUE55Q3M2X2RfbldHSXdHSzhQVjJMVmFmMnZtb2paTWRjUFgzUzR1aF9IbzlZMF95MUhXVW55MVhGdnZ4MENzZw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Big week coming up with PCE, Nvidia earnings and then Jackson Hole. Here's what to expect - CNBC. Big week coming up with PCE, Nvidia earnings and then Jackson Hole. Here's what to expect CNBC Sandisk Trades Higher as Momentum Builds Despite Mixed Technical Signals finance.biggo.com 3 key takeaways from a tough week on Wall Street CNBC SNDK Stock Plunges 11% as SanDisk Recovery Collapses and $1,500 Comes Back Into View FXLeaders From Commodity to Cash Machine? Sandisk Targets 80% Margins in AI Storage Boom TradingView
+
+- **[K24 Digital]** Kenya Power explains why it keeps carrying out routine maintenance on transformers
+  - Source: K24 Digital
+  - Link: https://k24.digital/news/kenya-power-explains-why-it-keeps-carrying-out-routine-maintenance-on-transformers
+  - Draft material: Kenya Power explains why it keeps carrying out routine maintenance on transformers.
+
+Kenya Power explains why it keeps carrying out routine maintenance on transformers Kenya Power has explained why transformers remain among the most closely maintained pieces of equipment in its electricity distribution network, highlighting their importance in keeping homes, businesses and communities connected to the power supply. In a Facebook post on Friday, August 21, 2026, the utility company said routine maintenance plays a critical role in keeping transformers reliable and extending their operational lifespan, while also reducing the likelihood of unexpected power outages. “Have you ever wondered why we do routine maintenance on our transformers?” Kenya Power posed. Kenya Power described transformers as some of the hardest-working equipment on the power line, underlining the demanding role they play in the electricity distribution network. The company said regular maintenance helps ensure that the equipment continues operating reliably despite the demands placed on it. “Transformers are some of the hardest working equipment on the power line,” Kenya Power said. According to the utility, routine maintenance is intended to keep transformers in good working condition and help identify issues before they develop into failures that could disrupt electricity supply.
+
+- **[Business Topic]** US Seen Mimicking Japan on Currency Debasement - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPTk5LcHNobGdPZXFfZUJPSU9Oc3RfVHRWcVgwaTBDZnd3LTVieWpTWVJUdm1uemR4YllWckphMllpQWFxRVpCenFCMDdnS2RZTnFpNk9mZzJJbUVhcl9VWUNWUjNuUkZrUXk2QVhfcFpodmhBdGFHTER2Z2xNV3pYdzdnZWRXMGktWkYzSmJsWjVwQ1luN1VCZllzS3czOUlrSm9QOThJT1RBdDFUd28tMlFMVjlCZw?oc=5
+
+- **[Business Topic]** SEC accuses ex-Bank of America utilities banker of insider trading - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDFTREhxc25WaGJDaExvOHFlTlh6SHdMMkxvMFJlT0NvN1U0MFFBM1VvVXc2TDdUMC1oVGF2LVE5VXZPc3RkRFhPN0NMTUJsM2RBbEpSSS1rU2Nuc0x3Um5pYkZTQWQ5bXJmd1VMZFZwOUlIOGZtRFZXS0lpUE4tSnJiRUQ?oc=5
+

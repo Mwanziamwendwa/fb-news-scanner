@@ -7438,3 +7438,235 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://www.kenyans.co.ke/news/126390-long-distance-drivers-protest-ntsa-removal-cd-licence-endorsement
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 19:03 (Nairobi time)
+
+- **[Nation Africa]** Kenya Information and Communication Bill a solution looking for a problem
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/blogs-opinion/opinion/kenya-information-and-communication-bill-a-solution-looking-for-a-problem-5565386
+  - Facebook: POSTED (1289239267586516_122111011323407566)
+
+- **[Nation Africa]** Sh10m fine, five-year jail term as MPs toughen match fixing sanctions
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/sports/sh10m-fine-five-year-jail-term-as-mps-toughen-match-fixing-sanctions-5565480
+  - Facebook: POSTED (1289239267586516_122111011527407566)
+
+- **[Nation Africa]** Report names 500 youths in Homa Bay rally chaos probe
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/counties/homa-bay/report-names-500-youths-in-homa-bay-rally-chaos-probe-5565528
+  - Facebook: POSTED (1289239267586516_122111011581407566)
+
+- **[Nation Africa]** Milking success: One cow, one dream, endless possibilities
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/gender/milking-success-one-cow-one-dream-endless-possibilities-5563548
+  - Facebook: POSTED (1289239267586516_122111011647407566)
+
+- **[The Kenya Times]** Ruto Gets 8 Key Demands from 1,000 CEOs to Revive Kenya’s Economy
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/business/ruto-gets-8-key-demands-from-1000-ceos-to-revive-kenyas-economy/
+  - Facebook: POSTED (1289239267586516_122111011725407566)
+
+- **[Education News]** Why Kenya’s push for a University in every county risks undermining higher education
+  - Source: Education News
+  - Link: https://educationnews.co.ke/why-kenyas-push-for-a-university-in-every-county-risks-undermining-higher-education/?utm_source=rss&utm_medium=rss&utm_campaign=why-kenyas-push-for-a-university-in-every-county-risks-undermining-higher-education
+  - Facebook: POSTED (1289239267586516_122111011773407566)
+
+- **[Education News]** Kivaywa Boys’ parents hit with Ksh.11,000 levy to rebuild fire-razed dormitory
+  - Source: Education News
+  - Link: https://educationnews.co.ke/kivaywa-boys-parents-hit-with-ksh-11000-levy-to-rebuild-fire-razed-dormitory/?utm_source=rss&utm_medium=rss&utm_campaign=kivaywa-boys-parents-hit-with-ksh-11000-levy-to-rebuild-fire-razed-dormitory
+  - Facebook: POSTED (1289239267586516_122111011803407566)
+
+- **[Standard Politics]** Gachagua's Emurua Dikirr tour faces challenges amid heightened tension
+  - Source: Standard Politics
+  - Link: https://www.standardmedia.co.ke/politics/article/2001555844/gachagua-s-emurua-dikirr-tour-faces-challenges-amid-heightened-tension
+  - Facebook: POSTED (1289239267586516_122111011827407566)
+
+- **[Capital FM Business]** Kenyan banks lend Sh245bn to MSMEs in H1
+  - Source: Capital FM Business
+  - Link: https://capitalfm.africa/kenyan-banks-lend-sh245bn-to-msmes-in-h1/
+  - Facebook: POSTED (1289239267586516_122111011857407566)
+
+- **[Politics]** Ndia MP Kariuki stakes claim as third force in Mt Kenya politics - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOWENvMjNpVV9TY2ZyWlNEeS1weFRUQTgxT0ZRS0p2OUFrV0dkdzVMTWozMVBpenY4ZUFUWGFRRW9HWXBBVVNjdThSSUV1MlFfVjQ1VDlnWVRtSmt4cWNpcG9iLXc0bDJqSWdHTUR0cVBhbUlwMTlGX1QtQWY2dWVmLVVMNmV3VjBGTk1haVd3Qjk0WmZYTTZWb0I3cjZYenlIUE5RcmRINlR5R1RqTEp4ZUZxVGtVcEhTVUE?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111011881407566)
+
+- **[Business Topic]** Morning Bid: So much for the Bessent bid - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE1uWDRxb0NtTDZ0RnN1bUU2dXlHYzdDbTNfb1NSUEI5dV9oRzdVMjk5SmtnSXlKRW02QzVxYnJCOEJ4RmpoclAyVU0wbW4ydldlb3lTcldxbkNtcEgzamN4ZHBJU1V0NXF2THhwRzB0V0k3TkhDdEstaEJNd3IwWHM?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111011971407566)
+
+- **[Business Topic]** UK borrows more than expected in July as Healey prepares for first Budget - BBC
+  - Source: BBC
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTbzdQc29iMFMyVHZ4YUNpSk1RN1VWelY2ZlM5X090R3E3TGpEd3ktaDdaTEhZcWhGbDdSczN0cHBKdlg0QXdyaXl6WUZONUpkREpMWGtIVWtIZw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111011983407566)
+
+- **[Business Topic]** Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUHBEMV8zTVVPOWVRcnpDUHZpRGJ3SkstMk1LWVplNXUySXJzWkNwZFJ4b1BDNllqb3YzeTUxcjR6azFsdnBadkxEMHFaLUhDSGR6S1c1bXVlM2dqNFI4dU1lZ3prZGVRUU5DZTZFOWJ6eHRXSlRGSzdyY0ViYjlPTkdEbE9HaXJ6QTB0WUhRd0NiSmZIZzJLbFprWGR5T001Z1c0NjdEVU_SAa4BQVVfeXFMTlNUNjE3OXZTbGVJMUtjNHViZmZRS2JvUnY4Q2xmU1dGVjBwWmlpSXlKNVV3cmlBd1NVTE9OTXVtYklXZWFMYUZGbXNpYnF6WTE1VGZVZHFTYzRiOEJ2VDlGYWd3N2V4UVR6X2VEdGpTbmtoR2V0NlZBcU9OUDVGWm84eG5BZm5qOF9yY0tRQVRvSzJPR2NuYnFzZ2llNTdId3Vzel9kTjVKejY2ckR3?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111012013407566)
+
+- **[Business Topic]** British retail sales soften in July after June World Cup boost - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPMzBmdHBWeFA2OXROR0JpQldwSUZoODQxb0ZYT2t2MFk5X3REcHh6T0JxYTBEUzk2N0NwQUI3alpRRWVHVi1ydnowU2t4N3RxeGpDalhGUUlfbUY1VzdNTkxyUEhmTGhhMlgxdGxVVUZUQmdhN183RjN4SjZNdm5kcUdXaTVFdlktVjhveFNZQzNxeEFEb0IxYzJtanUxZ1dFZnFuZVRvMA?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111012151407566)
+
+- **[Business Topic]** China delivers new homegrown deep-water offshore engineering vessel, pre-equipped with underwater robots - Global Times
+  - Source: Global Times
+  - Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkRlhZNG1MdThHUlBqTi1ZRWg2c201T2xFTnVOT0pHeDJYeFZfcmFJeFhiRTc0UXJuUmFyRThsNkVrSTJaSEV3V3RnS2lnYmREd0J0Zmx0cl94T1RuQTlhRVJR?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111012271407566)
+
+- **[The Kenya Times]** What Motorists Need to Know About NTSA CD License Changes
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/latest-kenya-times-news/loddca-ntsa-cd-licenses/
+  - Facebook: queued for a future run
+
+- **[The Kenya Times]** Ministry of Energy Sets New Rules Giving Kenyans Priority in Oil Jobs and Contracts
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/business/ministry-of-energy-sets-new-rules-giving-kenyans-priority-in-oil-jobs-and-contracts/
+  - Facebook: queued for a future run
+
+- **[The Kenya Times]** Linda Mwananchi Politician Seeks Medical Help After Attack by Goons
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/latest-kenya-times-news/agnetta-mwangale-rally/
+  - Facebook: queued for a future run
+
+- **[The Kenya Times]** Sakaja Unveils Specialized Teams to Prepare Nairobi for El Niño Floods
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/latest-kenya-times-news/sakaja-unveils-specialized-teams-to-prepare-nairobi-for-el-nino-floods/
+  - Facebook: queued for a future run
+
+- **[Capital FM News]** JIM caravan takes govt agenda to grassroots as Koskei calls for stronger public engagement
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/jim-caravan-takes-govt-agenda-to-grassroots-as-koskei-calls-for-stronger-public-engagement/
+  - Facebook: queued for a future run
+
+- **[Capital FM News]** Murkomen warns ICC could prosecute Orengo over alleged use of goons
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/murkomen-links-orengo-babu-to-alleged-homa-bay-goons/
+  - Facebook: queued for a future run
+
+- **[Capital FM News]** DCI seeks 14-day detention of lawyer Angela Mulwa over Dr Mutiso murder
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/dci-seeks-14-day-detention-of-lawyer-angela-mulwa-over-dr-mutiso-murder/
+  - Facebook: queued for a future run
+
+- **[Capital FM Business]** Kenya targets one million mortgages as affordable housing drive gains pace
+  - Source: Capital FM Business
+  - Link: https://capitalfm.africa/kenya-targets-one-million-mortgages-as-affordable-housing-drive-gains-pace/
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Why Khalwale blocked President Ruto from attending wife's burial - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNTHN0ME96XzY2a0doUVZXRVlSMEVIVnJlNy1YbGNqZEl4YlIyWXV4WFBIOTV3ZVJNLWJYek5tSXVBbE1vNmRweGcwZjM5N3NYdFh5YmZHbXlMdXFTNjFubHlLSTNNRTJ0T1RBRUhGb3p5cl9YcDJDR1Z2RVJzWlZ4WlIwWTk0SnRfd1dOZElkeVRtQThWR3F0eW9rS0pBMHN5a25nUUpFVTBMWHJIRk9zQzBZb1RZbzJKZkJKTVd4TQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Gachagua visits Ng’eno’s mother, demands answers over MP’s death - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNa3FKRERrbW9QTXhQNkRENkhxbm5jNHN5MklvQWd5aS1hU3dvSndWNlhnRnZhZmpqcl9mNGxnQjRBOGtub3ZneUxQZHJGTVlYNFZYdWZtWjJncDBPNnNDNXJLZV9fMFhwdm56bGFvZlZ3d3JQT3hYMmprUE5paXBVVVpTX0Z3M3Z6bmloU1dXbzNMOS00MElWRGo5T2F1Q1V3MzdRLXRn?oc=5
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Opposition fires from all fronts - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxPNUNuWUlNMEVubDRScnhKNnBRR3dWY1FxVHhBUXFHTHlpSkRTX2tRRk9sVnk3a3JWMDRIUlJNckFRdFRmRzhEUjVRaDlYc0hoNGE5YzFxUEc0Wl9nbGdtVkh1ekNsdFRhM1FzV2t6NlRkaGZnSmRWM0twQ3Fjc3JObU9lcTduWUNVOVBGRHhTZWZYdw?oc=5
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Gachagua deputy hints at talks with DCP leader to shelve his bid to back Sifuna - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOVzJ2aGJERWxpWjJHNGN2dVpwMHNRejFMb2Fzb3pmbTB2bi0wM0hFUHY2eE45b1FnbURyMnpwOXEyZU1oQWc3alVSSXgta0JjNVRtdlN0NkJpbHM5ajJoa1hfUE1hR2RZYmFFcjFMZ2VrcTlJRkZ0eWhnR2JiemhXa2gtd1BnVW00eThBRTIzcllNQm1lSS1ObkNMUGUzXzhlRWlZVVhnM0lQQk9KdU5sakdqc1VaRmRYUURZaQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** 35,000 New AI Jobs And A $10 Billion Bet—OpenAI And Others Are Hiring - Forbes
+  - Source: Forbes
+  - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxQV1JtWjBMWlpMWXZDc2M0QkpiQmg4dWRZT3YxdVVYMllvdDMzTTNKRU9YWGZhemZydC1MeEMzRnZJb0VkdHNGRDJfY3NxMXBRdFdjVXlSVmVTZXVNcS1lbWV2Q19BV01hU0E5ZnNPNkh5dGRtcHp4QVN3enh2UElRaUpYUEFIQ29iMVRCTDkzRzdTdUJBZlVVOTZaM2tqcHZ5TnE4a2dRODZBM210ckcwTDNlaUZYLV92TXMyMg?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Iran War: The Insurance Bill Goes Far Beyond Tankers - Seeking Alpha
+  - Source: Seeking Alpha
+  - Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxOSDQxOG04SmlEVVYtTmxDdlJQd0tTa0pKUzZ5NzdqM0lSU0lvS1E4TWFabzJlQ2RwQjVPSFVXcUZjUVc1NVFfRzY4SkRrWmxITHE2dE1CSVRaYkZjdWVRem1PSFhzNFZ3STFIOU5rTGFPNWVpNWRqbDRJc2w1eDlpUURjOFE2NE9GOVplVDZoMEZheGg4YnMw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Proposed London datacentre will have annual carbon footprint of 27,000 flights to New York - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV3NfNW9ncm9PNll5dHM4QjhNRU5vejJJNHQ4ckdhYUVHb2VDekZGcF90SWtrWElZN01jY1dmSVN6a1JGeG42Mm5yRHd5S0pqdlZndkpicWN4RDJsOFRJNXVNeTBMTTVlZzBfeURjTFlqQ1JnTGlTallhMWsxcWctYmxTM1hJOGh0TUM4OHBOa3FQbVRGOXpFMWRaczk4anVIMk45b25ET3A2WWdHdGx1djRQdHFvVm1TVFFJZmtIRHRxU3RISVotemJ6WVItTzJyVi1F?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** ‘We’re not remotely prepared’: Labour MPs fear party has gone soft on climate crisis - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0lKd3VKclQ1QVNnU2ExUWFIS0tjeTJaWFVJUjJzMUFTS08wSGQ0RU8zQmpIcWpOM1h4aVk0TzFLR0w1YlpJTmdOWjB3a25qUkhxMlZwYWFsRTZ1MjFVZl9aSjRPVEtCMUxJeGFNSVR3bXlERFJGNEtZLU1BdTBVa3EyUjFLYXRpWFBUVExvNlp1SW95NFRkZTFXaXZKaENrSG9sZmdOTkFMc0NkaU9icg?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** China Orders Tesla’s Largest-Ever Recall For Nearly 3 Million Cars - Forbes
+  - Source: Forbes
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVEs2ZnlTcFlhX3pBUC1UY1MtTjladWtrTm5JQnVWbGdBSS1QU09WT1hZYUlRbi16MVBvaklraWZuYklfT2duUXRfZlNycHpuSk5tY2x4S2Z5bnNpNzZXLWdLeG9ScXVPdzBiTTdvTWlPY05fSkdSNlhkN2NrTzZfcERid2hXUVliQnh4NnFrMlIxLV9vN1RvWnY2ZHJMMWluN2hnbTU4V0NFLS01TFhSbk5HLU9PYmJC?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Victor Niederhoffer, Known for Big Bets and an Unconventional Lifestyle, Dies at 82 - WSJ
+  - Source: WSJ
+  - Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE9SVkJNN2VDOWJCdlBKYW1ObGVKa0dRc0RXSUpGSEUyOVpCdWlzZEZaRW1uQkN1UnoyeEJvbzNPYzNLZWdvMWV0M3pHNUdjeHBBMG1QaG5KZkZxTVBqdkp5eUx6MVB5dHFNWWFLbHQxUy13c2tLSmJHVTFBWQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Citadel offloads 80% of portfolio scooped up from Situational Awareness - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFV1YnZiWEpERzZsbGdLX2tyZGNmUW1HWFM3R2xFM1AzUGlVOFE4SlhrSTF1S1pZQ0NkbFRmQ1FEblNOWW1hUXlvYUpJRFlGMW9vR0pPUDBQeEdlTE42bWt5b0VlNk5PMzZ2eWQtVVdoenNTOU0xMk9YS2Y2V3NfYlBZMEE?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Apollo says hackers accessed personal data in latest Wall Street breach - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0lXVHFUYlhOSWFHVmdVSEdkb3JzOXIwM3h2SjloOU82aGllWWtscDVQSElvSXVHVjY0YTdyTmtCMUtiRUhaSHRhVkJobFRIRC1LVjJSQVc3Q1VTcVdUa2pHUndUeldNRmIxaWN3QWdlbGZOUXdNN1RPN1lHZjNMTmVTN3o?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Ex-Abercrombie & Fitch CEO Is Found Mentally Fit to Face Trial - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPalR3RS1BZUZiN095WHNGbUFHTFR3ZDFKa2xoOFgxYUpKUkJ0QnpRcXB6T3AxNXdwWkdRZmZtTzY1OEpjbU9CSFh0a2FtWTBKaTVWSVJpUW5sbHhaSlhkTE03Szg4TVVtakQtd3dyeUtPYzFMSVRzcUU5MUlHY09hV2ZzaUYyUGt6andWR0VDT1BtZ2dnVXdjLVJ4NDlCQm5qRTZQandWLWxEeHpUdVpKMw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Broadcom is primed for a big gain. How to trade it while protecting against risk - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxOTkJOUE9OZkVLWF9Oa1BkZTM4eUtfQ2JjSkV2MEF1YjhkZkRaT2xBcDU2WFVjMk5BODg5M193ZHNKbUZfaWZQcmJySDVhcEhqa2syclF4cVMtektnQ1VQakt4WEphVnRUc25UaUQ5X0NOZkwyeG1pTzlRazVLQWp1THFmQ1ZqRFpfakRXTDVFQ0RJUVBaVmVNLWlzMmVMb2Q1cTc3dUJWY0xhU1I5dWpfOGthcDlGOTg?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Tesla sunsets its Solar Roof tiles - The Verge
+  - Source: The Verge
+  - Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE5xU2lTcXphSUNNOVpqVWQ5OWhGWnVlc1NEY2dITXB0UmFIWExXTlhOUXVfc0hjZVJzUW96WjY1dU1BZU00NzZJa2xoNGpzU2ctOGZWaXFyeWRiTVZaMHc0VUZYRm1ab2I0ZHpTTDdEZm9oeVZoTDhuWkdmWkU?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Clifford Chance advises Paragon Partners on the acquisition of Babtec - Clifford Chance
+  - Source: Clifford Chance
+  - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPakE1VURQVW1CcXc3R1VrcGdTamRMTUFCZ1Nib2c0dGliT0ZzWVRnLTgxZTRzTVQ5Y0Voa25jdHp6UHpwb2Zmemoxc3BpbG5hOTE3dklnRVRibUg1ei1aOWF6MmNNVGVQSmEtSWZzcldraEhpaXoxOTRJNkM3dTdnbGRUaTVqSF8weTMybDZTNUVnbDdTQmhEWkNCdUdSc0p4NXFKS3lxLTVuQTdpcGpvYWxIWFk3bS12LUV0ZWdaaEU?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Waterford: Why did Facebook founder Mark Zuckerberg buy an Irish castle? - BBC
+  - Source: BBC
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BX1FDbUVWWDJ3eVg0ZVVXOTJSUTBUcGtHUXBDdkt5WVdzRDJUVlZyM0RRN3VBdk5ZUFhaLUZESzNyUlJET0xLam9EbkRmTC1pc2JxeGkwZGd3UQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Trending]** “Tuachie Keys”: How Street Culture Is Reshaping Kenya’s Digital Conversation - Vellum Kenya
+  - Source: Vellum Kenya
+  - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxNUmU3YXJaNGFFWVFYVXMycTlhSU1iZ2NxOU93ZnN2NUZ0Z1A4aTNWWmhBNU5zTGN0bmpicWkxWDAtNnNydzByQ1B6MFkydEJrTlo4X093a0VDbjZLR090VHo0N3hhaW8xVXk1LUpROUZ3R3NvaEhLaEtIampYLUxtU0dUU0dkX3lxaGpMbWZXRDRSUmhsOFM2RUxB?oc=5
+  - Facebook: queued for a future run
+
+- **[SPM Buzz]** One Dead as Suspected M-Pesa Robbery Suspect Sparks Deadly Chase in Embu
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/kenya/one-dead-as-suspected-m-pesa-robbery-suspect-sparks-deadly-chase-in-embu/?utm_source=rss&utm_medium=rss&utm_campaign=one-dead-as-suspected-m-pesa-robbery-suspect-sparks-deadly-chase-in-embu
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Vindee reveals he lost all his streaming equipment during Netherlands trip
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/vindee-reveals-he-lost-all-his-streaming-equipment-during-netherlands-trip
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** See you at the altar: Isaya Yunge teases wedding with Charlene Ruto
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/see-you-at-the-altar-isaya-yunge-teases-wedding-with-charlene-ruto
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Banter zibaki online: Anita Soina urges Kenyans to keep political rivalry off the ground
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/banter-zibaki-online-anita-soina-urges-kenyans-to-keep-political-rivalry-off-the-ground
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** Kenya, China’s FiberHome deepen ties as digital superhighway push gathers pace
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/kenya-chinas-fiberhome-deepen-ties-as-digital-superhighway-push-gathers-pace/
+  - Facebook: queued for a future run
+

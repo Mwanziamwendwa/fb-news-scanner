@@ -5215,3 +5215,280 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://k24.digital/entertainment/celebrity/diana-marua-says-bahati-made-her-life-more-than-she-prayed-for
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 10:08 (Nairobi time)
+
+- **[Business Topic]** Private Credit’s Next Big Thing Is $1 Trillion in British Pensions - WSJ
+  - Source: WSJ
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHFud3NUVXYzaUYwRmgxZjR2VWk3dEJRTWczOHBtRVZBUWtoUThRaVlScXdaa09Wc3VVeU9ic1VCcDBmR094bHhKbXFVOUk0WEhscHZsN2NvbFR4MXNPcGN1a3NIR2V5UkNBMkxsZ0NvcHp6cUhDQzRqWnZYUXFacW8zaDlrQ2E3UEZZd0RtS0JRWHJpZWVHZU5nZUNTV0dvaC15em05bG9hMHlPQWZrLQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110894905407566)
+
+- **[Business Topic]** Prime Video to invest more than $2 billion in Latin America through 2030 - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxQNjBPelh5b212X096NTkzUDBDMlJNN2VHTW1VQUFFcS1QTC0wQlBMUlprTC1yQ3RPLU1HTFd2bmhIQUkzUlZlaEQ4UDVZUXVMalcxNUphdDUtOFdaX0lTZDVLdkYtY3pvcEFVdnR4WGd2U1JBRkZXaHNuZzFuVEMxM1YtOWs4MDg3VkluOVpfMnVNd2dpMU9MREdlRWVNNzJkU3FfdDJ0cWR3STY1dFV4X2xTT0FEaHZkTjVzM2dYREswM0RB?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110894917407566)
+
+- **[Business Topic]** Lucky Strike Entertainment to Report Fourth Quarter and Full Year 2026 Financial Results on August 27, 2026 - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEZTT2YyblNCbFVuZ0E0dWQwWnNtMEhoNjJzWU01QUdtYklkUzNjTnllNFBTakM1aGVLanNFbHNab1Q1R1k2TjlpNGhQM2hINzlzR3BRUC02ODY4bzNKZkFSRkJpeURDWGNjR3FKMjBPY0dVMUR6VElUTDlKb3M0WEVicks0YkVPTjZocXd1aEZyQTdaWTVHSUo5cXNDUk54Z3lsbVZ3?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110894953407566)
+
+- **[Business Topic]** Delta Wins Challenge of DOT Order to End Aeromexico Partnership - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQWm15cW9odTZURGJIM3ZhUldTdXBENkVXU0pwakpZbzFCenYzOFloc2xpOFNaSEoxNjZMdHA2RHRGMHRtRTZUZmZYZUFXX2w3TVhSUHN2UHJmWldLYXFZUkQ3NkxLZkRxVnRIdkJKSElwQnQ4SDk1bUU3b2FDTnRtZnpmd2w1V3lhdHNJMDZzYkJWYllFelVDVWVpTldxSHpNSnRfN2JZaDRoVndlZ0x2Z2RYUUs?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110894965407566)
+
+- **[Business Topic]** Watch Record Credit Sales, Risk Amid Rate Drama: Credit Wrap - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRVd6a0RnT3NISjRDT2VLWHdqSThDQXdxUy1hYXg5ODFKN3FSV1RlYzJONTc0ZmVWNnFrSVl0V3VlVml3YlZYQnk1Tk13TEp1eE9NUS1rbFdtbmhLS011Z1VyemdFU2JHN2ZlYWpHajBjbVV2X3gtVkJtNHFvUXl6RUx4WXdsNVg4NDdWSl9QaTlVSmExMGpGQVRNTGhVaHl5U05JR2FFdWwxdGc?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110895067407566)
+
+- **[Business Topic]** XRP rallies 22% but still misses top analyst's price target - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxQVC1OcVA4bG1BUDNZR2dGcmt6RWxUWG8zYzBEaUxLWFgzdi1yTWJkQTY1dDV2bWJwQXBYOFF4aVpwWjZtb0l3UUxTSFdLZ1hWaWxDX0tYSTVnaWlZQUpEUkg2QVlEYzZ5TXl2aHFJRGRMWVBvdW9QdEctaFc2SE85SHZxemozMkZNdFdmVHBDNjlnZXNmSUtZ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110895079407566)
+
+- **[Business Topic]** EPA says lead scavenger in airplane fuel poses health risk - Chemical & Engineering News
+  - Source: Chemical & Engineering News
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPWGloRUhUXzc3YnZxSXpaUkhVLUZ2dGRET1NiWGlvWnV0T2l0bWU1RGh5SUp5US1jR1V3M2JlRU9wcHo2MmdKZFNVdDRyQjdXNDFGdW1Bdms4cXM1MTVzV09yVXpyRWljU09VTjFfNXRyZFUyOXpNTE9OS2xSZ0JVSW5HUjJyd05CcHdMWGVOMmxEZUI3czFaRWpMdkRhUXUtUW5rSXlqY0pUS1hKUVk0LThn?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110895103407566)
+
+- **[Taifa Leo]** Gachagua aapa kutembea Emurua Dikirr licha ya vitisho
+  - Source: Taifa Leo
+  - Link: https://taifaleo.nation.co.ke/habari/habari-za-kitaifa/gachagua-aapa-kutembea-emurua-dikirr-licha-ya-vitisho/
+  - Facebook: POSTED (1289239267586516_122110895121407566)
+
+- **[Standard Politics]** Ruto moves to mend ties with the church a year to elections
+  - Source: Standard Politics
+  - Link: https://www.standardmedia.co.ke/politics/article/2001555842/ruto-moves-to-mend-ties-with-the-church-a-year-to-elections
+  - Facebook: POSTED (1289239267586516_122110895175407566)
+
+- **[Kenya Latest]** 'Give me my money before I die’: Moi University retirees’ 25-year wait for dues - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZVQ0TWI4UlhKVzFSTTZ3WWd3VEIzeURCbFRxZW42ZVV1OE5udE5COENYUUxlLTQtR0dabHA4aV9YbXBJcjQ3RFpJQzlLdlVNVDZsZllVdTgxMVRuQnRNR2NGaW94N21ZUHotNVQ1VVBZQlJSZzFaQ0hrQUR5al9QVEhnaERhM2RyWmpGSkRidk1GZEQza3AwSS0tRjJ5alB4Ul9nVkFpSE5NNnhITHhqSFM0XzF0VlBa?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110895193407566)
+
+- **[Business Topic]** Global Concerns Rise Over Children's Social Media Use Amidst Legal Battles and Age Restrictions - Ratopati
+  - Source: Ratopati
+  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPNElEdE01enMwc0Z6dnRUTGlWMEFnbi1YQ0hkS3RCaHR0S2VYbWUycVZtU3VUcTRibGZlbmVZTVI2ajJQcjlXdTBQSWNRWGNxOGMtQlc1LWZPUzFSeWpmd3Azb1J5T2lnRzBxcWxyLXlmN2M3ckNVZVJZZWNuZDNPMm5kYTZsRFBaUFpiNlJycGR6UVFURWpETHNvbUNwOUVEVnlNMnpXLUhzU19vaG1nRjdlcUpvMVlzbUpBYVo5VQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110895217407566)
+
+- **[Business Topic]** Chinese humanoid robots' biggest obstacle: humans are still (mostly) better - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxQZkV3TjVvMDc4eFdoQURkRWRic25QRWVRekF0VGhYUHpjTU5BNHJXR3o2NkRINWhBVk0zbjhjQkk0WldnZ0JnSEFIRjVFZDJucWpxVWFGSXlMdnhkRWNuT0daTVlqcjVtTm50aVliVndiT3pyMFFxOHVtcnM3VGFlWVA1SEl4VWE5R1g0cVNHWGJYVEVQTjdvUEJRQUlKaVJURmJJ0gGoAUFVX3lxTE9LcGRQNEFoVlVFeWN0ZUd1d2UzcVF5eURsM0JORXpyNkJWbFpvV3RfNmdjbEFadGhOQXVtYzVIdDhhalJyRE1WQy1BMVJXc1E4MDBOSGczckV0bWN2RjByeW9ncmZjODM4bl9DZmdRaTYxeXFBVDNrRFphZ1R5YkV6WjZKSTlhNjcyb0F4QTJyZVhIajYzSG9ad0NidWw5bGtZVXdaWlFTRw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110895301407566)
+
+- **[Business Topic]** Japan Inflation Picks Up as Rate-Boost Bets Firm - WSJ
+  - Source: WSJ
+  - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxQLTM0eGZVSVh1UUJRckJIMENTZzBpWEc1RngzMzhzekg0N25RZGl4dldMZmZmY0haajNMc2JWQ2YtSThtRmc4YlM1bDNlbjVGQUpySEd2cWdUX1JycldSTWtyeEdJSFVMcDdmR1N2N3B3TnNrelRHazNsWmljbi1RQmczVkRvay14Z0RZUXRR?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110895319407566)
+
+- **[Business Topic]** Samsung Plans as Much as $79 Billion in Shareholder Returns - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxNZVFJXzNLTW5HamlZZlBnTTMya3BBdXE2Q2dvbm5qelQ1Umxsb0tyNTJEbjgzMnJwSmp5LXVwaXR0dDJhRm02dWhNdHM4MEdQZm5UNGdoSFRtQzJXd1hvR3JEQTZaZEUyZHBSYWRIWWZXQjROYk5nb3YwUjh4MjN0MHExeE95bzBTc1c0WkFzakFYSnZ1UE43bmx4LTluclN2eWUzVUVTbmhmWU5TLVE?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110895361407566)
+
+- **[Business Topic]** Dollar wobbles as investors balk at US Treasury's rescue efforts - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxPdnhtYjB1NVZjX2lyREs1UUhQdHJlUlRoRDVDdVNMUUFHRVdTQkYzVUppMGFmalBJX3JxeEdMVkZaeWVqOW1qd0pnNVMzeG54M3hNRTl0a2FVS3ZkM1MzcHZGVC10dkw2QkI1QjhnV1o3RWZWSUk4RHBWV1RaSERWYUNQR3FzWndXNko3d1JyQ0pmVkluVFNjWnNfTkc0V04wOU1N?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110895397407566)
+
+- **[Taifa Leo]** Wakazi wataka maisha bora baada ya ujangili kuzimwa mpakani
+  - Source: Taifa Leo
+  - Link: https://taifaleo.nation.co.ke/habari/habari-za-kaunti/wakazi-wataka-maisha-bora-baada-ya-ujangili-kuzimwa-mpakani/
+  - Facebook: queued for a future run
+
+- **[Taifa Leo]** Maafisa waagizwa kupigia debe mafanikio ya serikali kuelekea 2027
+  - Source: Taifa Leo
+  - Link: https://taifaleo.nation.co.ke/habari/habari-za-kitaifa/maafisa-waagizwa-kupigia-debe-mafanikio-ya-serikali-kuelekea-2027/
+  - Facebook: queued for a future run
+
+- **[The Kenya Times]** Govt Proposes Changes to Collection and Management of Hotel and Restaurant Levies
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/lifestyle/travel-tourism/tourism-ministry-proposes-lvey-changes-to-collection-and-management-of-hotel-levies/
+  - Facebook: queued for a future run
+
+- **[Education News]** Proposed law seeks to bar public schools from administering admission tests
+  - Source: Education News
+  - Link: https://educationnews.co.ke/proposed-law-seeks-to-bar-public-schools-from-admission-tests/?utm_source=rss&utm_medium=rss&utm_campaign=proposed-law-seeks-to-bar-public-schools-from-admission-tests
+  - Facebook: queued for a future run
+
+- **[Education News]** KNEC warns entire centres could face cancellation over KPSEA exam irregularities
+  - Source: Education News
+  - Link: https://educationnews.co.ke/knec-warns-entire-centres-could-face-cancellation-over-kpsea-exam-irregularities/?utm_source=rss&utm_medium=rss&utm_campaign=knec-warns-entire-centres-could-face-cancellation-over-kpsea-exam-irregularities
+  - Facebook: queued for a future run
+
+- **[Education News]** Ogamba reaffirms state support for public and private universities
+  - Source: Education News
+  - Link: https://educationnews.co.ke/ogamba-reaffirms-state-support-for-public-and-private-universities/?utm_source=rss&utm_medium=rss&utm_campaign=ogamba-reaffirms-state-support-for-public-and-private-universities
+  - Facebook: queued for a future run
+
+- **[Education News]** Retired Bungoma teacher surprised with Toyota Hilux after 35 years of service
+  - Source: Education News
+  - Link: https://educationnews.co.ke/retired-bungoma-teacher-surprised-with-toyota-hilux-after-35-years-of-service/?utm_source=rss&utm_medium=rss&utm_campaign=retired-bungoma-teacher-surprised-with-toyota-hilux-after-35-years-of-service
+  - Facebook: queued for a future run
+
+- **[Education News]** Sossion at TSC: From union firebrand to institutional insider
+  - Source: Education News
+  - Link: https://educationnews.co.ke/sossion-at-tsc-from-union-firebrand-to-institutional-insider/?utm_source=rss&utm_medium=rss&utm_campaign=sossion-at-tsc-from-union-firebrand-to-institutional-insider
+  - Facebook: queued for a future run
+
+- **[Capital FM Business]** Japan executes man who killed five in Pachinko parlour fire
+  - Source: Capital FM Business
+  - Link: https://capitalfm.africa/japan-executes-man-who-killed-five-in-pachinko-parlour-fire/
+  - Facebook: queued for a future run
+
+- **[Capital FM Business]** SBM Bank opens 34th branch in Nanyuki
+  - Source: Capital FM Business
+  - Link: https://capitalfm.africa/sbm-bank-opens-34th-branch-in-nanyuki/
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Rights defender petitions court to safeguard peaceful elections - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTWMtOWtZNkFaVlhSZUJ0NkN1eGtyN1pCbXFXQjJYdU1aVTh5S1RkMUxscjU0M0hWeWtLeVFjdFZtRjlJcDBINGFzdXFwY1ZTMXFYdW15N1B6Zm4wako5OUEzVUQ2d1JxdWdOLUR3OEpnWmtXY3dJUWt5am1aVUZBd0hjb2RMM1F3Wm0teHFYWGdfWG1xWVVkUUY0dFIwRFlodFpxdERxNUFLZw?oc=5
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Ruto: State did not pay Sh104b for SHA system - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbFZFRzRSN0N5X2NmMEtUMzA3WVBNRmdFYmZMMkJ0QU00YnhHRmM0WjdBRm1vZkJ1TC1ic1FRa1JvQ2xfTEF6emxVZ2FyUkhhMFpfdk9ZME0zZEstSzMyT0I3d2lwYXp5bXFGVDRobHVXTzlkQTN1VzhRY0xTalI0c04tTGl5ZGI4djkycXlJT0FUV1VRb3FFRGFPaEhCTG5xLW9hUFl4QmhBX0JpUXc2NkpyVmZYLTBQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** West Pokot to get Sh500m maternal, newborn hospital - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxNdGFIMDJLcG0zTGUxMXJtODBPRWtIejZoOW1YMjhvZllLZjMwOTFqWTBFOVhNT0hwYlBhWERvZ1pkWkQxeFl5bGN6YzZENTNfWXZuZnhTQXRzZWVfYVdReGltalhFY0RXZU9vbW5fSEVpek9OeDhWdGF2R281S3ExTXg4VFE2cnJ4M2FTZzBIMi0tY3ZIVEwxZTdZOUNWQllTb0hZaWdxXzRoQkxfenc?oc=5
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Nairobi issues seven-day notice for 59 unclaimed bodies - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzBzaXBvNmIxUEliQVEyRXdvc01WMExKbXBxT1dDWWxkdmFBOXdDNS1BZFROb25fLVppaVVPM2J4d2hBQTZ5VWhIVHpnTTFzbU9EamxxbURkd1Q3RVpza2ZYSWF1c0tla0FyN21Ma0RweDB4dDVjemYxeW1iZU9QcGFYcUw1cTVrd2tGR2xPY0s1dnhscmlWQzFR?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Nigeria • To avoid bankruptcy, Chappal Energies secures path for capital injection - Africa Intelligence
+  - Source: Africa Intelligence
+  - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMDVhVE14YklCSUdJZExpQm1xWTVNdm8tcWFTQk1rejV4Q1pzZ0VsbHlsN05pcmxoR3AzYmRMVjczUDhIZnQ2Umw2cEMxc3l4and5ZE9tWGp0Q2lHVVNZX2R4TWc2WDBoNjVYancyTVMwejkwYkNZaW8wazZfb2pMMmpTbTROQWpiSTZiQkhrRmdxdUpQalR5ZEFDMXlYVndPQ0tGck93ZFJMV1NYQkJiczVzcGRKeUxFcDlxZURNenMzWU90a0h2ZHhmZnBJV0pqSERoM1dDbVJJMjA?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** NYT Pips hints, answers for August 21, 2026 - Mashable
+  - Source: Mashable
+  - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxQeVpHMFlXY1NtRFVXV2NGZ2piTVItdVU0cUpmRjFSWVdzSW5sOG94LVh2dFVhUTgzQ3B2RDNuSC1hTVdRVUVUci15cEVuOGtOUUdtTEJqenFYazhDVjJmRmhzaFYxelVSLWY4UnF2UmcwLXpXUDdUTlVJbkx5amdndTBDZ3JBRWJVWEdDYkxTZGF1X1FweUVOVmRYVQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** PNJ’s Diamonds Cleared in Vietnam Smuggling Probe, Shares Jump - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxObDJuem00YVN6cV9CTm0xVUdpXy0yMjRVRldJa1hGLWgzWldic2JITlZLdlhCVFpmeVRPOW9sbC1fYWltNlRQX0todU1jd0J2anE5cVREUEN6YTBBOW85MUVWSnBMQ3JXa0ZrazhoZTA0WGhCaUkxZW5hVkxPSm9lSnlxXzJhemZ3YlVSWnBvRUQ5a3FnSXBaTGtDTmc3empfNE9fUGpXc3FYRHpDREVBaUhYTE4wU0tMeFJOcFM0X0wzWnpUWHVpSHN3?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Making Tech for the Battlefield Fuels 80% Rally in Swedish Stock - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFZjRE0wOVJoN0E4MHI1dUJOOHZySlIzcHRjbXA2LVlnOW9FbGx4VzktajJlaXJ1S0VhRm8zMUVSWjhVekY5RGxsaWR3WWRQZ2pFdjZOQzF0Ml9yb3FJS3FycTJjZExXMy1VcmpwOVdiQjdvaEhONlh2Y28yNDVKRENpRWVoel9nV1VJU2dYMUlybTZkUFlVZEIya3VETV9sTlJ4dEVPd0t5UDFJMU9Ec0ZvRE0?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** China clears Geely for landmark satellite test to spur commercial space drive - South China Morning Post
+  - Source: South China Morning Post
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxQTWs2T2RsRUdCSXNYbjBwYy1ZZjl4b0tFNU16VHRYNjFQc2xwU0o4Q1RDemd4TWpwd09PTEp0QktQR2d5WTdmQ1RsaEpabGdvSngweno1S1NfcDEyaExweFJhcnRqcHpwYllBanVZeHlHODUtYms4VzdKamc1ZTZpbHgyamlFdEhZdjBETmlCQ2JPd2NaREFic29hRjRmbXRrNHlPVmhXNk9SUGtTLVdYYU9lSGFucjFIMWl2UG9vRUlramQx0gHEAUFVX3lxTE85NG80ZTAyeWZnZ1BMYzZLSVFXNXJKYXRkNHlRSzBqUzdidzZKOGdVM0h2dld6MVZCaUFFY2hEdllUTGJXZEhhMnlmSkVCdkk0ZzlJTGJNLVBCTmdiOHJ2WUlCdWtnM3E1MlA1TXVNbDFEeHFHWXFia1pQaEI3OGx0UEdjbUgyY0RhU3BpNjVYLVBhNDNzUktjT0FZUm11WEN3cHBRWnV4VjNlQmJiVXRCTDV5RVJTbHNmSnktcXRxUHVranM?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** China Keeps Oil Buying in Check as Crude Prices Stay Above $90 - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOMUE5UDBqdHBDRVdjc3dXYl93YzNtR1hFVUtjbVQ2QmE1X3lLVkxiVXNoanB5ZjNQLVZ4MHNmekVHdUlaVnV2M1MzMzNEUHpJdHo3UXh0ckVKUWZ2d2pZSWFQR2RJaDRXN3BJR1FyVnRnOFh3emdMZWJVRzJvQVR6U09wcUJsdXZPWHNSY2E0Q0N0djhlRDBGckc5UHMtOUR6NkpDdl9ybWNsVDBQSWtLUjRn?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Meta smart glasses ban ignores Europe's wider surveillance threat - Euronews
+  - Source: Euronews
+  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQXNQQmp0Nm5aTGVLRHdZN1o0T3ktc3B1ZHBQZmxuRXRGMHdUQUhZbUhQaXdrLWNnYldQMUljX201dDZJdWJLdmhYa3daN2VxaVB6bmMxZzExNmtNbkRyWWdRRWQ0SWhtSXUyUVRSNnRsaXJTbU9vbWVQdE55N3hQMnBOQ05mWUp6YW83dThFaGVzenR0aFJyZlZRNTdpQlFON01BZjZGbTVxWVN4dlBvXzlKbEU2aDM5WXd3?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Bristol crochet club offers 'piece of home' for Hong Kong nationals - BBC
+  - Source: BBC
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5Uncwc3haOWJFSzNhYmM1Mm9iVWdrZlEza1dxNTUwdGp5dWVSdzVLd0J4REdjVlcybGFmNFlfS19sTElGRlRiandwT3ctMzBVT3NGbnVfd0dhUQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Subaru faces Australian court action over alleged right-to-repair breaches - MLex
+  - Source: MLex
+  - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTJtaDVQVU9UVE1KZjI3SlBlQy0ySHVweEF4X3hVRllkcVBRNXhKZ1c4M2NZMll3VkJHQ2l6bzZUVzd6Zml3Z0ZrQlJxdFZfMXVKZmUxTzY5ZlVmY1pFWVdOdkxURTB3ZDFJYVg4cnhLMnMwVnZuODhtRFpiTmdVbFR6MkRMcU4wYkJHZFdnTG9jVGg0QTVockRvcGNJNHp2STN6QzJoMklIenhkelRsMDV0S3pCQ3lOekQxbV9mTDBkRjlUaVHSAVpBVV95cUxQZGlrSE1Fd3JLOU0zX09ZMjlVYm5sbEVZU3VGbGxxQmZWWFlJMllkMjk2N2dzbEVyU19SR2VoS2xPQmJlX3V4MEYxNW5EUWVGMEtSbkhHUV9ZQ1E?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** INDIA CEO SERIES: Vedanta Oil and Gas targets diversified portfolio amid energy security push - S&P Global
+  - Source: S&P Global
+  - Link: https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSWl0dHVtX1hYTnVBSExfdkt5VmRTNkszTEtqTnNHbjc4QjRvS29yS19LaXdQdnFuVkdpSkRCbFgzV2hPLUdIWFJPVlpnN05ZM1VheUhBUDIxOV9lRTh6Qmo4bFQyeGtkOG9VS0xzYzBfZlA1RmQ3cUVNeHRtdWtKTnRIbmt0STlPdElMRkVZS0JJMlNNVUEzRlR4aExZWnI2RGFaUE1NY21tWGR3OUlHejVUekt2U256YVZLbVZURUhOaVkxY21NOVZhVl9QR0o2X1JkaVNCRW55UFktdG5EQ01KcnFzNm5iTmd6SzRjVzVmZEhTdnI2QkhGbldfLUE?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** NI saw largest rise in disposable income of any UK region in 2024 - BBC
+  - Source: BBC
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE11dHowSTctLTZ0Q1lfSUU5YkotMWM0YU5jRzdadFpZQUhrVXVFREFKbWJOYVlMRHdvbXhvZ1R4SnlCMmlCQ3dldUJGcEt1dTh5NmxiUTBsc3pzQQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Tobacco sales continue to fall in New Zealand - Xinhua
+  - Source: Xinhua
+  - Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE96ckhsMV9EUnY5Tzg1V2YzSlJSRG81T0wwWlQtcVFGWVFZWDRKQ3cwdnR6ZFE5VXFNN1NwUWdIanVxb2dfcTRaa21qMmQzOFhMbG5oZTZJa2p2V18zSVBUNUdERWZxXzczQnc4S1F6UEtkNHVYX3BWT3pFMjg?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** India Economic Growth May Beat RBI’s 6.7% Forecast, Gupta Says - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPVnBYdFhVbVZ3NVJaSkJpUEhqbU9SLVZTRzJNWlNKc05Rb0lQWXNQdklFT2lJeG0yTEdUQkV4dFFXN25LNTRfM3JkY3Nudm9vLVQtcXMycmUzc2JxQzZ1cmJHVlVFNEdMLXlEU2hLby1qekVuWUM3VlB1VkRXelRvbDM3dEVXY2hWTDUwMS00Q0JsM0x5NHNfbzR1MXQ5QUJ1N3VDWHB2NEV1aXNfenIzWA?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Sydney air traffic controllers warn of grave safety concerns - chinadailyasia.com
+  - Source: chinadailyasia.com
+  - Link: https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1dWhwcWg2WmtQd0FnTmh2YU9PRGgzX3dITlIwbHZFN2UzRkdiQ3M4OEYyc0wzVjBOQ3lkNnNGMkpIMEZ2VEFwVkpTcVplRzNnWExDZmFxU1Q?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** How Kangaroo Bonds Are a New Front in AI Debt Boom - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxOV0pHT240M3ZQa09TLWNnWW1zQU5IMXEyNTVGQ20zTzlmQ19FaEcwbVhYVVZ2X0VkUFFWNDk4elo5Z2EyMUllaENqN1otZWlwYUtvM0VmT3NYTGJpNjFreDJMRVhRRS1qVkZXVGstVE1yeW9TOFg3aFpTSnRmZzZoSWVfSHo0clZ3dkNkS214b3ZFR0c0LXVuQktacGNmanNtbXlsOUZnYXVIcGV3YjBsdXVzMURPVHRodDV0MjY0SQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** IEBC Reveals Number of New Registered Voters
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29670/iebc-reveals-number-of-new-registered-voters
+  - Facebook: queued for a future run
+
+- **[Ghafla]** MCA Tricky Earns EBK Registration as He Expands Into Engineering
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/mca-tricky-earns-ebk-registration-as-he-expands-into-engineering/
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Kenya Power Announces Planned Power Maintenance for August 21
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/kenya-power-announces-planned-power-maintenance-for-august-21/
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Redsan questions music originality as millennials’ era gets celebrated
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/redsan-questions-music-originality-as-millennials-era-gets-celebrated
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** AFC Leopards vs KCCA FC: Ingwe announce new kick-off time following venue switch
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/kpl/afc-leopards-vs-kcca-fc-ingwe-announce-new-kick-off-time-following-venue-switch
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Redsan at 30: 5 things Gen Z may not know about Kenya’s dancehall icon
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/redsan-at-30-5-things-gen-z-may-not-know-about-kenyas-dancehall-icon
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Director Trevor challenges Kenyan brands to turn World Tourism Day into a national showcase
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/director-trevor-challenges-kenyan-brands-to-turn-world-tourism-day-into-a-national-showcase
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Why some Kenyan parents are struggling to get children back into a school routine
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/why-some-kenyan-parents-are-struggling-to-get-children-back-into-a-school-routine
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** New Season, New Rules! EPL introduces new regulation to stop goalkeeper tactical timeouts
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/epl/new-season-new-rules-epl-introduces-new-regulation-to-stop-goalkeeper-tactical-timeouts
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** El Niño set to be ‘strongest in living memory’, says UK Met Office
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/el-nino-set-to-be-strongest-in-living-memory-says-uk-met-office/
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** US vows ‘toughest sanctions in history’ against Iran, oil prices surge
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/us-vows-toughest-sanctions-in-history-against-iran-oil-prices-surge/
+  - Facebook: queued for a future run
+

@@ -1,7 +1,7 @@
-name: Kenya News Scanner and Facebook Publisher
+name: Kenya News Scanner (suggestions only)
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 permissions:
   contents: write
@@ -13,7 +13,7 @@ concurrency:
   group: kenya-news-scanner
   cancel-in-progress: false
 jobs:
-  scan-and-post:
+  scan:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -27,12 +27,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install feedparser pytz requests trafilatura
       - name: Run Kenya News Scanner
-        env:
-          FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
-          FACEBOOK_PAGE_ACCESS_TOKEN: ${{ secrets.FACEBOOK_PAGE_ACCESS_TOKEN }}
-          # Optional: set this only if you want to pin a specific
-          # Facebook Graph API version.
-          FACEBOOK_GRAPH_VERSION: ${{ secrets.FACEBOOK_GRAPH_VERSION }}
         run: |
           python news_scanner.py
       - name: Commit scanner logs
@@ -42,7 +36,7 @@ jobs:
           # Only stage log files that actually exist. suggested_posts.md
           # in particular is only written when a run finds at least one
           # new entry, so it may not exist yet on an early/quiet run.
-          for f in suggested_posts.md posted_log.json facebook_post_log.json post_queue.json feed_rotation_state.json; do
+          for f in suggested_posts.md seen_log.json feed_rotation_state.json feed_health.json; do
             if [ -f "$f" ]; then
               git add "$f"
             fi

@@ -7061,3 +7061,380 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://ntvkenya.co.ke/news/after-11-years-ronaldinho-returns-to-soccer-with-a-primary-goal/
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 17:08 (Nairobi time)
+
+- **[Kenya Latest]** Ruto: State did not pay Sh104b for SHA system - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbFZFRzRSN0N5X2NmMEtUMzA3WVBNRmdFYmZMMkJ0QU00YnhHRmM0WjdBRm1vZkJ1TC1ic1FRa1JvQ2xfTEF6emxVZ2FyUkhhMFpfdk9ZME0zZEstSzMyT0I3d2lwYXp5bXFGVDRobHVXTzlkQTN1VzhRY0xTalI0c04tTGl5ZGI4djkycXlJT0FUV1VRb3FFRGFPaEhCTG5xLW9hUFl4QmhBX0JpUXc2NkpyVmZYLTBQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110974795407566)
+
+- **[Kenya Latest]** Nairobi issues seven-day notice for 59 unclaimed bodies - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQbzBzaXBvNmIxUEliQVEyRXdvc01WMExKbXBxT1dDWWxkdmFBOXdDNS1BZFROb25fLVppaVVPM2J4d2hBQTZ5VWhIVHpnTTFzbU9EamxxbURkd1Q3RVpza2ZYSWF1c0tla0FyN21Ma0RweDB4dDVjemYxeW1iZU9QcGFYcUw1cTVrd2tGR2xPY0s1dnhscmlWQzFR?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110974813407566)
+
+- **[Business Topic]** How Kangaroo Bonds Are a New Front in AI Debt Boom - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxOV0pHT240M3ZQa09TLWNnWW1zQU5IMXEyNTVGQ20zTzlmQ19FaEcwbVhYVVZ2X0VkUFFWNDk4elo5Z2EyMUllaENqN1otZWlwYUtvM0VmT3NYTGJpNjFreDJMRVhRRS1qVkZXVGstVE1yeW9TOFg3aFpTSnRmZzZoSWVfSHo0clZ3dkNkS214b3ZFR0c0LXVuQktacGNmanNtbXlsOUZnYXVIcGV3YjBsdXVzMURPVHRodDV0MjY0SQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110974831407566)
+
+- **[KBC Digital]** El Niño set to be ‘strongest in living memory’, says UK Met Office
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/el-nino-set-to-be-strongest-in-living-memory-says-uk-met-office/
+  - Facebook: POSTED (1289239267586516_122110974867407566)
+
+- **[KBC Digital]** US vows ‘toughest sanctions in history’ against Iran, oil prices surge
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/us-vows-toughest-sanctions-in-history-against-iran-oil-prices-surge/
+  - Facebook: POSTED (1289239267586516_122110974885407566)
+
+- **[Nation Africa]** Faith Kipyegon opens up on injury that has all but ended her season
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/sports/athletics/faith-kipyegon-opens-up-on-injury-that-has-all-but-ended-her-season-5565484
+  - Facebook: POSTED (1289239267586516_122110974903407566)
+
+- **[Nation Africa]** Cameroon president returns home after 10-week absence
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/africa/cameroon-president-returns-home-after-10-week-absence-5565562
+  - Facebook: POSTED (1289239267586516_122110974915407566)
+
+- **[Nation Africa]** Is Kenya entering the most dangerous stage of the cycle?
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/blogs-opinion/opinion/is-kenya-entering-the-most-dangerous-stage-of-the-cycle--5565296
+  - Facebook: POSTED (1289239267586516_122110974999407566)
+
+- **[Nation Africa]** When journalists stop following stories, accountability and public trust weaken
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/blogs-opinion/opinion/when-journalists-stop-following-stories-accountability-and-public-trust-weaken-5565356
+  - Facebook: POSTED (1289239267586516_122110975029407566)
+
+- **[Nation Africa]** Nyoro’s break with Ruto redraws 2027 opposition map
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/politics/nyoro-s-break-with-ruto-redraws-2027-opposition-map-5565520
+  - Facebook: POSTED (1289239267586516_122110975047407566)
+
+- **[Nation Africa]** Like Koome before him, IG Kanja is a marked man
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/like-koome-before-him-ig-kanja-is-a-marked-man-5565212
+  - Facebook: POSTED (1289239267586516_122110975095407566)
+
+- **[Nation Africa]** Final moments of chopper that crashed near Mt Ololokwe
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/counties/samburu/final-moments-of-chopper-that-crashed-near-mt-ololokwe-5565534
+  - Facebook: POSTED (1289239267586516_122110975143407566)
+
+- **[Nation Africa]** Tinder predator: How Nigerian used dating app to lure Kenyan women
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/tinder-predator-how-nigerian-used-dating-app-to-lure-kenyan-women--5565144
+  - Facebook: POSTED (1289239267586516_122110975161407566)
+
+- **[Nation Africa]** Mt Ololokwe: Samburu gem that draws the ordinary and super-rich
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/counties/samburu/mt-ololokwe-samburu-gem-that-draws-the-ordinary-and-super-rich-5565506
+  - Facebook: POSTED (1289239267586516_122110975179407566)
+
+- **[Nation Africa]** How the Inspector-General (IG) of police is recruited
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/how-the-inspector-general-ig-of-police-is-recruited-5565238
+  - Facebook: POSTED (1289239267586516_122110975191407566)
+
+- **[Nation Africa]** Why Controller of Budget rejected Sakaja’s Sh49bn ‘unrealistic’ plan
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/counties/nairobi/why-controller-of-budget-rejected-sakaja-s-sh49bn-unrealistic-plan-5566424
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Amboseli elephant poisoning: Death toll rises to 18 as two farmers arrested
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/counties/kajiado/amboseli-elephant-poisoning-death-toll-rises-to-18-as-two-farmers-arrested-5566124
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Unfair dismissal, harassment, humiliation: Courts put employers on notice as workers win rights battles
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/courts-put-employers-on-notice-as-workers-win-rights-battles-5565818
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Political goonism: Why women are the biggest victims
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/gender/political-goonism-why-women-are-the-biggest-victims-5564922
+  - Facebook: queued for a future run
+
+- **[Business Daily Africa]** Vivo Energy leads Sh279bn tax windfall from oil firms
+  - Source: Business Daily Africa
+  - Link: https://www.businessdailyafrica.com/bd/corporate/companies/vivo-energy-leads-sh279bn-tax-windfall-from-oil-firms-5566330
+  - Facebook: queued for a future run
+
+- **[News Trends KE]** Ituri: United Nations Mine Action Service (UNMAS) destroys explosive remnants of war in Bule
+  - Source: News Trends KE
+  - Link: https://newstrends.co.ke/ituri-united-nations-mine-action-service-unmas-destroys-explosive-remnants-of-war-in-bule/
+  - Facebook: queued for a future run
+
+- **[News Trends KE]** Zambia: Statement by the Spokesperson on the general elections
+  - Source: News Trends KE
+  - Link: https://newstrends.co.ke/zambia-statement-by-the-spokesperson-on-the-general-elections/
+  - Facebook: queued for a future run
+
+- **[News Trends KE]** Inaugural Tanzania Investment Forum to bring opportunities to the global capital market
+  - Source: News Trends KE
+  - Link: https://newstrends.co.ke/inaugural-tanzania-investment-forum-to-bring-opportunities-to-the-global-capital-market/
+  - Facebook: queued for a future run
+
+- **[News Trends KE]** Tanzania: Ambassador Chen Mingjian Takes an Interview with “Thousands of Miles on the Silk Road – Colours of Africa” Program “Ambassador’s Dialogue”
+  - Source: News Trends KE
+  - Link: https://newstrends.co.ke/tanzania-ambassador-chen-mingjian-takes-an-interview-with-thousands-of-miles-on-the-silk-road-colours-of-africa-program-ambassadors-dialogue/
+  - Facebook: queued for a future run
+
+- **[News Trends KE]** Togo: Supporting the University of Lomé in Standardizing the Master’s in Conference Interpreting and Creating a Master’s in Translation
+  - Source: News Trends KE
+  - Link: https://newstrends.co.ke/togo-supporting-the-university-of-lome-in-standardizing-the-masters-in-conference-interpreting-and-creating-a-masters-in-translation/
+  - Facebook: queued for a future run
+
+- **[The Kenya Times]** Best Press-On Nails 2026: Affordable Salon-Quality Alternatives You’ll Love
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/lifestyle/best-press-on-nails-2026/
+  - Facebook: queued for a future run
+
+- **[The Kenya Times]** Kenyan Students Build Mars Rover, Beat 39 African Teams to Win Major Robotics Challenge
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/technology-business/kenyan-students-build-mars-rover-beat-39-african-teams-to-win-major-robotics-challenge/
+  - Facebook: queued for a future run
+
+- **[Education News]** Kiambu couple arrested over death of 7-year-old son after alleged beating
+  - Source: Education News
+  - Link: https://educationnews.co.ke/kiambu-couple-arrested-over-death-of-7-year-old-son-after-alleged-beating/?utm_source=rss&utm_medium=rss&utm_campaign=kiambu-couple-arrested-over-death-of-7-year-old-son-after-alleged-beating
+  - Facebook: queued for a future run
+
+- **[Education News]** KUCCPS takes application support to Coast ahead of Utalii College intake
+  - Source: Education News
+  - Link: https://educationnews.co.ke/kuccps-takes-application-support-to-coast-ahead-of-utalii-college-intake/?utm_source=rss&utm_medium=rss&utm_campaign=kuccps-takes-application-support-to-coast-ahead-of-utalii-college-intake
+  - Facebook: queued for a future run
+
+- **[Standard Headlines]** Ruto allies forced to declare support for Sifuna at Khalwale wife's funeral
+  - Source: Standard Headlines
+  - Link: https://www.standardmedia.co.ke/article/2001555895/ruto-allies-forced-to-declare-support-for-sifuna-at-khalwale-wife-s-funeral
+  - Facebook: queued for a future run
+
+- **[Standard Politics]** Will Nderitu Muriithi manage to swim against the dominant DCP wave in Laikipia
+  - Source: Standard Politics
+  - Link: https://www.standardmedia.co.ke/politics/article/2001555885/will-nderitu-muriithi-manage-to-swim-against-the-dominant-dcp-wave-in-laikipia
+  - Facebook: queued for a future run
+
+- **[Capital FM News]** Sifuna hints at new political vehicle as Linda Mwananchi faces registration hurdle
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/sifuna-hints-at-new-political-vehicle-as-linda-mwananchi-faces-registration-hurdle/
+  - Facebook: queued for a future run
+
+- **[Capital FM News]** Sifuna reveals how Wetang’ula ‘opened his file’ and recalled every insult
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/sifuna-reveals-how-wetangula-opened-his-file-and-recalled-every-insult/
+  - Facebook: queued for a future run
+
+- **[Capital FM News]** Kindiki signals bid to retain Deputy President slot in Ruto’s 2027 re-election plan
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/kindiki-signals-bid-to-retain-deputy-president-slot-in-rutos-2027-re-election-plan/
+  - Facebook: queued for a future run
+
+- **[Capital FM News]** Wamalwa snubs Khalwale’s call to back Sifuna for President
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/wamalwa-snubs-khalwales-call-to-back-sifuna-for-president/
+  - Facebook: queued for a future run
+
+- **[Capital FM Sports]** World record holder Ngetich, Simiu headline Kenyan team to Road Running Championships
+  - Source: Capital FM Sports
+  - Link: https://capitalfm.africa/world-record-holder-ngetich-simiu-headline-kenyan-team-to-road-running-championships/
+  - Facebook: queued for a future run
+
+- **[Capital FM Sports]** Audacity of hope: Akonnor backs K’Ogalo to tower over Pyramids in Champions League
+  - Source: Capital FM Sports
+  - Link: https://capitalfm.africa/audacity-of-hope-akonnor-backs-kogalo-to-tower-over-pyramids-in-champions-league/
+  - Facebook: queued for a future run
+
+- **[Capital FM Lifestyle]** Meet The Mentors For The Nairobi Edition Of Swift Academy
+  - Source: Capital FM Lifestyle
+  - Link: https://capitalfm.africa/meet-the-mentors-for-the-nairobi-edition-of-swift-academy/
+  - Facebook: queued for a future run
+
+- **[Capital FM Lifestyle]** Kenyan designers set to shine at African fashion week London 2026
+  - Source: Capital FM Lifestyle
+  - Link: https://capitalfm.africa/kenyan-designers-set-to-shine-at-african-fashion-week-london-2026/
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Khalwale thanks Sifuna for Sh500,000 support after wife’s death - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxOWWtOTWJ0SnpHWFdfTnRlT0VONklxQlZBRlA4dlJONTEyZlRYTGRuTU5PWlNldDRWdjRCZVk3OHpIUVlzZ3FURTktMTVLRlhpbU5NVzFOVE9vdUU0cGdWQkkwMzk5VTZQOTNfdlgwNjMyaFlYcDRmVENlTFZna1kzN3d4SUhfaGZmZ3d3cjBjeTFwOGZ6T0E?oc=5
+  - Facebook: queued for a future run
+
+- **[Business]** World Bank cautions Kenyan banks on rising public debt risk - Business Daily
+  - Source: Business Daily
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxONVRscWFDa0FEOElxdU5NZUFuVHVBeEg2c2U2MnNKbV9PWVRrd3dHWTc0bnlEWXBCOXFPM280TFBpMFlSaHBDa182bXlYOGYyNUd0aGprSU1acVQ2UVJjNk85WjE5NG1rdmJyT2xXSUwwZWFaY3A3THh2anBlYmkzbmZKQlZLS0ZzZkkzUElWX09BMFlsR3NpSVkyX3dPTFQwcHdSZTQyeDR2LWtPcDE3ZmVjQXo?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** CBK Opens New KSh 15 billion Treasury Bond Switch Auction, With Minimum KSh 50k Allowed - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYjVjUl84N0VKZUdkUGgycHh2TWF4TzVObl9DVkZyMUxWYVJoeHlWZEVTUDdDY1lhbFNwT3lsN1QxREEybUY5UGJaMGs1ZFZNeUhkYU12bEhVQkFmRThQOF84c09fLVBwT1IwMnVodmFNUWZISXE1R0FYLVlXSlI4SlRodENyLTMwUVRCak5wUFJhZ2U4ZW9JS2ZEZTBhVlZmRlJPeFdYa0JIRG8?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** TikTok Shaping Teens' Appetites, Diet - U.S. News & World Report
+  - Source: U.S. News & World Report
+  - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPby1Camg2cVVETzN1WmktNWZUQm9YbFdZRmg5MUhpWnVYMFlfNTRJZ3Q1LUVPVzNiTlVXRHlFbXpHVWdab2loQncyZzZBR1pDSXZTWlM0NzczUzY5TFZ1OHFjM1otVEN6LS1PTFEzOXdIVldENkFDSjY0OWpFaTZpU3lfNjhkbFVITWRFWC1rU2xWYnBKUUdqLXBIdw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Meet The Newest Under 30 AI Billionaire - Forbes
+  - Source: Forbes
+  - Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxQOWZFS1JKNENDVndMcWlSNTM1UXR6UDZmQXk0NktKUnlQLWl5M1o0VXViRVJ4cjc0Rk9qZkFiNDMtbTUxVkN2ZHNGSGdtOEdvM3U4NnBiQTM1ei1MaW9PRXozM0h0eEh3TUMyS245TzhXUTc3d01Rd1hSdXdtX1lXQkhlYkxMcXVmS3E0dlZ0YXgxREk?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Apple paid $17bn in taxes to Ireland after court ruling on back levies - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxQbmVsaG41ZS1HTWFOSmg3Q2pneEhHMHRHV0stWXJ2T3ZfX0o2ODlGYUtaQ3Q4YldyVFFtLXFTTVZ6dzlOeTJQUzljMWNrOHhCWmpmRnlpUmF3aFJWWGdNTldGVXhmUjUwRVA1eUxpNzVjSTl5ZmMtUURvVHdVZ3B5UkhuM08?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Jamie and Jools Oliver pay themselves £1.5m dividend as profits almost halve - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFJGQXEwSWxNMnpzc2c0LVh0QVN4Y3Q5a2dxR3NfbTVNQkFTbUNiczR2UVUtV0V0TGQxdlB6ZU5vTENsWkkya3NuVjBJV2J5UTZxNW9ncHFVX3dEVWUtV2xlX2hYTkMtcTFfZmlraDBBVUlQY016ckgzblFNRWQ3NFItNFl2enM5X0FBVzc0QnhOSy15UDBYZk9Kc0VvNHFOOEE?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** EXCLUSIVE: Dutch regulator fines Uber $966 million for automating driver suspensions, document shows - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd2JmWFg1eFpuU0RoTnJXYnFqSDdzOFdMU0c4X0xwV3hVZFJiZWYwWHVJNUxsLUV3SEdlMGtPWnJmSlk2YlRWZlFRU3VYakJxbHFWUnVJZnVlYktUMURhczV3ekttcWhOM2Fob1JVWERKRkhtSDltWHQzQ3Y4clJlTVhleTNLSWVLVWM5Ul9YUVlpcnBMQWxhYnE3QmVXY3lMbHAyalhEaWptS2ozMGdMUDdWWndqc3p5QUln?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Why bitcoin prices are suddenly rallying big-time - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUUI5MzlmNHk1Um1nbmlpQmZDOTkyN0hvS3dYRmJaWDRXSVh3a2ZtQjNoelBFWVRGRVNhRl9YZV84S2xGQVEtNUc2NzdSQTZhUWl6UkpISXpBX0tmRC1MYjRRamU2RFVqTHRCd2x3bDRJbW5KbVpvYnFRMmFVU2xscmZCNjNna1lxRzNsWkl0VWNBb2IxbDdmYV80bXl3bE16YXZ2VEVEcm9TUQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Wall St opens higher but weekly losses loom - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2E3YkdBQXBjbW43VmpoeklMN0VYV0ZtV0xZeUNHQUx0aXAxLW16MjU5bWdkLVRxUzlpNGhWWEpCeUJDd3JYbTJkZE5KTll3R3JkZGJoamdUSnRPMmp1d21Tc2lUb3FVcldGcXBXamZZU0lqcEV1SDdwN09pOUl4cTM4WHBnWDVhNExtbzdkMXBYVTRmVjVXSjQyYjMyUXJt?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Premarket movers: Crypto stocks rally, Ross Stores jump on upbeat forecast - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxPY2JoS2hUdWE3Uno5b2ZfNF84T2QzcUVVbFQ2Vm5Na0t6ZEI5MHU1bmlfeTBfakc3Y25PMTVXbDdhSEZRUnJ5X1R5NU9TM2ZUbHByM0NpTXFLMGlnQk00d1hBbUdXWmhCLThoczlqMDI0R1cwQUx3TFdNWVZ1Q0pNaEh6ZUUyd2FBeU5pV3BXZlNiNHZpVXgwaFp3YlRTdmJYTDBn?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Roblox shares AI child-safety tools parents should know - Fox News
+  - Source: Fox News
+  - Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjFWa21pV0RLRUlrVVlFNHF4S21EVG96MUNvRENGWkFwUUZuWDFhU3BheXZ6NFJfd1VXU2QzWm85dVhVdnlVYjREMHpBQTVhUGhCcnV0MGhjUWJWdW9xT0NGTXM4S3RFRVZsSTlrTEFBdE1CRXZHSy1VeUpJWlVpbWd2ZDhKaG1BVm1DMUp2OXjSAZYBQVVfeXFMTW1XSmpHbklnTlpSMGlGendsRUZvaTdETmdiSlRtZGNud2d0Rl8zUlptcENkUlJvbFJpV29NM2U5YTlnSW51cEtWNWF0NXBFdFl1dXhzell3V1l4RkNSRHZfZlFwTl9vRndackdKNmRXUGZfb2p1TGxibkZPQnRqcU9xTll3VThBaVhUNWdzY0lEdEpJUFpn?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** UK Turns to Booming Chip Newcomers for its Sovereign AI Strategy - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxPbTJaRUhiSVhXZGpxd0lxTGhUdThiWFFfQ1BqRWJLeXl5Z3FmQXJTWURKTDFaQU5OM0N0M1ptcGpleU1KVnVvdFpOYUtjVFUzdV9DSWVnVHcwU0w2b3dBSktkNmhpVVlNS0hDY0hhUmRFRlZvN0phYzZMQ0tKN2tDaFNyN2dfQU81WTJldm9vN0ZvYUh2SXhZ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** EXCLUSIVE: Chery's robot affiliate AiMOGA eyes IPO, targets overseas market - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLVJudW9BakRXdDRNSHN2QlN1RzBQUXhjT0FzRUdjMl96SW9ibDFLS0lIdWhnc0cwN2tjSzR6MnJaSVpJX2VVdFRoV0h6eDdDOC1WNnotZzgyWFlJYlZQTGNsLUh3R2YzTnI4c1hkMXJHZFBJYTlSOUJjZy12MnNvSGFVcnpZTmVyM2pySERKRXdOay1waXMtUXpvUjZVLTBFa3cyTXRyMS1DenMyUHpDeTNHU3FwODdCbGlJSkktMnhEM1U2TEJNWk0zZVU2TkEwZnBHcUhZTWs?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Wall Street's existential crisis over perpetual futures — the 24/7 security on steroids — just got urgent - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM3diVm50cUw1WVExRzBlUmNCM2k5TjkzNWlCZEFFWTVBQzljRDhLdTY4ZWp5b1FFc3Z6WTVWM29PcVlXeHpEOGZkMXZyZ0Mwall0NGprT29LOFJvYnVtaHAzVXpDLXZtaWdmQThYdzVWVEdhaU5STTJHRlVDUWpGVC15TlBCMUdKS2lDblB6TVVJa193X0k1UG5LU1l6N3p5V3cxOElQbEtqdzlsanBiOGdsUWFib1ZvNnpabDV5c0xMUnFzOXNTZnRjRDVhU1h5TFQ00gHYAUFVX3lxTFBFSFFRaVdwaVJTYzNKYnNJY3lFcl80UUluRERRelpSTjV3TWtRUEVpUkhfcV9sWXA3cnltRGRCRW8ydjlCRFVsS2RJQk14UmJKbkllY040NS12U0U3VVJPc3NPRC00VDNCVGl4U181SFFsTWNZQTRXN2M2dVhZM2tYWjRNMTZjZnFTQWR2ZWpVblNUZG1TdjBmSlZlZ2RmUExkbXVDb0pxMW5yNEJVOHkwaGthdGxWajJKdkoyVlB0VnpFWXZrUzk4Z0hRdHFINFRhRmMtRkpLRQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** Let's Not Kill One Another for Politics - Matiang'i
+  - Source: Matiang'i
+  - Link: https://nairobileo.co.ke/news/article/29682/lets-not-kill-one-another-for-politics-matiangi
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** Cleophas Malala Appeals to Boni Khalwale to Give Sifuna His Political Party
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29679/cleophas-malala-appeals-to-boni-khalwale-to-give-sifuna-his-political-party
+  - Facebook: queued for a future run
+
+- **[SPM Buzz]** Lower Loan Rates Give Kenyans Relief as Bad Debts Fall
+  - Source: SPM Buzz
+  - Link: https://spmbuzz.com/bussiness/lower-loan-rates-give-kenyans-relief-as-bad-debts-fall/?utm_source=rss&utm_medium=rss&utm_campaign=lower-loan-rates-give-kenyans-relief-as-bad-debts-fall
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Kwambox Claims Gen Z’s Are The Dumbest Generation And Have Overtaken Millenials (Video)
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/kwambox-claims-gen-zs-are-the-dumbest-generation-and-have-overtaken-millenials-video/
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Chebet Ronoh Explains Why She Quit Comedy Content
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/chebet-ronoh-explains-why-she-quit-comedy-content/
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Boni Khalwale Reveals Amount Of Money Edwin Sifuna Contributed At Late Wife’s Funeral
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/boni-khalwale-reveals-amount-of-money-edwin-sifuna-contributed-at-late-wifes-funeral/
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** The gaps in Karen Nyamu’s Endometriosis proposal, from SHA to specialist care
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/health-and-fitness/the-gaps-in-karen-nyamus-endometriosis-proposal-from-sha-to-specialist-care
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Samburu chopper crash: 5 surprising things most people don’t know about helicopters
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/travel-and-leisure/samburu-chopper-crash-5-surprising-things-most-people-dont-know-about-helicopters
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** From nightclubs to restaurants: How Nairobi CBD lost its after-dark pulse
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/from-nightclubs-to-restaurants-how-nairobi-cbd-lost-its-after-dark-pulse
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Kenya Tourism Board CEO weds in colourful Naivasha celebration
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/kenya-tourism-board-ceo-weds-in-colourful-naivasha-celebration
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Gilad Millo reacts after St Augustine Ngenia Boys win National Music Festivals with ‘Unajua’ cover
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/gilad-millo-reacts-after-st-augustine-ngenia-boys-win-national-music-festivals-with-unajua-cover
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Sandra Bullock opens up about loss of partner Bryan Randall and his private ALS battle
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/sandra-bullock-opens-up-about-loss-of-partner-bryan-randall-and-his-private-als-battle
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Thieves rob Kirinyaga churches, eat communion and drink sacramental wine before stealing electronics
+  - Source: K24 Digital
+  - Link: https://k24.digital/news/thieves-rob-kirinyaga-churches-eat-communion-and-drink-sacramental-wine-before-stealing-electronics
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Mjifunze Kikalenjin: Tr Cillah jokes about new lesson plan ahead of school reopening
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/mjifunze-kikalenjin-tr-cillah-jokes-about-new-lesson-plan-ahead-of-school-reopening
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** I’m not here to make you laugh: Chebet Ronoh reveals painful reason she no longer makes funny videos
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/im-not-here-to-make-you-laugh-chebet-ronoh-reveals-painful-reason-she-no-longer-makes-funny-videos
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** Informal cross border trade falls 16% to Ksh 249M
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/informal-cross-border-trade-falls-16-to-ksh-249m/
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** Taiwan’s InterAsia Shipping Line begins weekly service to Mombasa Port
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/taiwans-interasia-shipping-line-begins-weekly-service-to-mombasa-port/
+  - Facebook: queued for a future run
+
+- **[NTV Kenya]** Jambojet to resume Uganda flights after six-year break
+  - Source: NTV Kenya
+  - Link: https://ntvkenya.co.ke/news/jambojet-to-resume-uganda-flights-after-six-year-break/
+  - Facebook: queued for a future run
+
+- **[Kenyans.co.ke]** Co-op Bank Explains How Young Kenyans Can Access 100% Mortgage Financing
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/featured/126394-co-op-bank-offers-100-mortgage-financing-ksh105-million-under-kmrc-scheme
+  - Facebook: queued for a future run
+
+- **[Kenyans.co.ke]** EACC Arrests Immigration Officer Over Passport Bribe
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126392-eacc-arrests-immigration-officer-over-ksh20000-passport-bribery
+  - Facebook: queued for a future run
+
+- **[Kenyans.co.ke]** Motorists Protest NTSA’s Removal of Certain License Categories
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126390-long-distance-drivers-protest-ntsa-removal-cd-licence-endorsement
+  - Facebook: queued for a future run
+

@@ -4666,3 +4666,215 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPWGloRUhUXzc3YnZxSXpaUkhVLUZ2dGRET1NiWGlvWnV0T2l0bWU1RGh5SUp5US1jR1V3M2JlRU9wcHo2MmdKZFNVdDRyQjdXNDFGdW1Bdms4cXM1MTVzV09yVXpyRWljU09VTjFfNXRyZFUyOXpNTE9OS2xSZ0JVSW5HUjJyd05CcHdMWGVOMmxEZUI3czFaRWpMdkRhUXUtUW5rSXlqY0pUS1hKUVk0LThn?oc=5
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 06:36 (Nairobi time)
+
+- **[Business Topic]** Fitch Maintains NCR Atleos' 'BB-' Ratings on Positive Watch - Fitch Ratings
+  - Source: Fitch Ratings
+  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNZU1yTmZBRTF0em9aZjlDZ2ltZHhQSE03a0tabXU3TGV5bzlUSEpWNUZGeEhGY3lmamVBRUJpY3Rqck1DR2JQNXVaMG9PRDlQaDQwWHVVOHY3YXIzTkoyYzMzbmdQVDJIeTFiYzdEd0tFeFIyOWViaVp3MnRzRlZnSm9UTWxJMEJtT1hnVXpsRE5OMFlZZXA5ZjBLVG9ZdUxXMDhGRDFENmJqYkdFU01HT3BGU0hSMnNCTFFfV1RjVQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110868637407566)
+
+- **[Business Topic]** Ross Stores raises annual profit forecast again on discounted apparel demand - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxNdFVKb3hYaVFIUG96TkNVVnhCaUJNRUlYelZmQ1RFUmhEMWxkelNZRVdjV21rMjlzbnNYaXBzblVKcU1HOTQyQ3pLZ0dvWGZoLXpIZklkME00Y3VSS0hzUnBORi1EV2dVNk9mek9WckNkd0E2Z3ZGdHJQVHFaVkVQelVob1JNaFI0eFMwMXdzRC1nRVVrM2xDcVpGVURHeXVYWXd6bXlMX09IdERfaXBpaUt0VXdVc2VpME9lTTI3QnozcHg0ZU41S2RWbURteGM?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110868649407566)
+
+- **[K24 Digital]** Kenya eyes AFCON 2027 opening and closing ceremonies as preparations hit 80 per cent
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/kenya-eyes-afcon-2027-opening-and-closing-ceremonies-as-preparations-hit-80-per-cent
+  - Facebook: POSTED (1289239267586516_122110868679407566)
+
+- **[K24 Digital]** Foods that should never be eaten on a first date
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/food-and-culinary/foods-that-should-never-be-eaten-on-a-first-date
+  - Facebook: POSTED (1289239267586516_122110868709407566)
+
+- **[Business Topic]** Broadcom Seeks More Than $60 Billion in Latest AI Debt Deal - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQaW1JdkM5Si1JUXF0SjF4aWw5SXlicHI4NmV0SndDZHc2ejdMY3ZnVjJaRG5lQ0w4YVUtejhYT1lYR0NJR3BORnFhUi1neE4yOGJHRGVNMjZFUXZxSHRXa0tHcmw4M0M2ekYxYTdSWFJJb2loaDU5MEEzYzZweF9paUdBWEVNN0ltWS00X2NWNEhmeFpvZ3U3S2N3ZTZBSGdORGo3d1lHc3o2MzhSY2c?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110868721407566)
+
+- **[K24 Digital]** Academic who accused Jason Arday of plagiarism suspended by his university
+  - Source: K24 Digital
+  - Link: https://k24.digital/news/academic-who-accused-jason-arday-of-plagiarism-suspended-by-his-university
+  - Facebook: POSTED (1289239267586516_122110868757407566)
+
+- **[Business Topic]** Morgan Stanley Revamps Merck Stock Target After Cancer Breakthrough - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxPMGtOUFcxUXpNc3g2eUg5dlFQZ01vQmV6VWl5T2pwNHJjM0NqS2QyUHM3WHNWMUpMZFlHVVpGU1Aya2J0bmlEbnVxOXR2cGd1eW51Qk54Q3BZV1NOdm5hdmJJd3Y2bkFNWVZKVXd4NGo3bUpLS2xMTERQWnU2d3ozellqaDBwUkhzN0RRZnVRVEktVENDSm9lQUVyUGo2YlZQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110868781407566)
+
+- **[Business Topic]** Abbott agrees to $670 million settlement of infant formula cases - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxNbV84dDA2eTFRQnY2SjItUDFrUTRtbDVjblVraEl4VEdtNzFLZmFIc0k1aEhlX2xEa3h1SkI5REdMVlo5RW5OQ0o3alFyYUpjWnZ6UVlHWXVNSnBqWEU2Y0ZwVzJJOU9qNGxCU3hEUDZkazBQZEZlVEFaNENid19CUEh4TkcwZWUzN2NVN1hKMXRhcE9tanRmMVd3OWFqSFBjdlJHQkxmc0xFTnRSNkJv?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110868871407566)
+
+- **[Business Topic]** JPMorgan Hints At Another Delay For Tesla Optimus Release - Investor's Business Daily
+  - Source: Investor's Business Daily
+  - Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE1GeEtSem03alY1bmgwMG5lMEZNQzF4S2ZMZENRd09NemlKM1I0QlU5LWRCRHdEeWlZOHU4VktRSHF3WVdFa1VaYTg2TkFnUm4tWlU1NTNRUWxLSEs0RzdBQktBZlBCd0ExMVkxd3hROHRBN1lEUkRDN2hQWEphRlU?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110868895407566)
+
+- **[Kenya Latest]** 7 dead in Kenya helicopter crash in area popular with luxury safari tours - The Washington Post
+  - Source: The Washington Post
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPdlF3OUxCaEVlUThIRkJkd0RiTmxGY0VqeS1jekhPY3l0aXp1YUVjREJJZ3c3NWNtb1BESW1XSVlnNXZwTE13TFVoazE2NDJuSDA1VjJ2TDhtUm1ra3pkZmxyX1ZsT0NNZGQyY1RMTUtpa2VYVmN5bGVNZ2V3SnBfTU9FdHVNLUx3dUtLc1l3elhWNDhOS2NwY1lfWFFmMWxIbldqUVh3akFTczVXOGIzb1lDT3VXMlU?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110868949407566)
+
+- **[Business Topic]** Orion180 Files for IPO, Eyeing Home and Flood Insurance Market - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxObTd6MG12dHZMWTdxN0Y2VXBYQ0pXczFBTnJ2X1lVNUhYUHJUOWt3b2kzdVNsN096aHNwV0plVzR6NHJJa2w3RVNQY1ZLamo1YnJYMXVCZm81SlFzdV9PSktmblExWG5tbXAzbjN4eFNwN2JGazZWMml3bFpNcTB4Nk5XZ2xTdTRYU3RUMl82eTgzRnptUGxnc25NYUFxU0RRWWJZMWVrQmstUktTWUpoZ1JR?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110869039407566)
+
+- **[Business Topic]** MongoDB, Cloudflare, Okta, Zscaler, and Upstart Stocks Trade Down, What You Need To Know - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ1JHN1JZRHZVSnNTMWw5eUV6aWxCd3I5eU1FTXR1UEZQLTMxYU5JX25Ma0ZCTE5qVVNJTVlxemp5OFpaaWx1Mm5IUXh0UXlhaWRGNkJiMlBGTDd5b2MyM1o5aDl0elUzVGF2QXJtejQ0TzVWT1ViWkRfY2NmaVgycHFJOUo1cFV0U3BlYkwwcVNzMndMVzBGcTM4bFJHeVhnV2ozVUotcw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110869051407566)
+
+- **[Business Topic]** India's BSE cleared as eligible exchange in FTSE Russell equity indices - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUjlTN3hFQ3VKYjk1NG9PVHFmYS1TOWQ5ZU04QjR0M0RsUmppRUUwSnZpZmEzZGRXSlZmRHJoQkZCdm1semRHQ28teWxZbmYwYy0wbEF6ZzYwdFdzdGNyeVdFRFR4QzE2V25wTXBObUMteXZIYmhNQTJjUjhGS3piaUt1MDFlOTAxZ081eG9RdGFCMjgxZHZNTDhHUzJ6Mk5oWGFZNUF6UjR0NlJwbFRod3BSeEVPWDd2?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110869147407566)
+
+- **[Business Topic]** Cold-Water Cup Noodles Sell Out in Japan as Surprise Summer Hit - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPUmlrSEhzRno0VFdCU0lRQ1NLN2ZBb0R0Ymd2dkNFeEgyenI2dmExeWV5cUVxRWRaeE1qdXJjblB0T2pTVTRPd1FUXzctOTB4SzkyVUh3Z2NaYjY0dkY5eWdQTzZCbVYyaDFNOTRVREV0Xy1Jd094M21wUUxTVHBHZWpGc1hVb0RrRWFZZWs0ak1xdnRqMzlmRmZtOU5UckpRMkVCTUlJUTZKR1pETGFPaVhIbmc?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110869171407566)
+
+- **[Business Topic]** US firm Powerus wins $22.3 million contract to protect Middle East energy infrastructure from drones - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNRlA0d3hFZ0lIUnNTWWs2TV96MnRaZEIzNnJUMkVNWVVrRHpEeVBNeU8wQWtkdGh1aDBiMmROSGpyUG92blVmSmpIX29pZC1IaGd4SHo2YkhGd09hcXNQMWhJcHNxSGsyV3d0dnhJd18tVzlYTTZCVG9fOUhKT1JudTR2bjBTYll3bTd0em45RFVVNjU1SjFOWE5iaVBUMFBXUzlabUEwWUxORXctanM4eEtTdzNVZXk0NEdLOQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110869183407566)
+
+- **[Taifa Leo]** Gachagua aapa kutembea Emurua Dikirr licha ya vitisho
+  - Source: Taifa Leo
+  - Link: https://taifaleo.nation.co.ke/habari/habari-za-kitaifa/gachagua-aapa-kutembea-emurua-dikirr-licha-ya-vitisho/
+  - Facebook: queued for a future run
+
+- **[Standard Politics]** Ruto moves to mend ties with the church a year to elections
+  - Source: Standard Politics
+  - Link: https://www.standardmedia.co.ke/politics/article/2001555842/ruto-moves-to-mend-ties-with-the-church-a-year-to-elections
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** EXPERT COMMENT: Separate mobilisation could be lethal to Ruto - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxQMTlpcFZwckd3emVYVGk4Z2VIczZDTFRpOUJiTVF3anJTXzZaaHU0VkNtdlo2UFZKaGhKRjNEOWE5TG5xcWtPakZmRmMtNEhSSFdFeXdGc1N0ZkN1TnhqcHR4alQzZFc2RlJFYmQyNFlRczc5ZHJscW1TSENpUF8tZ3JuS2pmbXoxcDlJd1dIQjFTQ25heExWMG1BNS1mdTlKd1pqeXFn?oc=5
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** 'Give me my money before I die’: Moi University retirees’ 25-year wait for dues - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZVQ0TWI4UlhKVzFSTTZ3WWd3VEIzeURCbFRxZW42ZVV1OE5udE5COENYUUxlLTQtR0dabHA4aV9YbXBJcjQ3RFpJQzlLdlVNVDZsZllVdTgxMVRuQnRNR2NGaW94N21ZUHotNVQ1VVBZQlJSZzFaQ0hrQUR5al9QVEhnaERhM2RyWmpGSkRidk1GZEQza3AwSS0tRjJ5alB4Ul9nVkFpSE5NNnhITHhqSFM0XzF0VlBa?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Global Concerns Rise Over Children's Social Media Use Amidst Legal Battles and Age Restrictions - Ratopati
+  - Source: Ratopati
+  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPNElEdE01enMwc0Z6dnRUTGlWMEFnbi1YQ0hkS3RCaHR0S2VYbWUycVZtU3VUcTRibGZlbmVZTVI2ajJQcjlXdTBQSWNRWGNxOGMtQlc1LWZPUzFSeWpmd3Azb1J5T2lnRzBxcWxyLXlmN2M3ckNVZVJZZWNuZDNPMm5kYTZsRFBaUFpiNlJycGR6UVFURWpETHNvbUNwOUVEVnlNMnpXLUhzU19vaG1nRjdlcUpvMVlzbUpBYVo5VQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Chinese humanoid robots' biggest obstacle: humans are still (mostly) better - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxQZkV3TjVvMDc4eFdoQURkRWRic25QRWVRekF0VGhYUHpjTU5BNHJXR3o2NkRINWhBVk0zbjhjQkk0WldnZ0JnSEFIRjVFZDJucWpxVWFGSXlMdnhkRWNuT0daTVlqcjVtTm50aVliVndiT3pyMFFxOHVtcnM3VGFlWVA1SEl4VWE5R1g0cVNHWGJYVEVQTjdvUEJRQUlKaVJURmJJ0gGoAUFVX3lxTE9LcGRQNEFoVlVFeWN0ZUd1d2UzcVF5eURsM0JORXpyNkJWbFpvV3RfNmdjbEFadGhOQXVtYzVIdDhhalJyRE1WQy1BMVJXc1E4MDBOSGczckV0bWN2RjByeW9ncmZjODM4bl9DZmdRaTYxeXFBVDNrRFphZ1R5YkV6WjZKSTlhNjcyb0F4QTJyZVhIajYzSG9ad0NidWw5bGtZVXdaWlFTRw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Japan Inflation Picks Up as Rate-Boost Bets Firm - WSJ
+  - Source: WSJ
+  - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxQLTM0eGZVSVh1UUJRckJIMENTZzBpWEc1RngzMzhzekg0N25RZGl4dldMZmZmY0haajNMc2JWQ2YtSThtRmc4YlM1bDNlbjVGQUpySEd2cWdUX1JycldSTWtyeEdJSFVMcDdmR1N2N3B3TnNrelRHazNsWmljbi1RQmczVkRvay14Z0RZUXRR?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Japan's historic yen intervention has ‘turbo-charged’ the carry trade - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxPTFVsQ3hRTFEtd2hhV2J3UTI0c1Z2Ml83WkRNbGFBaTR4ZzA2eGV3SFpsZmxpVVR4LTVBLWMweEpXZ2JKZnV5Zkxya2lvekRrb3VXaGVuM2dlS3hPWnRWX3daTVhOTDJ2eHJacDJva2owbUtPc25NcDVqaXBjazMxcmNmdVFvMklYR3loWVdLQ19Fd9IBlwFBVV95cUxQN1NKcXg4ckxXVV83Z2ljdDlLZXpYbEJhamZJV2JyeGhmdlUxSXQzUVAwOURzRjJjVHExSmJ5SzZob1RVaFMydno0d0pXbDkwMHBVRlhSWE9UbGVpWWlPR2Z1anZCRWJpTXhjNG1hQ21LY29oRlhmOXFoRk1rcUgyRjc0Ti01dVZFQ1p1US1BUVdMeDJPeWk4?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Samsung Plans as Much as $79 Billion in Shareholder Returns - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxNZVFJXzNLTW5HamlZZlBnTTMya3BBdXE2Q2dvbm5qelQ1Umxsb0tyNTJEbjgzMnJwSmp5LXVwaXR0dDJhRm02dWhNdHM4MEdQZm5UNGdoSFRtQzJXd1hvR3JEQTZaZEUyZHBSYWRIWWZXQjROYk5nb3YwUjh4MjN0MHExeE95bzBTc1c0WkFzakFYSnZ1UE43bmx4LTluclN2eWUzVUVTbmhmWU5TLVE?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Dollar wobbles as investors balk at US Treasury's rescue efforts - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxPdnhtYjB1NVZjX2lyREs1UUhQdHJlUlRoRDVDdVNMUUFHRVdTQkYzVUppMGFmalBJX3JxeEdMVkZaeWVqOW1qd0pnNVMzeG54M3hNRTl0a2FVS3ZkM1MzcHZGVC10dkw2QkI1QjhnV1o3RWZWSUk4RHBWV1RaSERWYUNQR3FzWndXNko3d1JyQ0pmVkluVFNjWnNfTkc0V04wOU1N?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Shanghai’s answer to Nasdaq outstrips Hong Kong amid Chinese tech frenzy - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPZGowMWk5N2xTT3VQa3ZHcXplOFZoSTZiaXM5a0UwelFKQUNpRGpMdTB4dzkwcExvWVAtR1hGR0RtZXJRN0VmbXRYOGNpUEpvbHVNZnJwSW5KNkNFSnJyVlVTTWh4Si1UajFOb3VfQUtzbU1NSkJSbUo4bU45OGR4S0RtSlU?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Bitcoin Leaps Past $75,000 as Crypto Rally Continues in Asia - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxOcDE4Rmt1TzR5TmJrdWNQVlNibEw5TjNVU2RCaXNrOE5hRTZidUJJT2JuazBNLUU5OHF0dnBkTTZhZENEeDVYcXhmNjMyQ3FKNTk0dk41V3dSX0tVeVFONFhxRnZqRDFOVWk0WURlZ2lLa0huYzdTYV9xRnlILTBXRDFLNmt1V1JLcnJnYUdiSmZ0RktDRThBeG1VWXZIRlJ3MUJybjJKOFJsdm1YWXlj?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Japan’s Upcoming Budget Requests in Spotlight Amid Fiscal Fears - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1ZyS0dYcEl2ZHZyZm1yTERsRlZlcnZhTi1rbEpLNTFZaEFlSHdTUVNjMFBuaGtzMEYxckhfQzlkSE9YRVc4MjczQ2RpNG1mSkVTQjBCZFdUbWliNmVPMXhETWZlQWVoeFQzYmo2UUNIRmExaTVNSHIzajVDSi1iZzBDUEpXaFcwUlN2RkdrVGctUmNUaVFsVnlJSl8zSlFTeENWSXR5ZVBjR1RJSDlSa2VoRGk?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Guzman y Gomez posts 30% profit jump on Australia sales growth - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1lXekJVdW03eHJHLVJ3UncteEdVS0Ewc1Y2N09vRXYwMUFjNm1VRVljVjU5M29RbDE3WlFxcXBjMGxIVy1OdXQ1TE5LaEVwQ0VRYkdsb3l2aEY1alJSRlVwWGNid3hjalBENUN3TnllLWVXeG5tTlhPYlBJaGRTZkt6bVFGOTJONE5nUF8tYlJGa3FkM0hMbXE1aU9xdl9YXzdRS2Z5SHVVQXlqdjNfdFpTazZ1ZGE5UUNj?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Neutral Ratings Impact from Proposed Police Bank Merger - Fitch Ratings
+  - Source: Fitch Ratings
+  - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkgxeFpZSHNUbUwydUdoWE1reERhdkVQWDhlMElBT1FreUt3ZGhHYVhCUTEzU0doZy1OdWVEV19jMlJaOWIzYXlVWFBpVjJpWTdHaVEwMElMOXdRUGNZQjU5MmQ5Rm9DX1ZuM19sMHNKQU5MYklua3lodFVKb0VuQi1zOUtpRnFyaFNxZkFpUkdBc1lkU0dMU1JaNWdxOHBTaDltdXRXdlRjMlNRSGc?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Hong Kong beauty sector faces new claims of hard-sell tactics and abuse - South China Morning Post
+  - Source: South China Morning Post
+  - Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaUVWSE1wczNFaTE4elU4LVJxWU53X0RLRDg1aE5pNmNXbmd6OWlGQzdmaXhqR0FzRnNxUERtcXNNLTdHeXdKVDlCeTQtbS1QaGxvQ0tjc0xhV3VBTXpIQmtta19KOVBuOU1SQVlHRHl5TlkwbV9jOU9hSXNrY1g3NUNFcXdkNUNmN1hGVTlUNWZPZGRoNWhtbExTWEhSY1Zmb3VSY01kYXB1WVR4R0RpNzZYNi12U0Z1ejFuZDBCalRCVUR3bU1wNzQxQmpaQ1JWcmtjVk1ZczRwNUFobXfSAd4BQVVfeXFMUDh2M21LbVM4enV4THpuNGx4VHd5MHdrY2Q2TjhIeFNwcDRCQ1BQTnY4N0djVDAteUwxclMzX1FlWGJraEVuMWhfUHVJNENaMnNGZmljMWE0SjNWX0ZYOVlyc3UyUDFGeVIxaVNTTktzSzl0aEVsVXVlOTBVVl83SWJ5RjZnXy1fMU1PWUhHZXVlbzN3d25iVXZjSVdkMFpnYmZFM3NuTkctUWtOUHVlZjBsNFdWeE96ODJFNVN6d0M3VXc1emVEcExMUERBOGRncXhmcWg0d25IZ0pzaEVB?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Gold Set for Third Weekly Gain on US Treasury Buyback Plans - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxOUVZsUkRuazRYWVFSejYteGl5R3BJdXZBQS1Id3JodW5ZU2ZOWmI0djlIWTVuQU1MTlpoREx5OFUzd3NDNlgxUXBSTUlWNE9kYnJ5Z00zcUVjR2RWeDAydGc3OTF4QzJKMkdDaUFWbFJwdW9FbnA5OUlvQjMxd29Ca2hNOTlKTUc5UU9oc0I2LWJFVzdJY1dicTVFR3pxaWM3ajkzMVlxTHppeDVnckhr?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** From euphoria to despair, Korea reckons with stock mania's emotional toll - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOUEprRUdKLWVCUVNYNjFxVFZJZEstT3BJQ1lDc3ZTOW5vR0ptMHJVSGFyYWJsZXY5RmV4V2xla1Flb2hFV3RjbEVKSlk1c1NaMl9lSWRpNkFZMDhvSVZRbEFCWE5NaGpBSk1yb1JZWjhWVU9aM0hoSm5rUlZNRmt0eFRsNmFlSXlZYjVmY3FxbTNZNzdMSkt0cFNMMFY0UzZrVDFz?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Russian snoops add OAuth abuse to targeted phishing campaigns - The Register
+  - Source: The Register
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUlvR19EUHV0RnZuUTVWUC1JVGJLR1JJcDNRNlVjVjJvbjZ3VWlYMEswUUVldXFzeUloWmlpV3pBLU1XVnk5eEJsZlJPeTJRM2RrZWVqTmhKeV9pNjZNaURiUTVFTE1mN0dTMnZ3R2ViSlZRSlNoUjlpMXdPY0I1R0J5WFlmUjRvM1NjdzJ3RWNTeVNxektSMTFJcDNEUk9TNWlKbVM3dm9Sa01wX1A5RkFoOFBTdm1q?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Hyundai Motor's union stages first full strike in 10 years over wage talks - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPLVloX1lfQVNKSGl1RlkzNzhmWTFKeFU2WHVMbUFIMVpXelZNdXhzemJra2daVEx0THRueE82YW1xeVNHNVJUc1ZlSDQ5dENrOF8xbmlTSVlGZ1otOWs5SjU1a0NnaDhxMmZjUGJDU3l1Y3RXYTR6SEkydVMtMmVmeGVRZU00Sk5jNmtaSjd1WkZKdGFKS2lBb21BR2F2NGc?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Equinor and ORLEN Sign Three-Year Norwegian Crude Supply Deal - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxONnVoZ1ZxQ3c3WWpRZ0dLbzUwYl9CdWx6RkZFbTR1VG12UnBRQXl6dmVQX1pXUndGdmxBUkNYM1ZtU1h4d0tLRWdfOFpPR1VTVlAtMU9iUXV4cm1NU3BCUGV3UWdXeXpDaExHMlh1c2d1WlA0RzRzbmNwWVRHR180aFhVSXNfX0VmLW0zQ0pFNXNkT1pJSXc?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** NVIDIA Corporation (NVDA)’s Space Exploration Technologies (SPCX) Stake Traces Back to a Wild $1.25 Trillion Deal. Here’s How It Happened - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxORGxOckZXLXhWb3FDOE15T2JfcVp1THFrb0tfbUF6RlNTc0pwQjhtMmRBYnBRdWpSUmhqaElCN0k5VkxsNFlwRFhzbk5WNWdaR0FMODNZN1JYTTRieGFsTjdsaGRJRGtfb0Y3T0NDTW92a2lEQkVIOVBzM05uTzQzekxOaldEajZKSkY5aGdPdzhxbFlBcTl5T1JfUGVJZE8yV0ptY1lGRzk?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** New Bank Indonesia Chief’s Shift From High Yields to Test Rupiah - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPR3NfVEZTZF9pMW9jT05HMGJIbmxZTFlJZnlrNFRCV1ZBeE1hUjBPSGdWZHBCcmg1YlVRWVdDaU9RRU5NZUFWTGl3SHYtN2hBdjBzNWJqWjhJNDhPbHZVREJhTWNvWW9OSEZRbERqOEtxNXEybkJLRkFzOFMyWHB1bHBZM2xLTTE0RjJiQ0EwTDdnak9wNWl2SkRDc0FVQV9QZWsySjV6TW1YblhiMWdybmpmbVRJZw?oc=5
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Senator Boni Khalwale Prepares Family Home For Late Wife Gloria Sekeiyan’s Burial
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/senator-boni-khalwale-prepares-family-home-for-late-wife-gloria-sekeiyans-burial/
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Geoffrey Mosiria reunites missing DJ Snatcher with family after four years
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/geoffrey-mosiria-reunites-missing-dj-snatcher-with-family-after-four-years
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** Wetang’ula calls for peaceful political activities and end to goonism
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/wetangula-calls-for-peaceful-political-activities-and-end-to-goonism/
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** Murkomen pledges partnership on drugs fight, bolstering security
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/murkomen-pledges-partnership-on-drugs-fight-bolstering-security/
+  - Facebook: queued for a future run
+

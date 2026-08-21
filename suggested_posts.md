@@ -6088,3 +6088,240 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://www.kenyans.co.ke/news/126383-cbk-warns-food-prices-could-rise-poor-rains-threaten-maize-harvest
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 12:32 (Nairobi time)
+
+- **[Kenya Latest]** Nyoro’s new party shakes up Murang’a politics as Gachagua moves in - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdW1uNVV6WHlLTFVXaHZZMWh4Rm5jWUkzNmtfOERTX3lzbnRJTXE5ZmlTYWlfZ1NPSlBXTzM1ZEpLRzF6YXBqcThkQzJCUzhSVm5IYWI3OHhkam9JNklHUlZadzBualNfYlVJSEpITzZxS0lqSENOOUU4MUZETEQ2dG5xdDh2aWppNTVTdEdUQk9CdVJmeVVfTTVWQ1l6SVlKZ1dnZXFRMjNTRGhXcVJGLTVIQ1ZLU3dfSU5v?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110920423407566)
+
+- **[Business Topic]** Stock futures are little changed after a steep sell-off sparked by a move back higher in Treasury yields: Live updates - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE9TMDV4Q2s0QVVHMXFPY2w4RjUxY0Juakx6aGs4NUh0WloyV0lkUElnMkdUUEhUV1ZCNFQ3YUxfYXRTY3Z3b2JCVVJwdTZpSDFhMGplRVplZUhTNUtmbC14dnF3TlZQbzIwbU51YmliSmczdXNaZm1n0gF8QVVfeXFMTXlQWDhxZW1wNDI5b2hyTFFGLXh5M2h5YVdaanoyTmw5R0cyRkZvcG5Nd2ZMUUNGa3NMczF0dFN0cThNU1M1R0dCbFlEajhWb1BiVU14bldkdllIQm1xNDY3RWRiYjdFRVhyelctcklYUldpMkplT29kUW9kNA?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110920471407566)
+
+- **[Business Topic]** ‘Nobody has automated the kitchen’: the tech billionaire disrupting restaurants - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPcnBZR252Z3dKUGNUNERwRkR2OVJaUWFNT1VKUVZRQTc3bnlTUHpGbHlMcmU1eTBMd1NnNmRzMU1Db05fZDlVVXcxdTJkd0hwT1VRc2ZwRU1yUlhVcVJvR2RWM2l4V0M1VFJJLXk1Q3VHaWNjWkJZLTJybUhaUnVFd0c0Rjg?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110920501407566)
+
+- **[Business Topic]** John Healey warned to limit Budget borrowing amid bond sell-off - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3AzZ2dFZVoyNElDUVJKMmJ1YlpzQ0otM1lCMWN1SEs4cU5fcXF1QW93d0I0YUVpaHpqR0ltYmM4UkU3RGxfM05MRmRyZXFOckZ1ZEVoWVRfZGUwUDdBSHd1RU9JbU9nS0ZtSlRmVktlQ0tRUllkSEtrN0dKdXdXUlVSZ2E?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110920525407566)
+
+- **[Business Topic]** Germany Revoked ‘Suspicious’ Carbon Credits Bought by ExxonMobil - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxNTlZWbGg3UUxjaFFZc2dFcHV6eWpvSGpYeW4wZHlZNnZES2pIWnFjU2d6eVhKM001Wk0wOHU2UWdxSVRmX3kyMHpWdEhBN2tDY3FmclZmWmNYVVgycTVnMm43TFl3RlBNaVhMaUJmcGNSWGVMdVJVQW9KNFVuaVN1UFdHRnE3M3owNkFBaFZPOHY1NGFGZ1d2dnZsTDJUSGNMZW40SVRGY2o1TDNSVkI1UjdmYw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110920561407566)
+
+- **[Business Topic]** Canada-Focused Lithium Miner Gets Price Floor for Supply Deal - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPX3N1TDZsdFEzNDlBU3N4VTZfd2pJQU93Vnh3NUdBTjBIME1YWDBDcDhFeHc0VWcySE54bmdGSXFDOTF4WWhMdFRENDFfMzFwRGYtVEhGaklXLUVEQU8xUTlLSk1reDFWQjZBUEFEc3pJTnVpNkJlSWVPcWJDTnNxdnJxN1k0eDdCY29VX1BtSFR6WjVRLUF2bDZJRU5sYWxZNHpiMEo5Y0ZCNUtYem9ma0F3?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110920591407566)
+
+- **[Business Topic]** Asia’s rising riches protect insurers against China’s policy shifts - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzItd2JXbHRiYlg0TGlfOENydmQ1R0FpMzQ4SWZFbnBtVVloMllpcEZhZmpVNk1zVXU5N05ucVduNENJTFpRNTlFNUJGbHh5dHFvRDlDaS1acXk4TTZiSXdaNDNCenVLalV0NTJGS1VZOEl3NDMzUndKejh0OVR3b0tFcHk?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110920615407566)
+
+- **[Business Topic]** Art market money laundering rules catch interior designers and toy-soldier sellers - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOeVViRWNqcmcyZ0ltUC1Ga0FtQkdSUVRRSENkRGFWdHJJajVJRmhhMk8tWXB2dmNhTkppM3NNLW1BdDBtWkMyYXBTbUNDRmEyMEIxM2ZZcmNpbFp1YzZ0X1hsWThSUHh3c1h3dW9pa3p2QktldGdJTThyV1B5WDJZclEtdEk?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110920657407566)
+
+- **[Business Topic]** Australian Bond Futures Positions Near Record on Hedging Demand - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlk2WjkyYzRTcnpNTVpwdG01OTZGM1RqV0ZIandNS1hiRkdxY1pseHJpZ1dteE9sWU1zTUUwYVNsSldkeS1ESnBiTFkxZnJiQVdJQ0xQU05CVWZDal9tdms5djd3Wk1UVVlua2d3RGlVRWpreWJoelRlTlZQT2NkRGpmbzVfSElVbVpvWUR1RzNFa0x2cVk0T3RHUWtzaU5ZcjkwYjUzZ0kyczFJRFExald6V0g?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110920705407566)
+
+- **[Business Topic]** Japan Tobacco Stock: Strong Earnings Support The Share Price (OTCMKTS:JAPAY) - Seeking Alpha
+  - Source: Seeking Alpha
+  - Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTRRb2FVWDZVYUFROG8xN0pXek9PR2ZDVFNkRWFGZ2lnSktHWE1QeWdQUmNRNFlvNFdJaTk2aXpka0V2czgzaTNUMnM0SEJCaWNzVkhDT2xXWnI1N0pZX3dTQXBzWTR2cUpjTnFLRjV2SlBsTThjeU1yWW9oY2dTbmxLMkhXNVE5U3RjTkxVazlXeXpj?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110920723407566)
+
+- **[Business Topic]** Indian central bank sticks to intervention streak to defend rupee, traders say - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeDdxN19PelM3RDZ3RkplSGIwd2k2RWI3aXVFNlJOQ1lJSGZrV0REWHoxZnBzMzB2by1CQ0JCYzNJQVB1MmpIUVJVZ2dOS18yZTJNSUl1S2duckNQcG5fV2ZnWTNMcTdScFprcGtEWGpIZmFxUTBEVjN2UDM2TmtOczBNcWtBQ3NYbzJFZHp1TjJzT3F6d1ZIc01OLXRsYVJ5b2dIUzV2SF9tTTBERi1aVmFCU1R0YTZCSF9R?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110920777407566)
+
+- **[Business Topic]** China has optimized coordinated fiscal, financial policies to boost domestic demand: finance ministry - Xinhua
+  - Source: Xinhua
+  - Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE9zU1FKSnE0SDdFa0ZvTzFQZTNwUUpCSU55clJ2Yk44dUpTU3V0QlFobElFQ0ZHcHlIQVMwcXp0eldVQkMzRmpxdEJSZFhVbFN4R2xhV3ZTVXlxNGxpaDdrcVkyQXVtaVdaZGhHX0pCYll2WDNKMzduM1Z2TGU?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110920801407566)
+
+- **[Nairobi Leo]** UDA Sets Date for Fresh Garsen Central Grassroots Polls After Cancellation
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29668/uda-sets-date-for-fresh-garsen-central-grassroots-polls-after-cancellation
+  - Facebook: POSTED (1289239267586516_122110920861407566)
+
+- **[Nairobi Leo]** IEBC Sets Key Requirements for Political Parties Ahead of 2027 Poll
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29664/iebc-sets-key-requirements-for-political-parties-ahead-of-2027-poll
+  - Facebook: POSTED (1289239267586516_122110920951407566)
+
+- **[Nairobi Leo]** KeNHA Begins Drainage Works Ahead of El Niño Rains
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29665/kenha-begins-drainage-works-ahead-of-el-nino-rains
+  - Facebook: POSTED (1289239267586516_122110920981407566)
+
+- **[The Kenya Times]** Safaricom Explains How to Reactivate Your Old Inactive SIM Card Before It Is Recycled
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/latest-kenya-times-news/safaricom-explains-how-to-reactivate-your-old-inactive-sim-card-before-it-is-recycled/
+  - Facebook: queued for a future run
+
+- **[The Kenya Times]** Is Your Job Secure? What Kenyan Companies Are Planning for 2026
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/jobs-careers/is-your-job-secure-what-kenyan-companies-are-planning-for-2026/
+  - Facebook: queued for a future run
+
+- **[Education News]** From Chimamanda’s Ghosts to Kenya’s Moi University pension crisis: When retirees become forgotten
+  - Source: Education News
+  - Link: https://educationnews.co.ke/from-chimamandas-ghosts-to-kenyas-moi-university-pension-crisis-when-retirees-become-forgotten/?utm_source=rss&utm_medium=rss&utm_campaign=from-chimamandas-ghosts-to-kenyas-moi-university-pension-crisis-when-retirees-become-forgotten
+  - Facebook: queued for a future run
+
+- **[Standard Sports]** African players to watch in the 202627 English Premier League
+  - Source: Standard Sports
+  - Link: https://www.standardmedia.co.ke/sports/article/2001555862/african-players-to-watch-in-the-202627-english-premier-league
+  - Facebook: queued for a future run
+
+- **[Capital FM Business]** AWS to spend $1bn putting AI engineers inside customer teams
+  - Source: Capital FM Business
+  - Link: https://capitalfm.africa/aws-to-spend-1bn-putting-ai-engineers-inside-customer-teams/
+  - Facebook: queued for a future run
+
+- **[Capital FM Business]** Gandhi’s handwritten notes on life sold for $1.69m at Indian auction
+  - Source: Capital FM Business
+  - Link: https://capitalfm.africa/gandhis-handwritten-notes-on-life-sold-for-1-69m-at-indian-auction/
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Terry Atieno reflects on championing immigrant rights in Germany - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVMxWlU4M1J2ZkZGSmlJRkJrREI0OVpXUnVsN3RpMVpqak9VUV9tQVNzUjlZMFA2RnVyd3VQakM5UURERm1QRlAwRW0wZ3hWdVN4TWg4QjNTcEprLU13MEdQVk1CZlhaU3V3R3VvSjVGOUQ2SkU0YWdkLVh5X1FGNWItUjZKZHB4Z1Rzbkp3bG9XSHNyaVdjdVVERHBJTUlFRUx1cnZVLTFNV25pa3c?oc=5
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Kenya Army honours senior officers for decades of distinguished service - People Daily
+  - Source: People Daily
+  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQcUFydHQ1dDF5RTN2RVBEVHJsZFJaYndEa2xYdmtKY0Z3LWhBdVlDWHhkOEI0dlFZQmQ4cEVvZnN0YlkwMk9NZmlWeFVtVDFhajNuUGpYTnh0VTdMeG1QOXZjeFhYYmZGaFdPeDNJdmZQaElYeEtKTnZkelc5Q3B0WXFfMUFRWUF0VUVsbHE5a2ZxVHhhcHFvN3JsY1E2V3oyMWk4SUNWQQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Kenya: Kalonzo Emerges As Leading Opposition Choice in 2027 Race, Swiss Poll Shows - allAfrica.com
+  - Source: allAfrica.com
+  - Link: https://news.google.com/rss/articles/CBMiW0FVX3lxTE90X0lrenU4a1BVWUNnZzY5ZXM2SFB1dDFZdGVCYmsweTZIU2NHZ0I3RzVSVGZZNTZNZVlxSFpGVGhYVFBMVWF4Q0x4T3VZa09nTnh1R0tlQk43dVk?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** T. Rowe Price Says Nigeria Attractive Even After 64% Stock Rally - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxPVEE0YTZGckNkSnFQQ3NDbnFIaWpiWTVXX2tnUVN2UEhiMFpqWGd5ejRIeDBzWTItNUJDMDVhUV9IMHpnQ3Z0MzBmQ2k2UjVzZ09YSG5HXy1Ja0d0bWpkNFZMak1VN2N6WDNOMGV3bGNHWUlydjBMU0lXN0o3SkNkN2pFLXJ6aG1WZ2IyamdsdkJyaUVTdU9jc2tuYlgya0V0Vk5PV25BRWFYLUhpOXFFN3dmVQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Bitcoin Tops $75,000 For The First Time Since May As Crypto Surge Continues - Forbes
+  - Source: Forbes
+  - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxQWkVXa2pXcGlJVkNqTlpONm1DY1pfbWRRa0hFc2ctbG9jaTdKUjU5SmZLdEV3VF9qVnFNOWExb25pUE1NS2xSWEdNbURuTjlZVGJzT0xLN0VlSUxYVVJVeGw2RTh0YUY2alpiSzYzcUE3RUVTY294dHNaT2tqOHN2VWgweHJaSmcwWUdac0lfamRQbS1KZzYzMDlrUml4UGRjUlROLUJfT3AzWWh4TUpmcVQteEZtc0twZjdiRnIyWmFTR1hoTUE?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Samsung to return record $80bn to shareholders - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPNzlrU2ViVnNoTUFqUDY3ek5JMndrcXBrMjN2VkxySnZvR2JEMjBPMjI0TTBiT1ZFZlZZTjBKUERSSFhObEpfY1pxV3dKVlgzS1pnVDhTYUYyNXFtcUxWbmlsNGd4OFFHSmdfVkduTDJVSFVCSFRTalhyYU51WWVmNzd1VXQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdkN2SURXc0pxNUsxbnFOazZUQ05fb2JQYWNQMTFOcVB0ZmRaXzRxNEtCV0paRVBtOGxya3lVUURPUWE1a3RQVFFsWmRGXzJGUTc0My02bTQ5czhxbHFlUzlwSkFmYU9WdzdRdWlfSzJVQzlTLVotMjAxRUlwODTSAYQBQVVfeXFMUGliQ04zRUFPR3RTcGpUYTlNd0F3al9YVVFJMFB6M3ZMVzBCS2JxVzAybG5IVHBDRG90VlVCYXNjX1Y5WWVWRU42aTFMbmdQMnVETW5ESG13d2FZejJ2MUFlanp1dFhfWkJqcTJSb3hwQlZVajB6S19uc3d4eFViNnNSa0Q1?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** UK Reports Unexpected £1.8 Billion Budget Deficit in July - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQVVBYY1Btem5nMGM3a3huMEpOYTV5MjQ4S2poNjlrMVhKSmRlQW1CRjhwMzgzUG1sX3k5ZmVIWkdiT2hXb2hiTFBEQ0pUcGFNaGJ1NVRNbzZ4Y2NpSExtQmhYQ250YXlkb3cyUGNLZGxfWTk2MlVFSEI5RThJdzdzMTVhMTl1RFhJNHNCZTRsREFFMWsyVjhBaTVrRlBVWkJWZlc5Rm5ZaUxTZVZvNGdCRXE2aw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Landspace aims to refly recovered Zhuque-3 booster within six months - SpaceNews
+  - Source: SpaceNews
+  - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNdFRTampSSkc4eFBZSVI5VDZHTXVSTXZncmdVUUdCQzBJa3p4akFnUkpuckw0STJRMXdUMGxXaENDRlVlTU9FRW0yYVNnb3NaUHZTTlNmTkI3dEwwdWpObVhqNzcyb21WQnROZEc0MnQ1SlRGVWdNajI1eElHS0RjRE9ia0FYcGpKcUQyRDk1eDZ1Z1B6eEE?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** A China Chip Denial Lands Before Nvidia’s (NVDA) Big Week - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxOZW1lV3FlLW9WN1NSTU9MTWZwaE55Um1KZ1ZoQ21HWHZsSGc4RW9qdkpDU09STXNvVUN1N0VUMm9sZHBwczR1cDU4enh1Y3pJTXdGbUZyYVlJYVNES3B5UGg2VnNYdUNLRU9Gd3lFVERBQzRXZUg5MFpBX2xLLVBDTUUtR1VKdWJmZXE5b2FsQ2JjSFZNaTZnNXhBdw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** NexG Says Malaysia Weighs $1.9 Billion Passport Supplier Buyout - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxPVnRHeUtTdjNrdG5CeF9tV1VBU2FwWXNHNGYwei0wYVpqSDRVNlI0a29CR0t0TldDd1ZwdUgwS1UwNWl5ajU1R3lNWUxJOWJ5YXZvbkVCYkEzOGtGajJVUkxaME1jSFl1eWlzallCWmtyVm9nNGV1MFFBb1RpRldvZV9rTDFMZlhFelZWdUctS0ZxQUgyZDNTTjh6blZaYmJuUmtMaTVqQk1TSi1pN1lZMHluNA?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Cambricon advances sixth-gen AI silicon, broadens support for DeepSeek, Qwen and GLM - digitimes
+  - Source: digitimes
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOYk04Zkt1QXNZNjd2WEdpb191NkU2LWEzZmRuU0hKOGRFRy1CbENHcFU1anRQVFZYNUJkZ3hSaTB3ZHd3QVluMGNXT0FidzZCWEtNeVk3aFZ1V0czQTNHMWF4U0dQa0ZadXZ4UzU1eHZYMzR4dzBKdkdEY2taU29NTGxxTEc?oc=5
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Redsan Reveals How Being Mistaken for a Ugandan Inspired ‘Shika Glasi’
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/redsan-reveals-how-being-mistaken-for-a-ugandan-inspired-shika-glasi/
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Karen Nyamu Addresses Break-Up With Samidoh In Leaked Messages
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/karen-nyamu-addresses-break-up-with-samidoh-in-leaked-messages/
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Akothee Urges Artists to Invest in Farming as Guardian Angel Reaps Big From Onion Harvest
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/akothee-urges-artists-to-invest-in-farming-as-guardian-angel-reaps-big-from-onion-harvest/
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Insidious Out of the Further review: When the spirit world finds a way into reality
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/movies/insidious-out-of-the-further-review-when-the-spirit-world-finds-a-way-into-reality
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Dr Joe Njagi reveals body organs endometriosis can affect
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/health-and-fitness/dr-joe-njagi-reveals-body-organs-endometriosis-can-affect
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Mind your business: The growing pushback against unsolicited advice to women
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/mind-your-business-the-growing-pushback-against-unsolicited-advice-to-women
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** World’s longest-serving referee honoured for 63 seasons and 5,000+ matches
+  - Source: K24 Digital
+  - Link: https://k24.digital/uncategorized/worlds-longest-serving-referee-honoured-for-63-seasons-and-5000-matches
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Chase Stokes recalls saving Madison Bailey from drowning while filming Outer Banks
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/chase-stokes-recalls-saving-madison-bailey-from-drowning-while-filming-outer-banks
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Renting vs buying land in Kenya: Which option saves you more money?
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/money/renting-vs-buying-land-in-kenya-which-option-saves-you-more-money
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Nurse Judy disappointed as taxes take nearly Ksh390K from her earnings
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/nurse-judy-disappointed-as-taxes-take-nearly-ksh390k-from-her-earnings
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** Kenya Editors Guild opens dialogue on public financing and debt accountability
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/kenya-editors-guild-opens-dialogue-on-public-financing-and-debt-accountability/
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** NLP’s Kitui Stadium showdown signals new political contest
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/nlps-kitui-stadium-showdown-signals-new-political-contest/
+  - Facebook: queued for a future run
+
+- **[Kenyans.co.ke]** New Details Emerge on Last Moments Before Khalwale’s Wife’s Death
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126385-senator-boni-khalwales-son-recounts-final-moments-wifes-death
+  - Facebook: queued for a future run
+
+- **[Kenyans.co.ke]** Dangote Offers Kenya Stake in Lamu Refinery, Sets Construction Dates
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126384-ndii-says-dangote-backed-oil-refinery-set-break-ground-september
+  - Facebook: queued for a future run
+

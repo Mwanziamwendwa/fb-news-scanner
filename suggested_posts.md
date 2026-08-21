@@ -8910,3 +8910,27 @@ Kenya Power explains why it keeps carrying out routine maintenance on transforme
   - Source: Financial Times
   - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDFTREhxc25WaGJDaExvOHFlTlh6SHdMMkxvMFJlT0NvN1U0MFFBM1VvVXc2TDdUMC1oVGF2LVE5VXZPc3RkRFhPN0NMTUJsM2RBbEpSSS1rU2Nuc0x3Um5pYkZTQWQ5bXJmd1VMZFZwOUlIOGZtRFZXS0lpUE4tSnJiRUQ?oc=5
 
+## Scan run: 2026-08-22 02:55 (Nairobi time)
+
+- **[Business Topic]** TikTok to pay $400m to US in one of largest child privacy settlements - BBC
+  - Source: BBC
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uUGxYTVJLSG4xVU9tQWdDSHVXaFYxOE5oUEZ1MTVNWHV4b0NsZkNBajBRdGtwc1FvQVlaQ1RhYWxxNmd0VTRUWi1rNjUyb1d5dTFXTldmZl84dw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: TikTok to pay $400m to US in one of largest child privacy settlements - BBC. TikTok to pay $400m to US in one of largest child privacy settlements BBC TikTok to Pay $400 Million to Settle DOJ Child Privacy Case Bloomberg.com TikTok agrees to $400m settlement to resolve US children’s privacy litigation The Guardian TikTok to pay $400 million to settle claims it violated children's online privacy laws CBS News US Justice Department and TikTok Settle for $400 Million in Children's Privacy Suit, Axios Reports U.S. News - Money
+
+- **[Business Topic]** Hims’ Weight-Loss Plans Draw Penalties Over Credit Card Disputes - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPekI3eHUzNmg4QWZrMUV3SEtBRDdGSWlGZ0hvX3Q5MTR6R3l4ck9nVE5YVmFfUFFYUFFxUlRhaHI1SEZqRG54dXBXenlaOGdZYWM3TmJfU3lTRDNfMnN2eU44UUlIV29vZGM5Rkl3RmNjRmxheU5hMUlPNHg5QjlnTkxEN1NpLXEycjdyRGh1UEJSeFlVM1Zad2VZY0ZreWFQYkYzbFBRUjZNOVBDOWNaOVBsOE4?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Hims’ Weight-Loss Plans Draw Penalties Over Credit Card Disputes - Bloomberg.com. Hims’ Weight-Loss Plans Draw Penalties Over Credit Card Disputes Bloomberg.com Visa Flagged Hims’ Weight-Loss Subscriptions Over Disputes Finimize Hims & Hers Health Hit With Visa Penalties as Weight-Loss Complaints Surge TipRanks
+
+- **[Business Topic]** Why BitMine Immersion Technologies Stock Skyrocketed by 26% This Week - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd3FOX1I5a2FNeGIxTVZDU25LTlplaG9USFV1bmo4NExxckY4RERBOWc4OERobjJBdWRWRVJnNlRBREVJUjRFdDRtVktwYmlTM0hxeUs3MEgwa2JpNUtvRXFNblFfb0xXRXFFSTZGLUVzMHRhaU1EU2hmT3AzWC16d2RBYmZnRldhQ1RMXzgzVnFBeTdueWpXZHlxT0NxZElLRERsVkRPOGM?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Why BitMine Immersion Technologies Stock Skyrocketed by 26% This Week - Yahoo Finance. Why BitMine Immersion Technologies Stock Skyrocketed by 26% This Week Yahoo Finance Bitmine Immersion Technologies (BMNR) Announces ETH Holdings Reach 5.82 Million Tokens, and Total Crypto and Total Cash Holdings of $11.4 Billion PR Newswire BMNR Stock Rides Ethereum Staking Wave And Aggressive Buybacks StocksToTrade Ethereum News: BitMine Builds an $11B ETH Treasury as AlphaPepe Whales Hunt the Smaller-Cap Trade openPR.com BitMine Immersion Technologies’ Ether Holdings Gain $2.2 Billion as ETH Climbs TechStock²
+
+- **[K24 Digital]** Apostle Dan Wema heartbroken as young Kakamega man he stood by through cancer is buried
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/apostle-dan-wema-heartbroken-as-young-kakamega-man-he-stood-by-through-cancer-is-buried
+  - Draft material: Apostle Dan Wema heartbroken as young Kakamega man he stood by through cancer is buried.
+
+Apostle Dan Wema heartbroken as young Kakamega man he stood by through cancer is buried Philanthropist and Facebook influencer Apostle Dan Wema has mourned young Kakamega man Erick, whom he had supported through his battle with cancer, following his burial on Friday, August 21, 2026. In an emotional post following the burial on Friday, August 21, 2026, Wema described Erick’s death as a painful end to a battle he had closely followed. “And that is how cancer took our brother Erick… Bye-bye, bro,” Wema wrote. He also expressed disbelief at the young age at which Erick died, noting that he was born in 2001. “Cancer will one day die… Imagine kijana wa 2001 akatuacha,” Wema wrote. Erick’s treatment Before Erick’s burial, Wema had shared details of the arrangements and revealed the extent to which he had become involved in supporting the young man and his family. In an update issued five days before the burial, Wema said he had personally committed himself to ensuring that Erick received a decent and dignified send-off.
+

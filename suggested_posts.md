@@ -4484,3 +4484,185 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNRkFnNG1kem9FUmZHQnNhSVFuWlZwRzdOVUlLR1ZEb2RJVjhGVkpvTlFXUVUwc0JoQVZzRl9HcFhuNkRreUs3VkN5M0J1Nmk3bk1Ec2NHdEpHZmdLeDVxdE9fb1l2MExKRFhRd0lyckFJQnRTQktwa2hjQ0k0ZlBHeEpDaWtsRmRVWVhESlk5aXE3aTZ0SHNBc3MyS0k0Mk1LeC1IM0VBZk1LdVI5OHJLc0hsT2h4QQ?oc=5
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 03:05 (Nairobi time)
+
+- **[Business Topic]** Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdWFwMW54b3ZlZFpfVFJkREZzZVNwVXhRQmZteGg1cVNVXzJkNmJTd3Qzc3JNTm9IU3JJZDJteU0tSUgyOVl2VC1lTlAxdm9LUDltTzd0akp3QjNTQ3ZXWlBJRm5HX21OYUxDLUExSXNVU3dBRjdzQUNveHFUWklGMUUtcG1tQTVSS01Ic0dLcGFkczdWcThjYWozTkdHdlZ2TktYVHlEVDlJLUFnLU5vQmNHVDZIZ2VZN1dkb3dBc2pXd9IBxwFBVV95cUxPZTFXdmxMTks2MGotZUxtQXBXWTI3NEQ2Q0U0Wnc3TjBMUmhMMjlwb3drQjhCa0htNlNINEdKZjd3bWtJYTRsbmRpUWFWbktPaGItMnQ0Q3l2NG1vNll0UFdwZVZIMUtMWVdnMjMxMFF0Q3RKM0FVZWszQVU0VWxtSmRja1dZemh4WVJfT3ZKMHk4ZmFtbTRvcmlhVmtKS0ZvakMyR1ZiRi1oek5ieTQtaVhIY05zUnpaS2pmdlh4Q0xZcnVWb1ZR?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110843065407566)
+
+- **[Business Topic]** JPMorgan Falls 1% as Treasury Rescue Fails to Calm Bonds - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxNaVhpdEtJOWNaLVN0NV9yUlpoVEVVY1BOd2dYc3RUYVQ4WUZZQ0UyX1BzVE0wSlJqQXM2WVUyUzBWZnpkaFNobkYyTHV1ck8wRFNybGZPY1NjbGVQNW1aVG9GZUVLOU51c21ZRm9BdVF5MU52UjV5aWxjb1lQWWgyeW50R2JZMjZFaHN2TEdkTUdWcEhoLWhPQWVjSDY1QQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110843089407566)
+
+- **[Business Topic]** Walmart Shares Slump on Weakest Sales Growth in Over Six Years - WSJ
+  - Source: WSJ
+  - Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxNdjhXYXlPMXRMM0RDbmVFNWVTd2d2MmtMXzlEV3NNUVRyTERka1lqNWs1WGEwSk1paTVhX0hWUjljV1JtZEhsYWRNR1I2djJSRkZEMldNclZ6Q3dUdkpHSmRGTUVrMFc5S1hOZUF2WWM5b3FEbE5pV216RGp5bXF2bDcxakRnSkg4Ymc?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110843095407566)
+
+- **[Business Topic]** Coty Targets Portfolio Growth by 2028, Focuses on Innovation and Brand Investment Amid Gucci License Transition - WWD
+  - Source: WWD
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLW9abk5QZ0NjWEpyVlRrRm9USEdLc2N1bnZRbFRLQUcxcjVqb2phdDBpcjE1U053WTFHLTZ4TnV2c241c2pEcHNfXzdIcVc5cDdRWjVCYjNGOW95b2d1ck1WMV9QQTJDTFRiV2plUEM2bXhEYy1rN3E2TURPX01vdnJtZ0xGWC1qS0FwdW0wVmJZS1JfVzVvemhBQk1Yak5xVW9JXzBpSTBBSWVMdi11d1d4VHA0bEthbjNCS2xFZDg0dw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110843131407566)
+
+- **[Business Topic]** Upstart Exchange Competing With Giants in Texas Is Landing Its First ETF - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQNVRlUmFEVTE3dGxFY1kwOC1JR1AyWnlPUldramJ3N3hWNkRaLW14M3hYdS1JOUp2SmFCbGhWLWJ3dGRtSGlnSUpNQk9mV2hrTXVtZUlMa3FpUDM4NV9qeXg1Zi1EOVRFNFVXcGM0em9PbmxoS1pJRldDbjVpbmMzSzdfS2JaWk1udDJJQW9pZ2R2V2w3R3pBYWVOVHlRbmI5M3U3T1pGR2lnSUQ3cjhFSEFrSG9oTC1BdVpRRXlMTXYxS0xBaVVjSE1wTGw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110843137407566)
+
+- **[K24 Digital]** What do you bring to the table? Why have we become obsessed with what people can give?
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/love-and-relationships/what-do-you-bring-to-the-table-why-have-we-become-obsessed-with-what-people-can-give
+  - Facebook: POSTED (1289239267586516_122110843161407566)
+
+- **[K24 Digital]** TikTok declines invite to discuss dangerous driving videos
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/tiktok-declines-invite-to-discuss-dangerous-driving-videos
+  - Facebook: POSTED (1289239267586516_122110843209407566)
+
+- **[Business Topic]** Walmart sees sales drop as US consumer spending retreats - Al Jazeera
+  - Source: Al Jazeera
+  - Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxONlV6U0lvUmN5WF8xZHBYOGN0Y0k0X0xpY2lORnNQdms1b1BVMzNLODNOUzQ2ZGRMWjBqbUllaHptQ3Z5SF8teEU2ZDgtXzczQlVDTkxadEhfSjhLNXhmSTl0d19DVXRlYkRJOE9mSlNUdGpKajBJcDllWmIyTVI1ZFZsT29mTm1GV0RLZlBSQVlxYzUzeXVkUklpLVlMMmpsbkHSAacBQVVfeXFMUFhCSGdiUDBQM3NGQ2Jpa25kZm1KcC02VEI0YnZlUjVnVDNYS0lBdTl5cEY4THdvUWJ4TjgwUjJ6SUZldC1VTGswNXlRVXF3U3phMFVZSVQ2eDMyNVByeW83cHlOUU9ZZy11YXlpNTVyaU91aFNjTnJkck5nZ1lnSHAzVF8zaWZpeTh2NFdmMl85MlFyZDB3V2J6VDFSTzhSMzNvUTN2c1E?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110843233407566)
+
+- **[Business Topic]** US Allows Early Sales of Winter Gasoline to Help Curb Prices - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNNm1MTUNQb0xqdmtOSFdwRTIta1EyVEZmY3lTM0dSQUNuajAtaGVmX2NUN0pZMFp5TDVlQW9YbmpTaHlldWFUNk9lVUtnQ0pwdFBCU2RkNjlCODd3NzczNUxQcGlhVkxKN0MwcjgwUmlST19sdlRqVjBjdlJXNHJ4N3pwbTVaeXlrVDV3Y3FTZFZ0N0tvdzh2ei1Bb2lkMDdUZzRFWi1EbUQzRUVZV1Vwcw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110843293407566)
+
+- **[Business Topic]** Fitch Takes Various Actions on Bayview Opportunity Master Fund VII Trust 2024-SN1 - Fitch Ratings
+  - Source: Fitch Ratings
+  - Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxORGl4NnAxN0RMZ3QzaldvU1NUa1JZVHFXcllwaW94UXNiQmVPVlRmYjFwSl9vaE50RGo1dFgtdDZfZEhjcG81cDFkc3RyY2JrZ2htY0xJN3ROQWpScVNsM0RsRlUweFVJX2hzbXhVSWFtdE15U2xLRzB6NGRsZjYxT25xOGVRZWNHNzluWVREUkhCNjR5azk1UWtKd0tPMjdDaVl3SmIzOU94eklycmJWLWU3SUdjdEFrSnh6Wl9zU0pybGp3ZU9PcHJFTkg4Z3lUTHA3SUppRGFsbzV0bm5XQXFWOA?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110843389407566)
+
+- **[Business Topic]** Fitch Downgrades Class F-RR Notes in MP CLO VII, Ltd. to 'Csf' - Fitch Ratings
+  - Source: Fitch Ratings
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOQU11Z1JIVDQtekxvRFk4T1ZCMExXc0lsZVFDaVdvZmRPZktQRE16UzN2Vk5HNmZoeXdZYVBWSG5qZzJlMWhUWVJnbzZFeFQwN1B6RGFOWnd0Vjczb25KR25BT0tjVXB4dFZ6RzZNSlk4ZFRTSFBtNERQTGt4a2NLWDVGdklMUHo3TmQxNmc0NWV6Z2x5ZHhhQVpBNklpX0FYaDFtdzYxMGlELWxiX1ZCZmR4djE4VkR3WGdaUUNqZjJ4MmhM?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110843413407566)
+
+- **[Business Topic]** Fitch Assigns Final Ratings to PSA Trust 2026-STOR - Fitch Ratings
+  - Source: Fitch Ratings
+  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxNaEhXanhyUjFsVDVSLTNNLVRmaGhrZlBoR3dqMUZVQmRGZW9rUDF6enBOUVNaTzdES2tLMUhBeE40MENYZHJlNE1KcEdybFNQd2ZDa2VfMmI1RFJvWnVoZHlwb1hxUERNZ3BWM1VYX0ZNRXE3ekRUSWxndmdoc2FmbUNqbVBaeFZMa2IxaWNUblc5STdzazlCQllPdnNiVUZRc1VNT0t1b0ZvRzBHNnA2ZGpjODQtSldRR2c?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110843479407566)
+
+- **[K24 Digital]** 5 ways to make after-work exercise easier
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/health-and-fitness/5-ways-to-make-after-work-exercise-easier
+  - Facebook: POSTED (1289239267586516_122110843509407566)
+
+- **[Standard Sports]** Mombasa centre of golf attraction this weekend
+  - Source: Standard Sports
+  - Link: https://www.standardmedia.co.ke/sports/article/2001555841/mombasa-centre-of-golf-attraction-this-weekend
+  - Facebook: POSTED (1289239267586516_122110843587407566)
+
+- **[Business Topic]** Health Care Roundup: Market Talk - WSJ
+  - Source: WSJ
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxQRnRJZ1JDanVyNlZtZ1VyMkhOSUttajRjTlBvUXlxY3FVLTB2Q3FIdnRneGVMRnRCZTdEc3VXQWRmNU1JRUFaazlBRFJHUC1XRXd5LTZydFNfNDFvSDktN2dpS08xYzVhaHBEcm51OURXS2FWMEFRclNhY2x5S21kZkV1QWg?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110843617407566)
+
+- **[Capital FM News]** CAP-TEST publish 1787267077
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/cap-test-publish-1787267077/
+  - Facebook: queued for a future run
+
+- **[Business Topic]** What is Scott Bessent doing with the $32tn Treasury market — and will it work? - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1hYOS1SLWtrLXlqbmNMSk9aUjZXR2RESjVEd0tLckQwVzdJUlczal95eVNrTXZMYVNzZHBZUm9KZHNMSW9YU09uaFhpNFk5bUFRQ21MZXRJU0RoOUVUSTBZSVhhemJib0psWGlnNGFLa3ZZYktHR3hvanBoamdPU3ZFR2s?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Asian Stocks Set to Fall as Bonds Resume Decline: Markets Wrap - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGs3R29oXzVEVlA0bHFwajZ0cjhDQmFGNnZqbDYwcEFtcmdxM2NvWFBXMTNXN19xcW9kVDZPMnlFNWdGMkh2WHpydVlIOHhBcTZnUnlxc0lXSVRwYVczS0tyanBnNnQtRXlqYTRBaWZVSVFibEtPMWdrMEhfbVVfVnRSRmVOSGJQNFZOQjBtZEpPcUND?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Anthropic Set to Add Citigroup to Top IPO Banks on Mega-Listing - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNSTY5Mm90M3JSYmZDVGNaSDV1ZHFWOGNxN3NHZmZSa1g0ZnVxRG5IQ25OZUxDRThuWkZocGhXTkZYUXVmVFRWNWJmYzZWSVdWU3NrV3dpQlQ5ekRKNnJxWjZ1VVoxVTdBR0dPQk94QV9md3RIaERWZmpocEd5ZlNRQnZvNTlYeDlMWVM2LWRRUzNPQ0R2aWtGSFRpTGxGUmZfWVpWWXBraVg1SHlMU0lOekdGMWU?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Micron CEO: AI has 'totally changed' the equation for the boom-and-bust memory industry - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE1sOHJDX0FqdzZsbVdTTWJzbzhFdFRpMHBFVjVfODAwODlNRERQSUlXZlNrUTdNdHBKSlBhc3JFMkxKa3VEN1dTLV94UTUzbjhIcEs4T00yQk14VXRxWEdROEhzbW5oZl8wczh1dWswT2YyREdScVFMa183MThOQjDSAYQBQVVfeXFMTWV6WGhRb3VDVWFvSF9sUU9sS25ma0w3YUJtZ1pZVUN4ZGphWlVCWU83TVF4b0psLVhLeV85TWY1aGpiOHZfNmRMcHZuSHVUMUlRcmd2dHhsbXJ5bUgwc2tfRmk5eUlicFBFU2dTSkk3RkNwNWtyMVlOUlJFZThKcy0tblhn?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Moderna and Merck show personalized cancer vaccines can work. - Northeastern Global News
+  - Source: Northeastern Global News
+  - Link: https://news.google.com/rss/articles/CBMiekFVX3lxTE4xTl9KQ1oxNnlIUkt4RmlxZlIzYy1zdk9zbFRiUG5IMF9mMXowXzB0Z1JiUlVpRWJlU00zTW5ZUXJ6a04yMERRcEhCRjlmU0NhNmFRRXdqME5oNnBhSVVIUjBaNVlMQ1pHajk1dDZvTS10bF9XTGFsdkVR?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Japan headline inflation rate hits highest this year as energy prices bite - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMid0FVX3lxTFAwOHJUVVR4SFZ1UDZSVGZ2d0NnX21ieWFwbzZUcGVLd3ZWQlYwM3ducnhuWmZXNnQzWnpCUTdOWEhjVkVMRW1ldXl5MnBTVVFuM2FrVGlTWGI4M19TS1pYYXJjRGFJUEExb0tpZDdxTEZpTU1uNGlR0gF8QVVfeXFMTU1GWGJLZFFibEZvdElzb1FIaUxKYkRMZ28zOFRsYTdZcVpWU3hTNURhdldHbkx0cFlEa1RkR0kyR19CNFJfdHRZb1lhVnptNjF5OUFrbl84WnNuTnlBMkxJcWN3NW5jVm5ndVo1YkxkbGtYQzliVE5ZY2JEOA?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Meta announces new device-based WhatsApp tool that uses AI to scan for scams - ABC7 Bay Area
+  - Source: ABC7 Bay Area
+  - Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxQTG1xYTByTXJ0Zk9BVFNsS0FUWHNrUVN3ZWhjUFl0dHpoRmxGVVdoOGRlRjVLMUk2R2ZTZWxlS3d5bktkenlUZFpJMXctR3NuSmprTFRrVEJCa3F1X0UtQkQ4ZXVlc01CMWN0clVkb09LbGVVT25lLVI1TWtZTFE1NUxJMXBaeEhIUmkzVU9uU2VpaHB4YW91ZUhIVmNFc1ZUZ2fSAacBQVVfeXFMTUlkMGRpSHFHdlh6UUhlbUtTV0daRnkyTnhRSmR3VnhIRzY5TzBET3F1dENrUDJkTXVObG1WOGFTTDV0S2JXRmdqZHo4QnRyV1JKWXNfWHk2ODdCeVlFOUJNLTJJLTN2WjU0UHFLT0RER2VHbmxkcFd2WjZCRDdqUWRTNEtjck44dTR3SlFUVmhybTdZcm9hWjF5V003ZUVmOEdXbE45VzQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** US debt has hit $40tn – Will that be a wake-up call? - BBC
+  - Source: BBC
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGcDQ4VVVIU3JiZlRoLUlHTExDZ3huNWtNVXhFMHJqOEpqTERqRHhxRDNibXU1Z2hZUlpjdVVDTHhNVmhoUXlwWVlkdWhlSnBtbVZzd1RaSm9rdw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Friday's big stock stories: What’s likely to move the market in the next trading session - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPRk13NUV0YmRZeER5TTA5QURBbDZQZUJ0eXkzZWxXYlJDSG5pUGc4OXRDVm9nU0dhWnYxS0JuOXlBRmxBYmN5REJseTNsMEJBeG94Z3JuNVBMckdNSUxQSVpFOFpTTjJtWWptNE1oYkxrRzE3eUNkY3M0ZE1GSGZGb0g5U0pDRmJLSVVzaVNGTGt2OThqaDBiaXRB?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** iECURE to Present Clinical Data from Ongoing OTC-HOPE Trial of ECUR-506 in Neonatal-Onset Ornithine Transcarbamylase Deficiency at SSIEM Annual Symposium - FirstWord Pharma
+  - Source: FirstWord Pharma
+  - Link: https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HMWZXb19lOW1KYjk0QWJ2WG9lSG9WRlBiT2Vxc1F0ZjFONTluWDdhN2Fwd1RHaXIzLWo1VUIyMW5WS0dHZVMzaTE1S1JNOUVOSC1Z?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Hack of the ‘Fort Knox’ of Bitcoin Wallets Brings Back the Middleman - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0hQYUVHOXBmSDZCRHNkcWY4Y3lmQk1DM3pBLWxVbWo1anM5SGMxYUlKazlwRkIzRVlQT004SlZyOHdzWWJnQ3BzcHVpTTVjY1MzTVUyX0otYmozN2JEazFRdlo1eFlCTElmeU90VWFCU0YteXhkWE45SGdvUGdVWmhzdlEyUmZWUHdQQ2c5YVpjR1FCZUZZZVdLU1dIS2FkVE1tR2dZeVdwcmxZamRZLQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Brazil launches AI supercomputer push, splits projects between Chinese, US firms - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNdS1kY2JQc3lSb19vTmJqV2ctemdwX3pEVjB1LXZWYll2OFlOMWlEMUNhb0NTZDlOVWptSHIyenEzbWFmTHNvWFRmR3Y2WnVqQzJYTmx2R1czbG9VV2RSakh2WlJEU3B5TGN6UmFOaUwtWWM4Si1nMWRyY1ZjWGtlZlJJaDBBQWhZQmZ6UW5ETUtJazNYWnNsRnhDZFJYSXBENDRR?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** ChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxPZmJTdG02MFkyLUt3TWZGSFBTSG5hMm96SEo0Z3dwRWlILXg4SVBxVFhHODNEZVltR0c2LUwtWnNqSkR4LU1LSmpPZVgtVnpqZU5kbmhuX29BOUM1bWREbk56RlhVa1RGdDZ3NnRQbTdNVjExVmE3akxJQTd5RExsUmxqclIzbjFVZ1Z3enBzV19HVXNBdjFJV0JtWTNQa3hRX3BSM01rR0F4WUN3UWZCQzJ6OFRvek9RTGV1TGlPZjRmVEVJ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Private Credit’s Next Big Thing Is $1 Trillion in British Pensions - WSJ
+  - Source: WSJ
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHFud3NUVXYzaUYwRmgxZjR2VWk3dEJRTWczOHBtRVZBUWtoUThRaVlScXdaa09Wc3VVeU9ic1VCcDBmR094bHhKbXFVOUk0WEhscHZsN2NvbFR4MXNPcGN1a3NIR2V5UkNBMkxsZ0NvcHp6cUhDQzRqWnZYUXFacW8zaDlrQ2E3UEZZd0RtS0JRWHJpZWVHZU5nZUNTV0dvaC15em05bG9hMHlPQWZrLQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Prime Video to invest more than $2 billion in Latin America through 2030 - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxQNjBPelh5b212X096NTkzUDBDMlJNN2VHTW1VQUFFcS1QTC0wQlBMUlprTC1yQ3RPLU1HTFd2bmhIQUkzUlZlaEQ4UDVZUXVMalcxNUphdDUtOFdaX0lTZDVLdkYtY3pvcEFVdnR4WGd2U1JBRkZXaHNuZzFuVEMxM1YtOWs4MDg3VkluOVpfMnVNd2dpMU9MREdlRWVNNzJkU3FfdDJ0cWR3STY1dFV4X2xTT0FEaHZkTjVzM2dYREswM0RB?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Lucky Strike Entertainment to Report Fourth Quarter and Full Year 2026 Financial Results on August 27, 2026 - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNdEZTT2YyblNCbFVuZ0E0dWQwWnNtMEhoNjJzWU01QUdtYklkUzNjTnllNFBTakM1aGVLanNFbHNab1Q1R1k2TjlpNGhQM2hINzlzR3BRUC02ODY4bzNKZkFSRkJpeURDWGNjR3FKMjBPY0dVMUR6VElUTDlKb3M0WEVicks0YkVPTjZocXd1aEZyQTdaWTVHSUo5cXNDUk54Z3lsbVZ3?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Delta Wins Challenge of DOT Order to End Aeromexico Partnership - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQWm15cW9odTZURGJIM3ZhUldTdXBENkVXU0pwakpZbzFCenYzOFloc2xpOFNaSEoxNjZMdHA2RHRGMHRtRTZUZmZYZUFXX2w3TVhSUHN2UHJmWldLYXFZUkQ3NkxLZkRxVnRIdkJKSElwQnQ4SDk1bUU3b2FDTnRtZnpmd2w1V3lhdHNJMDZzYkJWYllFelVDVWVpTldxSHpNSnRfN2JZaDRoVndlZ0x2Z2RYUUs?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Watch Record Credit Sales, Risk Amid Rate Drama: Credit Wrap - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRVd6a0RnT3NISjRDT2VLWHdqSThDQXdxUy1hYXg5ODFKN3FSV1RlYzJONTc0ZmVWNnFrSVl0V3VlVml3YlZYQnk1Tk13TEp1eE9NUS1rbFdtbmhLS011Z1VyemdFU2JHN2ZlYWpHajBjbVV2X3gtVkJtNHFvUXl6RUx4WXdsNVg4NDdWSl9QaTlVSmExMGpGQVRNTGhVaHl5U05JR2FFdWwxdGc?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** XRP rallies 22% but still misses top analyst's price target - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxQVC1OcVA4bG1BUDNZR2dGcmt6RWxUWG8zYzBEaUxLWFgzdi1yTWJkQTY1dDV2bWJwQXBYOFF4aVpwWjZtb0l3UUxTSFdLZ1hWaWxDX0tYSTVnaWlZQUpEUkg2QVlEYzZ5TXl2aHFJRGRMWVBvdW9QdEctaFc2SE85SHZxemozMkZNdFdmVHBDNjlnZXNmSUtZ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** EPA says lead scavenger in airplane fuel poses health risk - Chemical & Engineering News
+  - Source: Chemical & Engineering News
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPWGloRUhUXzc3YnZxSXpaUkhVLUZ2dGRET1NiWGlvWnV0T2l0bWU1RGh5SUp5US1jR1V3M2JlRU9wcHo2MmdKZFNVdDRyQjdXNDFGdW1Bdms4cXM1MTVzV09yVXpyRWljU09VTjFfNXRyZFUyOXpNTE9OS2xSZ0JVSW5HUjJyd05CcHdMWGVOMmxEZUI3czFaRWpMdkRhUXUtUW5rSXlqY0pUS1hKUVk0LThn?oc=5
+  - Facebook: queued for a future run
+

@@ -6325,3 +6325,205 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://www.kenyans.co.ke/news/126384-ndii-says-dangote-backed-oil-refinery-set-break-ground-september
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 13:06 (Nairobi time)
+
+- **[Business Topic]** India’s Quick Rebuke of JPMorgan Unit Seen as Warning to Traders - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQbVlUUFN4aWExYW1XQU5ER1ZKUjl5a1JiR0Exc0NuckRlMzBKRnhFQklZLXBRUkFNX3I0eU84REZpYWFYaDlLWDV4M3FCZ0U3Wm9OekR2TU12SFBWLUFGd3Y4SGhtNmJTczJZNVQyR2Z6Wi15eW95MGxHT2JMVmVKXzBaeWtBdjBKc29ZNHZGUGltM2J2WEJqbnA4OUdDVEpWSG80WlFfclZZaldfWWFQMkJKWnB4dw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110927623407566)
+
+- **[Nairobi Leo]** How Bukhungu Stadium Upgrade is Boosting Sports and Business in Kakamega
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29666/how-bukhungu-stadium-upgrade-is-boosting-sports-and-business-in-kakamega
+  - Facebook: POSTED (1289239267586516_122110927641407566)
+
+- **[Nairobi Leo]** IEBC Publishes Key Dates for 2027 General Election
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29667/iebc-publishes-key-dates-for-2027-general-election
+  - Facebook: POSTED (1289239267586516_122110927677407566)
+
+- **[K24 Digital]** Pastor Kanyari reveals why he has not yet joined any political party
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/pastor-kanyari-reveals-why-he-has-not-yet-joined-any-political-party
+  - Facebook: POSTED (1289239267586516_122110927695407566)
+
+- **[K24 Digital]** Forbes 30 under 30 millionaire Roger Duarte among 5 Americans killed in Kenya helicopter crash
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/forbes-30-under-30-millionaire-roger-duarte-among-5-americans-killed-in-kenya-helicopter-crash
+  - Facebook: POSTED (1289239267586516_122110927707407566)
+
+- **[K24 Digital]** Xabi Alonso explains why he is impressed by Joao Pedro, reveals Chelsea’s ambition
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/epl/xabi-alonso-explains-why-he-is-impressed-by-joao-pedro-reveals-chelseas-ambition
+  - Facebook: POSTED (1289239267586516_122110927719407566)
+
+- **[K24 Digital]** What is a fourth-generation aviator pilot? Understanding fighter jet generations and pilot ranks
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/what-is-a-fourth-generation-aviator-pilot-understanding-fighter-jet-generations-and-pilot-ranks
+  - Facebook: POSTED (1289239267586516_122110927743407566)
+
+- **[K24 Digital]** Thika Road accident: Mosiria raises alarm over Ksh15K ambulance demand before dispatch
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/thika-road-accident-mosiria-raises-alarm-over-ksh15k-ambulance-demand-before-dispatch
+  - Facebook: POSTED (1289239267586516_122110927761407566)
+
+- **[K24 Digital]** Can Manchester United win the 2026/27 Premier League? Michael Carrick explains
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/epl/can-man-united-win-the-2026-27-premier-league-michael-carrick-explains
+  - Facebook: POSTED (1289239267586516_122110927815407566)
+
+- **[K24 Digital]** Diana Marua says Bahati made her life more than she prayed for
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/diana-marua-says-bahati-made-her-life-more-than-she-prayed-for
+  - Facebook: POSTED (1289239267586516_122110927953407566)
+
+- **[Taifa Leo]** Wakazi wataka maisha bora baada ya ujangili kuzimwa mpakani
+  - Source: Taifa Leo
+  - Link: https://taifaleo.nation.co.ke/habari/habari-za-kaunti/wakazi-wataka-maisha-bora-baada-ya-ujangili-kuzimwa-mpakani/
+  - Facebook: POSTED (1289239267586516_122110928097407566)
+
+- **[Taifa Leo]** Maafisa waagizwa kupigia debe mafanikio ya serikali kuelekea 2027
+  - Source: Taifa Leo
+  - Link: https://taifaleo.nation.co.ke/habari/habari-za-kitaifa/maafisa-waagizwa-kupigia-debe-mafanikio-ya-serikali-kuelekea-2027/
+  - Facebook: POSTED (1289239267586516_122110928121407566)
+
+- **[The Kenya Times]** Govt Proposes Changes to Collection and Management of Hotel and Restaurant Levies
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/lifestyle/travel-tourism/tourism-ministry-proposes-lvey-changes-to-collection-and-management-of-hotel-levies/
+  - Facebook: POSTED (1289239267586516_122110928145407566)
+
+- **[Education News]** Proposed law seeks to bar public schools from administering admission tests
+  - Source: Education News
+  - Link: https://educationnews.co.ke/proposed-law-seeks-to-bar-public-schools-from-admission-tests/?utm_source=rss&utm_medium=rss&utm_campaign=proposed-law-seeks-to-bar-public-schools-from-admission-tests
+  - Facebook: POSTED (1289239267586516_122110928277407566)
+
+- **[Education News]** KNEC warns entire centres could face cancellation over KPSEA exam irregularities
+  - Source: Education News
+  - Link: https://educationnews.co.ke/knec-warns-entire-centres-could-face-cancellation-over-kpsea-exam-irregularities/?utm_source=rss&utm_medium=rss&utm_campaign=knec-warns-entire-centres-could-face-cancellation-over-kpsea-exam-irregularities
+  - Facebook: POSTED (1289239267586516_122110928379407566)
+
+- **[Kenya Latest]** Irony of Ruto's packed 'town hall' to answer own questions, as patients wait for miracle - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZ2JraWw1UmtqVmRpQUJjM2dsTDJyY2ZpZG01MXVXTlFwdUtUWHlwLTB1d19rVmMyRXVyY1FBNExNTEo5WU9KYW0tRjYxYlB0RVg1dGtlWTdsSjVXekRXSlkzS0pKYnc4VFdTak11S3JfRFVYRG5taWRRNnl1a3dyMDR2NXk5Z1ZOZ3RJY0pQcm5fWUdfZWpCRWdKWEJOTFl3MkNCVkpTcXdxUGg2RzlGdUxJVGFEMkxXNzdhZnV2eEhwWVZxYVFndlFRSjRmM0Q2QVV1XzBuaWlnVWlwTDZIS3pB?oc=5
+  - Facebook: FAILED permanently after 3 attempts: no usable article text or snippet to build a post from
+
+- **[Education News]** Antonina Lentoijoni: The teacher-management expert at the centre of TSC’s next chapter
+  - Source: Education News
+  - Link: https://educationnews.co.ke/antonina-lentoijoni-the-teacher-management-expert-at-the-centre-of-tscs-next-chapter/?utm_source=rss&utm_medium=rss&utm_campaign=antonina-lentoijoni-the-teacher-management-expert-at-the-centre-of-tscs-next-chapter
+  - Facebook: queued for a future run
+
+- **[Education News]** Kenya digital divide: Nairobi tops as West Pokot trails in new county internet use rankings
+  - Source: Education News
+  - Link: https://educationnews.co.ke/kenya-digital-divide-nairobi-tops-as-west-pokot-trails-in-new-county-internet-use-rankings/?utm_source=rss&utm_medium=rss&utm_campaign=kenya-digital-divide-nairobi-tops-as-west-pokot-trails-in-new-county-internet-use-rankings
+  - Facebook: queued for a future run
+
+- **[Standard Sports]** New season, same madness: Kenyan fans deliver unfiltered verdicts for the Premier League
+  - Source: Standard Sports
+  - Link: https://www.standardmedia.co.ke/sports/article/2001555873/new-season-same-madness-kenyan-fans-deliver-unfiltered-verdicts-for-the-premier-league
+  - Facebook: queued for a future run
+
+- **[Standard Sports]** The men with the whistle: Who are the Premier League referees now, who has left?
+  - Source: Standard Sports
+  - Link: https://www.standardmedia.co.ke/sports/article/2001555868/the-men-with-the-whistle-who-are-the-premier-league-referees-now-who-has-left
+  - Facebook: queued for a future run
+
+- **[Capital FM Sports]** Why South Sudan-born paraplegic is chasing history at Standard Chartered Marathon
+  - Source: Capital FM Sports
+  - Link: https://capitalfm.africa/why-south-sudan-born-paraplegic-is-chasing-history-at-standard-chartered-marathon/
+  - Facebook: queued for a future run
+
+- **[Capital FM Business]** MPs to probe Mogo Auto over alleged unfair lending practices
+  - Source: Capital FM Business
+  - Link: https://capitalfm.africa/mps-to-probe-mogo-auto-over-alleged-unfair-lending-practices/
+  - Facebook: queued for a future run
+
+- **[Business Topic]** BP (LSE:BP.) Stock Looks Fairly Valued With Strong Returns But Rich Earnings - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxOdDdoZDluNExXeFdZZDh0d3RSVEdkRWJfa1daRHdkQ0JUM2dMMFpteE9JdmdTRzB1aEFOOG1FN25fbDZlUGpMR1ZiaGlDV1R2MndjVmFVSTVLSUlwdWZPOUxfcGh2eDFVNE9EVTN6a19IQnV2M2U4Q3pELWY0YjJFaG0yT1VMSy1zS2hVVDlraw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Samsung SDI says to sell $3.2 billion worth of Samsung Display shares back to display maker - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPckVPOFFKLVFFaHVZYnNHY2RxQWJLZ1ppYVZTbzZiUHdMUjB6YzJTM1gxYW5tMmZ0cG5qQzZRSHJhTFVsUURMbGhhN0RycnQyaFpqai1GenZNaTllSXYyNUplU2dwZG5xNVZUNUNrTk4wdlI1X3dLRWEzZ1BGS1RVdHhYeFZkRG1kU1JwR0NuNVl4a1BTXzVLZHMzaUZGbWttd3lOLUIxejNnZFRkWWplanhUYmpDeEdIRjJyLXVFYXlpZ29hY1dpczdwVlhYVXc4?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Meta lawsuit raises questions about social media's impact on young people - NPR
+  - Source: NPR
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT25USzZvZXhIcEN0RFdxSlB3VlVxaXFCNHhyU0dsczlqXzF0WXVXaWVZMFFrYVp5UHhpWEUzbFJxclZTZXBJdGoyb1dKeGI0ek1iaVJLZXlUNVNUbXNyYVlibWNmU1JuYnhIX2xHT3hURjR1S3FjNVV2YnZHYXJwYWFrcy16X2NKWFNPQk5MN28zdmNQZXJtUGRjUHNBczFVdGZKNXkxZV9TQnFMRUktS3dXM25LTHY3?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Retail sales in Great Britain fall despite heatwave increasing food and drink demand - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOT3YydHVHUlRJZDZNME93eW96ekc5cXhzWlhzMkJxamI2WlF0OHctNVlzYlhPR1Q2NDRnak1Za2Z0UWFyc2lra25RSlBaQmVZTmJYbzRXYkV3MmN5SmJmZHlNRlVnMnJjaV9oSGpZZVUzVWdLd09DWVEzUW5rZjRkN1I4b0pobjRKR1pWSnR0SlV4dHdPbXNDdk55YmZ1UThlTnNlR2dWQmYtUktZN2ZObk1fV0dIMFlzMHJxX3hSZXNBY0NvRjNtY2hXT1N4UQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Goldman, JPMorgan Are Among Most Bullish on Europe: Taking Stock - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQSlhmMUladl9VeVFGdXV0d2owa3ZsMW54SEM5QWtmemRuNTl6azIyM2ZzNE9TWl9CRkxPa1NRNU90MnNxcEFTa1hVblhad3EtUjcyWmNJWF9TUXNGcmNiS2k4X29iWmVsdktreS12Z1hCOGJ1R0RCcHU5Z2JwWEt4aWdwQnMtVXRkQXZGTGlsNklTZHIyWkVHNlQ1OER3ai1ZT3lhRDhtRnIzNnk4am81a0R5dw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Japan’s Aeon exits Thai retail to chase Vietnam’s booming middle class - South China Morning Post
+  - Source: South China Morning Post
+  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxQazRMOThzb1BUVnRiWmRiRVdkcXBjbkJ4b1M0d3ZuV3NqSjNfVk5vdDQxOVFseURIMDByM2dDR0hrS0VuOC1mQTlJRnRITlg4bXdmOEY0cFQ0TnZKbUdobkZqNHkyTklMdWQyM3B2Wnh1aV9vWjlDQ2VpcUxULUduUnM2eENWQi1zbnpmWUF4Y3dTN0laU3l2MDFjZXRRbzBuTnU0bENKQXR6Njgxay15QmJiRW1OZ2V2MXJDdEtMQdIBvwFBVV95cUxPRjNkOE9HeEFKbFNQWmRFTDB3QVNaS1dVbTI0WFpDLVppYXV1U0tPbU8ySFN3VjdSTTRpVGprTlhuWGZHNVVraG9CS3gyZk10TGlvMnoyLXZPNlJZeHExeHg5Q0tFbVFGWlNLeGo0aFdlYm0tcWx3QVNhLWtibG1WWjdwVzVLVnRTWWJOM1Vqd3ZscmhRVmgxSjg1Z0pNLU1sU0otMU5ObEcxN3Y2ZXZMVDl0UG9Nci1wVV9PV0J6RQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Rare disease drug Tavneos recalled in Republic of Ireland - BBC
+  - Source: BBC
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DbWxieU9wY2FQbFBab3lmWWd3N1prV2xpZ0MyWkVDcVRsRzNLMFk0T1JHcHhIMXp0UkxzWGJHc1NBUlhfT3FFUnl5bXdpTXlkRWZiZ0xYR0NJUQ?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Australia's Steadfast agrees to $5.51 billion buyout bid by KKR-backed consortium - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNVW1oajZqQ2ZRV1ZhUnZtOWpaN1h2UlFzX05adkJZcmtSd3pGZ0lOazgzOVM2bGpMeTBIbF9HMmctT1RnNDBRbTRUckFKcVJQRHNDWkNHUThBaFBVcXg0bnhZcFRZMGVJZk9hN3JRZmUwVTFadVo2dlAybFRuSlNZQVlqSHFSMlBhZ0doQzc1eTVEeTA5MDRpMUFxaVNuX3paaWY5akpXQVZrYU1Ua0k2UFFHcl9hTHBDQjJKZzdWMkFiR182U2hCWE5n?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Memory Stocks Struggle for Momentum With ‘Smart Money’ Moving On - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxNQkJvcDFteFB1Rlh3TDBXR281VVFOTW80VHp4UFRFMElfQUFYM0FQSC1PRUxGSXFneFNtQ0Z1ZmNWWDdUbFE1X1lmMlhKck5Nb0lNMzh4dWFHVm1YMUh0a1pxU0pSR2JkUkJyZmdKZktTLTdqYW1rejNXVTduWkpMelJxSmg5SjQwRzZpYmFNNDhHRlM4S0VkdUpBbjdwS2Y1M3VsV2s4T3B4OElYcy0yNHphaw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Space Station Startup Vast Cuts 4% of Employees - Business Insider
+  - Source: Business Insider
+  - Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGtvSjUwV1hXS2NPbVcyYkJWcWw3Z2V6cm93bHpnOWhmM3RIcUpaZWwwVnF5Ukl6TGJLemxES3VBMG5TTkZrVndHQ1Byem5leS14MjBxY2FvajhPOEo5eFAxdjdTVmhGdEg2SXlWbTQ4QlYwbDJIWGRYYlNPQVBaZXFic3J2c0NFSjVR?oc=5
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** No One Can Remove Me From My DP Seat - Kindiki
+  - Source: Kindiki
+  - Link: https://nairobileo.co.ke/news/article/29675/no-one-can-remove-me-from-my-dp-seat-kindiki
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Kenyan Borrowers See Relief As Central Bank Rate Cuts Down Lending Costs
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/kenyan-borrowers-see-relief-as-central-bank-rate-cuts-down-lending-costs/
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Best ways to use overripe bananas in your kitchen
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/food-and-culinary/best-ways-to-use-overripe-bananas-in-your-kitchen
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Ofweneke says over-familiarity with industry seniors could cost Gen Z opportunities
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/dr-ofweneke-says-over-familiarity-with-industry-seniors-could-cost-gen-z-opportunities
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Redsan: How a football team inspired his famous stage name
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/redsan-how-a-football-team-inspired-his-famous-stage-name
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** Waiguru’s clean water model goes global as World Bank, Mozambique delegation visits for benchmarking
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/waigurus-clean-water-model-goes-global-as-world-bank-mozambique-delegation-visits-for-benchmarking/
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** Police dismantle illicit brewing network in Kahawa West
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/police-dismantle-illicit-brewing-network-in-kahawa-west/
+  - Facebook: queued for a future run
+
+- **[Kenyans.co.ke]** High Court Issues Orders Over Alleged Abduction of Nairobi Businessman
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126386-high-court-directs-dci-ipoa-continue-investigations-abdulaziz-zizous-disappearance
+  - Facebook: queued for a future run
+

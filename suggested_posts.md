@@ -5492,3 +5492,275 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://www.kbc.co.ke/us-vows-toughest-sanctions-in-history-against-iran-oil-prices-surge/
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 10:49 (Nairobi time)
+
+- **[Business Topic]** Asian Stocks Set to Fall as Bonds Resume Decline: Markets Wrap - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGs3R29oXzVEVlA0bHFwajZ0cjhDQmFGNnZqbDYwcEFtcmdxM2NvWFBXMTNXN19xcW9kVDZPMnlFNWdGMkh2WHpydVlIOHhBcTZnUnlxc0lXSVRwYVczS0tyanBnNnQtRXlqYTRBaWZVSVFibEtPMWdrMEhfbVVfVnRSRmVOSGJQNFZOQjBtZEpPcUND?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110900359407566)
+
+- **[Business Topic]** Shanghai’s answer to Nasdaq outstrips Hong Kong amid Chinese tech frenzy - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPZGowMWk5N2xTT3VQa3ZHcXplOFZoSTZiaXM5a0UwelFKQUNpRGpMdTB4dzkwcExvWVAtR1hGR0RtZXJRN0VmbXRYOGNpUEpvbHVNZnJwSW5KNkNFSnJyVlVTTWh4Si1UajFOb3VfQUtzbU1NSkJSbUo4bU45OGR4S0RtSlU?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110900383407566)
+
+- **[Business Topic]** Bitcoin Leaps Past $75,000 as Crypto Rally Continues in Asia - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxOcDE4Rmt1TzR5TmJrdWNQVlNibEw5TjNVU2RCaXNrOE5hRTZidUJJT2JuazBNLUU5OHF0dnBkTTZhZENEeDVYcXhmNjMyQ3FKNTk0dk41V3dSX0tVeVFONFhxRnZqRDFOVWk0WURlZ2lLa0huYzdTYV9xRnlILTBXRDFLNmt1V1JLcnJnYUdiSmZ0RktDRThBeG1VWXZIRlJ3MUJybjJKOFJsdm1YWXlj?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110900395407566)
+
+- **[Business Topic]** Guzman y Gomez posts 30% profit jump on Australia sales growth - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1lXekJVdW03eHJHLVJ3UncteEdVS0Ewc1Y2N09vRXYwMUFjNm1VRVljVjU5M29RbDE3WlFxcXBjMGxIVy1OdXQ1TE5LaEVwQ0VRYkdsb3l2aEY1alJSRlVwWGNid3hjalBENUN3TnllLWVXeG5tTlhPYlBJaGRTZkt6bVFGOTJONE5nUF8tYlJGa3FkM0hMbXE1aU9xdl9YXzdRS2Z5SHVVQXlqdjNfdFpTazZ1ZGE5UUNj?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110900413407566)
+
+- **[Business Topic]** Neutral Ratings Impact from Proposed Police Bank Merger - Fitch Ratings
+  - Source: Fitch Ratings
+  - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkgxeFpZSHNUbUwydUdoWE1reERhdkVQWDhlMElBT1FreUt3ZGhHYVhCUTEzU0doZy1OdWVEV19jMlJaOWIzYXlVWFBpVjJpWTdHaVEwMElMOXdRUGNZQjU5MmQ5Rm9DX1ZuM19sMHNKQU5MYklua3lodFVKb0VuQi1zOUtpRnFyaFNxZkFpUkdBc1lkU0dMU1JaNWdxOHBTaDltdXRXdlRjMlNRSGc?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110900425407566)
+
+- **[Business Topic]** Hong Kong beauty sector faces new claims of hard-sell tactics and abuse - South China Morning Post
+  - Source: South China Morning Post
+  - Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaUVWSE1wczNFaTE4elU4LVJxWU53X0RLRDg1aE5pNmNXbmd6OWlGQzdmaXhqR0FzRnNxUERtcXNNLTdHeXdKVDlCeTQtbS1QaGxvQ0tjc0xhV3VBTXpIQmtta19KOVBuOU1SQVlHRHl5TlkwbV9jOU9hSXNrY1g3NUNFcXdkNUNmN1hGVTlUNWZPZGRoNWhtbExTWEhSY1Zmb3VSY01kYXB1WVR4R0RpNzZYNi12U0Z1ejFuZDBCalRCVUR3bU1wNzQxQmpaQ1JWcmtjVk1ZczRwNUFobXfSAd4BQVVfeXFMUDh2M21LbVM4enV4THpuNGx4VHd5MHdrY2Q2TjhIeFNwcDRCQ1BQTnY4N0djVDAteUwxclMzX1FlWGJraEVuMWhfUHVJNENaMnNGZmljMWE0SjNWX0ZYOVlyc3UyUDFGeVIxaVNTTktzSzl0aEVsVXVlOTBVVl83SWJ5RjZnXy1fMU1PWUhHZXVlbzN3d25iVXZjSVdkMFpnYmZFM3NuTkctUWtOUHVlZjBsNFdWeE96ODJFNVN6d0M3VXc1emVEcExMUERBOGRncXhmcWg0d25IZ0pzaEVB?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110900521407566)
+
+- **[Business Topic]** Gold Set for Third Weekly Gain on US Treasury Buyback Plans - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxOUVZsUkRuazRYWVFSejYteGl5R3BJdXZBQS1Id3JodW5ZU2ZOWmI0djlIWTVuQU1MTlpoREx5OFUzd3NDNlgxUXBSTUlWNE9kYnJ5Z00zcUVjR2RWeDAydGc3OTF4QzJKMkdDaUFWbFJwdW9FbnA5OUlvQjMxd29Ca2hNOTlKTUc5UU9oc0I2LWJFVzdJY1dicTVFR3pxaWM3ajkzMVlxTHppeDVnckhr?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110900527407566)
+
+- **[Business Topic]** From euphoria to despair, Korea reckons with stock mania's emotional toll - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOUEprRUdKLWVCUVNYNjFxVFZJZEstT3BJQ1lDc3ZTOW5vR0ptMHJVSGFyYWJsZXY5RmV4V2xla1Flb2hFV3RjbEVKSlk1c1NaMl9lSWRpNkFZMDhvSVZRbEFCWE5NaGpBSk1yb1JZWjhWVU9aM0hoSm5rUlZNRmt0eFRsNmFlSXlZYjVmY3FxbTNZNzdMSkt0cFNMMFY0UzZrVDFz?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110900551407566)
+
+- **[Business Topic]** Russian snoops add OAuth abuse to targeted phishing campaigns - The Register
+  - Source: The Register
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRUlvR19EUHV0RnZuUTVWUC1JVGJLR1JJcDNRNlVjVjJvbjZ3VWlYMEswUUVldXFzeUloWmlpV3pBLU1XVnk5eEJsZlJPeTJRM2RrZWVqTmhKeV9pNjZNaURiUTVFTE1mN0dTMnZ3R2ViSlZRSlNoUjlpMXdPY0I1R0J5WFlmUjRvM1NjdzJ3RWNTeVNxektSMTFJcDNEUk9TNWlKbVM3dm9Sa01wX1A5RkFoOFBTdm1q?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110900599407566)
+
+- **[Business Topic]** Hyundai Motor's union stages first full strike in 10 years over wage talks - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPLVloX1lfQVNKSGl1RlkzNzhmWTFKeFU2WHVMbUFIMVpXelZNdXhzemJra2daVEx0THRueE82YW1xeVNHNVJUc1ZlSDQ5dENrOF8xbmlTSVlGZ1otOWs5SjU1a0NnaDhxMmZjUGJDU3l1Y3RXYTR6SEkydVMtMmVmeGVRZU00Sk5jNmtaSjd1WkZKdGFKS2lBb21BR2F2NGc?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110900665407566)
+
+- **[Business Topic]** Equinor and ORLEN Sign Three-Year Norwegian Crude Supply Deal - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxONnVoZ1ZxQ3c3WWpRZ0dLbzUwYl9CdWx6RkZFbTR1VG12UnBRQXl6dmVQX1pXUndGdmxBUkNYM1ZtU1h4d0tLRWdfOFpPR1VTVlAtMU9iUXV4cm1NU3BCUGV3UWdXeXpDaExHMlh1c2d1WlA0RzRzbmNwWVRHR180aFhVSXNfX0VmLW0zQ0pFNXNkT1pJSXc?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110900707407566)
+
+- **[Business Topic]** NVIDIA Corporation (NVDA)’s Space Exploration Technologies (SPCX) Stake Traces Back to a Wild $1.25 Trillion Deal. Here’s How It Happened - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxORGxOckZXLXhWb3FDOE15T2JfcVp1THFrb0tfbUF6RlNTc0pwQjhtMmRBYnBRdWpSUmhqaElCN0k5VkxsNFlwRFhzbk5WNWdaR0FMODNZN1JYTTRieGFsTjdsaGRJRGtfb0Y3T0NDTW92a2lEQkVIOVBzM05uTzQzekxOaldEajZKSkY5aGdPdzhxbFlBcTl5T1JfUGVJZE8yV0ptY1lGRzk?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110900767407566)
+
+- **[Business Topic]** New Bank Indonesia Chief’s Shift From High Yields to Test Rupiah - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPR3NfVEZTZF9pMW9jT05HMGJIbmxZTFlJZnlrNFRCV1ZBeE1hUjBPSGdWZHBCcmg1YlVRWVdDaU9RRU5NZUFWTGl3SHYtN2hBdjBzNWJqWjhJNDhPbHZVREJhTWNvWW9OSEZRbERqOEtxNXEybkJLRkFzOFMyWHB1bHBZM2xLTTE0RjJiQ0EwTDdnak9wNWl2SkRDc0FVQV9QZWsySjV6TW1YblhiMWdybmpmbVRJZw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122110900785407566)
+
+- **[Ghafla]** Senator Boni Khalwale Prepares Family Home For Late Wife Gloria Sekeiyan’s Burial
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/senator-boni-khalwale-prepares-family-home-for-late-wife-gloria-sekeiyans-burial/
+  - Facebook: POSTED (1289239267586516_122110900809407566)
+
+- **[K24 Digital]** Geoffrey Mosiria reunites missing DJ Snatcher with family after four years
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/geoffrey-mosiria-reunites-missing-dj-snatcher-with-family-after-four-years
+  - Facebook: POSTED (1289239267586516_122110900833407566)
+
+- **[Nation Africa]** Faith Kipyegon opens up on injury that has all but ended her season
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/sports/athletics/faith-kipyegon-opens-up-on-injury-that-has-all-but-ended-her-season-5565484
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Cameroon president returns home after 10-week absence
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/africa/cameroon-president-returns-home-after-10-week-absence-5565562
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Is Kenya entering the most dangerous stage of the cycle?
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/blogs-opinion/opinion/is-kenya-entering-the-most-dangerous-stage-of-the-cycle--5565296
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** When journalists stop following stories, accountability and public trust weaken
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/blogs-opinion/opinion/when-journalists-stop-following-stories-accountability-and-public-trust-weaken-5565356
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Nyoro’s break with Ruto redraws 2027 opposition map
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/politics/nyoro-s-break-with-ruto-redraws-2027-opposition-map-5565520
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Like Koome before him, IG Kanja is a marked man
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/like-koome-before-him-ig-kanja-is-a-marked-man-5565212
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Final moments of chopper that crashed near Mt Ololokwe
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/counties/samburu/final-moments-of-chopper-that-crashed-near-mt-ololokwe-5565534
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Tinder predator: How Nigerian used dating app to lure Kenyan women
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/tinder-predator-how-nigerian-used-dating-app-to-lure-kenyan-women--5565144
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Mt Ololokwe: Samburu gem that draws the ordinary and super-rich
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/counties/samburu/mt-ololokwe-samburu-gem-that-draws-the-ordinary-and-super-rich-5565506
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** How the Inspector-General (IG) of police is recruited
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/how-the-inspector-general-ig-of-police-is-recruited-5565238
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Kenya Information and Communication Bill a solution looking for a problem
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/blogs-opinion/opinion/kenya-information-and-communication-bill-a-solution-looking-for-a-problem-5565386
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Sh10m fine, five-year jail term as MPs toughen match fixing sanctions
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/sports/sh10m-fine-five-year-jail-term-as-mps-toughen-match-fixing-sanctions-5565480
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Report names 500 youths in Homa Bay rally chaos probe
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/counties/homa-bay/report-names-500-youths-in-homa-bay-rally-chaos-probe-5565528
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Milking success: One cow, one dream, endless possibilities
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/gender/milking-success-one-cow-one-dream-endless-possibilities-5563548
+  - Facebook: queued for a future run
+
+- **[The Kenya Times]** Ruto Gets 8 Key Demands from 1,000 CEOs to Revive Kenya’s Economy
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/business/ruto-gets-8-key-demands-from-1000-ceos-to-revive-kenyas-economy/
+  - Facebook: queued for a future run
+
+- **[Education News]** Why Kenya’s push for a University in every county risks undermining higher education
+  - Source: Education News
+  - Link: https://educationnews.co.ke/why-kenyas-push-for-a-university-in-every-county-risks-undermining-higher-education/?utm_source=rss&utm_medium=rss&utm_campaign=why-kenyas-push-for-a-university-in-every-county-risks-undermining-higher-education
+  - Facebook: queued for a future run
+
+- **[Education News]** Kivaywa Boys’ parents hit with Ksh.11,000 levy to rebuild fire-razed dormitory
+  - Source: Education News
+  - Link: https://educationnews.co.ke/kivaywa-boys-parents-hit-with-ksh-11000-levy-to-rebuild-fire-razed-dormitory/?utm_source=rss&utm_medium=rss&utm_campaign=kivaywa-boys-parents-hit-with-ksh-11000-levy-to-rebuild-fire-razed-dormitory
+  - Facebook: queued for a future run
+
+- **[Standard Politics]** Gachagua's Emurua Dikirr tour faces challenges amid heightened tension
+  - Source: Standard Politics
+  - Link: https://www.standardmedia.co.ke/politics/article/2001555844/gachagua-s-emurua-dikirr-tour-faces-challenges-amid-heightened-tension
+  - Facebook: queued for a future run
+
+- **[Capital FM Business]** Kenyan banks lend Sh245bn to MSMEs in H1
+  - Source: Capital FM Business
+  - Link: https://capitalfm.africa/kenyan-banks-lend-sh245bn-to-msmes-in-h1/
+  - Facebook: queued for a future run
+
+- **[Politics]** Ndia MP Kariuki stakes claim as third force in Mt Kenya politics - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOWENvMjNpVV9TY2ZyWlNEeS1weFRUQTgxT0ZRS0p2OUFrV0dkdzVMTWozMVBpenY4ZUFUWGFRRW9HWXBBVVNjdThSSUV1MlFfVjQ1VDlnWVRtSmt4cWNpcG9iLXc0bDJqSWdHTUR0cVBhbUlwMTlGX1QtQWY2dWVmLVVMNmV3VjBGTk1haVd3Qjk0WmZYTTZWb0I3cjZYenlIUE5RcmRINlR5R1RqTEp4ZUZxVGtVcEhTVUE?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Morning Bid: So much for the Bessent bid - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE1uWDRxb0NtTDZ0RnN1bUU2dXlHYzdDbTNfb1NSUEI5dV9oRzdVMjk5SmtnSXlKRW02QzVxYnJCOEJ4RmpoclAyVU0wbW4ydldlb3lTcldxbkNtcEgzamN4ZHBJU1V0NXF2THhwRzB0V0k3TkhDdEstaEJNd3IwWHM?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** UK borrows more than expected in July as Healey prepares for first Budget - BBC
+  - Source: BBC
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTbzdQc29iMFMyVHZ4YUNpSk1RN1VWelY2ZlM5X090R3E3TGpEd3ktaDdaTEhZcWhGbDdSczN0cHBKdlg0QXdyaXl6WUZONUpkREpMWGtIVWtIZw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUHBEMV8zTVVPOWVRcnpDUHZpRGJ3SkstMk1LWVplNXUySXJzWkNwZFJ4b1BDNllqb3YzeTUxcjR6azFsdnBadkxEMHFaLUhDSGR6S1c1bXVlM2dqNFI4dU1lZ3prZGVRUU5DZTZFOWJ6eHRXSlRGSzdyY0ViYjlPTkdEbE9HaXJ6QTB0WUhRd0NiSmZIZzJLbFprWGR5T001Z1c0NjdEVU_SAa4BQVVfeXFMTlNUNjE3OXZTbGVJMUtjNHViZmZRS2JvUnY4Q2xmU1dGVjBwWmlpSXlKNVV3cmlBd1NVTE9OTXVtYklXZWFMYUZGbXNpYnF6WTE1VGZVZHFTYzRiOEJ2VDlGYWd3N2V4UVR6X2VEdGpTbmtoR2V0NlZBcU9OUDVGWm84eG5BZm5qOF9yY0tRQVRvSzJPR2NuYnFzZ2llNTdId3Vzel9kTjVKejY2ckR3?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** British retail sales soften in July after June World Cup boost - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPMzBmdHBWeFA2OXROR0JpQldwSUZoODQxb0ZYT2t2MFk5X3REcHh6T0JxYTBEUzk2N0NwQUI3alpRRWVHVi1ydnowU2t4N3RxeGpDalhGUUlfbUY1VzdNTkxyUEhmTGhhMlgxdGxVVUZUQmdhN183RjN4SjZNdm5kcUdXaTVFdlktVjhveFNZQzNxeEFEb0IxYzJtanUxZ1dFZnFuZVRvMA?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** In China first, project breathes new life into ageing wind turbines - South China Morning Post
+  - Source: South China Morning Post
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSE9GQ0FwaVdINkJWZ3hvelVzU0lTb2U5emo2ZV9NQjZfcEk3X3lmNnpzTTBuakNsdHZ5eE9sbjRPaGNOSnBuSVE3UklPb0F0UHp5czJPWnhHQ0x2N1I5N1FITmtNZmtKWEFSMlpNelZibm9rclJZZ3dEMlp0ekw3WmZEYzIwQ2Y2N1N3TVdNeURjUkhaMDJLdkpyaHZoMVd5ODlzSmVyV0s5UHZURnJMeU84Q1Z0OUFD0gG4AUFVX3lxTE14WUZqZ0cxNWVPOEtzLW1KcElnQkxMSWhNUWF3ZlFCaW9zZ1d5REtuMDJFQ19KTFpXdzI0R1gxczEwdU5DMXlOZXdESFBBZ09NelRmQlBsb0NubERQam5GdjJVVm9pWTU4ZUZHRVpYTW0zZ1UzN2xXZlBhd0FtSUotVGxXOGk1M0FZWFFEWUhxbnVaTEQ0ZGxid01SaFlOQ1FIeW9kUHkydWNxT1NVNDE1dFNMN0NGVks?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** China delivers new homegrown deep-water offshore engineering vessel, pre-equipped with underwater robots - Global Times
+  - Source: Global Times
+  - Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTFBkRlhZNG1MdThHUlBqTi1ZRWg2c201T2xFTnVOT0pHeDJYeFZfcmFJeFhiRTc0UXJuUmFyRThsNkVrSTJaSEV3V3RnS2lnYmREd0J0Zmx0cl94T1RuQTlhRVJR?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** AI boom enters new phase as investors turn more selective - Fund Selector Asia
+  - Source: Fund Selector Asia
+  - Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxPZlZHVkEzREZIQWVLeDNNblB1WExXRDNMZWVYUDZPVTVVa0pnNXZIajlmNlo2eTVGYXVNZ0JpUUxqTkNtM0lhMkU3NkprWU5YNXRYNnZBZ3Y1RzNhR1hST1g2cWdXUy1vcHBRczV1dTlwRS1qRG5wcWRRSlMtU3dLRGUtRjFOU0FoZkdwMnMtSG0?oc=5
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** Sudi's Message to Emurua Dikirr Residents as Gachagua Visits Constituency
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29672/sudis-message-to-emurua-dikirr-residents-as-gachagua-visits-constituency
+  - Facebook: queued for a future run
+
+- **[Nairobi Leo]** Ruto Would Lose if He Runs for President Without a Coalition - Millie Odhiambo
+  - Source: Millie Odhiambo
+  - Link: https://nairobileo.co.ke/news/article/29671/ruto-would-lose-if-he-runs-for-president-without-a-coalition-millie-odhiambo
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Corazon Kwamboka Responds to Speculation She Is Back With Frankie Just Gym It
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/corazon-kwamboka-responds-to-speculation-she-is-back-with-frankie-just-gym-it/
+  - Facebook: queued for a future run
+
+- **[Ghafla]** Kenyan pastor comes out as gay, celebrates his boyfriend
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/kenyan-pastor-comes-out-as-gay-celebrates-his-boyfriend/
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Not rehab: Magix Enga reveals secret behind his transformation after viral photos
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/not-rehab-magix-enga-reveals-secret-behind-his-transformation-after-viral-photos
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** A costlier Mara experience: What tourists and Kenya stand to gain
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/travel-and-leisure/a-costlier-mara-experience-what-tourists-and-kenya-stand-to-gain
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Premier League 2026/27: Top new signings to watch
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/epl/premier-league-2026-27-top-new-signings-to-watch
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Corazon Kwamboka breaks down over Sam Kitiki’s health struggle, calls for support
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/corazon-kwamboka-breaks-down-over-sam-kitikis-health-struggle-calls-for-support
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Naisula Lesuuda reveals FGM and marriage pressure she faced during first political bid
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/naisula-lesuuda-reveals-fgm-and-marriage-pressure-she-faced-during-first-political-bid
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** Stakeholders call for political goodwill and resources to drive CBE reforms
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/stakeholders-call-for-political-goodwill-and-resources-to-drive-cbe-reforms/
+  - Facebook: queued for a future run
+
+- **[KBC Digital]** Pakistan ex-PM Imran Khan back in jail after hospital examination
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/pakistan-ex-pm-imran-khan-back-in-jail-after-hospital-examination/
+  - Facebook: queued for a future run
+
+- **[Kenyans.co.ke]** LSK to Pursue Removal of Select Civil Servants After Uproar
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126382-lsk-pursue-removal-govt-officials-linked-political-violence
+  - Facebook: queued for a future run
+

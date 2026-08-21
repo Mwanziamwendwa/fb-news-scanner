@@ -8363,3 +8363,140 @@ _Duplicate stories from different outlets are automatically merged._
   - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOVDU2N3c1eFlTakRfemkzQ1NKbHVPV2h3R05YYnd5VWFJZTBzcUFRSXVGTmtoLVVkTGxsRWtHQXUzQWVXSHBWUVJSZHZSODNCeDFFNEpVeVhZUnpnVVppb20teUJQMUtEVHFqaVlCLWZTQnFjV1pvZDVHOGtMTjVqRlJyejQtSk1qTGozdnpzaTJSdU5TYzl4LVdBdHZ4TWN6NGJXajNZNl84Um1UNnhDUHFlUQ?oc=5
   - Facebook: queued for a future run
 
+## Scan run: 2026-08-21 23:16 (Nairobi time)
+
+- **[Business Topic]** Bitcoin Tops $75,000 For The First Time Since May As Crypto Surge Continues - Forbes
+  - Source: Forbes
+  - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxQWkVXa2pXcGlJVkNqTlpONm1DY1pfbWRRa0hFc2ctbG9jaTdKUjU5SmZLdEV3VF9qVnFNOWExb25pUE1NS2xSWEdNbURuTjlZVGJzT0xLN0VlSUxYVVJVeGw2RTh0YUY2alpiSzYzcUE3RUVTY294dHNaT2tqOHN2VWgweHJaSmcwWUdac0lfamRQbS1KZzYzMDlrUml4UGRjUlROLUJfT3AzWWh4TUpmcVQteEZtc0twZjdiRnIyWmFTR1hoTUE?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111045727407566)
+
+- **[Business Topic]** NexG Says Malaysia Weighs $1.9 Billion Passport Supplier Buyout - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxPVnRHeUtTdjNrdG5CeF9tV1VBU2FwWXNHNGYwei0wYVpqSDRVNlI0a29CR0t0TldDd1ZwdUgwS1UwNWl5ajU1R3lNWUxJOWJ5YXZvbkVCYkEzOGtGajJVUkxaME1jSFl1eWlzallCWmtyVm9nNGV1MFFBb1RpRldvZV9rTDFMZlhFelZWdUctS0ZxQUgyZDNTTjh6blZaYmJuUmtMaTVqQk1TSi1pN1lZMHluNA?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Facebook: POSTED (1289239267586516_122111045763407566)
+
+- **[Ghafla]** Redsan Reveals How Being Mistaken for a Ugandan Inspired ‘Shika Glasi’
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/redsan-reveals-how-being-mistaken-for-a-ugandan-inspired-shika-glasi/
+  - Facebook: POSTED (1289239267586516_122111045799407566)
+
+- **[Ghafla]** Karen Nyamu Addresses Break-Up With Samidoh In Leaked Messages
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/karen-nyamu-addresses-break-up-with-samidoh-in-leaked-messages/
+  - Facebook: POSTED (1289239267586516_122111045859407566)
+
+- **[Ghafla]** Akothee Urges Artists to Invest in Farming as Guardian Angel Reaps Big From Onion Harvest
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/akothee-urges-artists-to-invest-in-farming-as-guardian-angel-reaps-big-from-onion-harvest/
+  - Facebook: POSTED (1289239267586516_122111045889407566)
+
+- **[K24 Digital]** Insidious Out of the Further review: When the spirit world finds a way into reality
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/movies/insidious-out-of-the-further-review-when-the-spirit-world-finds-a-way-into-reality
+  - Facebook: POSTED (1289239267586516_122111045901407566)
+
+- **[K24 Digital]** Dr Joe Njagi reveals body organs endometriosis can affect
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/health-and-fitness/dr-joe-njagi-reveals-body-organs-endometriosis-can-affect
+  - Facebook: POSTED (1289239267586516_122111045919407566)
+
+- **[K24 Digital]** Mind your business: The growing pushback against unsolicited advice to women
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/mind-your-business-the-growing-pushback-against-unsolicited-advice-to-women
+  - Facebook: POSTED (1289239267586516_122111045955407566)
+
+- **[K24 Digital]** World’s longest-serving referee honoured for 63 seasons and 5,000+ matches
+  - Source: K24 Digital
+  - Link: https://k24.digital/uncategorized/worlds-longest-serving-referee-honoured-for-63-seasons-and-5000-matches
+  - Facebook: POSTED (1289239267586516_122111045973407566)
+
+- **[K24 Digital]** Chase Stokes recalls saving Madison Bailey from drowning while filming Outer Banks
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/chase-stokes-recalls-saving-madison-bailey-from-drowning-while-filming-outer-banks
+  - Facebook: POSTED (1289239267586516_122111046003407566)
+
+- **[K24 Digital]** Renting vs buying land in Kenya: Which option saves you more money?
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/money/renting-vs-buying-land-in-kenya-which-option-saves-you-more-money
+  - Facebook: POSTED (1289239267586516_122111046027407566)
+
+- **[KBC Digital]** Kenya Editors Guild opens dialogue on public financing and debt accountability
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/kenya-editors-guild-opens-dialogue-on-public-financing-and-debt-accountability/
+  - Facebook: POSTED (1289239267586516_122111046195407566)
+
+- **[KBC Digital]** NLP’s Kitui Stadium showdown signals new political contest
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/nlps-kitui-stadium-showdown-signals-new-political-contest/
+  - Facebook: POSTED (1289239267586516_122111046297407566)
+
+- **[Standard Sports]** The men with the whistle: Who are the Premier League referees now, who has left?
+  - Source: Standard Sports
+  - Link: https://www.standardmedia.co.ke/sports/article/2001555868/the-men-with-the-whistle-who-are-the-premier-league-referees-now-who-has-left
+  - Facebook: POSTED (1289239267586516_122111046513407566)
+
+- **[Nation Africa]** Pangas and goons: How humble farm tool became a weapon of choice
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/politics/pangas-and-goons-how-humble-farm-tool-became-a-weapon-of-choice-5566758
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Mbadi to MPs: These are the projects fit for Sh340bn infrastructure fund
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/mbadi-to-mps-these-are-the-projects-fit-for-sh340bn-infrastructure-fund-5566824
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Court orders parallel probes by three agencies into disappearance of four Mathare men
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/counties/nairobi/court-orders-parallel-probes-by-three-agencies-into-disappearance-of-four-mathare-men-5566792
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Gachagua to Ruto: Bring Scotland Yard, FBI to probe MP Johana Ng’eno chopper crash death
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/politics/gachagua-to-ruto-bring-scotland-yard-fbi-to-probe-mp-johana-ng-eno-chopper-crash-death-5566646
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Arsenal's Guimaraes a doubt for Coventry game as Arteta eyes another title
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/sports/football/arsenal-s-guimaraes-a-doubt-for-coventry-game-as-arteta-eyes-another-title-5566698
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Kindiki: How can a Deputy President be chased away by the whole country? Can't be me
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/videos/kindiki-how-can-a-deputy-president-be-chased-away-by-the-whole-country-can-t-be-me-5566538
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** The moment Rigathi Gachagua arrived in Murang'a to open DCP office
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/videos/the-moment-rigathi-gachagua-arrived-in-murang-a-to-open-dcp-office-5565554
+  - Facebook: queued for a future run
+
+- **[Nation Africa]** Mt Ololokwe crash: American, French experts join chopper crash investigations
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/mt-ololokwe-crash-american-french-experts-join-chopper-crash-investigations-5566612
+  - Facebook: queued for a future run
+
+- **[Kenya Latest]** Report: Six out of 10 women suffer physical and sexual violence - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxObEhYRE1NQWNMTElMYUJ1TDVlcUV6YnRWaW8taXN2em50N2NlSG1OM2lSUzEwalYwT1JwQzVqYUhCSEZYcFFCYndpb1FUeTFUdFpDQTJRWGpzSmlFbkFEQTFBNHNCRlRHVUVTU3NmNXRFQkV2SkJGbVpIRXVWUTNFX3V3Z2dxbzRSeUozYlZ1cnV1eE8zZkhXaE5rYk5DeFlUbXgyWHJzRnlFSHdRMzJWdHEyWkNVYjdadWJyTzI0cw?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFNlaXRxVm9ULW11VjZ0VXNpLXNBYy1tVTVsUDNQQndtZW0zNjJ6TzBZUTNJT2hEeUI0OHZZQkh0QWlEd0tJbVFjck1paXRkaE9WUy1aT3IzaWNpOVNFRWhKRzd5VXNuXzNpX3VkVll6T05Sb3NhY01IV1MtdkNvWDkzNW9oN1FqaWJiRks5WTlLaDhvMGpkTXRUVHFocmptTHZwSzFXZjBJRGh4bDJB?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** SEC Accuses Ex-BofA Senior Banker Satsky of Insider Trading - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxObUdfMGdyYjc5RHl0SXZCZGxlbzE0X2x6T3hvT2Q4Vi1TcHd0ZXFLSk5VMHktWGRZQ29sTk4xdjI0THZlVGtleUNfd0ZzU3lCbjQyWlFBVzV5dVV0QWl0UncxanRBUnRKLW1xMXhiRHlGNmN5MFhZSHgwX1hReUYzYkVDYVpERzd0SzRWdGFzVFd6ZllKenczVWxJT0I3WlZuX3gySUVuUThTdXVVS29r?oc=5
+  - Facebook: queued for a future run
+
+- **[Business Topic]** US ranchers lash out at Donald Trump’s gambit to cut beef prices - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOd3Z4Y296QTI1TzFIVUxHVml4cEhscmMxV2FuaEEybkRwT183YVN2dHNkU2dwUThtU3JCQll5S0FtUG1Zc2FRUU5xajFEUVQxWWlrWDJUeWIwc0dES3lscldXYWIwSnNBb2RWUTRfQl93cm4zakwyRkM5N05Xa1ZLRzZtRWM?oc=5
+  - Facebook: queued for a future run
+
+- **[K24 Digital]** Bolo Bespoke emotional as he poses next to casket of best friend Austin Waziri’s grandpa
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/bolo-bespoke-emotional-as-he-poses-next-to-casket-of-best-friend-austin-waziris-grandpa
+  - Facebook: queued for a future run
+

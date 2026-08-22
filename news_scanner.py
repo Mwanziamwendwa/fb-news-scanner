@@ -1,94 +1,37 @@
-"""
-Kenya News Scanner (suggestions only — no auto-posting)
-
-Reads RSS feeds, finds recent stories, deduplicates them (both against
-already-seen stories and against other feeds reporting the same story
-in this same scan), flags sensitive content, resolves the real article
-URL (so you have a link back to the actual publisher page instead of a
-Google News interstitial), fetches up to ~1000 words of the full
-article, and builds a whole-sentence extractive summary from that real
-article text (falling back to the cleaned RSS snippet if the article
-can't be fetched).
-
-This script NEVER posts to Facebook. It only writes suggestions to
-suggested_posts.md — you paraphrase and post manually.
-
-Before scanning, it does a lightweight reachability check on every
-configured feed URL (a quick HTTP request) and skips any that are
-unreachable for this run, logging the result to feed_health.json so
-you can see which feeds are chronically broken over time. A feed
-failing this check is skipped only for the current run — it stays in
-the FEEDS list and is retried next run.
-
-Runs on whatever schedule the workflow's cron sets.
-
-IMPORTANT:
-- No third-party AI summarization (Groq) is used — summaries are a
-  straightforward extractive pull from the real fetched article, so
-  they are NOT ready-to-post as-is. You are expected to paraphrase
-  before posting.
-- Suggestions never include an outlet-attribution line, a "Kenya
-  Update" / category header, or link text baked into the body. The
-  post's title is never used as-is either — Google News "full
-  coverage" entries sometimes repeat the same headline twice back to
-  back (e.g. "X. X"), so it's deduplicated before use.
-- The RSS summary from Google News topic feeds can bundle several
-  outlets' headlines into one blob (a "full coverage" cluster) instead
-  of describing a single story. That text is never used verbatim: the
-  extractive summary prefers the real fetched article page over the
-  raw RSS snippet, and if neither is usable the story is held and
-  retried later rather than surfaced with thin or junky text.
-"""
-
 import os
 import json
 import socket
 import html
 import re
+import time
+import random
 from datetime import datetime, timedelta
 
 import feedparser
 import pytz
 import requests
-import trafilatura
 
-
+# Local Kenyan timezone synchronization
 NAIROBI_TZ = pytz.timezone("Africa/Nairobi")
 
 SUGGESTED_POSTS_FILE = "suggested_posts.md"
-SEEN_LOG_FILE = "seen_log.json"              # everything ever found — used for dedup across runs
-FEED_ROTATION_STATE_FILE = "feed_rotation_state.json"  # which feed to start scanning from next run
-FEED_HEALTH_FILE = "feed_health.json"        # last-known reachability per feed, for visibility over time
+SEEN_LOG_FILE = "seen_log.json"              
+FEED_HEALTH_FILE = "feed_health.json"        
 
-# The workflow runs every 4 hours, so this window is set to 5 hours —
-# matching the 4-hour gap plus a 1-hour buffer, so a run that's delayed
-# by GitHub Actions' scheduler (cron start times aren't guaranteed to
-# the minute) still catches everything published since the last run
-# actually happened, instead of a story silently falling in the gap.
-LOOKBACK_HOURS = 5
-MAX_SUGGESTIONS_PER_RUN = 60          # cap on NEW stories gathered per run
-LOG_RETENTION_DAYS = 14               # how long a "seen" story is remembered for dedup purposes
+# File used by the Dynamic Agent to track exactly when your last manual scan completed
+LAST_RUN_STATE_FILE = "last_run_state.json"
+
+MAX_SUGGESTIONS_PER_RUN = 100          
+LOG_RETENTION_DAYS = 14               
 FEED_TIMEOUT_SECONDS = 15
 ARTICLE_FETCH_TIMEOUT_SECONDS = 15
 FEED_HEALTH_CHECK_TIMEOUT_SECONDS = 10
 
-# Full article text is trimmed to this many words before summarizing.
-MAX_ARTICLE_WORDS = 1000
-
-# Target maximum length for the extractive summary. Can be shorter
-# depending on how much material is available.
-MAX_SUMMARY_WORDS = 200
-
-# How similar two titles' significant keywords need to be (as a fraction
-# of the smaller title's keyword count) to be treated as the same story
-# reported by different outlets. This is a free, local heuristic (no
-# extra API calls) — it catches clear overlaps, not every rewording.
 TITLE_SIMILARITY_THRESHOLD = 0.45
 
 FEED_REQUEST_HEADERS = {
     "User-Agent": (
-        "Mozilla/5.0 (compatible; KenyaNewsScanner/2.0; "
-        "+https://github.com/)"
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     )
 }
 
@@ -98,42 +41,19 @@ SENSITIVE_TERMS = [
     "gang rape", "mob justice", "lynched",
 ]
 
-# Entries that look like this (underscore-separated, no spaces, no
-# punctuation) are almost certainly category/taxonomy keys from some
-# other process, not real RSS titles. normalize_title() never produces
-# this shape from a real headline. We quarantine them on load so they
-# can't silently block or corrupt future dedup.
-_SUSPICIOUS_SLUG_RE = re.compile(r"^[a-z0-9]+(_[a-z0-9]+)+$")
-
-# Google News "topic" feeds sometimes bundle several unrelated headlines
-# and outlet names into one entry's summary (a "full coverage" style
-# cluster) instead of describing a single story — e.g. "Headline A
-# example.co.ke Headline B other-site.com ... See less". Detected
-# heuristically by 2+ outlet-domain-looking tokens, which a normal
-# single-story snippet won't contain.
-_SOURCE_DOMAIN_RE = re.compile(r"\b[\w-]+\.(?:co\.ke|com|org|net|co)\b", re.IGNORECASE)
-
-_SENTENCE_SPLIT_RE = re.compile(r"(?<=[.!?])\s+")
-
-_CANONICAL_LINK_RE = re.compile(
-    r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)["\']',
-    re.IGNORECASE,
-)
-_OG_URL_RE = re.compile(
-    r'<meta[^>]+property=["\']og:url["\'][^>]+content=["\']([^"\']+)["\']',
-    re.IGNORECASE,
-)
-
-_STOPWORDS = {
-    "the", "a", "an", "and", "or", "but", "of", "in", "on", "at", "to",
-    "for", "with", "by", "from", "as", "is", "are", "was", "were", "be",
-    "been", "being", "it", "its", "this", "that", "these", "those",
-    "he", "she", "they", "we", "you", "i", "his", "her", "their", "our",
-    "your", "my", "will", "would", "can", "could", "should", "has",
-    "have", "had", "not", "no", "after", "before", "over", "into",
-    "about", "amid", "amidst", "kenya", "kenyan", "kenyans", "news",
-    "latest", "update", "updates", "says", "say", "said",
-}
+PAYWALL_AND_BIO_PATTERNS = [
+    r"the standard group plc is a multi-media organization.*online services",
+    r"the standard group is recognized as a leading multi-media house.*national and international interest",
+    r"premium article.*ksh\d+/week",
+    r"get full access",
+    r"subscribe now for exclusive access",
+    r"flash sale\s*!",
+    r"offer ends in",
+    r"subscribe now and enjoy \d+% off annual plans",
+    r"uncover the stories others won't tell",
+    r"already a subscriber",
+    r"become a member to"
+]
 
 FEEDS = [
     # Google News RSS
@@ -213,653 +133,339 @@ FEEDS = [
     {"category": "Kenyapedia Recent News", "url": "https://www.kenyapedia.co.ke/rss/category/recent-news"},
 ]
 
+_STOPWORDS = {
+    "the", "a", "an", "and", "or", "but", "of", "in", "on", "at", "to",
+    "for", "with", "by", "from", "as", "is", "are", "was", "were", "be",
+    "been", "being", "it", "its", "this", "that", "these", "those",
+    "he", "she", "they", "we", "you", "i", "his", "her", "their", "our",
+    "your", "my", "will", "would", "can", "could", "should", "has",
+    "have", "had", "not", "no", "after", "before", "over", "into",
+    "about", "amid", "amidst", "kenya", "kenyan", "kenyans", "news",
+    "latest", "update", "updates", "says", "say", "said",
+}
 
-def normalize_title(title):
-    return " ".join(title.lower().split())
+def clean_and_strip_paywall_text(text):
+    if not text: return ""
+    cleaned_text = re.sub(r'<[^<]+?>', '', text)
+    cleaned_text = html.unescape(cleaned_text)
+    for pattern in PAYWALL_AND_BIO_PATTERNS:
+        cleaned_text = re.sub(pattern, "", cleaned_text, flags=re.IGNORECASE | re.DOTALL)
+    cleaned_text = re.sub(r'\s+', ' ', cleaned_text).strip()
+    # Removing a boilerplate sentence from the middle/start/end can leave
+    # an orphaned punctuation mark where the boilerplate used to connect
+    # to real content (e.g. ". Treasury Secretary..." or "...enterprises. .")
+    cleaned_text = re.sub(r'^[.,;:!?\s]+', '', cleaned_text)
+    cleaned_text = re.sub(r'(?:\s*[.,;:!?]){2,}\s*$', '.', cleaned_text)
+    return cleaned_text
+
+def clean_and_tokenize(text):
+    text = (text or "").lower()
+    text = re.sub(r'[^\w\s]', ' ', text)
+    return [w for w in text.split() if w not in _STOPWORDS and len(w) > 1]
+
+def get_title_similarity(t1, t2):
+    tokens1 = set(clean_and_tokenize(t1))
+    tokens2 = set(clean_and_tokenize(t2))
+    if not tokens1 or not tokens2: return 0.0
+    common = tokens1.intersection(tokens2)
+    return len(common) / min(len(tokens1), len(tokens2))
+
+def is_link_reachable(url):
+    try:
+        res = requests.head(url, headers=FEED_REQUEST_HEADERS, timeout=FEED_HEALTH_CHECK_TIMEOUT_SECONDS)
+        if res.status_code < 400:
+            return True
+        # Some servers reject HEAD (403/405) but are fine with GET
+        res = requests.get(url, headers=FEED_REQUEST_HEADERS, timeout=FEED_HEALTH_CHECK_TIMEOUT_SECONDS, stream=True)
+        return res.status_code < 400
+    except: return False
 
 
-def dedupe_title(title):
+_RSS_LINK_RE = re.compile(
+    r'<link[^>]+type=["\'](?:application/rss\+xml|application/atom\+xml)["\'][^>]+href=["\']([^"\']+)["\']',
+    re.IGNORECASE,
+)
+
+
+def _url_variants(url):
     """
-    Google News 'full coverage' entries sometimes repeat the exact same
-    headline twice back-to-back, e.g. "X happened. X happened" — this
-    collapses that down to a single clean copy so the duplicate never
-    ends up in the extractive summary or the suggestion body. If the
-    title isn't duplicated, it's returned unchanged (just whitespace-
-    cleaned).
+    Cheap, mechanical rewrites to try when a feed URL 404s/times out —
+    covers the most common ways these URLs rot over time (protocol
+    change, added/dropped www, trailing slash, /feed vs /rss/, or a
+    dropped /feed suffix entirely). Not a guess at new content, just
+    URL-shape permutations of the exact same address.
     """
-    t = clean_text(title)
-    if ". " in t:
-        first, rest = t.split(". ", 1)
-        if first.strip().rstrip(". ").lower() == rest.strip().rstrip(". ").lower():
-            return first.strip()
-    return t
+    variants = []
+    seen = {url}
+
+    def add(candidate):
+        if candidate not in seen:
+            seen.add(candidate)
+            variants.append(candidate)
+
+    if url.startswith("https://"):
+        add("http://" + url[len("https://"):])
+    elif url.startswith("http://"):
+        add("https://" + url[len("http://"):])
+
+    if "://www." in url:
+        add(url.replace("://www.", "://", 1))
+    else:
+        add(url.replace("://", "://www.", 1))
+
+    if url.endswith("/"):
+        add(url.rstrip("/"))
+    else:
+        add(url + "/")
+
+    base = url.rstrip("/")
+    if base.endswith("/feed"):
+        root = base[: -len("/feed")]
+        add(root + "/rss/")
+        add(root + "/feed/")
+    elif not base.endswith(("/feed", "/rss", ".xml", ".php")):
+        add(base + "/feed/")
+        add(base + "/rss/")
+
+    return variants
 
 
-def title_keywords(title):
-    words = re.findall(r"[a-z0-9']+", title.lower())
-    return {w for w in words if w not in _STOPWORDS and len(w) > 2}
-
-
-def titles_are_similar(title_a, title_b, threshold=TITLE_SIMILARITY_THRESHOLD):
+def _autodiscover_feed_from_homepage(url):
     """
-    Rough cross-outlet duplicate check: compares the significant
-    (non-stopword) keywords of two titles. Different outlets often
-    phrase the same story very differently, so this is a heuristic,
-    not a guarantee — it catches clear overlaps, not every rewording.
+    Falls back to fetching the site's homepage and reading its
+    <link rel="alternate" type="application/rss+xml"> tag — the
+    standard way browsers/readers find a site's real feed URL. Returns
+    None (never raises) if the homepage can't be reached or has no
+    such tag.
     """
-    kw_a = title_keywords(title_a)
-    kw_b = title_keywords(title_b)
-    if not kw_a or not kw_b:
-        return False
-    overlap = kw_a & kw_b
-    smaller = min(len(kw_a), len(kw_b))
-    return (len(overlap) / smaller) >= threshold
-
-
-def find_similar_title(title, candidate_titles):
-    """Returns the first candidate title considered a likely duplicate, or None."""
-    for candidate in candidate_titles:
-        if titles_are_similar(title, candidate):
-            return candidate
+    try:
+        match = re.match(r"^(https?://[^/]+)", url)
+        if not match:
+            return None
+        homepage = match.group(1) + "/"
+        resp = requests.get(homepage, headers=FEED_REQUEST_HEADERS, timeout=FEED_HEALTH_CHECK_TIMEOUT_SECONDS)
+        if not resp.ok:
+            return None
+        found = _RSS_LINK_RE.search(resp.text)
+        if found:
+            candidate = html.unescape(found.group(1)).strip()
+            if candidate.startswith("http"):
+                return candidate
+    except Exception:
+        pass
     return None
 
 
-def is_full_coverage_cluster(summary):
+def _google_news_search_fallback(category):
     """
-    True if the summary looks like a Google News 'full coverage' style
-    cluster (several outlet-domain tokens bundled together) rather than
-    a normal single-story snippet.
+    Last-resort tier: builds a real, valid Google News RSS search feed
+    for the feed's category name (e.g. "Politics" -> Kenya politics
+    news). This is a genuine working RSS endpoint -- unlike a raw
+    Google homepage URL -- so if a publisher's own feed is gone for
+    good, coverage of that category can still continue via Google
+    News search results until the real feed is fixed or replaced.
     """
-    return len(_SOURCE_DOMAIN_RE.findall(summary or "")) >= 2
+    query = requests.utils.quote(f"Kenya {category}")
+    return f"https://news.google.com/rss/search?q={query}&hl=en-KE&gl=KE&ceid=KE:en"
 
 
-def clean_summary_for_use(summary):
+def find_working_feed_url(original_url, category=None):
     """
-    Drops the summary entirely if it looks like a multi-story cluster
-    dump rather than a real snippet about one story — that text is
-    confusing rather than useful as summarization material.
+    Self-healing agent: when a configured feed URL is unreachable,
+    tries mechanical URL variants first (fast, no guessing at content),
+    then falls back to reading the real feed URL off the site's
+    homepage, then finally to a genuine Google News search feed for
+    that category so coverage continues even if the original site is
+    down for good. Returns (working_url, method) if something
+    reachable was found, or (None, None) if nothing worked -- in which
+    case the feed is skipped this run exactly as before.
     """
-    if is_full_coverage_cluster(summary):
-        return ""
-    return summary
-
-
-def load_json_dict(filename):
-    """
-    Loads a JSON object of {title: iso_timestamp}. Transparently
-    migrates an old flat-list format (title strings only, no
-    timestamps) by stamping every entry with the current time, so
-    existing log files from before this change keep working.
-    """
-    if not os.path.exists(filename):
-        return {}
-    try:
-        with open(filename, "r", encoding="utf-8") as f:
-            data = json.load(f)
-    except (OSError, json.JSONDecodeError, ValueError):
-        print(f"[WARN] Could not read {filename}; starting fresh.")
-        return {}
-
-    now_iso = datetime.now(pytz.utc).isoformat()
-
-    if isinstance(data, list):
-        return {title: now_iso for title in data}
-    if isinstance(data, dict):
-        return data
-
-    print(f"[WARN] Unexpected structure in {filename}; starting fresh.")
-    return {}
-
-
-def save_json_dict(filename, values):
-    with open(filename, "w", encoding="utf-8") as f:
-        json.dump(values, f, indent=2, ensure_ascii=False, sort_keys=True)
-
-
-def quarantine_suspicious(log_dict, filename):
-    suspicious = {k for k in log_dict if _SUSPICIOUS_SLUG_RE.match(k)}
-    if suspicious:
-        print(
-            f"[WARN] {filename}: ignoring {len(suspicious)} entries that "
-            f"look like category slugs, not article titles: {sorted(suspicious)}"
-        )
-        for k in suspicious:
-            log_dict.pop(k, None)
-    return log_dict
-
-
-def prune_old_entries(log_dict, retention_days=LOG_RETENTION_DAYS):
-    cutoff = datetime.now(pytz.utc) - timedelta(days=retention_days)
-    kept = {}
-    for title, timestamp in log_dict.items():
-        try:
-            when = datetime.fromisoformat(timestamp)
-        except (TypeError, ValueError):
-            kept[title] = timestamp
-            continue
-        if when >= cutoff:
-            kept[title] = timestamp
-    return kept
-
-
-def load_feed_rotation_offset():
-    """
-    Each run stops scanning once it collects MAX_SUGGESTIONS_PER_RUN
-    new candidates, which — with a fixed feed order — means whichever
-    feeds are first in FEEDS get scanned every run while feeds further
-    down the list may rarely (or never) get reached. This offset
-    rotates which feed the scan starts from each run, so coverage is
-    shared fairly across all configured feeds over time instead of
-    always favoring the same ones. Defaults to 0 (start of the list)
-    if no state file exists yet or it can't be read.
-    """
-    if not os.path.exists(FEED_ROTATION_STATE_FILE):
-        return 0
-    try:
-        with open(FEED_ROTATION_STATE_FILE, "r", encoding="utf-8") as f:
-            data = json.load(f)
-        return int(data.get("offset", 0))
-    except (OSError, json.JSONDecodeError, ValueError, TypeError, AttributeError):
-        print(f"[WARN] Could not read {FEED_ROTATION_STATE_FILE}; starting from feed 0.")
-        return 0
-
-
-def save_feed_rotation_offset(offset):
-    with open(FEED_ROTATION_STATE_FILE, "w", encoding="utf-8") as f:
-        json.dump({"offset": offset}, f, indent=2, ensure_ascii=False)
-
-
-def load_feed_health():
-    if not os.path.exists(FEED_HEALTH_FILE):
-        return {}
-    try:
-        with open(FEED_HEALTH_FILE, "r", encoding="utf-8") as f:
-            data = json.load(f)
-        if isinstance(data, dict):
-            return data
-    except (OSError, json.JSONDecodeError, ValueError):
-        print(f"[WARN] Could not read {FEED_HEALTH_FILE}; starting fresh.")
-    return {}
-
-
-def save_feed_health(health):
-    with open(FEED_HEALTH_FILE, "w", encoding="utf-8") as f:
-        json.dump(health, f, indent=2, ensure_ascii=False, sort_keys=True)
-
-
-def validate_feeds(feeds):
-    """
-    Quick reachability check run before the scan starts. For each
-    configured feed, tries a lightweight HEAD request first (cheap),
-    falling back to a small GET if the server doesn't support HEAD
-    (some return 403/405 for it). A feed is considered reachable if it
-    returns any status under 400.
-
-    Returns (live_feeds, health) where live_feeds is the subset of
-    `feeds` that passed, and health is a {category: {...}} dict
-    persisted to FEED_HEALTH_FILE so you can see which feeds are
-    chronically broken over time. A feed failing this check is only
-    skipped for the current run — it's never removed from FEEDS, so
-    it's retried again next run in case the outage was temporary.
-    """
-    now_iso = datetime.now(pytz.utc).isoformat()
-    health = load_feed_health()
-    live_feeds = []
-    dead_count = 0
-
-    for feed_source in feeds:
-        category = feed_source["category"]
-        url = feed_source["url"]
-        ok = False
-        error = None
-        status_code = None
-
-        try:
-            resp = requests.head(
-                url,
-                headers=FEED_REQUEST_HEADERS,
-                timeout=FEED_HEALTH_CHECK_TIMEOUT_SECONDS,
-                allow_redirects=True,
-            )
-            status_code = resp.status_code
-            if status_code >= 400:
-                # Some servers don't implement HEAD properly — retry with GET
-                resp = requests.get(
-                    url,
-                    headers=FEED_REQUEST_HEADERS,
-                    timeout=FEED_HEALTH_CHECK_TIMEOUT_SECONDS,
-                    allow_redirects=True,
-                    stream=True,
-                )
-                status_code = resp.status_code
-            ok = status_code < 400
-        except requests.RequestException as exc:
-            error = str(exc)
-
-        entry = {
-            "url": url,
-            "ok": ok,
-            "status_code": status_code,
-            "error": error,
-            "last_checked": now_iso,
-        }
-        if not ok:
-            # Preserve when this feed last succeeded, if we know it.
-            prev = health.get(category, {})
-            entry["last_ok"] = prev.get("last_ok") if not prev.get("ok") else prev.get("last_checked")
-
-        health[category] = entry
-
-        if ok:
-            live_feeds.append(feed_source)
-        else:
-            dead_count += 1
-            print(f"[FEED HEALTH] Unreachable, skipping this run: {category} "
-                  f"(status={status_code}, error={error})")
-
-    print(f"[FEED HEALTH] {len(live_feeds)}/{len(feeds)} feeds reachable "
-          f"({dead_count} skipped this run)")
-    save_feed_health(health)
-    return live_feeds, health
-
-
-def is_recent(published_parsed):
-    if not published_parsed:
-        return True
-    try:
-        published_dt = datetime(*published_parsed[:6], tzinfo=pytz.utc)
-    except (TypeError, ValueError, OverflowError):
-        return True
-    cutoff = datetime.now(pytz.utc) - timedelta(hours=LOOKBACK_HOURS)
-    return published_dt >= cutoff
-
-
-def clean_text(value):
-    return " ".join(str(value or "").split())
-
-
-def strip_html(value):
-    value = html.unescape(str(value or ""))
-    value = re.sub(r"<[^>]+>", " ", value)
-    return clean_text(value)
-
-
-def is_sensitive(title, summary):
-    text = f"{title} {summary}".lower()
-    return any(term in text for term in SENSITIVE_TERMS)
-
-
-def nairobi_timestamp():
-    return datetime.now(NAIROBI_TZ).strftime("%Y-%m-%d %H:%M")
-
-
-def parse_feed_safely(feed_url):
-    old_timeout = socket.getdefaulttimeout()
-    socket.setdefaulttimeout(FEED_TIMEOUT_SECONDS)
-    try:
-        return feedparser.parse(
-            feed_url,
-            request_headers=FEED_REQUEST_HEADERS
-        )
-    finally:
-        socket.setdefaulttimeout(old_timeout)
-
-
-def source_name_from_title(title, category):
-    if " - " in title:
-        possible = title.rsplit(" - ", 1)[-1].strip()
-        if possible:
-            return possible
-    return category
-
-
-def resolve_article_url(link):
-    """
-    Google News RSS links point at a news.google.com interstitial page
-    rather than the publisher's actual article. This follows real HTTP
-    redirects first, and if the final URL is still on news.google.com,
-    tries to pull the true article URL out of that page's
-    canonical/og:url meta tags. Falls back to the original link (and
-    never raises) if none of that works, so a resolution failure never
-    breaks the run — it just means that one story's reference link may
-    point at Google News instead of the source.
-
-    Returns (resolved_url, page_html) — page_html is passed straight
-    into fetch_article_text so we don't fetch the same page twice.
-    """
-    try:
-        response = requests.get(
-            link,
-            headers=FEED_REQUEST_HEADERS,
-            timeout=ARTICLE_FETCH_TIMEOUT_SECONDS,
-            allow_redirects=True,
-        )
-    except requests.RequestException as exc:
-        print(f"[WARN] Could not resolve article URL: {exc}")
-        return link, None
-
-    final_url = response.url
-    page_html = response.text if response.ok else None
-
-    if "news.google.com" in final_url and page_html:
-        match = _CANONICAL_LINK_RE.search(page_html) or _OG_URL_RE.search(page_html)
-        if match:
-            candidate = html.unescape(match.group(1)).strip()
-            if candidate.startswith("http") and "news.google.com" not in candidate:
-                return candidate, page_html
-
-    return final_url, page_html
-
-
-def fetch_article_text(link, page_html=None):
-    """
-    Fetches (or reuses an already-fetched) publisher article page and
-    extracts up to MAX_ARTICLE_WORDS words of the main body text via
-    trafilatura. Returns None (never raises) if the fetch or extraction
-    fails for any reason — sites that block scraping, paywall, time
-    out, or have layouts trafilatura can't parse. Callers fall back to
-    the RSS snippet, or hold the story, in that case.
-    """
-    if page_html is None:
-        try:
-            response = requests.get(
-                link,
-                headers=FEED_REQUEST_HEADERS,
-                timeout=ARTICLE_FETCH_TIMEOUT_SECONDS,
-            )
-            response.raise_for_status()
-        except requests.RequestException as exc:
-            print(f"[WARN] Could not fetch article page: {exc}")
-            return None
-        page_html = response.text
-
-    try:
-        extracted = trafilatura.extract(page_html)
-    except Exception as exc:  # trafilatura can raise a range of parser errors
-        print(f"[WARN] Could not extract article text: {exc}")
-        return None
-
-    if not extracted:
-        return None
-
-    words = extracted.split()
-    if len(words) > MAX_ARTICLE_WORDS:
-        words = words[:MAX_ARTICLE_WORDS]
-    return " ".join(words)
-
-
-def extractive_summary(text, max_words=MAX_SUMMARY_WORDS):
-    """
-    Whole-sentence extractive summary: takes complete sentences from
-    the front of the real fetched article, in order, up to max_words.
-    Never cuts a sentence off mid-way. This is NOT a paraphrase — it's
-    lifted straight from the source, so treat it as raw material to
-    rewrite before posting, not as post-ready text.
-    """
-    if not text:
-        return ""
-    sentences = _SENTENCE_SPLIT_RE.split(text.strip())
-    word_count = 0
-    kept = []
-    for sentence in sentences:
-        words = sentence.split()
-        if not words:
-            continue
-        if kept and word_count + len(words) > max_words:
-            break
-        kept.append(sentence)
-        word_count += len(words)
-        if word_count >= max_words:
-            break
-    return " ".join(kept)
-
-
-def build_suggestion_body(title, summary, link):
-    """
-    Prefers a whole-sentence extractive summary pulled from the real
-    fetched article (a single source) over the raw RSS snippet, since
-    Google News' aggregator snippets are prone to bundling several
-    outlets' headlines together even after clean_summary_for_use()
-    filters the obvious cases. Returns None if there isn't enough real
-    content to build anything useful from, so the caller holds the
-    story rather than surfacing something thin or junky.
-
-    Returns (body, resolved_link). resolved_link is only used for the
-    suggested_posts.md log so you have a reference back to the source
-    story — it's never posted anywhere.
-    """
-    resolved_link, page_html = resolve_article_url(link)
-    article_text = fetch_article_text(resolved_link, page_html=page_html)
-    clean_title = dedupe_title(title)
-    cleaned_summary = clean_summary_for_use(summary)
-
-    intro = clean_title if clean_title.endswith((".", "!", "?")) else f"{clean_title}."
-
-    if article_text:
-        extract = extractive_summary(article_text)
-        if extract:
-            return f"{intro}\n\n{extract}", resolved_link
-
-    if cleaned_summary:
-        return f"{intro} {cleaned_summary}", resolved_link
-
-    return None, resolved_link
-
-
-def append_suggestions(entries):
-    if not entries:
-        return
-
-    exists = os.path.exists(SUGGESTED_POSTS_FILE)
-
-    with open(SUGGESTED_POSTS_FILE, "a", encoding="utf-8") as f:
-        if not exists:
-            f.write("# Suggested Posts\n\n")
-            f.write(
-                "_Raw extractive material only — paraphrase before "
-                "posting. Nothing here is auto-posted._\n\n"
-            )
-
-        f.write(
-            f"## Scan run: {nairobi_timestamp()} (Nairobi time)\n\n"
-        )
-
-        for entry in entries:
-            flag = (
-                " ⚠️ REVIEW — possibly sensitive content"
-                if entry.get("flagged") else ""
-            )
-
-            f.write(
-                f"- **[{entry['category']}]** "
-                f"{entry['title']}{flag}\n"
-            )
-            f.write(f"  - Source: {entry['source']}\n")
-            f.write(f"  - Link: {entry['link']}\n")
-            if entry.get("body"):
-                f.write(f"  - Draft material: {entry['body']}\n")
-            f.write("\n")
-
-
+    for candidate in _url_variants(original_url):
+        if is_link_reachable(candidate):
+            return candidate, "url_variant"
+
+    discovered = _autodiscover_feed_from_homepage(original_url)
+    if discovered and discovered != original_url and is_link_reachable(discovered):
+        return discovered, "homepage_autodiscovery"
+
+    if category:
+        fallback = _google_news_search_fallback(category)
+        if is_link_reachable(fallback):
+            return fallback, "google_news_search_fallback"
+
+    return None, None
+
+def contains_sensitive_content(text):
+    text_lower = (text or "").lower()
+    for term in SENSITIVE_TERMS:
+        if term in text_lower: return True
+    return False
+
+
+# ==============================================================================
+# MAIN SCANNER ENGINE
+# ==============================================================================
 def main():
-    print("=" * 70)
-    print("KENYA NEWS SCANNER (suggestions only)")
-    print("=" * 70)
-    print(f"Scan time: {nairobi_timestamp()} (Nairobi)")
-    print(f"RSS feeds configured: {len(FEEDS)}")
-    print(f"Lookback: {LOOKBACK_HOURS} hours")
-    print(f"Maximum new suggestions per run: {MAX_SUGGESTIONS_PER_RUN}")
-    print("=" * 70)
-
-    now_iso = datetime.now(pytz.utc).isoformat()
-
-    seen_log = prune_old_entries(
-        quarantine_suspicious(load_json_dict(SEEN_LOG_FILE), SEEN_LOG_FILE)
-    )
-
-    # ---- Phase 0: validate feed reachability before scanning ----
-    live_feeds, _ = validate_feeds(FEEDS)
-
-    if not live_feeds:
-        print("[FATAL] No feeds were reachable this run; nothing to scan.")
-        save_json_dict(SEEN_LOG_FILE, seen_log)
-        return
-
-    # ---- Phase 1: scan feeds, collect new (deduplicated) candidate stories ----
-    feed_rotation_offset = load_feed_rotation_offset() % len(live_feeds)
-    ordered_feeds = live_feeds[feed_rotation_offset:] + live_feeds[:feed_rotation_offset]
-    print(f"Feed scan starting at index {feed_rotation_offset} ({ordered_feeds[0]['category']}) — rotates each run for fair coverage")
-
-    candidates = []
-    held_for_review = []
-    suggestions_made = 0
-    feeds_checked = 0
-    feeds_failed = 0
-    feeds_attempted_this_run = 0
-
-    for feed_source in ordered_feeds:
-        if suggestions_made >= MAX_SUGGESTIONS_PER_RUN:
-            break
-
-        feeds_attempted_this_run += 1
-        category = feed_source["category"]
-        feed_url = feed_source["url"]
-
-        print(f"[CHECK] {category}")
-
+    print("[PIPELINE RUN] Starting Dynamic Multi-Agent News Scanner...")
+    now_utc = datetime.now(pytz.utc)
+    
+    # ----------------==========================================================
+    # DYNAMIC AGENT: TIME GAP CALCULATION (WITH 15-MIN SHORT RUN PROTECTION)
+    # ----------------==========================================================
+    last_run_time = now_utc - timedelta(hours=24) 
+    if os.path.exists(LAST_RUN_STATE_FILE):
         try:
-            feed = parse_feed_safely(feed_url)
-            feeds_checked += 1
-        except Exception as exc:
-            feeds_failed += 1
-            print(f"[WARN] {category}: {exc}")
-            continue
+            with open(LAST_RUN_STATE_FILE, "r", encoding="utf-8") as f:
+                state = json.load(f)
+                last_run_time = datetime.fromisoformat(state["last_successful_run_utc"])
+                print(f"[DYNAMIC AGENT] Last scan detected at: {last_run_time.astimezone(NAIROBI_TZ)}")
+        except:
+            print("[DYNAMIC AGENT] State file unreadable. Defaulting parameters.")
 
-        if getattr(feed, "bozo", False) and not feed.entries:
-            feeds_failed += 1
-            bozo_exc = getattr(feed, "bozo_exception", None)
-            print(f"[WARN] No usable entries: {feed_url} ({bozo_exc})")
-            continue
+    time_gap_seconds = (now_utc - last_run_time).total_seconds()
+    time_gap_minutes = int(time_gap_seconds / 60)
 
-        if not feed.entries:
-            print(f"[INFO] {category}: no entries")
-            continue
+    # 15-Minute Safety Window Catch for back-to-back runs
+    if time_gap_minutes < 15:
+        print(f"[DYNAMIC AGENT] Quick run detected ({time_gap_minutes} mins gap). Enforcing 15-minute safety lookup window.")
+        time_gap_minutes = 15
+    else:
+        print(f"[DYNAMIC AGENT] Lookback window configured to capture the last: {time_gap_minutes} minutes.")
 
-        print(f"[OK] {category}: {len(feed.entries)} entries")
+    seen_log = []
+    if os.path.exists(SEEN_LOG_FILE):
+        try:
+            with open(SEEN_LOG_FILE, "r", encoding="utf-8") as f: seen_log = json.load(f)
+        except: pass
 
-        for entry in feed.entries:
-            if suggestions_made >= MAX_SUGGESTIONS_PER_RUN:
-                break
+    health_data = {}
+    fresh_extracted_stories = []
+    suggested_fixes = []
 
-            raw_title = clean_text(entry.get("title", ""))
-            title = dedupe_title(raw_title)
-            link = clean_text(entry.get("link", ""))
-            raw_summary = strip_html(entry.get("summary", ""))
-            summary = clean_summary_for_use(raw_summary)
+    # Extraction Pass
+    for feed in FEEDS:
+        working_url = feed["url"]
+        fix_method = None
 
-            published_parsed = (
-                entry.get("published_parsed")
-                or entry.get("updated_parsed")
-            )
+        if not is_link_reachable(working_url):
+            # ---------------------------------------------------------
+            # SELF-HEALING AGENT: FEED URL REPAIR
+            # ---------------------------------------------------------
+            # A dead feed used to just get skipped for the run and
+            # left broken until someone noticed. Instead, try to find
+            # a working replacement URL automatically before giving up.
+            print(f"[SELF-HEALING AGENT] {feed['category']} unreachable, attempting repair...")
+            fixed_url, fix_method = find_working_feed_url(feed["url"], category=feed["category"])
+            if fixed_url:
+                print(f"[SELF-HEALING AGENT] Fixed {feed['category']} via {fix_method}: {fixed_url}")
+                working_url = fixed_url
+            else:
+                working_url = None
 
-            if not title or not link:
-                continue
-
-            key = normalize_title(title)
-
-            # Exact or fuzzy duplicate of something already surfaced —
-            # including a late report of a story another outlet already
-            # broke, which gets auto-declined here.
-            if key in seen_log or find_similar_title(title, seen_log.keys()):
-                continue
-
-            # Duplicate of a story another feed already surfaced earlier
-            # in this same scan.
-            if find_similar_title(title, [c["title"] for c in candidates]):
-                continue
-
-            if not is_recent(published_parsed):
-                continue
-
-            flagged = is_sensitive(title, raw_summary)
-            source = source_name_from_title(raw_title, category)
-
-            if flagged:
-                held_for_review.append({
-                    "category": category,
-                    "title": title,
-                    "link": link,
-                    "source": source,
-                    "flagged": True,
-                    "body": None,
+        if working_url:
+            health_data[feed["category"]] = {
+                "status": "ALIVE",
+                "url_used": working_url,
+                "auto_fixed": fix_method is not None,
+                "fix_method": fix_method,
+            }
+            if fix_method:
+                suggested_fixes.append({
+                    "category": feed["category"],
+                    "original_url": feed["url"],
+                    "working_url": working_url,
+                    "method": fix_method,
                 })
-                seen_log[key] = now_iso
-                suggestions_made += 1
-                continue
+            try:
+                parsed = feedparser.parse(working_url)
+                for entry in parsed.entries:
+                    title = getattr(entry, "title", "")
+                    link = getattr(entry, "link", "")
+                    pub_parsed = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
+                    
+                    if pub_parsed:
+                        pub_time = datetime(*pub_parsed[:6]).replace(tzinfo=pytz.utc)
+                        age_mins = (now_utc - pub_time).total_seconds() / 60
+                        
+                        # Dynamic lookback bounds check
+                        if 0 <= age_mins <= time_gap_minutes and link not in seen_log:
+                            raw_summary = getattr(entry, "summary", "") or getattr(entry, "description", "")
+                            processed_snippet = clean_and_strip_paywall_text(raw_summary)
+                            
+                            if len(processed_snippet) < 15: continue
 
-            candidates.append({
-                "title": title,
-                "normalized_title": key,
-                "link": link,
-                "source": source,
-                "category": category,
-                "summary": summary,
-            })
-            seen_log[key] = now_iso
-            suggestions_made += 1
+                            fresh_extracted_stories.append({
+                                "category": feed["category"],
+                                "title": title,
+                                "link": link,
+                                "summary": processed_snippet,
+                            })
+            except: continue
+        else:
+            health_data[feed["category"]] = {
+                "status": "DEAD",
+                "url_used": None,
+                "auto_fixed": False,
+                "fix_method": None,
+            }
 
-    new_feed_rotation_offset = (feed_rotation_offset + feeds_attempted_this_run) % len(live_feeds)
-    save_feed_rotation_offset(new_feed_rotation_offset)
+    with open(FEED_HEALTH_FILE, "w", encoding="utf-8") as f:
+        json.dump(health_data, f, indent=2)
 
-    # ---- Phase 2: build draft material for each new candidate ----
-    ready_entries = []
-    thin_entries = []
+    # Cross-Feed Deduplication & Sensitivity Inspection
+    clean_suggestions = []
+    for story in fresh_extracted_stories:
+        is_duplicate = False
+        for chosen in clean_suggestions:
+            if get_title_similarity(story["title"], chosen["title"]) >= TITLE_SIMILARITY_THRESHOLD:
+                is_duplicate = True
+                break
+        
+        if not is_duplicate:
+            story["sensitive"] = contains_sensitive_content(story["title"]) or contains_sensitive_content(story["summary"])
+            clean_suggestions.append(story)
+            seen_log.append(story["link"])
 
-    for c in candidates:
-        body, resolved_link = build_suggestion_body(c["title"], c["summary"], c["link"])
-        if body is None:
-            thin_entries.append({
-                "category": c["category"],
-                "title": c["title"],
-                "link": c["link"],
-                "source": c["source"],
-                "flagged": False,
-                "body": None,
-            })
-            print(f"[SKIP] Not enough real content to draft: {c['title']}")
-            continue
+    # Output to suggested_posts.md
+    if clean_suggestions:
+        with open(SUGGESTED_POSTS_FILE, "w", encoding="utf-8") as f:
+            f.write(f"# Kenya News Suggestions - Generated {now_utc.astimezone(NAIROBI_TZ).strftime('%Y-%m-%d %H:%M:%S')} EAT\n\n")
+            f.write(f"Scanned lookback gap of {time_gap_minutes} minutes. Found {len(clean_suggestions)} unique stories.\n\n")
+            if suggested_fixes:
+                f.write("## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)\n\n")
+                for fix in suggested_fixes:
+                    f.write(
+                        f"- **{fix['category']}** ({fix['method']}): "
+                        f"`{fix['original_url']}` → `{fix['working_url']}`\n"
+                    )
+                f.write("\n")
+            f.write("---\n\n")
+            
+            for index, item in enumerate(clean_suggestions, 1):
+                sensitive_tag = "⚠️ [SENSITIVE] " if item["sensitive"] else ""
+                f.write(f"### {index}. {sensitive_tag}{item['title']}\n")
+                f.write(f"- **Category**: {item['category']}\n")
+                f.write(f"- **Source Link**: {item['link']}\n")
+                f.write(f"- **Snippet**: {item['summary'][:350]}...\n")
+                f.write("\n---\n\n")
+        print(f"[SUCCESS] Saved {len(clean_suggestions)} unique updates to {SUGGESTED_POSTS_FILE}.")
+    else:
+        print(f"[INFO] Zero new entries published in the tracked {time_gap_minutes}-minute timeframe gap.")
 
-        ready_entries.append({
-            "category": c["category"],
-            "title": c["title"],
-            "link": resolved_link,
-            "source": c["source"],
-            "flagged": False,
-            "body": body,
-        })
+    # ----------------==========================================================
+    # SELF-HEALING AGENT: LOG PRUNING
+    # ----------------==========================================================
+    if len(seen_log) > 1200:
+        print("[SELF-HEALING AGENT] Pruning log entries to protect memory space...")
+        seen_log = seen_log[-1200:]
+        
+    with open(SEEN_LOG_FILE, "w", encoding="utf-8") as f:
+        json.dump(seen_log, f)
 
-    all_new_entries = held_for_review + ready_entries + thin_entries
-    append_suggestions(all_new_entries)
-
-    save_json_dict(SEEN_LOG_FILE, seen_log)
-
-    print()
-    print("=" * 70)
-    print("SCAN COMPLETE")
-    print("=" * 70)
-    print(f"New stories found this run: {len(candidates)}")
-    print(f"Ready with draft material: {len(ready_entries)}")
-    print(f"Too thin to draft: {len(thin_entries)}")
-    print(f"Held for manual review: {len(held_for_review)}")
-    print(f"Feeds checked: {feeds_checked}")
-    print(f"Feed parse failures: {feeds_failed}")
-    print(f"Feeds attempted this run: {feeds_attempted_this_run} of {len(live_feeds)} reachable "
-          f"(next run starts at index {new_feed_rotation_offset})")
-    print(f"Output: {SUGGESTED_POSTS_FILE}")
-    print(f"Seen/dedup log: {SEEN_LOG_FILE}")
-    print(f"Feed rotation state: {FEED_ROTATION_STATE_FILE}")
-    print(f"Feed health log: {FEED_HEALTH_FILE}")
-    print("=" * 70)
+    # Lock state timestamp
+    with open(LAST_RUN_STATE_FILE, "w", encoding="utf-8") as f:
+        json.dump({"last_successful_run_utc": now_utc.isoformat()}, f)
+    print(f"[STATE SAVED] Last successful run timestamp locked at {now_utc.isoformat()}.")
 
 
 if __name__ == "__main__":

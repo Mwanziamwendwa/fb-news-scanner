@@ -1,91 +1,91 @@
 {
   "Aipate News": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://aipate.com/category/news/feed"
   },
   "Business": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://news.google.com/rss/search?q=Kenya+business+economy&hl=en-KE&gl=KE&ceid=KE:en"
   },
   "Business Daily Africa": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://www.businessdailyafrica.com/service/rss/bd/1939132/feed.rss"
   },
   "Business Topic": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKTFJTZ0FQAQ?hl=en-KE&gl=KE&ceid=KE:en"
   },
   "Capital FM Business": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://capitalfm.africa/business/feed/"
   },
   "Capital FM Kenya": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://www.capitalfm.co.ke/news/feed/"
   },
   "Capital FM Lifestyle": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://capitalfm.africa/lifestyle/feed/"
   },
   "Capital FM News": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://capitalfm.africa/news/feed/"
   },
   "Capital FM Sports": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://capitalfm.africa/sports/feed/"
   },
   "Diaspora Messenger": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://diasporamessenger.com/feed/"
   },
   "Education News": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://educationnews.co.ke/feed/"
   },
   "Entertainment": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://news.google.com/rss/search?q=Kenya+entertainment+celebrity&hl=en-KE&gl=KE&ceid=KE:en"
   },
   "Getembe Business": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "last_ok": null,
     "ok": false,
     "status_code": 404,
@@ -93,7 +93,7 @@
   },
   "Getembe Education": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "last_ok": null,
     "ok": false,
     "status_code": 404,
@@ -101,7 +101,7 @@
   },
   "Getembe Health": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "last_ok": null,
     "ok": false,
     "status_code": 404,
@@ -109,7 +109,7 @@
   },
   "Getembe Latest": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "last_ok": null,
     "ok": false,
     "status_code": 404,
@@ -117,7 +117,7 @@
   },
   "Getembe News": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "last_ok": null,
     "ok": false,
     "status_code": 404,
@@ -125,7 +125,7 @@
   },
   "Getembe Politics": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "last_ok": null,
     "ok": false,
     "status_code": 404,
@@ -133,14 +133,14 @@
   },
   "Ghafla": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://www.ghafla.co.ke/feed/"
   },
   "Ghafla KE": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "last_ok": null,
     "ok": false,
     "status_code": 403,
@@ -148,28 +148,28 @@
   },
   "K24 Digital": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://k24.digital/feed"
   },
   "KBC Digital": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://kbc.co.ke/feed"
   },
   "Kenya Latest": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNREU1Y21jMUVnVmxiaTFIUWlnQVAB?hl=en-KE&gl=KE&ceid=KE%3Aen"
   },
   "Kenya News Agency": {
     "error": "HTTPSConnectionPool(host='www.kenyanews.go.ke', port=443): Max retries exceeded with url: /feed/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1016)')))",
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "last_ok": null,
     "ok": false,
     "status_code": null,
@@ -177,7 +177,7 @@
   },
   "KenyaMOJA": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "last_ok": null,
     "ok": false,
     "status_code": 404,
@@ -185,7 +185,7 @@
   },
   "Kenyan Wall Street": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "last_ok": null,
     "ok": false,
     "status_code": 410,
@@ -193,84 +193,84 @@
   },
   "Kenyans.co.ke": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://www.kenyans.co.ke/feeds/news"
   },
   "Kenyapedia Debt": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://www.kenyapedia.co.ke/rss/category/debt-and-borrowing"
   },
   "Kenyapedia Economy": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://www.kenyapedia.co.ke/rss/category/kenya-economy"
   },
   "Kenyapedia Education": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://www.kenyapedia.co.ke/rss/category/education-funding"
   },
   "Kenyapedia Grants": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://www.kenyapedia.co.ke/rss/category/business-grants-and-financing"
   },
   "Kenyapedia Investments": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://www.kenyapedia.co.ke/rss/category/savings-and-investments"
   },
   "Kenyapedia Jobs": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://www.kenyapedia.co.ke/rss/category/jobs"
   },
   "Kenyapedia Latest": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://www.kenyapedia.co.ke/rss/latest-posts"
   },
   "Kenyapedia Money": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://www.kenyapedia.co.ke/rss/category/money-and-finances"
   },
   "Kenyapedia Recent News": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://www.kenyapedia.co.ke/rss/category/recent-news"
   },
   "Kenyapedia Taxes": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://www.kenyapedia.co.ke/rss/category/taxes-50"
   },
   "Mwakilishi": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "last_ok": null,
     "ok": false,
     "status_code": 404,
@@ -278,71 +278,70 @@
   },
   "NTV Kenya": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://ntvkenya.co.ke/feed/"
   },
   "Nairobi Gossip Club": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://nairobigossipclub.co.ke/feeds"
   },
   "Nairobi Leo": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://nairobileo.co.ke/feed"
   },
   "Nairobi Wire": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://nairobiwire.com/feed"
   },
   "Nation Africa": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://nation.africa/kenya/rss.xml"
   },
   "News Trends KE": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://newstrends.co.ke/feed/"
   },
   "Politics": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://news.google.com/rss/search?q=Kenya+politics&hl=en-KE&gl=KE&ceid=KE:en"
   },
   "SPM Buzz": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://spmbuzz.com/feed/"
   },
   "Sauce Kenya": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
-    "last_ok": "2026-08-22T10:54:16.793300+00:00",
-    "ok": false,
-    "status_code": 403,
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
+    "ok": true,
+    "status_code": 200,
     "url": "https://sauce.co.ke/feed/"
   },
   "Sharp Daily": {
     "error": "HTTPSConnectionPool(host='sharpdaily.co.ke', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError(\"HTTPSConnection(host='sharpdaily.co.ke', port=443): Failed to resolve 'sharpdaily.co.ke' ([Errno -2] Name or service not known)\"))",
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "last_ok": null,
     "ok": false,
     "status_code": null,
@@ -350,70 +349,70 @@
   },
   "Sports": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://news.google.com/rss/search?q=Kenya+sports+football&hl=en-KE&gl=KE&ceid=KE:en"
   },
   "Standard Headlines": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://www.standardmedia.co.ke/rss/headlines.php"
   },
   "Standard Kenya": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://www.standardmedia.co.ke/rss/kenya.php"
   },
   "Standard Politics": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://www.standardmedia.co.ke/rss/politics.php"
   },
   "Standard Sports": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://www.standardmedia.co.ke/rss/sports.php"
   },
   "Standard World": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://www.standardmedia.co.ke/rss/world.php"
   },
   "Taifa Leo": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://taifaleo.nation.co.ke/feed"
   },
   "The Kenya Times": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://thekenyatimes.com/feed/"
   },
   "Trending": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "ok": true,
     "status_code": 200,
     "url": "https://news.google.com/rss/search?q=Kenya+viral+trending&hl=en-KE&gl=KE&ceid=KE:en"
   },
   "Viral Tea Breaking": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "last_ok": null,
     "ok": false,
     "status_code": 403,
@@ -421,7 +420,7 @@
   },
   "Viral Tea Latest": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "last_ok": null,
     "ok": false,
     "status_code": 403,
@@ -429,7 +428,7 @@
   },
   "Viral Tea Local": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "last_ok": null,
     "ok": false,
     "status_code": 403,
@@ -437,7 +436,7 @@
   },
   "Viral Tea National": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "last_ok": null,
     "ok": false,
     "status_code": 403,
@@ -445,7 +444,7 @@
   },
   "Viral Tea News": {
     "error": null,
-    "last_checked": "2026-08-22T11:45:55.530465+00:00",
+    "last_checked": "2026-08-22T13:44:09.675317+00:00",
     "last_ok": null,
     "ok": false,
     "status_code": 403,

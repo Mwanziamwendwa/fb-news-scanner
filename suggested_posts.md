@@ -10091,3 +10091,216 @@ President William Ruto has directed the Kenya Tea Development Agency (KTDA) to e
   - Source: Business Insider Africa
   - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxORzZSaGpOLXY3dTl3UlB5anVDdzRIbXA1RmJjNXF5NUFtZFg2OWdVWmVMd0c5ZnZ5Y2tCQU1VU0x4aHJBbFNMZnBYbzBqSlF0bHJqZVloWkhTQm8yTjBaVW9MSHNTUVQ3ZjE5YWdUcmJYT3dFSkVxUXUyRmNPLS1LM080dEI4WHdzMXpRYjliNU5QWFJUNXlIV3daU0tGZlktVGlqazZLR3oyNXlOMVpxTjVEckE2Y3NhT2FiWktFcDZmQzd6MWxobEdOQUlKNUJJTTlzQjFTTQ?oc=5
 
+## Scan run: 2026-08-22 16:45 (Nairobi time)
+
+- **[News Trends KE]** Western Cape Strengthens Bergrivier’s Hazmat Response Capacity
+  - Source: News Trends KE
+  - Link: https://newstrends.co.ke/western-cape-strengthens-bergriviers-hazmat-response-capacity/
+  - Draft material: Western Cape Strengthens Bergrivier’s Hazmat Response Capacity.
+
+Download logo The Western Cape Government, through the Provincial Disaster Management Centre (PDMC) and its key partners, has strengthened Bergrivier Municipality’s Hazmat response capacity through the handover of specialised firefighting equipment valued at R250,000. The handover forms part of the Municipal Fire Service Capacity Building Grant, which strengthens municipal fire and rescue services through equipment, training and operational support. The equipment includes 40 Level A responder suits, providing maximum protection against dangerous vapours and liquids, as well as other specialised response equipment. Hazmat incidents require specialised equipment, trained personnel and a coordinated response, making this investment important for municipal preparedness and firefighter safety. Officials and stakeholders highlighted the importance of continued funding, co-funding and training to maintain response capacity and safety standards. The grant also supports skills development, with firefighters trained to Firefighter Level Two and AR operations. The engagement also included the handover of a specialised trailer, adding to the municipality’s operational capacity. Stakeholders acknowledged municipal leadership, technical services personnel, firefighters and first responders, while emphasising that effective fire and disaster management requires training, preparedness, community involvement and strong partnerships.
+
+- **[News Trends KE]** South Sudan: President Kiir Urges National Elections Commission (NEC) to Prepare for December Polls as Voter Registration Nears
+  - Source: News Trends KE
+  - Link: https://newstrends.co.ke/south-sudan-president-kiir-urges-national-elections-commission-nec-to-prepare-for-december-polls-as-voter-registration-nears/
+  - Draft material: South Sudan: President Kiir Urges National Elections Commission (NEC) to Prepare for December Polls as Voter Registration Nears.
+
+Download logo His Excellency President Salva Kiir Mayardit has urged the National Elections Commission (NEC) to step up preparations for South Sudan’s December 22 general elections, stressing the need for a credible, free and fair electoral process. President Kiir made the call on Friday after receiving a report from NEC Chairperson Prof. Abednego Akok Kachuol on the commission’s activities and assessment missions conducted across the country’s ten states and three administrative areas. Prof. Akok said voter registration is expected to begin soon, ahead of the December 22 polls, and called on all eligible South Sudanese to register and take part in the electoral process. The Head of the electoral agency said the voter registration will mark a critical step toward the long-awaited elections, with the exercise expected to provide citizens with the opportunity to secure their participation in determining the country’s political future. The President challenged the electoral body to ensure that all necessary preparations are in place to conduct elections that meet the expectations of the people of South Sudan. Officials say that with the polls approaching, attention is now turning to the NEC’s readiness, voter participation, and the ability of the electoral process to inspire public confidence.
+
+- **[News Trends KE]** Somalia: Humanitarian aid cuts leave millions of children vulnerable to hunger
+  - Source: News Trends KE
+  - Link: https://newstrends.co.ke/somalia-humanitarian-aid-cuts-leave-millions-of-children-vulnerable-to-hunger/
+  - Draft material: Somalia: Humanitarian aid cuts leave millions of children vulnerable to hunger.
+
+Hajio is one of many experiencing the brunt of these cuts. She lived a relatively prosperous life – she had a home and her children went to school. But all her cattle died because of the drought, and she had to flee her home area for help. She hurried to the town of Burhakaba in southwest Somalia because she had heard support would be available there. Yet upon arrival, she received only some clothes and tomatoes from one of the country’s poorest communities living nearby. “She received nothing from the international community,” stressed UN Children’s Fund (UNICEF) spokesperson James Elder, briefing journalists in Geneva on Friday. Malnourished children Due to unprecedented cuts in humanitarian aid, over 200 health and nutrition facilities have already closed in Somalia – and according to the most severe predictions, the number could jump to 618. The consequences have been immediate and very serious. Compared to last year, Somalia has seen a 32 per cent increase in children admitted to stabilisation centres with severe acute malnutrition and complications. This is not because more children are getting sick, but because they can no longer access preventive and community-based nutrition services previously available to them.
+
+- **[News Trends KE]** Democratic Republic of the Congo (DRC) Ebola outbreak spreading exponentially, United Nations (UN) responders warn
+  - Source: News Trends KE
+  - Link: https://newstrends.co.ke/democratic-republic-of-the-congo-drc-ebola-outbreak-spreading-exponentially-united-nations-un-responders-warn/
+  - Draft material: Democratic Republic of the Congo (DRC) Ebola outbreak spreading exponentially, United Nations (UN) responders warn.
+
+Ebola deaths reach 2,516 in DRC Response funding could run out within weeks Dozens of frontline healthcare workers among dead “We’re only covered for the next weeks, and very soon funding will run out,” said Julien Harneis, UN Senior Ebola Coordinator. “Every delay in funding and implementation makes this epidemic more deadly, more difficult to stop and more expensive. So, we need that international support immediately.” Since the outbreak was declared on 15 May, 5,290 people have been infected 2,516 have died, according to latest health authority data published on Friday. Of the total confirmed number of cases, 1,152 people have recovered and nearly 840 people remain in isolation or hospitalized. The fatality rate is 47.6 per cent and contact follow-up is 82.9 per cent. Deadly progression Briefing journalists from the Ebola epicentre in Bunia, Ituri province, Mr. Harneis warned that the disease is “growing exponentially”, with half of all deaths occurring in just the last 20 days. “The epidemic is spreading to an area that is bigger than France. And the outbreak is growing faster and wider than the Ebola response,” he stressed, as “brutal” operating conditions continue to impede the progress of frontline workers.
+
+- **[News Trends KE]** South Sudan: Tambura’s fragile path from conflict to recovery
+  - Source: News Trends KE
+  - Link: https://newstrends.co.ke/south-sudan-tamburas-fragile-path-from-conflict-to-recovery/
+  - Draft material: South Sudan: Tambura’s fragile path from conflict to recovery.
+
+In Tambura, a fragile calm has settled after years of violence and displacement. Yet beneath the semblance of peace lies a harsh reality, as the lingering effects of conflict continue to disrupt residents’ daily lives. Livelihoods have been devastated. Access to farmland remains limited, healthcare facilities are scarce, and schools are out of reach for many children. Basic supplies are hard to find. An air patrol by the United Nations Mission in South Sudan (UNMISS) brought peacekeepers together with local authorities and community members to assess the security situation and better understand the protection concerns facing residents. Their arrival was met with a mixture of hope and desperation. “We are uncertain of our fate; only God knows what we are enduring. Our situation is urgent. We lack basic supplies like salt and haven’t received aid. Leaving town to farm is still hard, and our children suffer due to the absence of healthcare and education,” described local resident, Elizabeth Francis Mbusa. For many families, agriculture remains the lifeblood of their livelihoods. However, they have been driven from their land, crops have been stolen, and livestock lost. Despite these challenges, local authorities say the security situation is gradually improving.
+
+- **[The Kenya Times]** Nairobi County Breakdown of Licence Fees for Billboard Advertising and Traders Under New Policy
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/counties/nairobi-county-breakdown-of-licence-fees-for-billboard-advertising-and-traders-under-new-policy/
+  - Draft material: Nairobi County Breakdown of Licence Fees for Billboard Advertising and Traders Under New Policy.
+
+Nairobi City County has set new fees for business, construction, public health, advertising, market and other county services under the Nairobi City County Tariffs and Pricing Policy 2025–2030. For trade licensing, the county has set a baseline rate of KSh844 per square metre of commercial space under the Single Business Permit framework. “A trade licensing tariff shall be a levy charged to traders by the county government as a prerequisite to conducting business within the County’s jurisdiction. On payment of the tariffs, a trader shall be issued a trade license,” reads part of the policy. The charges are structured according to the size and category of a business, with businesses classified as Mini, Small, Medium, Large, Mega and Hyper based on their floor area and number of employees. Under the categorization, Hyper businesses occupy more than 5,000 square metres and employ more than 100 people, while Mega businesses occupy between 4,001 and 5,000 square metres and have 76 to 100 employees. Large businesses occupy between 3,001 and 4,000 square metres and employ 51 to 75 people, while Medium businesses occupy between 2,001 and 3,000 square metres and have 21 to 50 employees.
+
+- **[The Kenya Times]** Full List of Women Eyeing the Nairobi Woman Rep Seat in 2027
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/politics/nairobi-woman-rep-seat/
+  - Draft material: Full List of Women Eyeing the Nairobi Woman Rep Seat in 2027.
+
+The race for the Nairobi Woman Representative seat in the 2027 General Election is already shaping up to be one of the most competitive political contests in the country. With the election just under a year away, a growing list of experienced politicians, activists, and professionals have declared their candidacies for the position. Incumbent Nairobi Woman Representative Esther Passaris has officially declared her bid to seek a third term in the office during the 2027 elections Passaris, who has represented Nairobi women since 2017, made the official announcement on August 22, 2026. “My name is Esther Muthoni Passaris, and in 353 days, I will be defending my seat as the Nairobi County Woman Representative in the 2027 General Election,” Passaris declared as she announced her candidacy. Passaris is a renowned social entrepreneur and philanthropist, best known for founding the Adopt-A-Light initiative, one of Kenya’s pioneering public-private partnership projects. Throughout her tenure, she has championed women’s empowerment, bursary programs, and social welfare initiatives across Nairobi. Tabitha Mutinda Banking on Grassroots Support Nominated Senator Tabitha Mutinda has emerged as one of the strongest challengers to Passaris. The pharmacist-turned-politician formally launched her bid and has intensified her grassroots mobilization across Nairobi.
+
+- **[The Kenya Times]** List of Upgrades on Ruto’s Presidential Jet After Year-Long Maintenance in the Netherlands
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/latest-kenya-times-news/list-of-upgrades-on-rutos-presidential-jet-after-year-long-maintenance-in-the-netherlands/
+  - Draft material: List of Upgrades on Ruto’s Presidential Jet After Year-Long Maintenance in the Netherlands.
+
+The Kenya Air Force’s Fokker 70 KAF308, popularly known as Harambee One, has returned to Kenya after undergoing an extensive maintenance programme in the Netherlands. Fokker Services Group, which carried out the work, said the Harambee One underwent deep maintenance to make the aircraft trusted with carrying the President fit for the air again fit for travel. The maintenance came after concerns about its age and safety, with some leaders calling for an upgrade. In addition to the maintenance, the Fokker jet also underwent interior upgrades. Fokker Services Group also said the aircraft received improvements to its onboard systems. One of the most significant upgrades was the installation of the Gogo Galileo FDX satellite communications system, supplied by GoGo Business Aviation. The system uses Eutelsat OneWeb’s low-Earth-orbit satellite network to provide high-speed connectivity while the aircraft is airborne. It uses a full-duplex electronically steered antenna and can deliver download speeds of up to 195 Mbps and upload speeds of up to 32 Mbps. Harambee One Returns to Kenya The satellite connectivity upgrade was carried out alongside broader systems work and interior refurbishment during the aircraft’s extensive hangar visit.
+
+- **[Education News]** Uganda turns to Kenya’s TSC to benchmark teacher-management systems
+  - Source: Education News
+  - Link: https://educationnews.co.ke/uganda-turns-to-kenyas-tsc-to-benchmark-teacher-management-systems/?utm_source=rss&utm_medium=rss&utm_campaign=uganda-turns-to-kenyas-tsc-to-benchmark-teacher-management-systems
+  - Draft material: Uganda turns to Kenya’s TSC to benchmark teacher-management systems.
+
+- Ugandan lawmakers visited TSC to learn from Kenya’s teacher-management and education governance systems. - The delegation was led by Uganda Parliament Education and Sports Committee Deputy Chairperson Ongiertho Emmanuel. - The engagement highlights growing regional cooperation in addressing teacher deployment, development and professional management. Kenya’s teacher-management system is increasingly emerging as a regional reference point, with Uganda’s Parliamentary Committee on Education and Sports turning to the Teachers Service Commission (TSC) to benchmark its systems and practices. The Ugandan delegation, led by Deputy Chairperson Hon. Ongiertho Emmanuel, visited the TSC as part of efforts to gain insights into Kenya’s approach to teacher management, professional administration and the broader governance of the teaching service. The engagement has placed Kenya’s teacher-management architecture under a regional spotlight, particularly at a time when education systems across East Africa are searching for more effective ways of recruiting, deploying, developing and retaining teachers. Receiving the delegation, Acting TSC Chief Executive Officer Ms Evaleen Mitei, MBS, thanked the Ugandan parliamentary committee for choosing to benchmark with Kenya and expressed the Commission’s appreciation for the opportunity to share experiences.
+
+- **[Standard Kenya]** New dockers union team takes office
+  - Source: Standard Kenya
+  - Link: https://www.standardmedia.co.ke/article/2001555945/new-dockers-union-team-takes-office
+  - Draft material: New dockers union team takes office.
+
+The Standard Group Plc is a multi-media organization with investments in media platforms spanning newspaper print operations, television, radio broadcasting, digital and online services. The Standard Group is recognized as a leading multi-media house in Kenya with a key influence in matters of national and international interest. Newly elected Dock Workers Union (DWU) general secretary Abubakar Abdillahi and his team took over office this week to find a full in-tray, promising to pursue irregularly withdrawn funds from the union accounts. Abdillahi said initial investigation established that Sh82 million was withdrawn from one of the three union accounts and pledged to pursue the matter and have culprits punished. He said his team has reported the matter to the police for action. Premium Article Get Full Access for Ksh299/Week. Bold Reporting Takes Time, Courage and Investment. Stand With Us. 🔥 Flash Sale ! Subscribe now and enjoy 50% off annual plans. Offer ends in…
+
+- **[Kenya Latest]** Build markets and build resilience: The paradigm shift to build economies and save lives across Africa - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT0RyQkdBVmxoeTNHNnNfZDlOY2M5VXIwbmxlaUhDZ3EwMkVVRGpaaTBqZDJnUER0OHhaNmhPMU1IbnZzOEp2cVp0LWNBa2RlNDJ3djVuckg5UVRvNFJjamdKWjAyNFZYcWh4WnZrY205V1NjVmpCdjF5cHI4TkRONnhLSGNPaUVwREo0T0tkdHU1bjg4VWhSR0VBd0pwVFVXWnl0TGhBNGVnZw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Build markets and build resilience: The paradigm shift to build economies and save lives across Africa - Daily Nation. Build markets and build resilience: The paradigm shift to build economies and save lives across Africa Daily Nation
+
+- **[Kenya Latest]** Several Feared Dead, Scores Injured in Multiple-Vehicle Crash at Salgaa - Kenyans.co.ke
+  - Source: Kenyans.co.ke
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPSXktdXJXWFZuLTl3Z0FkcWpZWEhTd1g4aEo3ZUVpUEpBQndhaXdadXVRNDFCcVZWcElDZ2xOQTVWSWNLWk56NWhIU1QxcUotd1hhUHlGeXAtYkpBdU44NHZzYW5TUXFnTXVwNTdIWTFETk5aN3ppZXZtbVUyMXhPUWo5MWJjMmtva2ZEam9jYUZKa1REQnpQalpvNS1vd0NlQVVXam5ZTzg2MHIwUTNzd2h3?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Several Feared Dead, Scores Injured in Multiple-Vehicle Crash at Salgaa - Kenyans.co.ke. Several Feared Dead, Scores Injured in Multiple-Vehicle Crash at Salgaa Kenyans.co.ke
+
+- **[Kenya Latest]** Mistakes poultry farmers make and how to fix them - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxOdnB0VHUyNmU2TzByZ0xYMThpLWh0WmJBU25DNmNNdFFKblpybmtQT1NDd05ueHZkYy1lbXB0R0s5R1FUb3dxMEowa3J3cEJkMmY5N0RKLWhWanYwX3oxTzFZU3dTQ2t2ZDFiNE9mNTFVaGtkeWRkX2tvT3lHbjVDcV9NVVRibDY5OTlvMUw4UmliQWhGczNlVVNNUmU3andzekRhMEV2R1V6VS0w?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Mistakes poultry farmers make and how to fix them - Daily Nation. Mistakes poultry farmers make and how to fix them Daily Nation
+
+- **[Business Topic]** High school dropout is now Europe’s youngest self-made billionaire, and he says one advantage helped him - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxNUDJwV05PMExsOVVhVTZKbl9oOFlxc0ZjNExUcWlySVZNWkRxTWJhdFNNNFlxenpaQXNSX3E3Y25jUFFWMTVBMS1ZakdydXdzNDlVeDdGV3AySXhIYWU0eGJtMWhpd3lxYlZ0aFphN0hIRm01MUtzakJBTlhSZFZtWHEyZE5wZ2ZRWTVQWFRneXk5NHF6Wm1MVlI5NA?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: High school dropout is now Europe’s youngest self-made billionaire, and he says one advantage helped him - Yahoo Finance. High school dropout is now Europe’s youngest self-made billionaire, and he says one advantage helped him Yahoo Finance Meet The Newest Under 30 AI Billionaire Forbes Billionaire Gen Zer dropped out of high school to launch his start-up at 17—now he’s Europe's richest Fortune British school dropout James Dacombe is Europe's youngest self-made billionaire at 25 Billionaires.Africa James Dacombe becomes Europe’s youngest self-made billionaire at 25 Crypto Briefing
+
+- **[Business Topic]** Meet the sisters who got dumped by their landlords and were down to their last £15,000 before they built an £8 million business - Fortune
+  - Source: Fortune
+  - Link: https://news.google.com/rss/articles/CBMic0FVX3lxTE9jZkxrYVlPRkdEU0l6TEJZX2dEWW9WYUZGRjhOZENfQU16cGloQllXb2JLTWJiT25VdUtOVW9QdEFiVC1BUFVDd01RTURHUkJ1aDl1NmFBZTlFSVBoaUZ5SjgzUXpqd0RQTFpWUExBZk9kRVE?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Meet the sisters who got dumped by their landlords and were down to their last £15,000 before they built an £8 million business - Fortune. Meet the sisters who got dumped by their landlords and were down to their last £15,000 before they built an £8 million business Fortune
+
+- **[Business Topic]** Apollo’s Slok Says AI Weighs On Pay Without Cutting Jobs — Yet - Bloomberg
+  - Source: Bloomberg
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQYlJjNlExcVIxd0E5T1pmZXdyX2c4Q2RiT0lOZFlrMmlkb0kyblVQVjZjeTRzTFhQNTlwN3FwNUFKUnlEd25vMW10dW5TZmQtd0dFeUlQTVFIMEdJbVoxZjNIR3FCRXpLNVQ3VGR5TXF3UkdqZUkxcE0tQ1Y1NG5tS3FFanZkdng4Mjl1ZjdpUlVoOVd0enV5WUlsX3BqOUVtUzliczRncy1EQW9lbTEtZw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Apollo’s Slok Says AI Weighs On Pay Without Cutting Jobs — Yet - Bloomberg. Apollo’s Slok Says AI Weighs On Pay Without Cutting Jobs — Yet Bloomberg AI's Impact on Wages and the USMCA Under Pressure StartupHub.ai Apollo, Claude & Korn Ferry Data: What is the AI Pay Gap? AI Magazine Investing in AI for More Jobs, Less Pay Bloomberg Watch Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colorado River Crisis Bloomberg
+
+- **[Business Topic]** 'Fight to keep' Truro Post Office in city after closure - BBC
+  - Source: BBC
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4MDRvdUtQb2Rpa3ZWUVMyTjNRSGl5M0dJZXpWZ0ZqS2hqUmh6a0dOOExtaDBsc1RuRjRfckZSYU05VTlQSldVMmNtc19UTkNnUU1UeTN0cUx5QQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: 'Fight to keep' Truro Post Office in city after closure - BBC. 'Fight to keep' Truro Post Office in city after closure BBC See more headlines and perspectives on Google News
+
+- **[Business Topic]** India’s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg
+  - Source: Bloomberg
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPLXJuUGhZamM5YmE0aVRteEhpVWQ5WUVNd3BoVFhWMURiMmJLWkx1MnAtT2N3cV9YLVZtUzZqUmI0YW1wdXhqOS1XSTE0RFV5SU16eEF6ZFFod0p0TnNvRFZYQWNrYWJ2YkpTNExSTVp2aHJGbk1sTGNZUVgtTWhwS2pxQWpkNXNXZ1dKUTR5UWFWM3NkTGRBeFc5TmdCaktJTmw2WkVvRlNPTF9faUVBQ0wyYzY?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: India’s Central Bank Says Forex Deposit Inflows at $65.4 Billion - Bloomberg. India’s Central Bank Says Forex Deposit Inflows at $65.4 Billion Bloomberg RBI’s Malhotra calls net-short dollar forwards manageable as swap window closes early amid inflows VT Markets Banks Garner $20.7 Billion Under RBI’s FCNR(B) Window; Additional $10 Billion Inflow Likely - Performance Review vinanet.vn India sees $80 billion in flows via subsidised swap windows, cenbank governor tells FE Reuters Indian banks race to beat swap deadline ifr-logo
+
+- **[Business Topic]** India Says It’s in Talks With China on Business Visa Delays - Bloomberg
+  - Source: Bloomberg
+  - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzlsR2E2Q0RnV2JrQWliNEZKWlowbE5xTFhwZ3lLWGtUTEVtUmRzX1BGbU5aM2llQ3VSWUtub1owcFlRem5WX2pCVW9oaDV3UFlFSUlPVEVZWnRiR3RaOC0xWWMtZlRUcHhzTEliNzlSVGk1VE5IbTRMRU8zWHVqNjE3TWhKNHllOXkzNzRJSVZoTHRnV051OEt1dzhRM2ZoMlVzbWs3STUzQ2VCTFdV?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: India Says It’s in Talks With China on Business Visa Delays - Bloomberg. India Says It’s in Talks With China on Business Visa Delays Bloomberg China Tightens Business Visa Rules For Indians, Rejecting Up To 95% Of Applications: What New Applicants Should Know | Travel News News18 The not-so-great visa wall of China: Why Indian business is stuck The Economic Times China rejects up to 95% of business visa applications from India: Report | Firms are meeting in Singapore, Thailand | Inshorts Inshorts Indian Businesses Hit by China Visa Hurdles: What Happens When Key Staff Can’t Travel? India Weekly
+
+- **[Business Topic]** How Investors Are Reacting To Royal Caribbean (RCL) Earnings Beat And New US$1.25 Billion Debt Refinancing - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNQ3NFb3FTNDNEUUZmalVmZ043VXpwYWFPQ1oxSE5BWkRjREtaTE55UHg3Nnh0eUR4LUdCN1l1eVVqb0thTGpHcURCQU9OT2lRQThUM1VsYkg5TTB3alJfTUpGcm04UVlHRC1ZYTB0cFYwZGhDVDk3NTdpdVl3TXEtd0pmR3NzaDN3SXBPdmZfRFFmMWRSMkVGT0I1NEJnSV9PSlZYc1J3?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: How Investors Are Reacting To Royal Caribbean (RCL) Earnings Beat And New US$1.25 Billion Debt Refinancing - Yahoo Finance. How Investors Are Reacting To Royal Caribbean (RCL) Earnings Beat And New US$1.25 Billion Debt Refinancing Yahoo Finance See more headlines and perspectives on Google News
+
+- **[Business Topic]** Bitcoin holds above $77,000 after Treasury-fuelled short squeeze - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxOTkV6b0wwNHlVYWd4NzQ3UWkzNFd0Q1M5VXZMWDVWb1otWThBcUR2N3NTQkc0NzhMTFhOZ3RuaS1DQUk4cHdhMjJjNk8weVFUdnZudHE5UlR3Rndid3JrNlpFOWhjYmFpMXdabWptLVBaRWxUbGJneGZ6eGdMV1RXSmk1dXZxOXJRTkxoNWhKcXRITWRhR2c?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Bitcoin holds above $77,000 after Treasury-fuelled short squeeze - Yahoo Finance. Bitcoin holds above $77,000 after Treasury-fuelled short squeeze Yahoo Finance We Asked 3 AIs if BTC's Bull Run Has Started After the 25% Surge to $80K: The Answers Encouraged Us CryptoPotato Ghost Writer(@GhostWriter)'s insights Binance Bitcoin Hits Its Stride As Dollar Weakness And Treasury Buybacks Fuel Hard-Asset Rally, Galaxy Analysts Call Bottom TradingView Bitcoin on track for 23% weekly gain as investor optimism floods back CNBC Africa
+
+- **[Business Topic]** ‘Penchant for bling’: can Sports Direct’s Mike Ashley take a bigger slice of luxury retail? - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOcFQ0UzdVekZKamlzaW50d0dHN2p0UFNud0dsdGFCZ1ZhUG9DUGNIOHNnQVBPbTdRV014TWtva3pyS0FwTUZodTdUMzZheXV6MmJ2T3RBZ05nWlZLSk04R3BkWnRfNUR6RGh6cVN5ZGQtckxfaDVMOUxVY2JpT3JQOGRCV1B4dlZOVWI2SFR3ZUx2a1h6X1o4czN2MTN3MkVQb2xBUlhrSDktTE8wVFpOVFo3bERFTkw0SjVsXw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: ‘Penchant for bling’: can Sports Direct’s Mike Ashley take a bigger slice of luxury retail? - The Guardian. ‘Penchant for bling’: can Sports Direct’s Mike Ashley take a bigger slice of luxury retail? The Guardian Frasers Lifts Stake in German Fashion House Hugo Boss to 48% Bloomberg RNS Hotlist with Zak Mir: FRAS, SNX, NEO, SNT, SKA, HUD, MTEC, GWMO, GMET & SSIT Share Talk Mike Ashley’s Luxury Bet Is Getting Bigger, but Does It Add Up? The Business of Fashion Weekend profile: Mike Ashley, the blokeish billionaire buying into luxury The Economist
+
+- **[Business Topic]** Paschi Chief Lovaglio Stuns Again With Twin Deals to Foil Intesa - Bloomberg
+  - Source: Bloomberg
+  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQcFpTQXN2d1JyMEhhVjBOb3lrSWpyZHVjbUlTT3RWSDRNYndKbmR4cDhyV0FBVkhTcG1UYVBvdGU2T01xVHA2TnduQ0JEV1QxWFJqTTJiMzVPN3UyWHN4ZllPSG9XSVViV213NzY0WjgyM1J4YTdaZzVvbTY4SnR3R3pIZnhDV1l4TE13UERSR1ZWY1JvdkRrbDI2Yy1jX2xPWlNUTEpqbndHdUQxLUdEMUZLUlIwdw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Paschi Chief Lovaglio Stuns Again With Twin Deals to Foil Intesa - Bloomberg. Paschi Chief Lovaglio Stuns Again With Twin Deals to Foil Intesa Bloomberg Italy’s MPS thinks three takeovers are better than one Financial Times Who controls whom in Italy's latest banking M&A chess game Reuters Banca Generali Evaluating Monte Paschi’s Unsolicited Offer Bloomberg BMPS: Merger to form Italy's third-largest bank, targeting €2.6B synergies and strong shareholder returns TradingView
+
+- **[Business Topic]** TikTok settles children's privacy case with $400 million payment - France 24
+  - Source: France 24
+  - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0g3dFVMbk56SzF4c2NuZmdkUkdiQ2dqN1Y2NUktbk5qMGZNLXhBZmFqOGRUSVFzWEltMXJoaDdfQ3BpTUx1NFBzb1ppZGhmVDNZcTY2c2hnWWpvYkhSYzVLLTNEMXpEb1MtN2FUb3FxVkQ1emFzNThDY0FReWVucDB4SkpqNjJTU1BIWXlTY1hjNGRGN2c?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: TikTok settles children's privacy case with $400 million payment - France 24. TikTok settles children's privacy case with $400 million payment France 24 TikTok to pay $400m to US in one of largest child privacy settlements BBC Scoop: DOJ, TikTok settle for $400 million in children's privacy suit Axios TikTok agrees to pay $400 million to settle US children's privacy lawsuit Inbox.eu TikTok to Pay $400 Million to U.S. Government to Settle Lawsuit Alleging App Violated Child-Safety Law Variety
+
+- **[Business Topic]** Philip Morris International (PM) Stock Fair Value Edges Higher On IQOS And ZYN Optimism - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOX0lHNXREaldwbmtMWVRERVpkNEV5c2pyR3RnTmpKV1k1aVpyVUdfMHFFem1rZU5IRGVKWTllaFZFV2VUbG4zMk9XdXBIVTRnQTJTSzJaZ1RCZ0ZXajN3OXctcjN6aWtHUUQybEU5SnRTZlhoYlBBU095TG54T0p3a2hTQ3IxUzBJRjZmdkJ4ck90dzZkUkItOFhYZmhoZmxxU3cw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Philip Morris International (PM) Stock Fair Value Edges Higher On IQOS And ZYN Optimism - Yahoo Finance. Philip Morris International (PM) Stock Fair Value Edges Higher On IQOS And ZYN Optimism Yahoo Finance 3 Reasons We Love Philip Morris (PM) Yahoo Finance
+
+- **[Business Topic]** Thermo Fisher (TMO) Stock Looks Fully Valued Following Its Microbiology Sale - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXFta25fYzllSmVnNkstemJMSktaSzNFbi1YQml6S3R4MzVpSnlTbjdjcFQ5ZV8zSS16WldXV3FlRVJHT2tXYnctLXUzMmpfODAyd2VNSWM4aXB5RmNjTFpRZUVXUkQ2V0tSZllXZ0dwQ3pOamFkaWNxVFNjeWFnQW9nWldxaThrNVhINnktbDZhZV9BQjdmX3Zn?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Thermo Fisher (TMO) Stock Looks Fully Valued Following Its Microbiology Sale - Yahoo Finance. Thermo Fisher (TMO) Stock Looks Fully Valued Following Its Microbiology Sale Yahoo Finance Thermo Fisher Q2 2026 Results Fuel Analyst Optimism as Life Science Sector Shows Recovery Signs - Guidance Update vinanet.vn Why Thermo Fisher Scientific (TMO) Stock Is Up Today Quiver Quantitative Thermo Fisher Scientific Inc. stock rises Thursday, outperforms market MarketWatch Thermo Fisher Scientific (NYSE:TMO) Gains Fresh Market Attention Kalkine Media
+
+- **[Business Topic]** PIF Sets Shocking Expectation for Newcastle’s 2026/27 Premier League Season - Yahoo Sports
+  - Source: Yahoo Sports
+  - Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxOcE5ic2JtSnljaHlqT1VyYVNDZ3laVWNVcU1DdDMyTl9vZnFUenY2emd2eHQydUp5SWlnMGtvUU9LOURITnFaWm9yS00wV003RWdVeEM5aW5uYnA1dEJvamdWYWV5NDhRdHFsVkRmTTB6ZDZSQmoxVUFBemZWOFhFMzhFZVNnVTM5ckwyaW9Td3NlQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: PIF Sets Shocking Expectation for Newcastle’s 2026/27 Premier League Season - Yahoo Sports. PIF Sets Shocking Expectation for Newcastle’s 2026/27 Premier League Season Yahoo Sports See more headlines and perspectives on Google News
+
+- **[Business Topic]** Prediction: Taiwan Semiconductor Stock Will Reach a Fresh High Before 2026 Ends - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxQMDdrN2RjSDU5aXNCUlFydjIteWMydXdZSGJuVVA3b1pSLXlEVnVGOV9FRFRZOUlpamo2aVVsWndTSUxUS0VsaEk3SXVWeWFHdTl4ampUbzg4bkJadlN5eTJrVWdhYjhJVkN0czZBcFVQNl9RWkx5QkQtekcxWEJrU21sZUtzdkNib29ySV9naDZpZnkyM01NNGlDVlFQZWZIV1I5VlNMa0djYTB2?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Prediction: Taiwan Semiconductor Stock Will Reach a Fresh High Before 2026 Ends - Yahoo Finance. Prediction: Taiwan Semiconductor Stock Will Reach a Fresh High Before 2026 Ends Yahoo Finance This Stock Is Riding an AI Wave That Shows No Signs of Slowing 24/7 Wall St. [News] TSMC Arizona Profit Soars 663% YoY in 1H26; U.S. Earnings Pull Back 8.2% QoQ in 2Q as Depreciation Bites TrendForce BofA Says TSMC's 2027 Capex Could Reach $85 Billion, Maintains NT$3,100 Target Price finance.biggo.com TSMC Announces Additional $100 Billion US Investment to Support AI Chip Demand - Forward Guidance Trends vinanet.vn
+
+- **[Ghafla]** Government Recruitment Drive Expands Workforce Amid Persistent Staffing Demands
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/government-recruitment-drive-expands-workforce-amid-persistent-staffing-demands/
+  - Draft material: Government Recruitment Drive Expands Workforce Amid Persistent Staffing Demands. Kenya’s public education sector has underwent a significant structural expansion over the past four years, driven by the rollout of the Competency-Based Curriculum (CBC) and the 100 percent transition policy. When President William Ruto assumed office in 2022, the ministry faced an estimated deficit of approximately 116,000 teachers alongside severe classroom congestion. In response, the […] The post Government Recruitment Drive Expands Workforce Amid Persistent Staffing Demands appeared first on Ghafla! .
+
+- **[K24 Digital]** Lionel Messi fined for slapping player
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/lionel-messi-fined-for-slapping-player
+  - Draft material: Lionel Messi fined for slapping player.
+
+Lionel Messi fined for slapping player Inter Miami’s Lionel Messi has been fined for slapping Philadelphia Union’s Quinn Sullivan during their side’s Major League Soccer (MLS) 2-2 draw on Wednesday, August 19, 2026. Messi, 39, slapped Sullivan around the back of the head towards the end of the game as he complained the Union player had elbowed him after he played the ball. Sullivan reacted angerily to the slap, but the referee quickly intervened. Fine amount not revealed The MLS confirmed Messi had been fined, but did not reveal the amount. Messi scored Miami’s second goal at Subaru Park, finding the back of the net for the first time since his father Jorge Messi passed away on Friday, August 7, 2026. The Argentina international was not the only one to clash with Sullivan, as Miami’s Ian Fray was also fined by the MLS. Fray grabbed the neck of Sullivan after both players got tangled up with one another when Sullivan lost his footing in the box. A bad-tempered game ended with two red cards as Miami’s Yannick Bright and Sullivan’s brother Cavan were both sent off in stoppage time.
+
+- **[K24 Digital]** Multiple-vehicle accident causes massive traffic on Nakuru-Eldoret Highway
+  - Source: K24 Digital
+  - Link: https://k24.digital/news/multiple-vehicle-accident-causes-massive-traffic-on-nakuru-eldoret-highway
+  - Draft material: Multiple-vehicle accident causes massive traffic on Nakuru-Eldoret Highway.
+
+Multiple-vehicle accident causes massive traffic on Nakuru-Eldoret Highway Multiple vehicles have collided near Simba Cement at Salgaa along the Nakuru-Eldoret Highway on Saturday afternoon, August 22, 2026, causing a heavy traffic build-up along the busy road. The crash happened near the Simba Cement area, where emergency teams responded as motorists faced delays. Footage seen by K24 Digital showed several vehicles badly damaged following the collision. Among the vehicles involved was a long-distance truck, while ambulances and other emergency teams were seen at the scene responding to the incident. A witness at the scene described the situation as serious, with the crash causing major disruption along the highway. The extent of the damage was visible as vehicles remained at the scene while emergency teams worked to respond to the incident. The Local Drivers and Conductors Association (LODDCA) also warned motorists using the route to be careful when approaching the affected section. The association issued an accident alert and asked drivers to exercise caution. “Accident alert. Just now! At Salgaa Simba Cement. Approach with caution,” LODDCA said on X on Saturday, August 22, 2026. At the time of publication, the number of fatalities and casualties had not been established.
+
+- **[K24 Digital]** Uproar as goons block road at Kabati on Thika-Kenol Highway
+  - Source: K24 Digital
+  - Link: https://k24.digital/news/uproar-as-goons-block-road-at-kabati-on-thika-kenol-highway
+  - Draft material: Uproar as goons block road at Kabati on Thika-Kenol Highway.
+
+Uproar as goons block road at Kabati on Thika-Kenol Highway The Motorist Association has condemned an incident in which goons blocked traffic near Montezuma Funeral Home in Kabati on Thika-Kenol Highway and demanded money from motorists. The association questioned the growing cases of people stopping motorists on busy roads and asking for cash. The incident has raised concern over the safety and movement of road users in the area. “GOON REPUBLIC??? Montezuma Kabati: Goons have blocked the road, reportedly demanding motorists’ money,” the Motorist Association said on Saturday, August 22, 2026. By the time of this publication, the National Police Service (NPS) had not issued a statement regarding the incident. The reported incident comes after another case in which suspected goons disrupted traffic on Thika Road near Pangani. The incident happened on Friday, July 3, 2026, when the group blocked the highway. Hundreds of motorists were left stranded as traffic built up along the busy road. Motorists face repeated road disruptions A video seen by K24 Digital showed several vehicles and motorists stuck in heavy traffic near the Pangani footbridge. The footage showed private vehicles, public service vehicles and other motorists unable to move as the road remained blocked.
+
+- **[K24 Digital]** Drugs at their fingertips, intense pressure: Why child stars fall into addiction
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/mental-wellnes/drugs-at-their-fingertips-intense-pressure-why-child-stars-fall-into-addiction
+  - Draft material: Drugs at their fingertips, intense pressure: Why child stars fall into addiction.
+
+Drugs at their fingertips, intense pressure: Why child stars fall into addiction Hayden Panettiere was 16 when drugs first arrived in her life in Hollywood. Ahead of a red carpet event for the hit series Heroes, she has said someone on her team handed her a pill to help amp up her energy. The hit sci-fi NBC series had catapulted the teen into a household name – and that brought with it intense pressure and exhaustion she says felt overwhelming. “Within minutes, a wave of energy washed over me, like I’d just woken up from the most refreshing night’s sleep of my life,” Panettiere wrote about that pill in her memoir, which was released just months before her death. She called it “the gateway drug that ushered me toward the good of pharmaceuticals and the downfall of addiction”. The star’s sudden death at the age of 36 has placed a renewed focus on her struggles with mental health and substance abuse, and re-ignited a discussion about the pressures of Hollywood on child stars. The coroner’s office in Greenville, South Carolina, said crews treated a woman in “cardiac arrest” and her autopsy showed “no signs of trauma”.
+
+- **[KBC Digital]** Kikuyu Jitume Centre to boost digital skills, innovation in Kiambu
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/kikuyu-constituency-breaks-ground-on-jitume-centre-boosting-kenyas-digital-agenda/
+  - Draft material: Kikuyu Jitume Centre to boost digital skills, innovation in Kiambu.
+
+Kenya’s digital agenda Thursday received a boost following the groundbreaking of the Kikuyu Jitume Centre of Excellence (CoE) Kiambu County. Speaking during the groundbreaking ceremony, Kikuyu Member of Parliament, Kimani Ichungwa noted that the Jitume Centre of Excellence represented the Government’s continued investment in the Kenyan youth. “The establishment of the Digital Centre of Excellence in Kikuyu reflects the Government’s unwavering commitment to ensuring that Kenyans can participate meaningfully in the digital economy,” Ichungwa said. Adding that: “By investing in digital infrastructure, digital skills and innovation ecosystems, we are creating opportunities for our young people to innovate, establish technology-driven enterprises and secure digital jobs thus contributing to Kenya’s economic transformation.” Ichungwa who presided over the event remarked that the Centre will strengthen this network by providing a higher-level platform for advanced digital skills, innovation, research and entrepreneurship. He was accompanied by officials from the implementing agency, Technopolis Development Authority (formerly Konza Technopolis Development Authority) and other government leaders reinforcing the national government’s drive to build a nationwide digital infrastructure network. The completed centre is envisioned to anchor digital skills training, innovation, creative and entrepreneurship for young people and communities across Kiambu County.
+
+- **[Kenyans.co.ke]** Ruto Makes Several Key Appointments to Govt
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126414-ruto-makes-new-appointments-railway-levy-fund-kmtc-cybersecurity-agency
+  - Draft material: Ruto Makes Several Key Appointments to Govt.
+
+President William Ruto has appointed Lynette Njeru as the Chairperson of the Railway Development Levy Fund Board (RDLF) for a three-year term. The appointment took effect on August 21 this year, according to a gazette notice issued by the President on Friday. “In exercise of the powers conferred by section 8 (4C) (a) of the Miscellaneous Fees and Levies (Amendment) Act, I, William Samoei Ruto, President of the Republic of Kenya and Commander-in-Chief of the Defence Forces, appoint Lynette Njeru to be the Non-Executive Chairperson of the Railway Development Levy Fund Board,” the notice read in part. Njeru will oversee the board responsible for matters relating to the Railway Development Levy Fund, which supports railway infrastructure development in the country. At the same time, the Head of State also reappointed Joseah Kiplangat Cheruiyot as Chairperson of the Kenya Medical Training College (KMTC) Board of Management for another three-year term. Cheruiyot's new three-year term took effect on August 21. Following his reappointment, Cheruiyot thanked Ruto and the Kenya Kwanza administration for renewing their confidence in him. “I sincerely thank H.E.
+
+- **[Kenya Latest]** Kindiki slams opposition over lies, lack of agenda - KBC Digital
+  - Source: KBC Digital
+  - Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE1EbVR2VzBJNl9rU3ZRZ0d2MFZpdGdPMWhGSHlFbnEyWmVHakt4c0xyZlVmNnQtbDBCTWVVVk9ETHhZRUkwaUY3SmlQQ1VkNk1OVTMtY1NvLU1DWlhoSUU4SnJkeDRpcTZQX0RlT1NNTlNsdmZfWE9tSllKMm8?oc=5
+

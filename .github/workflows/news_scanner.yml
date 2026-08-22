@@ -1,60 +1,60 @@
-name: Kenya News Scanner (suggestions only)
+name: Kenya News Scanner and Facebook Publisher
 on:
-  schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
+  workflow_dispatch: # Manual only. It will never run on its own!
+
 permissions:
   contents: write
-# Prevent two scheduled runs from overlapping. If a run is still going
-# when the next cron fires, queue the new one instead of racing it —
-# this is what causes "git push (fetch first)" failures at the commit
-# step even when the scan itself succeeded.
+
 concurrency:
   group: kenya-news-scanner
   cancel-in-progress: false
+
 jobs:
-  scan:
+  scan-and-post:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
       - name: Install Python packages
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser pytz requests trafilatura
+          pip install feedparser pytz requests
+
       - name: Run Kenya News Scanner
         run: |
           python news_scanner.py
+
       - name: Commit scanner logs
         run: |
           git config user.name "Kenya News Scanner"
           git config user.email "actions@github.com"
-          # Only stage log files that actually exist. suggested_posts.md
-          # in particular is only written when a run finds at least one
-          # new entry, so it may not exist yet on an early/quiet run.
-          for f in suggested_posts.md seen_log.json feed_rotation_state.json feed_health.json; do
+
+          # Stages the run's log/state files if they exist
+          for f in suggested_posts.md seen_log.json feed_health.json last_run_state.json; do
             if [ -f "$f" ]; then
               git add "$f"
             fi
           done
+
           if git diff --cached --quiet; then
             echo "No log changes to commit."
             exit 0
           fi
-          git commit -m "Update Kenya news scanner logs"
-          # Rebase onto the latest remote branch before pushing, in case
-          # another run (or a manual commit) landed in the meantime.
-          # Retry once on failure — covers the narrow race window between
-          # the fetch/rebase and the push itself.
+
+          git commit -m "Update Kenya news scanner logs [Manual Run]"
+
           push_with_retry() {
             git fetch origin "${GITHUB_REF_NAME}"
             git rebase "origin/${GITHUB_REF_NAME}"
             git push origin "HEAD:${GITHUB_REF_NAME}"
           }
+
           if ! push_with_retry; then
             echo "Push failed, retrying once after a short delay..."
             sleep 5

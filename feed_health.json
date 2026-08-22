@@ -1,43 +1,43 @@
 {
   "Kenya Latest": {
-    "status": "DEAD",
-    "url_used": null,
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNREU1Y21jMUVnVmxiaTFIUWlnQVAB?hl=en-KE&gl=KE&ceid=KE%3Aen",
     "auto_fixed": false,
     "fix_method": null
   },
   "Politics": {
-    "status": "DEAD",
-    "url_used": null,
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya+politics&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": false,
     "fix_method": null
   },
   "Business": {
-    "status": "DEAD",
-    "url_used": null,
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya+business+economy&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": false,
     "fix_method": null
   },
   "Business Topic": {
-    "status": "DEAD",
-    "url_used": null,
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/topics/CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKTFJTZ0FQAQ?hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": false,
     "fix_method": null
   },
   "Entertainment": {
-    "status": "DEAD",
-    "url_used": null,
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya+entertainment+celebrity&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": false,
     "fix_method": null
   },
   "Sports": {
-    "status": "DEAD",
-    "url_used": null,
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya+sports+football&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": false,
     "fix_method": null
   },
   "Trending": {
-    "status": "DEAD",
-    "url_used": null,
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya+viral+trending&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": false,
     "fix_method": null
   },
@@ -108,10 +108,10 @@
     "fix_method": null
   },
   "Kenya News Agency": {
-    "status": "DEAD",
-    "url_used": null,
-    "auto_fixed": false,
-    "fix_method": null
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya%20Kenya%20News%20Agency&hl=en-KE&gl=KE&ceid=KE:en",
+    "auto_fixed": true,
+    "fix_method": "google_news_search_fallback"
   },
   "Taifa Leo": {
     "status": "ALIVE",
@@ -132,16 +132,16 @@
     "fix_method": null
   },
   "Mwakilishi": {
-    "status": "DEAD",
-    "url_used": null,
-    "auto_fixed": false,
-    "fix_method": null
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya%20Mwakilishi&hl=en-KE&gl=KE&ceid=KE:en",
+    "auto_fixed": true,
+    "fix_method": "google_news_search_fallback"
   },
   "Sharp Daily": {
-    "status": "DEAD",
-    "url_used": null,
-    "auto_fixed": false,
-    "fix_method": null
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya%20Sharp%20Daily&hl=en-KE&gl=KE&ceid=KE:en",
+    "auto_fixed": true,
+    "fix_method": "google_news_search_fallback"
   },
   "News Trends KE": {
     "status": "ALIVE",
@@ -168,10 +168,10 @@
     "fix_method": null
   },
   "KenyaMOJA": {
-    "status": "DEAD",
-    "url_used": null,
-    "auto_fixed": false,
-    "fix_method": null
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya%20KenyaMOJA&hl=en-KE&gl=KE&ceid=KE:en",
+    "auto_fixed": true,
+    "fix_method": "google_news_search_fallback"
   },
   "Nairobi Gossip Club": {
     "status": "ALIVE",
@@ -217,27 +217,27 @@
   },
   "Capital FM News": {
     "status": "ALIVE",
-    "url_used": "https://capitalfm.africa/news/feed/",
-    "auto_fixed": false,
-    "fix_method": null
+    "url_used": "http://capitalfm.africa/news/feed/",
+    "auto_fixed": true,
+    "fix_method": "url_variant"
   },
   "Capital FM Sports": {
     "status": "ALIVE",
-    "url_used": "https://capitalfm.africa/sports/feed/",
-    "auto_fixed": false,
-    "fix_method": null
+    "url_used": "http://capitalfm.africa/sports/feed/",
+    "auto_fixed": true,
+    "fix_method": "url_variant"
   },
   "Capital FM Lifestyle": {
     "status": "ALIVE",
-    "url_used": "https://capitalfm.africa/lifestyle/feed/",
-    "auto_fixed": false,
-    "fix_method": null
+    "url_used": "http://capitalfm.africa/lifestyle/feed/",
+    "auto_fixed": true,
+    "fix_method": "url_variant"
   },
   "Capital FM Business": {
     "status": "ALIVE",
-    "url_used": "https://capitalfm.africa/business/feed/",
-    "auto_fixed": false,
-    "fix_method": null
+    "url_used": "http://capitalfm.africa/business/feed/",
+    "auto_fixed": true,
+    "fix_method": "url_variant"
   },
   "Capital FM Kenya": {
     "status": "ALIVE",
@@ -246,70 +246,70 @@
     "fix_method": null
   },
   "Getembe Latest": {
-    "status": "DEAD",
-    "url_used": null,
-    "auto_fixed": false,
-    "fix_method": null
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya%20Getembe%20Latest&hl=en-KE&gl=KE&ceid=KE:en",
+    "auto_fixed": true,
+    "fix_method": "google_news_search_fallback"
   },
   "Getembe News": {
-    "status": "DEAD",
-    "url_used": null,
-    "auto_fixed": false,
-    "fix_method": null
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya%20Getembe%20News&hl=en-KE&gl=KE&ceid=KE:en",
+    "auto_fixed": true,
+    "fix_method": "google_news_search_fallback"
   },
   "Getembe Business": {
-    "status": "DEAD",
-    "url_used": null,
-    "auto_fixed": false,
-    "fix_method": null
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya%20Getembe%20Business&hl=en-KE&gl=KE&ceid=KE:en",
+    "auto_fixed": true,
+    "fix_method": "google_news_search_fallback"
   },
   "Getembe Education": {
-    "status": "DEAD",
-    "url_used": null,
-    "auto_fixed": false,
-    "fix_method": null
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya%20Getembe%20Education&hl=en-KE&gl=KE&ceid=KE:en",
+    "auto_fixed": true,
+    "fix_method": "google_news_search_fallback"
   },
   "Getembe Politics": {
-    "status": "DEAD",
-    "url_used": null,
-    "auto_fixed": false,
-    "fix_method": null
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya%20Getembe%20Politics&hl=en-KE&gl=KE&ceid=KE:en",
+    "auto_fixed": true,
+    "fix_method": "google_news_search_fallback"
   },
   "Getembe Health": {
-    "status": "DEAD",
-    "url_used": null,
-    "auto_fixed": false,
-    "fix_method": null
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya%20Getembe%20Health&hl=en-KE&gl=KE&ceid=KE:en",
+    "auto_fixed": true,
+    "fix_method": "google_news_search_fallback"
   },
   "Viral Tea Latest": {
-    "status": "DEAD",
-    "url_used": null,
-    "auto_fixed": false,
-    "fix_method": null
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20Latest&hl=en-KE&gl=KE&ceid=KE:en",
+    "auto_fixed": true,
+    "fix_method": "google_news_search_fallback"
   },
   "Viral Tea News": {
-    "status": "DEAD",
-    "url_used": null,
-    "auto_fixed": false,
-    "fix_method": null
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20News&hl=en-KE&gl=KE&ceid=KE:en",
+    "auto_fixed": true,
+    "fix_method": "google_news_search_fallback"
   },
   "Viral Tea Breaking": {
-    "status": "DEAD",
-    "url_used": null,
-    "auto_fixed": false,
-    "fix_method": null
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20Breaking&hl=en-KE&gl=KE&ceid=KE:en",
+    "auto_fixed": true,
+    "fix_method": "google_news_search_fallback"
   },
   "Viral Tea National": {
-    "status": "DEAD",
-    "url_used": null,
-    "auto_fixed": false,
-    "fix_method": null
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20National&hl=en-KE&gl=KE&ceid=KE:en",
+    "auto_fixed": true,
+    "fix_method": "google_news_search_fallback"
   },
   "Viral Tea Local": {
-    "status": "DEAD",
-    "url_used": null,
-    "auto_fixed": false,
-    "fix_method": null
+    "status": "ALIVE",
+    "url_used": "https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20Local&hl=en-KE&gl=KE&ceid=KE:en",
+    "auto_fixed": true,
+    "fix_method": "google_news_search_fallback"
   },
   "Kenyapedia Latest": {
     "status": "ALIVE",

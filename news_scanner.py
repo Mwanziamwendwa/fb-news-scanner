@@ -1,10 +1,9 @@
 import os
 import json
-import socket
 import html
 import re
-import time
 import random
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta
 
 import feedparser
@@ -175,10 +174,16 @@ def is_link_reachable(url):
         res = requests.head(url, headers=FEED_REQUEST_HEADERS, timeout=FEED_HEALTH_CHECK_TIMEOUT_SECONDS)
         if res.status_code < 400:
             return True
-        # Some servers reject HEAD (403/405) but are fine with GET
-        res = requests.get(url, headers=FEED_REQUEST_HEADERS, timeout=FEED_HEALTH_CHECK_TIMEOUT_SECONDS, stream=True)
-        return res.status_code < 400
-    except: return False
+        # Some servers reject HEAD (403/405) but are fine with GET.
+        # stream=True defers the body download; close the connection
+        # explicitly since we only need the status code, not the content.
+        with requests.get(
+            url, headers=FEED_REQUEST_HEADERS,
+            timeout=FEED_HEALTH_CHECK_TIMEOUT_SECONDS, stream=True
+        ) as res:
+            return res.status_code < 400
+    except requests.RequestException:
+        return False
 
 
 _RSS_LINK_RE = re.compile(
@@ -269,6 +274,21 @@ def _google_news_search_fallback(category):
     return f"https://news.google.com/rss/search?q={query}&hl=en-KE&gl=KE&ceid=KE:en"
 
 
+def _is_valid_feed(url):
+    """
+    HTTP-reachable isn't the same as "is actually an RSS/Atom feed" --
+    a rewritten URL (e.g. dropped /feed suffix) can 200 with the site's
+    homepage HTML instead. Confirm feedparser can find at least one
+    entry before treating a candidate as a real fix, so feed_health.json
+    doesn't report ALIVE for a fix that silently yields nothing.
+    """
+    try:
+        parsed = feedparser.parse(url)
+        return bool(parsed.entries)
+    except Exception:
+        return False
+
+
 def find_working_feed_url(original_url, category=None):
     """
     Self-healing agent: when a configured feed URL is unreachable,
@@ -281,16 +301,21 @@ def find_working_feed_url(original_url, category=None):
     case the feed is skipped this run exactly as before.
     """
     for candidate in _url_variants(original_url):
-        if is_link_reachable(candidate):
+        if is_link_reachable(candidate) and _is_valid_feed(candidate):
             return candidate, "url_variant"
 
     discovered = _autodiscover_feed_from_homepage(original_url)
-    if discovered and discovered != original_url and is_link_reachable(discovered):
+    if (
+        discovered
+        and discovered != original_url
+        and is_link_reachable(discovered)
+        and _is_valid_feed(discovered)
+    ):
         return discovered, "homepage_autodiscovery"
 
     if category:
         fallback = _google_news_search_fallback(category)
-        if is_link_reachable(fallback):
+        if is_link_reachable(fallback) and _is_valid_feed(fallback):
             return fallback, "google_news_search_fallback"
 
     return None, None
@@ -335,15 +360,33 @@ def main():
     seen_log = []
     if os.path.exists(SEEN_LOG_FILE):
         try:
-            with open(SEEN_LOG_FILE, "r", encoding="utf-8") as f: seen_log = json.load(f)
-        except: pass
+            with open(SEEN_LOG_FILE, "r", encoding="utf-8") as f:
+                loaded = json.load(f)
+            if isinstance(loaded, list):
+                seen_log = loaded
+            elif isinstance(loaded, dict):
+                # Old format from an earlier script version stored
+                # {title: timestamp} instead of a list of links.
+                # Migrate by keeping the keys so old entries still
+                # count as "seen" instead of silently crashing.
+                print("[WARN] seen_log.json is in an old dict format, migrating to list.")
+                seen_log = list(loaded.keys())
+            else:
+                print("[WARN] seen_log.json has an unexpected structure, starting fresh.")
+        except (OSError, json.JSONDecodeError, ValueError):
+            print("[WARN] Could not read seen_log.json, starting fresh.")
 
     health_data = {}
     fresh_extracted_stories = []
     suggested_fixes = []
 
-    # Extraction Pass
-    for feed in FEEDS:
+    def resolve_feed(feed):
+        """
+        Reachability check + self-healing repair for one feed. Run in a
+        thread pool below -- with ~60 feeds each carrying up to a
+        10-15s timeout, doing this sequentially could stretch a single
+        run to many minutes whenever several feeds are down at once.
+        """
         working_url = feed["url"]
         fix_method = None
 
@@ -362,6 +405,22 @@ def main():
             else:
                 working_url = None
 
+        return feed, working_url, fix_method
+
+    # Resolve every feed's working URL concurrently rather than one at
+    # a time; this is the expensive part of the run (network round
+    # trips), not the actual feed parsing below.
+    resolved = []
+    with ThreadPoolExecutor(max_workers=12) as pool:
+        futures = [pool.submit(resolve_feed, feed) for feed in FEEDS]
+        for future in as_completed(futures):
+            resolved.append(future.result())
+
+    # Preserve FEEDS order for deterministic health_data/log output.
+    resolved.sort(key=lambda r: FEEDS.index(r[0]))
+
+    # Extraction Pass
+    for feed, working_url, fix_method in resolved:
         if working_url:
             health_data[feed["category"]] = {
                 "status": "ALIVE",
@@ -379,9 +438,17 @@ def main():
             try:
                 parsed = feedparser.parse(working_url)
                 for entry in parsed.entries:
-                    title = getattr(entry, "title", "")
-                    link = getattr(entry, "link", "")
-                    pub_parsed = getattr(entry, "published_parsed", None) or getattr(entry, "updated_parsed", None)
+                    title = (getattr(entry, "title", "") or "").strip()
+                    link = (getattr(entry, "link", "") or "").strip()
+
+                    # Skip malformed RSS entries without a title or link.
+                    if not title or not link:
+                        continue
+
+                    pub_parsed = (
+                        getattr(entry, "published_parsed", None)
+                        or getattr(entry, "updated_parsed", None)
+                    )
                     
                     if pub_parsed:
                         pub_time = datetime(*pub_parsed[:6]).replace(tzinfo=pytz.utc)
@@ -400,7 +467,9 @@ def main():
                                 "link": link,
                                 "summary": processed_snippet,
                             })
-            except: continue
+            except Exception as e:
+                print(f"[WARN] Failed to parse {feed['category']} ({working_url}): {e}")
+                continue
         else:
             health_data[feed["category"]] = {
                 "status": "DEAD",
@@ -413,6 +482,14 @@ def main():
         json.dump(health_data, f, indent=2)
 
     # Cross-Feed Deduplication & Sensitivity Inspection
+    #
+    # Shuffled before the per-run cap is applied: FEEDS is a fixed list,
+    # so scanning in that order every run means feeds near the top
+    # (Google News, Standard Media, ...) can fill MAX_SUGGESTIONS_PER_RUN
+    # on their own and feeds near the bottom (Kenyapedia, ...) never get
+    # a chance to contribute. Shuffling per run gives every feed a fair
+    # shot over time instead of the same feeds winning every single run.
+    random.shuffle(fresh_extracted_stories)
     clean_suggestions = []
     for story in fresh_extracted_stories:
         is_duplicate = False
@@ -422,9 +499,19 @@ def main():
                 break
         
         if not is_duplicate:
-            story["sensitive"] = contains_sensitive_content(story["title"]) or contains_sensitive_content(story["summary"])
+            story["sensitive"] = (
+                contains_sensitive_content(story["title"])
+                or contains_sensitive_content(story["summary"])
+            )
             clean_suggestions.append(story)
-            seen_log.append(story["link"])
+
+            # Only store valid links in the seen log.
+            if story.get("link"):
+                seen_log.append(story["link"])
+
+            # Enforce the configured maximum suggestions per run.
+            if len(clean_suggestions) >= MAX_SUGGESTIONS_PER_RUN:
+                break
 
     # Output to suggested_posts.md
     if clean_suggestions:

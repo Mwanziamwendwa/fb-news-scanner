@@ -9456,3 +9456,272 @@ Kenya has pledged to expedite preliminary investigations into the helicopter cra
   - Source: Nation Africa
   - Link: https://nation.africa/kenya/videos/gachagua-only-scotland-yard-and-fbi-can-be-trusted-to-probe-mp-johana-ng-eno-s-death-not-dci-5566998
 
+## Scan run: 2026-08-22 12:00 (Nairobi time)
+
+- **[KBC Digital]** NACADA seizes over 27,000 litres of illicit alcohol in Nairobi, Nyakach ⚠️ REVIEW — possibly sensitive content
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/nacada-seizes-over-27000-litres-of-illicit-alcohol-in-nairobi-nyakach/
+
+- **[Taifa Leo]** Mke wa Besigye aomba kesi inayomwandama mumewe iahirishwe hadi apate nafuu
+  - Source: Taifa Leo
+  - Link: https://taifaleo.nation.co.ke/habari/kimataifa/mke-wa-besigye-aomba-kesi-inayomwandama-mumewe-iahirishwe-hadi-apate-nafuu/
+  - Draft material: Mke wa Besigye aomba kesi inayomwandama mumewe iahirishwe hadi apate nafuu.
+
+Mke wa Besigye aomba kesi inayomwandama mumewe iahirishwe hadi apate nafuu MKE wa kiongozi wa upinzani nchini Uganda, Kizza Besigye, Winnie Byanyima, amelaani kuendelea kwa kesi ya mumewe huku mwanasiasa huyo akiwa amelazwa kutokana na hali yake mbaya ya afya. Besigye, 70, anakabiliwa na mashtaka ya uhaini yanayohusiana na madai ya kupanga njama ya kumpindua Rais Yoweri Museveni, ambaye amekuwa madarakani tangu 1986. Byanyima, ambaye ni mkurugenzi mtendaji wa UNAIDS, amesema si haki kesi hiyo kuendelea wakati mumewe hawezi kufika mahakamani kwa sababu ya ugonjwa. Amesema Besigye hawezi hata kuzungumza kutokana na hali yake. Awali, mwanasiasa huyo alilazwa katika chumba cha wagonjwa mahututi baada ya kuanguka akiwa mahakamani, lakini alirejeshwa gerezani mapema mwezi huu licha ya madaktari kuonya kuhusu hali yake. Besigye alikamatwa nchini Kenya mwaka 2024 na kupelekwa Uganda, ambako awali alifikishwa katika mahakama ya kijeshi kabla kesi yake kuhamishiwa mahakama ya kiraia. Byanyima ameitaka serikali kumwachilia kwa dhamana ili apate matibabu yanayohitajika.
+
+- **[Education News]** Grade 10 placement: What parents and learners must know as 2026 Senior School selection opens
+  - Source: Education News
+  - Link: https://educationnews.co.ke/grade-10-placement-what-parents-and-learners-must-know-as-2026-senior-school-selection-opens/?utm_source=rss&utm_medium=rss&utm_campaign=grade-10-placement-what-parents-and-learners-must-know-as-2026-senior-school-selection-opens
+  - Draft material: Grade 10 placement: What parents and learners must know as 2026 Senior School selection opens.
+
+- Grade 9 learners begin choosing Senior Schools, pathways and subject combinations from August 24. - Families have until September 11 to make decisions that could influence learners’ future career directions. - Parents are being encouraged to prioritise learners’ abilities and interests rather than school prestige alone. Kenya is approaching one of the most consequential moments in the implementation of Competency-Based Education (CBE), with thousands of learners preparing to make the transition from Junior School to Senior School. Beginning August 24, 2026, learners are expected to enter a three-week selection window that will run until September 11, during which they will identify the Senior Schools, pathways and subject combinations that could shape the next stage of their education. The August 24 opening date is confirmed in reporting based on a Ministry of Education circular. This is not simply another school admission exercise. For learners, it could be the moment when academic interests begin to translate into concrete career directions. For parents, it is an opportunity to move away from making educational decisions based primarily on school reputation and instead focus on what genuinely suits the abilities, interests and ambitions of their children.
+
+- **[Education News]** 5,732 first-year students risk missing university funding as August 31 deadline nears
+  - Source: Education News
+  - Link: https://educationnews.co.ke/5732-first-year-students-risk-missing-university-funding-as-august-31-deadline-nears/?utm_source=rss&utm_medium=rss&utm_campaign=5732-first-year-students-risk-missing-university-funding-as-august-31-deadline-nears
+  - Draft material: 5,732 first-year students risk missing university funding as August 31 deadline nears.
+
+- Thousands of first-year students have yet to complete applications for government scholarships and loans. - Universities Fund CEO Edwin Wanyonyi has urged affected applicants to finalise submissions before August 31. - The Fund projects scholarship beneficiaries will rise to 608,879 during the 2026/27 financial year. More than 5,000 first-year university students are staring at a potential funding crisis as the August 31 deadline for government scholarship and loan applications draws closer, with thousands yet to complete the process through the Higher Education Financing (HEF) Portal. The Universities Fund says 159,551 students had successfully completed their applications by August 20, 2026, out of 202,133 students placed in public universities for the 2026/2027 academic year. However, 5,732 applications were still incomplete or ongoing, leaving the affected students at risk of missing out on government financial support as they prepare to begin their university studies. Universities Fund Acting Chief Executive Officer Dr Edwin Wanyonyi urged the affected students to move with speed and complete their applications before the August 31 deadline. “We, therefore, wish to encourage the affected students to complete the application process by 31st August 2026,” Wanyonyi said.
+
+- **[Education News]** Chesamisi handed FEASSSA volleyball semifinal lifeline after Bukedea disqualification
+  - Source: Education News
+  - Link: https://educationnews.co.ke/bukedea-disqualified-chesamisi-reinstated-in-feassa-volleyball-semifinals/?utm_source=rss&utm_medium=rss&utm_campaign=bukedea-disqualified-chesamisi-reinstated-in-feassa-volleyball-semifinals
+  - Draft material: Chesamisi handed FEASSSA volleyball semifinal lifeline after Bukedea disqualification.
+
+- Bukedea Comprehensive School have been dismissed from the FEASSSA volleyball competition after being found ineligible, despite having already secured a semifinal spot. - Chesamisi Boys High School have been reinstated into the semifinals and will now face Uganda’s Namugongo, while Chepsaita take on Rwanda’s Nyanza. - The ruling guarantees Kenya a place in the boys’ volleyball final, with either Chesamisi or Chepsaita set to advance. Kenya’s Chesamisi Boys High School have earned a dramatic route back into the FEASSSA Games boys’ volleyball semifinals in Morogoro, Tanzania, after Uganda’s Bukedea Comprehensive School were dismissed from the competition on eligibility grounds. Bukedea had already booked their place in the last four following a strong run through the tournament that included a 3-1 victory over Chesamisi. That result has now been overturned after organisers found Bukedea ineligible to continue in the competition, reshaping the semifinal line-up in Kenya’s favour. ALSO READ: Age gap raises questions over competitive balance at FEASSA Games Chesamisi will take Bukedea’s place and face Uganda’s Namugongo in the first semifinal, while Kenya’s Chepsaita are set to meet Rwanda’s Nyanza in the other last-four fixture.
+
+- **[Education News]** Kenya eyes China partnerships to strengthen TVET skills, technology and industry links
+  - Source: Education News
+  - Link: https://educationnews.co.ke/kenya-eyes-china-partnerships-to-strengthen-tvet-skills-technology-and-industry-links/?utm_source=rss&utm_medium=rss&utm_campaign=kenya-eyes-china-partnerships-to-strengthen-tvet-skills-technology-and-industry-links
+  - Draft material: Kenya eyes China partnerships to strengthen TVET skills, technology and industry links.
+
+- Kenya is exploring cooperation with Chinese education partners to strengthen vocational training and industry linkages. - Proposed areas include curriculum development, exchanges, technology transfer and specialised centres of excellence. - The engagement seeks to equip young people with practical skills aligned with changing labour-market demands. Kenya is exploring new international partnerships aimed at transforming technical and vocational education and training (TVET) into a stronger engine for skills development, industrial growth and youth employment. The State Department for Technical and Vocational Education and Training (TVET) on Friday hosted a delegation from the Kenya National Chamber of Commerce and Industry (KNCCI) and China Science and Education Industry Group Limited for discussions on strengthening cooperation in vocational education and skills development. The engagement, chaired by Joyce Mwale, Secretary Administration at the State Department for TVET, focused on how Kenya can tap into China’s extensive experience in applied sciences, technology and industry-oriented vocational training to strengthen the country’s TVET ecosystem. At the centre of the discussions was the need to build a more responsive training system capable of preparing Kenyan youth for the demands of a rapidly changing economy, particularly as technology, automation and emerging industries continue to reshape the labour market.
+
+- **[Education News]** Varsities brace for curriculum overhaul as draft CBE framework targets smaller classes, practical assessment
+  - Source: Education News
+  - Link: https://educationnews.co.ke/varsities-brace-for-overhaul-as-draft-cbe-framework-targets-smaller-classes-practical-assessment/?utm_source=rss&utm_medium=rss&utm_campaign=varsities-brace-for-overhaul-as-draft-cbe-framework-targets-smaller-classes-practical-assessment
+  - Draft material: Varsities brace for curriculum overhaul as draft CBE framework targets smaller classes, practical assessment.
+
+- A draft competency-based framework for university education has been presented to vice chancellors, proposing changes to curriculum design, teaching, assessment and governance. - CUE chief executive Prof Mike Kuria has said universities will need to shift toward demonstrable, practical assessment methods rather than content-heavy testing, partly due to concerns over AI use. - The transition will require lecturer retraining, smaller classes and stronger ICT infrastructure ahead of the first CBE cohort reaching universities in 2029. Kenyan universities are set for a major overhaul in how courses are taught, tested and structured if a newly unveiled draft competency-based framework for university education (CBFUE) is adopted to align higher learning with the competency-based education (CBE) system already rolled out in basic education. The draft was presented to vice chancellors from universities across the country during a consultative conference held at the United States International University-Africa (USIU), where it was outlined as covering curriculum design, teaching, assessment, quality assurance, governance, industry linkages and implementation.
+
+- **[Education News]** Over 159,000 first-year students seek Govt funding as universities reopen
+  - Source: Education News
+  - Link: https://educationnews.co.ke/over-159000-first-year-students-seek-govt-funding-as-universities-reopen/?utm_source=rss&utm_medium=rss&utm_campaign=over-159000-first-year-students-seek-govt-funding-as-universities-reopen
+  - Draft material: Over 159,000 first-year students seek Govt funding as universities reopen.
+
+- Universities Fund data shows strong demand for scholarships and loans among students joining universities this academic year. - Thousands of applicants are still completing submissions as institutions begin receiving their new first-year cohorts. - The figures underline families’ reliance on public financing to meet the growing cost of higher education. The Universities Fund has received more than 159,000 funding applications from first-year university students for the 2026/27 academic year, offering a clearer picture of the number of learners seeking government financial support as universities receive new students. The disclosure provides important insight into the uptake of scholarships under Kenya’s Student-Centred Funding Model, which links government financial assistance to the assessed financial needs of individual students. The announcement comes as thousands of first-year students begin reporting to their respective institutions for the new academic year, with many families relying on government scholarships and Higher Education Loans Board (HELB) loans to meet the rising cost of university education. The Universities Fund had opened applications for first-time students joining public universities in the 2026/27 academic year, allowing eligible learners to seek financial support through the higher education financing system.
+
+- **[Education News]** TSC starts virtual sensitisation of teachers on PSSF registration
+  - Source: Education News
+  - Link: https://educationnews.co.ke/tsc-starts-virtual-sensitisation-of-teachers-on-pssf-registration/?utm_source=rss&utm_medium=rss&utm_campaign=tsc-starts-virtual-sensitisation-of-teachers-on-pssf-registration
+  - Draft material: TSC starts virtual sensitisation of teachers on PSSF registration.
+
+- TSC has launched virtual sensitisation sessions to encourage teachers to complete PSSF self-registration ahead of the August 31, 2026 deadline. - The Commission has scheduled a teachers’ session for August 24 and a separate session for Sub-County Human Resource Officers on August 26. - TSC County Directors have been directed to mobilise teachers to ensure maximum attendance The Teachers Service Commission (TSC) has started virtual sensitisation of teachers on membership self-registration for the Public Service Superannuation Fund (PSSF), as it moves to address low participation in the exercise. The Commission has organised a virtual session for teachers on Monday, August 24, 2026, at 9:00 a.m. to sensitise them on the registration process and encourage more members to complete their details. A separate virtual meeting for Sub-County Human Resource Officers will be held on Wednesday, August 26, at 9:00 a.m. TSC County Directors have been directed to mobilise teachers and ensure maximum attendance during the sensitisation sessions. The exercise comes ahead of the August 31, 2026 deadline set by the Commission for teachers to complete their PSSF self-registration.
+
+- **[Education News]** One reckless click could cost you millions: Lawyer Omari warns youths against leaking intimate images
+  - Source: Education News
+  - Link: https://educationnews.co.ke/one-reckless-click-could-cost-you-millions-omari-warns-youths-against-leaking-intimate-images/?utm_source=rss&utm_medium=rss&utm_campaign=one-reckless-click-could-cost-you-millions-omari-warns-youths-against-leaking-intimate-images
+  - Draft material: One reckless click could cost you millions: Lawyer Omari warns youths against leaking intimate images.
+
+- Senior Counsel Danstan Omari warns young people against turning private images into weapons after relationship disputes. - He says consent to receive intimate content should never be mistaken for permission to distribute it. - The warning highlights the legal, financial and emotional consequences that can follow impulsive online behaviour. A private photograph can take seconds to send, but the consequences of sharing it without consent can follow both the victim and the sender for years. That is the stark message Senior Counsel Danstan Omari has delivered to young people, warning that leaking, forwarding or publicly exposing another person’s intimate images is not a harmless act of revenge, relationship drama or online entertainment. Speaking through his popular Court Helicopter platform, Omari cautioned youths against treating intimate photographs and videos as weapons during relationship disputes, particularly after break-ups, betrayals or heated disagreements. His warning comes at a time when smartphones and social-media platforms have made it remarkably easy for private content to move from one individual to hundreds or even thousands of people within minutes. What begins as a private disagreement can quickly become a public scandal.
+
+- **[Education News]** Sossion vows to end TSC-MoE tensions, push for faster teacher pension payouts
+  - Source: Education News
+  - Link: https://educationnews.co.ke/sossion-vows-to-end-tsc-moe-tensions-push-for-faster-teacher-pension-payouts/?utm_source=rss&utm_medium=rss&utm_campaign=sossion-vows-to-end-tsc-moe-tensions-push-for-faster-teacher-pension-payouts
+  - Draft material: Sossion vows to end TSC-MoE tensions, push for faster teacher pension payouts.
+
+- Wilson Sossion has told Parliament he will work to end tensions between the TSC and the Ministry of Education if confirmed as a commissioner. - Sossion has pledged to push for the faster release of teachers’ pension benefits and to tackle bureaucracy and corruption within TSC. - Sossion has assured MPs he will not pursue partisan politics or resign to contest the 2027 General Election. Former Kenya National Union of Teachers (KNUT) Secretary General Wilson Sossion has told Parliament he will work to end friction between the Teachers Service Commission (TSC) and the Ministry of Education (MoE) and press for the faster release of teachers’ pension benefits, should he be confirmed as a commissioner. Appearing before the National Assembly Departmental Committee on Education during his vetting, Sossion said his priority would be fostering cooperation between the commission, the ministry and other education stakeholders while ensuring government directives are respected and implemented. “I will ensure that the government directives are respected. I will ensure there will never be war between TSC and the ministry. I will ensure both are working together. There has to be cooperation,” Sossion told the committee.
+
+- **[Standard Headlines]** Fault lines beneath Mulembe's United Opposition
+  - Source: Standard Headlines
+  - Link: https://www.standardmedia.co.ke/article/2001555923/fault-lines-beneath-mulembe-s-united-opposition
+  - Draft material: Fault lines beneath Mulembe's United Opposition.
+
+The Standard Group Plc is a multi-media organization with investments in media platforms spanning newspaper print operations, television, radio broadcasting, digital and online services. The Standard Group is recognized as a leading multi-media house in Kenya with a key influence in matters of national and international interest. For a community that has spent months talking about unity, the events at Gloria Khalwale’s burial in Malinya offered a revealing glimpse of what lies beneath the surface of the Mulembe political family. The leaders may be walking under the same opposition umbrella, sharing platforms and speaking of a common political future, but yesterday, the smiles briefly gave way to something more difficult to hide: the contest over who should lead, who should follow and, perhaps most importantly, who should have the final word. Premium Article Get Full Access for Ksh299/Week. Bold Reporting Takes Time, Courage and Investment. Stand With Us. 🔥 Flash Sale ! Subscribe now and enjoy 50% off annual plans. Offer ends in…
+
+- **[Standard Politics]** Mwangaza calls for peaceful Linda Mwananchi Meru tour
+  - Source: Standard Politics
+  - Link: https://www.standardmedia.co.ke/politics/article/2001555920/mwangaza-calls-for-peaceful-linda-mwananchi-meru-tour
+  - Draft material: Mwangaza calls for peaceful Linda Mwananchi Meru tour.
+
+Audio By Vocalize Former Meru Governor and Umoja na Maendeleo Party (UMP) leader Kawira Mwangaza has called for a peaceful Linda Mwananchi Meru tour. The Senator Edwin Sifuna-led opposition outfit has grown in popularity, attracting huge crowds in tours across the country so far, and Ms Mwangaza expects a successful tour of Meru on August 30. On Wednesday, Mwangaza, UMP Secretary General Murega Baichu, Central Imenti MP aspirant Earnest Kimaita and others were held up in a planning meeting for the better part of the day. "We warmly welcome the Linda Mwananchi team led by Sifuna to Meru. With confidence, I affirm that Merians are a peaceful and welcoming people. We therefore look forward to a visit that will be peaceful, successful, and fruitful," she said. She added: "We have planned property and expect an impactful visit." Mwangaza recently joined the Linda Mwananchi movement, endorsed Sifuna for President, and has emerged as one of President William Ruto and his deputy Kithure Kindiki's fiercest critics. Ms Mwangaza is preparing to host the Linda Mwananchi leaders and the fact that she boasts an enviable mobilisation power should worry President Ruto's allies in the region.
+
+- **[Capital FM News]** Muli targets Kitui Central seat as NLP builds wider 2027 political push
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/muli-targets-kitui-central-seat-as-nlp-builds-wider-2027-political-push/
+  - Draft material: Muli targets Kitui Central seat as NLP builds wider 2027 political push.
+
+NAIROBI, Kenya, Aug 22 — National Liberal Party (NLP) leader Dr Augustus Kyalo Muli has set his sights on the Kitui Central parliamentary seat in 2027, positioning the constituency contest as the first step in a political journey that could eventually take him to the national stage. Speaking during an NLP rally at Kitui Stadium, Muli said his political journey had to begin in his home constituency before expanding across the country. “Kenyan politics is very localized. That’s why I have started my political journey in Kitui. God willing, I’ll move out and engage with the rest of the country. But charity must begin at home,” he said. Muli’s declaration formalises an ambition that has been building in Kitui Central for months, with residents and party supporters urging him to seek the parliamentary seat currently held by Makali Mulu. Mulu is pursuing the Kitui governorship in 2027, creating an opening in a constituency where Muli has cultivated a grassroots base through community engagement and development initiatives. Through the Kyalo Kya Maendeleo Foundation, Muli has supported projects including education bursaries and water initiatives, helping build a local profile beyond election campaigns.
+
+- **[Capital FM News]** Kindiki Says Government Has Surpassed Teacher Recruitment Target
+  - Source: Capital FM News
+  - Link: https://capitalfm.africa/kindiki-says-government-has-surpassed-teacher-recruitment-target/
+  - Draft material: Kindiki Says Government Has Surpassed Teacher Recruitment Target.
+
+NAIROBI, Kenya Aug 22 – Deputy President Kithure Kindiki has said his administration will surpass its five-year target of recruiting 116,000 teachers. He told a meeting of the Mt Kenya Grassroots Leaders that the government will reach 120,000 new teachers by the end of this month, four years into its term. “We had committed in our manifesto to employ 116,000 teachers in Kenya to make sure the children of the rich, the children of the poor, all of them get teachers in school. They can have quality education. I am happy to report four years later we are now going to surpass our own target instead of 116,000 teachers. By this month we will have recruited 120,000 teachers in the Republic of Kenya,” the DP said. He said the government had initially been recruiting about 5,000 teachers annually but increased the pace to more than 20,000 teachers per year to address the shortage. Kindiki said maintaining the previous recruitment rate would have taken about 20 years to achieve the number of teachers employed under his administration in just five years.
+
+- **[Kenya Latest]** Hassan Omar Mombasa governor bid exposes cracks in UDA, ODM Coast pact - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxOMnF6X1d4OXlJY3pFaHNXWEdza1p0ZFlzb1pCcXZONjhUV1RYaklpX1ZIZnJjdW9vd1F0YnRQSTNyR2Q0Z3B1RVluODA2V21taXJpcVFEWUtOVGNaYnpXU0hfRFV5TERfM1pNSDJkOUU5ejZVRmF4M0pvZy0xRjdqUGZNMG9hcHFoZkQwcHo2b2xHd1AxeUdrdTRDNW5nbXRIUS1UdE1ENkU3Q3ZFYkE?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Hassan Omar Mombasa governor bid exposes cracks in UDA, ODM Coast pact - Daily Nation. Hassan Omar Mombasa governor bid exposes cracks in UDA, ODM Coast pact Daily Nation
+
+- **[Kenya Latest]** Police probe shooting of three youths during Governor Nassir’s event - KBC Digital
+  - Source: KBC Digital
+  - Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzJqdERxMWx5OEVhSHphRUNpMlh2dW45R3RTc1E0bEQ0WlBpZW5IY2hrb3NUdkFkT1VxcXptamhTbjJTV19SS2g2UzNsM0ZZWEJZSDdGUUVXMm5Qc280bmlkYkVtMnAxeGxfMnhldXRhWUhremRhUFdvUHBVTGpQR01xWnpPRVZ0Sm0wUWJ0RWdoNTNO?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Police probe shooting of three youths during Governor Nassir’s event - KBC Digital. Police probe shooting of three youths during Governor Nassir’s event KBC Digital Governor’s Bodyguard Allegedly Opens Fire During Clash With Youths Chanting ‘Wantam’ Nairobi Leo Three Shot, Scores Injured as Youths Clash With Governor’s Guards Kenyans.co.ke
+
+- **[Kenya Latest]** Kenya Seeks to Expand Local Medical Manufacturing With World Bank Support - FSX Business
+  - Source: FSX Business
+  - Link: https://news.google.com/rss/articles/CBMicEFVX3lxTFB2NVpYMklrRndmc05MRnRFa0pKU0FmNGo4bkh3c0xWT1RjTjczbU9kN2JMRkozOTU5UGIxZHItaHR0VF9TV3QwQnlLRktHRkhfWVZ1QVN2UFU2cWVZeko1STh0M0tEbDFpSUlYVVVOcHI?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Kenya Seeks to Expand Local Medical Manufacturing With World Bank Support - FSX Business. Kenya Seeks to Expand Local Medical Manufacturing With World Bank Support FSX Business Kenya, World Bank partner on local medical manufacturing APAnews - Agence de Presse Africaine Inside Kenya’s push to become a powerhouse in local medicine, vaccine manufacturing The Eastleigh Voice Kenya and World Bank Explore Investment in Local Medical Manufacturing health.go.ke
+
+- **[Kenya Latest]** Kenya's Biggest Intellectual Property Reform Is Now Before Parliament - TechTrendsKE
+  - Source: TechTrendsKE
+  - Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxQU053NWtPbTJodzRZcjVBUldjSnBKZjhTRFdhbzJEOWFXX3VuZXhNQVMyQnozdmwwSTBHRW01QnpyY3ZLbXdRbDBQWGo2bnJCdXlFU1hRR01aLUdPMmJWYjA0ekZ1UWFJTEFvLWJZX0l0NkdISlYxZGJubHlQNGp0TQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Kenya's Biggest Intellectual Property Reform Is Now Before Parliament - TechTrendsKE. Kenya's Biggest Intellectual Property Reform Is Now Before Parliament TechTrendsKE Kenya plans to merge copyright, anti-counterfeit and IPO bodies the-star.co.ke Kenya moves to merge intellectual property agencies under one authority The Eastleigh Voice Parliament seeks Kenyans’ views on new intellectual property law People Daily
+
+- **[Politics]** Kindiki Warns Gachagua: ‘Your Days in Politics Are Numbered’ - Capital FM Africa
+  - Source: Capital FM Africa
+  - Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNHlvOTRSUWV2Qk1tdWpqNTJvQnN1UGFGN2lsdVJYeUNLT3FHZTJiSzFkM0NFRm5aRlA4UzM2Q1FJeDJfUGtxUjQzWUZCdWZIMVJYZXg2ZWp0NDhHcW9rNjRpNE9PYk43ME0yLWVITVM4SkdUSGkwam54ak1xM3p2SmgzNXdRS0U5RWVZ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Kindiki Warns Gachagua: ‘Your Days in Politics Are Numbered’ - Capital FM Africa. Kindiki Warns Gachagua: ‘Your Days in Politics Are Numbered’ Capital FM Africa
+
+- **[Business Topic]** 'Sapiens' Author Says 'Now Is the Time' to Resist Giving AI Rights - Business Insider
+  - Source: Business Insider
+  - Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxPaVNHaE45YTd4R3R2M2pHY2VKMVg1VEh6X0NHeEVONzQzVmZUTS1WOVR4Sy1MT1ZHZGFWLTM2S195THhiZ0puTzR1R2dNaUFjaHNwUjlWczA3Wmo4c0k4QmlybFZoWlFsSktFVTc3cnFPUU0xNjZkWllDMzBWNld1S3VQNzNnejhOdGpSRTNKV1RRZw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: 'Sapiens' Author Says 'Now Is the Time' to Resist Giving AI Rights - Business Insider. 'Sapiens' Author Says 'Now Is the Time' to Resist Giving AI Rights Business Insider Yuval Noah Harari on the economic and political perils of AI The Economist The author of 'Sapiens' says 'now is the time' to resist giving AI rights AOL.com
+
+- **[Business Topic]** Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGVTbkpBcmxycVI2YTd0TkhWd1VTbWdfMl84NGpCS3hIY0RCS0NJOWN6Ul9CU25ZXzBtMmw0WlI0cmF0aEdCS2JkbWVjQ0hRa1VzM0hVRk8wR1diMjAtV3FLa2VnYW54SGJpYVY5el9WRWUwbExHTkZHVmJiMUNJSlpBeko?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial - The Guardian. Hook, hold, harvest and hide: Meta’s alleged strategy laid out in first week of landmark trial The Guardian No more doom scrolling or Instagram Stories? A Meta trial loss could end the social media we know CNBC Meta rejects claims it sought to hook children to Facebook, Instagram Reuters Meta Lawsuit Pushes Cyber Insurance And Compliance Stocks Into Focus simplywall.st The Social Skinny: Meta whistleblower testifies; Amazon and Uber delivery drones take flight PRWeek
+
+- **[Business Topic]** What Altria Group (MO)'s Higher 2026 Earnings Outlook Means For Shareholders - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxNV3NNUjNselhyRGpFVVBxVjV4WExIZzZ6SVRkOGE5cldwMUZYM3JneVNidzJaNHgtbWZZSko0bXNSN1dIQUc4NV90UjNreFN6S1R3Yl9LbE5icHpic3JIWXZCTEZXTkZTM1JSUTEzQm8wenFVc1FuQWFlRWlZSTl1ODJvM1lacklvQjd2WmFTX2l6YnVDelVz?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: What Altria Group (MO)'s Higher 2026 Earnings Outlook Means For Shareholders - Yahoo Finance. What Altria Group (MO)'s Higher 2026 Earnings Outlook Means For Shareholders Yahoo Finance How Altria's Q2 Results and Guidance Shape Its 2026 Earnings Path TradingView Altria Group (MO) Holds Steady Near Support, Eyes Fresh Catalysts - Fear Greed Extreme vinanet.vn America’s Best Dividend Stock Has A Good Year AOL.com Resilient Earnings And Higher 2026 Outlook Might Change The Case For Investing In Altria (MO) simplywall.st
+
+- **[Business Topic]** Parts shortage piles pressure on Chinese carmakers racing to boost intelligence - South China Morning Post
+  - Source: South China Morning Post
+  - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3M2VFNldVk1OVdjeTVhLXQ3MWdCbHYtNzBPSXNfcVVMejZ5clBDWkRUVURtNmpZS0ZaZ2REUnlqc1hCdGlOeFlWQ2ZsTTkwcFZTcXhSZ19LYVQxNHVDR1Zkd3AtY2NhZlhCc2xYWXg3Rzl5ejdYZkRJbHdmUXh3UWJmbDNuYjFmci1GQjNBQXV4VHFoT1duS05kOEhRdkdpQjdpaUNiMFFINXBpbk5zb2t4NUVNbTFodXdSaVRybjNrZ3FoR3dHQmc4b9IBywFBVV95cUxORFNLUHJSeVBKcXM4c2l6N0JKTVI0UG5YYkFMRXFGN3VWWDhhdUdtSThmLWdEM0xMcW5HN09PeWJKZUdLQXg1Mi1kZjNFQ2tSQzNTdXFOc01BY2tUZkxDTnZQUUZvZWVhQ2JCbWJvNWtNZUlHbUxRWGdZcVlIQThGWnQ3bGZ1YmtOQXoyMWZYUVVyQkY1UU0wdWxMTGJFN2p6NUpkQUMyYlNDYURGc0J5ekpDMGdJcTNHYzduQWw3R1dCdklsbUhRV2FkMA?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Parts shortage piles pressure on Chinese carmakers racing to boost intelligence - South China Morning Post. Parts shortage piles pressure on Chinese carmakers racing to boost intelligence South China Morning Post
+
+- **[Business Topic]** ‘It exists only for pleasure’: does ice-cream have a future in the age of wellness fads and weight-loss drugs? - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVFhYOVdvNFlyRnBzeHdzcHdXQk1YbnE5eDBlNEtjNlh3N3ROLWtPSlhMYzh1V056WWNkeFVoWHpHa3RRYUNMNUNfVDMxazYwWVJlQUdSSjMybjJIczRsbHN0VzFFc2JQLVF6QmxqSDFFVWZmZjV3ODNJNWdFbTctdWxQWTR1bW9zazNQbWM2MEFkVXZyOGFWUkw0TzRrT3ViRkg3OFltYUtKdDdZNW95aHFTZVllaWVk?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: ‘It exists only for pleasure’: does ice-cream have a future in the age of wellness fads and weight-loss drugs? - The Guardian. ‘It exists only for pleasure’: does ice-cream have a future in the age of wellness fads and weight-loss drugs? The Guardian It’s Low-Calorie and Packed With Protein. Is It Healthy? The Atlantic Ice cream makers bet consumers still want treats, just healthier ones Reuters Slideshow: Frozen dessert innovation moving beyond the pint Food Business News Protein vs. Pickled Garlic: How Ice Cream Makers Battle Flavor Fatigue and Cost Pressures - Revenue Beat Analysis vinanet.vn
+
+- **[Business Topic]** Big running shoe brands are regaining their lead - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxQdDA3eTlPYkxTZ2tlU2s1b25YY250OTR2czhwcmlBempZMjFzWlE0UVczeTliRkVNUll2ZXliN2dQT25kejV2MTQwS0JnT2NuRXBDWE96TF9ZS0xsVVQxNHlNQ3JtNnBEdnRCWEluU3JRanZ6ZG9uMGVxelVKN1dxbEZuOTM?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Big running shoe brands are regaining their lead - Financial Times. Big running shoe brands are regaining their lead Financial Times EXEC: Running Still Remains Footwear’s Hot Category This Year SGB Media
+
+- **[Business Topic]** Klarna’s stock crash shows the price of being a small fish in a big pond - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNMXVOUnk5bkliVThJcEZaQ1A1TDRWcFJLR1hJeC04OGhkOG9SUUZCR2xJTGxTMEFFOHkzRDdGTU5qUnQ0VTBJX0hKYm5GdjZBZmRmRHlXdjFva25ibjFxMWFsWXBlenhMOUVKdGh3X3FMOGRVdDc3NHgyVzlMY2QySXp4SVA?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Klarna’s stock crash shows the price of being a small fish in a big pond - Financial Times. Klarna’s stock crash shows the price of being a small fish in a big pond Financial Times Klarna trims full-year revenue, volume outlook as German retail weakens Reuters Klarna’s guidance cut exposes the BNPL growth divide grafa.com Klarna (KLAR) Q2 2026 Earnings Call: Margin Outlook Raised Despite Lower GMV Guidance TradingKey Klarna Group Plc Just Reported A Surprise Profit And Analysts Updated Their Estimates Moomoo
+
+- **[Business Topic]** ‘The worst part is the guilt’: the owners who fear dog food caused pets’ eye problems - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPcmIydmhrTjdXZ29Qc1hPX2RRVTVxRGt5YzQzazJDNnhnU3NSQW1SMEhXT3ZaLXdUWk96Ul9aV3JPQmJubTlxUDVNa0YtY2hKcFRIT1JTZEM4ZFZncE9FaHhXVFZzWlJkUHM2TVVGckNMNmhhdjd1WW1Yek41b0hvQ0NBR0VrTGpEQVFWT3hGLWZUV3VkZXlQNU5xTDRqYTBIOHc?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: ‘The worst part is the guilt’: the owners who fear dog food caused pets’ eye problems - The Guardian. ‘The worst part is the guilt’: the owners who fear dog food caused pets’ eye problems The Guardian Years.com voluntarily recalls fresh meals Pet Food Processing Fresh dog food recall following reports of eye problems De Molenaar My dog is going BLIND and needs eyeballs removed after eating recalled pet food The Sun Weekly Vet Report: Dog food recall, new plasma technology, and more DVM360
+
+- **[Business Topic]** Japan eyes fiscal 2027 assumed bond interest rate at 3.8% - The Japan Times
+  - Source: The Japan Times
+  - Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGhKQnI0WFowOXJGVW9aWk5HR3R1SEJ4bUtGc2JjZVMyN3JPb21ZNDdDN0FuZnE1SzZkZFpNOVVMRTVOelBvZlhrcGwwaElwTWlyNE9yQzlldC0tbGRsSzFoWXZZekd5dEVGV0hEd1pZaDBrNkVyYWY2ZGI2MFhnaW5Uc2NvbXQ1YkluX0VkbDdOdHNPQlVHQw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Japan eyes fiscal 2027 assumed bond interest rate at 3.8% - The Japan Times. Japan eyes fiscal 2027 assumed bond interest rate at 3.8% The Japan Times
+
+- **[Business Topic]** Lionel Martellini (EDHEC Quantum Institute): Why business leaders need quantum awareness, not quantum washing - The Quantum Insider
+  - Source: The Quantum Insider
+  - Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSm9CS2xDWDZxaC1sRkdFcW12eUpHYVlPbDRxWTA1SHJQRi1DYlpfR2d3R216TVpVYXRrZl8zMFo0VkFEWnRDem1YaGdZc0FRZTcyT18tOFBtazRFa0QyRUlVSGlqUkV3MVN4dXNPcTMwX3hXTFBva21QNVI0YjdVR3g4VUh3dWFUUmduZUVPcUVLSFR1Qmt3TGJCU18xNzdDdjEtblNsaTRnS1htWHJRT3hPQTNfc1NvWGhLZWVOeUNpU0lWUElzRURTaTRteGo4WVdGaHZsYVM2Z2RLeGQtVw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Lionel Martellini (EDHEC Quantum Institute): Why business leaders need quantum awareness, not quantum washing - The Quantum Insider. Lionel Martellini (EDHEC Quantum Institute): Why business leaders need quantum awareness, not quantum washing The Quantum Insider
+
+- **[Business Topic]** Center for Used Fuel Research: Building confidence in storage and transport - American Nuclear Society -- ANS
+  - Source: American Nuclear Society -- ANS
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQbHZnM2w1cUlOTnZXTmVBR0N2WVMxbkYwNTFPSGdNUkxqWEllLTRmaFZ5NzIzQ3NDOFN1UGZKVExWRFdlNnh0SkMtcnJEUlk4Ymo5dlBHRnpSYnlxLXdSV1A2a3hvX2xtbHNaOUxocEx2Y25fZFlLYXg3ak1wOUVtSC1YV0xNQ2VWYW9zc2VEa2pIS19Yb1podjVOS1l6SlB0UG15UkxtOFhKMEJzd1NvMkNUVQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Center for Used Fuel Research: Building confidence in storage and transport - American Nuclear Society -- ANS. Center for Used Fuel Research: Building confidence in storage and transport American Nuclear Society -- ANS
+
+- **[Business Topic]** Iron ore supply takes center stage in India’s steel growth ambitions - S&P Global
+  - Source: S&P Global
+  - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXpaTVE0SkxSOWpIT1lkQkoyd3dJMkFrY1l3ZVNvRWVoX1VPY0drd3R5cWRjaVdicVRXWG9oUHFsaVhwa1NPd2ZxRE1kWUhZSmlxZVBxUjJGc3cxVGtPM3prT2xweWI0Y2VidEs5ZEp2Nm5PVGduRlZNVjBYc2NvZ1BPcV9ldzhZWDZzY2ZMdU1ybFh6Z0hkRDgwbmhuUFlvdC1VOGk2d1VPdDhwcXRleWpXN2hKbXl2bHIybnEwS1Mtbk9FS19UT0RhX1doNHZvc000R0FVUU9JUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Iron ore supply takes center stage in India’s steel growth ambitions - S&P Global. Iron ore supply takes center stage in India’s steel growth ambitions S&P Global JSW Steel aims to eliminate iron ore imports as domestic supply improves | Company Business News livemint.com
+
+- **[Nairobi Leo]** MP in Mourning After Husband's Sudden Death
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29689/kibwezi-east-mp-jessica-mbalu-mourns-the-death-of-her-husband
+  - Draft material: MP in Mourning After Husband's Sudden Death.
+
+Kibwezi East Member of Parliament (MP) Jessica Mbalu is mourning the death of her husband and former High Court Judge, Justice Joseph Mbalu Mutava. In a statement issued on Saturday, August 22, Public Service Commission (PSC) Commissioner Johnson Muthama announced that the late Justice Mutava, who was his long-time friend, died last night. Muthama offered his condolences to the bereaved MP and her family as they come to terms with the demise of their loved one. "On behalf of my family, I extend my heartfelt condolences to our dear friend, Hon. Jessica Mbalu, on the painful loss of your beloved husband. May God comfort you, your family and loved ones during this difficult time, and grant you strength to bear this great loss," the statement read in part. Preliminary reports indicate that the departed former High Court Judge had been taken ill on Friday night, and was rushed to Makindu Hospital, where he passed on while receiving medical attention. Read More Makueni MP Suzanne Kiamba also offered her condolences to her colleague at the National Assembly, wishing her strength and courage as she mourns her husband.
+
+- **[K24 Digital]** Brentford vs Tottenham Hotspur: Match preview and key stats
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/epl/brentford-vs-tottenham-hotspur-match-preview-and-key-stats
+  - Draft material: Brentford vs Tottenham Hotspur: Match preview and key stats.
+
+Brentford vs Tottenham Hotspur: Match preview and key stats Brentford and Tottenham Hotspur will begin their 2026-27 Premier League campaigns with a London derby when they meet at the Gtech Community Stadium on Saturday evening. Both sides enter the contest with renewed ambitions, although their preparations and expectations heading into the new season have been shaped by very different circumstances. Match preview Tottenham narrowly avoided another difficult campaign last season after finishing 17th for the second successive year. With the club determined to move away from the relegation battle, manager Roberto De Zerbi has been backed heavily in the transfer market. Spurs have already rewritten their club-record transfer fee twice this summer, spending a combined £185 million (Ksh32.71 billion) on midfielders Mateus Fernandes and Sandro Tonali. Further major investment could follow, with Manchester City forwards Savinho and Omar Marmoush reportedly among De Zerbi’s attacking targets. Despite the extensive squad changes, Tottenham enjoyed an encouraging pre-season. They played seven matches without defeat, recording four victories and three draws. Their summer schedule included a 2-1 victory against Chelsea in the Sydney Super Cup. Spurs then rounded off their preparations against Hoffenheim, winning one meeting 3-0 before drawing the other 2-2.
+
+- **[K24 Digital]** Massive traffic builds up on Thika Road after truck breaks down near Bluepost
+  - Source: K24 Digital
+  - Link: https://k24.digital/news/massive-traffic-builds-up-on-thika-road-after-truck-breaks-down-near-bluepost
+  - Draft material: Massive traffic builds up on Thika Road after truck breaks down near Bluepost.
+
+Massive traffic builds up on Thika Road after truck breaks down near Bluepost Heavy traffic has brought a section of the Thika Superhighway to a near standstill, with motorists experiencing minimal movement between Weteithie and Delmonte. In an X post on Saturday, August 22, 2026, the Long Distance Drivers and Conductors Association (LODDCA) issued a traffic alert after a truck broke down just past the Bluepost area, disrupting the flow of vehicles along the busy corridor. “Massive traffic has been reported between Weteithie and Delmonte, with minimal movement. The congestion is reportedly caused by a truck that has broken down just past Bluepost,” LODDCA said in a traffic alert. The breakdown has caused long queues, affecting private vehicles, matatus and commercial trucks using the highway. Traffic disrupted Weteithie lies along the Thika Superhighway between Juja and Thika, while Bluepost is a well-known landmark near Thika town. Motorists travelling from Nairobi towards Thika and other parts of central Kenya are facing delays. The affected stretch carries heavy traffic throughout the day, with commuters from Juja, Ruiru and Thika relying on the highway to access Nairobi.
+
+- **[K24 Digital]** Mzungu Mjanjez reveals how her baby daddy inspired her Arsenal content
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/mzungu-mjanjez-reveals-how-her-baby-daddy-inspired-her-arsenal-content
+  - Draft material: Mzungu Mjanjez reveals how her baby daddy inspired her Arsenal content.
+
+Mzungu Mjanjez reveals how her baby daddy inspired her Arsenal content Content creator Amy D Brown, popularly known as Mzungu Mjanjez, has revealed how her baby daddy played a key role in turning her into an Arsenal content creator. Speaking in an interview with Milele FM radio host Jacquey Nyaminde on Saturday, August 22, 2026, Mjanjez said she began supporting the North London club long before she started creating football content, crediting her baby daddy for introducing her to the team during their relationship. She said she was initially not particularly interested in watching football despite her partner being a devoted Arsenal fan. “He was the person who got me supporting Arsenal kitambo sana, but I was never really that fond of watching games,” she said. 12-year Arsenal journey Mjanjez explained that being in a relationship with an Arsenal diehard for about 12 years gradually made the club part of her life. She recalled being expected to watch Arsenal matches regardless of where or when the team was playing. “Whatever time it was or wherever they were playing, lazima I watch,” she said.
+
+- **[K24 Digital]** Hull City vs Manchester United: Match preview, team news and prediction
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/epl/hull-city-vs-manchester-united-match-preview-team-news-and-prediction
+  - Draft material: Hull City vs Manchester United: Match preview, team news and prediction.
+
+Hull City vs Manchester United: Match preview, team news and prediction Manchester United will open their 2026-27 Premier League season on Saturday afternoon, August 22, 2026, when they travel to newly promoted Hull City at the MKM Stadium. The Red Devils finished third in the Premier League last season, while Hull earned promotion after successfully navigating the 2025-26 Championship playoffs. Hull City hoping for a strong return Hull are back in England’s top division for the first time since the 2016-17 campaign. The Tigers have endured spells outside the Premier League since their previous appearance at this level, but promotion under Sergej Jakirovic has given the club a fresh opportunity to establish itself among the country’s elite. The Championship playoff triumph has been followed by an extensive squad rebuild. Hull completed 11 additions during the summer, with Nobel Mendy’s arrival from Rayo Vallecano among the most notable moves. Several existing players have also departed, leaving Jakirovic with a significantly altered squad as Hull prepare for the demands of Premier League football. Their pre-season produced mixed results. The Tigers collected two wins, two draws and one defeat from five matches, with their final warm-up ending in a 0-0 stalemate against Nice.
+
+- **[KBC Digital]** Government steps up efforts to improve maternal, newborn health
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/government-steps-up-efforts-to-improve-maternal-newborn-health/
+  - Draft material: Government steps up efforts to improve maternal, newborn health.
+
+Kenya is strengthening strategic partnerships to accelerate progress towards Universal Health Coverage, with maternal and newborn health remaining a priority in ongoing health-sector reforms. Health Cabinet Secretary (CS), Aden Duale, reaffirmed this commitment when he met Jhpiego President and Chief Executive Officer, Dr. Allyson Bear, and her delegation to discuss expanded collaboration in advancing the government’s Every Woman, Every Newborn, Everywhere agenda. During the meeting, CS Duale called for a coordinated approach that aligns Government and development-partner interventions with national priorities. He also reaffirmed the One Plan, One Budget and One Accountability principle, emphasising that partner resources should target areas of greatest need and avoid duplication. Specifically, the discussions identified maternal hemorrhage, healthcare worker skills, and access to appropriate technologies as priority areas requiring accelerated action. “Jhpiego’s reproductive, maternal, and newborn health programmes will be aligned with the EWENE agenda, with an initial focus on the 18 priority counties identified by the government,” announced the CS. Further, Duale welcomed Jhpiego’s planned support for newborn care in five counties where the Government will guide the selection of counties and health facilities requiring the greatest support.
+
+- **[Kenyans.co.ke]** Kenya Met Lists 5 Regions to Receive Rain and Cold Weather Over Next 5 Days
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126409-kenya-met-warns-rain-and-cold-weather-nairobi-kiambu-and-mombasa-over-next-5-days
+  - Draft material: Kenya Met Lists 5 Regions to Receive Rain and Cold Weather Over Next 5 Days.
+
+Nairobi and neighbouring counties are set to experience cool conditions and pockets of rainfall over the next five days, with the Kenya Meteorological Service Authority (KMSA) forecasting showers across parts of the region. The forecast, covering Sunday, August 23 to 27, shows that Nairobi will experience cloudy-to-sunny conditions in the mornings, generally sunny afternoons, and a chance of light showers on Sunday night. Temperatures will range between 13°C and 24°C during the period. Residents of Kiambu, Murang'a, Kirinyaga and Nyeri should also expect cool conditions, with several areas recording light rains and showers, particularly from Sunday. In Kiambu, light rain and afternoon showers are expected, while Murang’a could also see light rain and showers during the period. In Mombasa, residents should expect a mix of light showers and sunny intervals during the period, with daytime temperatures ranging between 28°C and 30°C and nights remaining relatively warm at 21°C to 23°C. The weatherman says those living in Kirinyaga should brace for light rains and occasional showers during the period, with Nyeri also expected to experience some light rain before conditions turn generally sunny.
+
+- **[Kenyans.co.ke]** India Rescues 22 Sailors Hijacked Near Somalia
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126408-india-rescues-22-seafarers-after-hijacking-near-somalias-coast
+  - Draft material: India Rescues 22 Sailors Hijacked Near Somalia.
+
+The High Commission of India in Nairobi has confirmed that 22 Indian seafarers were rescued after two foreign-flagged vessels were reportedly hijacked in waters near Somalia and Yemen. According to the mission, which also handles diplomatic affairs with Somalia, six Indian nationals were aboard MV Lutuf, and 16 were on MT Sibu when the vessels were hijacked on August 17 and 20, respectively. “We have taken up the matter of Indian seafarers onboard vessels MT Sibu (Eritrea-flagged) and MV Lutuf (Cameroon-flagged) with the concerned authorities in Somalia. It is understood that there are reportedly 16 Indian seafarers onboard MT Sibu and 6 Indian seafarers onboard MV Lutuf. All Indian seafarers are reportedly safe,” the High Commission wrote in an update on Friday. Indian Ministry of External Affairs spokesperson Randhir Jaiswal added that India is maintaining contact with the concerned authorities to protect the sailors. “So far, we have learnt that all 22 of our citizens on board are safe. We are in touch with the relevant authorities on this matter so that we can ensure the safety and well-being of our people,” he stated.
+
+- **[Nation Africa]** ‘Things Fall Apart’, Gachagua, Kindiki and Mount Kenya battle
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/life-and-style/weekend/-things-fall-apart-gachagua-kindiki-and-mount-kenya-battle-5566472
+  - Draft material: ‘Things Fall Apart’, Gachagua, Kindiki and Mount Kenya battle. A tale of two leaders battling for My Kenya’s soul.
+
+- **[Nation Africa]** The rebirth of Ngugi wa Thiong’o’s liberated zone
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/life-and-style/weekend/the-rebirth-of-ngugi-wa-thiong-o-s-liberated-zone-5566534
+  - Draft material: The rebirth of Ngugi wa Thiong’o’s liberated zone. Before his 1977 detention, Ngũgĩ’s Limuru house was a 'liberated zone' where Kenyan peasants...
+
+- **[Nation Africa]** Turning Kenya’s beef and fisheries into engines of industrial growth
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/business/seeds-of-gold/turning-kenya-s-beef-and-fisheries-into-engines-of-industrial-growth-5566474
+  - Draft material: Turning Kenya’s beef and fisheries into engines of industrial growth. Kenya can unlock more jobs, incomes and exports by transforming livestock and fish into higher...
+
+- **[Nation Africa]** Explainer: Who are the candidates running for UN secretary-general?
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/world/explainer-who-are-the-candidates-running-for-un-secretary-general--5567020
+  - Draft material: Explainer: Who are the candidates running for UN secretary-general? In his vision statement, Otunnu stressed the need to continue institutional reforms
+
+- **[Kenya Latest]** Gachagua mourns late Johanna Ng’eno’s brother - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxNcTBFbDd3X243alNMOTU4ZzFsUmcwSzdJc3RwUzgyZlR1SnY2a1gyZHVnNWFrSENhZmdMa2JEWnd0M2VBTEFWWHFfS042TnhjTTFqc2licWVkVGpGQzlvMHZrT0lYTEFtYzNfV3diajVUUEdkTjFZMjBpRDhjV0g5dnFYSGg4Tks0R2pTZWJYRQ?oc=5
+

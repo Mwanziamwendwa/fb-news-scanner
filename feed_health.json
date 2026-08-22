@@ -217,27 +217,27 @@
   },
   "Capital FM News": {
     "status": "ALIVE",
-    "url_used": "http://capitalfm.africa/news/feed/",
-    "auto_fixed": true,
-    "fix_method": "url_variant"
+    "url_used": "https://capitalfm.africa/news/feed/",
+    "auto_fixed": false,
+    "fix_method": null
   },
   "Capital FM Sports": {
     "status": "ALIVE",
-    "url_used": "http://capitalfm.africa/sports/feed/",
-    "auto_fixed": true,
-    "fix_method": "url_variant"
+    "url_used": "https://capitalfm.africa/sports/feed/",
+    "auto_fixed": false,
+    "fix_method": null
   },
   "Capital FM Lifestyle": {
     "status": "ALIVE",
-    "url_used": "http://capitalfm.africa/lifestyle/feed/",
-    "auto_fixed": true,
-    "fix_method": "url_variant"
+    "url_used": "https://capitalfm.africa/lifestyle/feed/",
+    "auto_fixed": false,
+    "fix_method": null
   },
   "Capital FM Business": {
     "status": "ALIVE",
-    "url_used": "http://capitalfm.africa/business/feed/",
-    "auto_fixed": true,
-    "fix_method": "url_variant"
+    "url_used": "https://capitalfm.africa/business/feed/",
+    "auto_fixed": false,
+    "fix_method": null
   },
   "Capital FM Kenya": {
     "status": "ALIVE",

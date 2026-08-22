@@ -1,6 +1,6 @@
-# Kenya News Suggestions - Generated 2026-08-23 01:08:24 EAT
+# Kenya News Suggestions - Generated 2026-08-23 02:41:18 EAT
 
-Scanned lookback gap of 26 minutes. Found 2 unique stories.
+Scanned lookback gap of 32 minutes. Found 1 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
@@ -23,19 +23,11 @@ Scanned lookback gap of 26 minutes. Found 2 unique stories.
 
 ---
 
-**1. 2026 CAVB: Nigeria’s 12-player Squad Departs To Kenya - News Agency of Nigeria**
+**1. It is part of my destiny: Nyako emotionally defends reason she decided to marry fellow woman**
 
-2026 CAVB: Nigeria's 12-player Squad Departs To Kenya News Agency of Nigeria
+Germany-based Kenyan TikToker Nyako has opened up about her decision to marry a fellow woman, saying she has
 
-_Kenya News Agency — https://news.google.com/rss/articles/CBMie0FVX3lxTE93ajNqQllmYWc0MVFxeTBZZFMtdEphNDNPUlFRUzBTTERjZU51OExYSlk2VXdPTmxPcTYyUHhaTXBuX0t4Z1djYXVuUGJRTGhFdVFYYlhodEVrdGFTdVN5eFJNT0dMRGkzUzRTQS1iSEl5MzhIY20zSlYxSQ?oc=5_
-
----
-
-**2. Kenyan Prince announces he is relocating to Dubai after receiving official UAE residency permit**
-
-Forex trader Raymond Omosa, popularly known as Kenyan Prince, has announced that he will permanently relocate from Kenya
-
-_K24 Digital — https://k24.digital/entertainment/celebrity/kenyan-prince-announces-he-is-relocating-to-dubai-after-receiving-official-uae-residency-permit_
+_K24 Digital — https://k24.digital/entertainment/celebrity/it-is-part-of-my-destiny-nyako-emotionally-defends-reason-she-decided-to-marry-fellow-woman_
 
 ---
 

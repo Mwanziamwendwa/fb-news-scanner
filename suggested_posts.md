@@ -10304,3 +10304,119 @@ President William Ruto has appointed Lynette Njeru as the Chairperson of the Rai
   - Source: KBC Digital
   - Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE1EbVR2VzBJNl9rU3ZRZ0d2MFZpdGdPMWhGSHlFbnEyWmVHakt4c0xyZlVmNnQtbDBCTWVVVk9ETHhZRUkwaUY3SmlQQ1VkNk1OVTMtY1NvLU1DWlhoSUU4SnJkeDRpcTZQX0RlT1NNTlNsdmZfWE9tSllKMm8?oc=5
 
+## Scan run: 2026-08-22 17:58 (Nairobi time)
+
+- **[Education News]** CBET curriculum synopsis: From what learners know to what they can actually do across education levels
+  - Source: Education News
+  - Link: https://educationnews.co.ke/cbet-curriculum-synopsis-from-what-learners-know-to-what-they-can-actually-do-across-education-levels/?utm_source=rss&utm_medium=rss&utm_campaign=cbet-curriculum-synopsis-from-what-learners-know-to-what-they-can-actually-do-across-education-levels
+  - Draft material: CBET curriculum synopsis: From what learners know to what they can actually do across education levels.
+
+- CBET shifts training towards demonstrable skills, practical performance and competence measured against defined occupational standards. - Its clearest application is within TVET, where training and assessment are closely linked to workplace requirements. - Understanding the distinction between CBE and CBET is critical as Kenya reforms education and skills development. For years, education has often been measured by what learners can remember, the examinations they pass and the certificates they earn. But the world of work is asking a more demanding question: What can this person actually do? That question sits at the heart of Competency-Based Education and Training (CBET), an approach that places practical competence, workplace performance and the application of knowledge at the centre of training. CBET is increasingly important in discussions about the future of education and skills development, but one point must be made clear: CBET should not be confused with a system that automatically replaces the entire education curriculum from ECDE to university. Its strongest and most direct application is in technical, vocational, occupational and professional training, although competency-based principles can influence learning at different levels. At its core, CBET shifts the emphasis from simply completing a syllabus to demonstrating mastery of defined competencies.
+
+- **[Education News]** Every learner heading to university should read this before leaving home
+  - Source: Education News
+  - Link: https://educationnews.co.ke/every-learner-heading-to-university-should-read-this-before-leaving-home/?utm_source=rss&utm_medium=rss&utm_campaign=every-learner-heading-to-university-should-read-this-before-leaving-home
+  - Draft material: Every learner heading to university should read this before leaving home.
+
+- University freedom brings responsibilities that many first-year students may be encountering independently for the first time. - Academic success also depends on discipline, relationships, financial responsibility and knowing when to seek support. - Hillary Muhalya urges university-bound learners to enjoy their independence without losing sight of their purpose. University is not simply the next stage after secondary school. It is the beginning of a new chapter in which many of the decisions that once belonged to your parents will suddenly belong to you. You are about to enter an environment where nobody may wake you up for an early lecture, remind you to complete an assignment, tell you when to sleep or ask whether you have spent your money wisely. For the first time, freedom will be yours — and so will the consequences of your choices. That is why every learner preparing to join university should pause and read this carefully. Renowned scholars, educators and child-development experts emphasise that academic success is only one part of preparing a young person for university. Equally important are emotional resilience, financial discipline, relationships, personal responsibility, decision-making and the ability to seek help.
+
+- **[Education News]** New officials take charge as KUPPET Western region concludes 2026 elections
+  - Source: Education News
+  - Link: https://educationnews.co.ke/new-officials-take-charge-as-kuppet-western-region-concludes-2026-elections/?utm_source=rss&utm_medium=rss&utm_campaign=new-officials-take-charge-as-kuppet-western-region-concludes-2026-elections
+  - Draft material: New officials take charge as KUPPET Western region concludes 2026 elections.
+
+- KUPPET Western Region has elected Dr. Livanze Mwani of Kakamega as its new Regional Chairman after he narrowly defeated Wechuli Wakhu by 28 votes to 26. - Busia County has claimed both the Vice Chairman and Treasurer positions, with Yoham Okoro and Maende Namutala emerging victorious in their respective races. - Bungoma and Kakamega delegates have secured additional regional seats, including the Assistant Secretary, Assistant Treasurer and Woman Representative positions, rounding out the incoming leadership team. Dr. Livanze Mwani of Kakamega has been elected the new KUPPET Western Region Chairman, narrowly beating fellow Kakamega contestant Wechuli Wakhu by two votes in a tightly fought race held on Friday, August 21, 2026. Mwani polled 28 votes against Wakhu’s 26 to clinch the region’s top seat, in an election that drew contestants from Bungoma, Kakamega, Vihiga and Busia counties and set the stage for a new leadership team at the Kenya Union of Post Primary Education Teachers’ Western Region branch. Busia County emerged as one of the biggest winners of the day, taking both the Regional Vice Chairman and Regional Treasurer positions.
+
+- **[Capital FM Lifestyle]** Njerae Embraces Independence And Intimacy On New Singles “On My Own” Featuring KayCyy And “Let Them Know”
+  - Source: Capital FM Lifestyle
+  - Link: https://capitalfm.africa/njerae-embraces-independence-and-intimacy-on-new-singles-on-my-own-featuring-kaycyy-and-let-them-know/
+  - Draft material: Njerae Embraces Independence And Intimacy On New Singles “On My Own” Featuring KayCyy And “Let Them Know”.
+
+Award-winning Kenyan singer, songwriter and producer Njerae today releases two new singles, “On My Own” featuring KayCyy and “Let Them Know.” Released together, the two records present contrasting but connected emotional truths. “On My Own” is grounded in self-worth, accountability and the courage to walk away, while “Let Them Know” captures the unexpected vulnerability of forming a genuine romantic connection. Produced by Vic West, “On My Own” reunites Njerae with Kenyan-born, U.S.-based Kenyan artist KayCyy following their 2025 collaboration, “Far Away.” Blending their distinct vocal styles and melodic approaches, the song unfolds as an emotionally direct conversation about love, mistakes, privacy and respect—and the moment when choosing yourself becomes necessary. Reflecting on how their creative partnership has evolved, Njerae says: “Far Away was our introduction to each other creatively. This time, everything felt a lot more natural. KayCyy has a way of bringing a different perspective melodically and emotionally, and I think we’ve both grown as artists since our first collaboration.” Where “On My Own” is firm and self-assured, “Let Them Know” reveals a softer, less guarded side of Njerae.
+
+- **[Kenya Latest]** KMPDU opposes Sh5m fine, five-year jail term for detaining patients - standardmedia.co.ke
+  - Source: standardmedia.co.ke
+  - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWHBZMWFuNEhKamNCUXAxSWd2di1tZnVVVnBFb2NTQ1JRUm5qX2RMWkJ3ekNpVHV3OG9XZjJzODlfQjhIOGpfbTdQTktvdm0xZTRudUhveU8yOVJFWXVtTE1CNjhJb2tXUGwtT29VZjBINndkWDdLd2VyMm5PQVZnX3ZWd1lOVVdnZ1dJVl82alN5Z3lCRnc1SHlXVGFqWldybHUwQlBQdzQ4ZzdFUDRHZnpsaVVYaDBGaXNzdl83UkJIRzZYalVVelNkT256ZTAwTjB3Qm930gHbAUFVX3lxTE1jYlVROE1JanQwOVVBV1FycG1BMlQ2RjNzX28yX2lOZlVVZEUwS2lRRUdrSVNnMUpiRkR2TllvWnl3VktFVnJJZktuNURKSDJaY1lKQkFKei1hc0ttc1BjamxNOUoxNy1BOUViOC12c0swdUVWOVR4QkhZLWpBQ0x0LTU0QWl4Y1BoRHRIUHI3bEg1enZ1VG45VHhSVmJpYUV4Ylg3SmpJdlE5NzFfTnNvN3RoSERNMGktNFRzVHRfZDMwTXlJMDdYLUxFazlhOGZ1NjdiaXFuSXFDYw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: KMPDU opposes Sh5m fine, five-year jail term for detaining patients - standardmedia.co.ke. KMPDU opposes Sh5m fine, five-year jail term for detaining patients standardmedia.co.ke KSh 5 Million Hospital Debt Penalty Sparks Health Sector Revolt Dawan Africa Health stakeholders divided over proposed law Capital FM Africa
+
+- **[Business Topic]** Want to Get Hired? This Simple Habit Might Help - WSJ
+  - Source: WSJ
+  - Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNT2YwbWRGYWNlUU1LYVpWbXdBMm44cTBXWGdQVkZCUVpYWjBRdTViRDA0aGw5UTB4bmE1bmI1eHZlM2VYMGRiYl82Y1U5RFRCNzFtZlVXZmF4bENLcFRUd2FIV3NFczMtaFZkemlfUDlIZ3JHamFNTGpaejlPWEQwN2NiRmJTWUg2b2ZyNG4yanptVVVPZG1WTQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Want to Get Hired? This Simple Habit Might Help - WSJ. Want to Get Hired? This Simple Habit Might Help WSJ Hiring Response Time: The 1-Hour Rule That Costs You SUCCESS Magazine Fast Replies to Recruiters Boost Odds of Getting Hired Newser The No. 1 Career Habit Getting Job Seekers Hired In 2026 Forbes A 1-hour delay replying to a recruiter cuts your hiring chances by half. Here's why Yahoo Finance
+
+- **[Business Topic]** For young Americans, the workplace is the new phoneless frontier. 'It allows us to hyper focus on the task at hand,' says employer - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxQVVk4Y2ZuYno5VHl6ek92WkFNbDlqX1FEUUhlSG5ISkVNelB0OTltMEstNmNhamhaM3JNempLdnA2ay1vMEw4OHZhQ0xKUVFOalp0cTR3TnNsQWc3dWJZZnNRdjM3ZnNJdm42Zk82RkpqbzA0MlBqdjRjcnRDWEtWUUpIV0hVRXJoZ1E?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: For young Americans, the workplace is the new phoneless frontier. 'It allows us to hyper focus on the task at hand,' says employer - CNBC. For young Americans, the workplace is the new phoneless frontier. 'It allows us to hyper focus on the task at hand,' says employer CNBC
+
+- **[Business Topic]** Rocket Lab Trades at 59 Times Revenue With Neutron Still Unflown - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxORFRsa1dOUjJveXBUX29OOFBDZWVrWk5UMmpadmNvSXp3aTlXbFZtV0NPVFRXSFRNOS1SNTdvZXBDZTUtVTVlWmVLRWNFTjEtQ1R6dDlveFJpMDNSLW95Y0xrZXpKdUZ4aWltVm43MEUzZldwTGtEQXFiNkk5SFR6QWloOWoxV1NyYy1LTVpydHZCN1NwclE?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Rocket Lab Trades at 59 Times Revenue With Neutron Still Unflown - Yahoo Finance. Rocket Lab Trades at 59 Times Revenue With Neutron Still Unflown Yahoo Finance Rocket Lab: Only The Bad Is Priced In Seeking Alpha The Rocket Is Only 1 Piece of Rocket Lab’s Real Strategy Barchart.com Rocket Lab Stock’s Next Leg Rides On A Vehicle That Has Not Flown Yet Trefis Rocket Lab upgrades to Buy as backlog hits $2.3... Pluang
+
+- **[Business Topic]** Airbnb's new fee change frustrates hosts—what to know before renting out your home - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1R5OU03MW96WGEyNEo5VjUyNEJiV0oycEUxdHB5Q19OYjVFcTBTNl9ndkEtT3JVdlkyRmZoTVJvOXl2Wk5KWVhsRllMdFIwNnVNdk1IZmRzNnEyMERNN1NSeUt0NHVnOFdScW80QTFzRElHeW1JTmF1QnNNUnBHRmtLdlE3alpuNGwyWU9FeVY4dnNBVlVmVGxkcl9WeHZx0gGmAUFVX3lxTE1FZ0ZhOTJyVGlUZUhpU0JaN0hwaFJPQmJTYkpXbFNlWWRVREhCd3lCRklMeDh5Tk1PTDEyTjlSTUhhRnlnTk0wNFp5UUg0WUpudVVNbzNrSlY5WnJWZUhpOXVIVlhTRUJxb3VCcW5MOEJaa2lvRUNfOUJ6cTRvQXZlc0NNR0ZpYUJoZVcySzVVSEc2RENpblNaRl9QVzl1c2Y4ejBPMGc?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Airbnb's new fee change frustrates hosts—what to know before renting out your home - CNBC. Airbnb's new fee change frustrates hosts—what to know before renting out your home CNBC
+
+- **[Business Topic]** World Humanoid Robot Games open in Beijing with record participation - Global Times
+  - Source: Global Times
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PMkRQRWNjaWdUM0JWbnlieVlmNkJobHVVZTk3SGNiU0JFMm5mYURkWkE5OXB5ZHpJTmFUN0pkbDlBVXJrSklZbVdBZ2VocWZTNGtYQUstdHNidw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: World Humanoid Robot Games open in Beijing with record participation - Global Times. World Humanoid Robot Games open in Beijing with record participation Global Times This robotic horse can carry two people over 40 km—see it in action Futura, le média qui explore le monde China robot makers seek to turn humanoid hype into useful work Reuters China’s Robotics Industry Takes Center Stage As Innovation Accelerates تسنیم At Home with Lon Kunz STLtoday.com
+
+- **[Business Topic]** China's Inner Mongolia ramps up green computing, AI service exports - Xinhua
+  - Source: Xinhua
+  - Link: https://news.google.com/rss/articles/CBMifEFVX3lxTFBRTmlCcXAyYUxwNEQ0ZXdmYXhXR2dGeXM3aHk1cXlTQUlHQldkOE04djBEUjRiU1V4T2VRdmw4TENFN01BZEgyUlBVVnVTQ0hpSm5qRU9QUW1jajR3eUg1SUE5czdGbjNvMXRNa3JoMnpTdHNXNDV3NDVyVl8?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: China's Inner Mongolia ramps up green computing, AI service exports - Xinhua. China's Inner Mongolia ramps up green computing, AI service exports Xinhua The Unlikely Place at the Center of China’s AI Boom WIRED 2026 Green Computing Power (Artificial Intelligence) Conference held in Inner Mongolia, N China Xinhua Solar, wind electricity used to support computing bonanza China Daily Global Edition China steps up efforts to build integrated nationwide computing power network thestar.co.za
+
+- **[Business Topic]** Business leaders back broader cross-Strait supply-chain cooperation - Xinhua
+  - Source: Xinhua
+  - Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE5hdFRkbnJjNVJ1TzJqdUFuLXB1a2ROT1N1Z2FrcWJfeGVfZFk3OEszeWhmY0ZSQml5aHV5aFpjQVNJZEFLNFZxMFFBWTlBZHRCUXVMYm9oZFN1THhwNzNjSlRWbUVud25yTk13Ymp1VWNwbll6NVc2Um1vcko?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Business leaders back broader cross-Strait supply-chain cooperation - Xinhua. Business leaders back broader cross-Strait supply-chain cooperation Xinhua
+
+- **[Business Topic]** A Tempus AI Director Sold Stock Four Days Before a 24% Rally. Here's What to Know - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQVHZkc3UzOURIcHNRNXRMVGpmNGx1Yi1FMjJuUXJvbWtMZHk4SkQ1S1V4VGRlYUo0SUhxV2FJQnZlUnRCR1ROU2thQnF4TmJsWHlfY0sxZmFGTjE4bmRvbWppVlRIcjVzNzdPakRnUi1SQ0xBbGFfcWpVLWtYMlBPeXdxQXdHMHFEVTZyUUVqOVdqbDRiWmRzM3dR?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: A Tempus AI Director Sold Stock Four Days Before a 24% Rally. Here's What to Know - Yahoo Finance. A Tempus AI Director Sold Stock Four Days Before a 24% Rally. Here's What to Know Yahoo Finance Tempus AI CEO Sells 133,000 Shares Ahead of Stock Surge Intellectia AI Tempus AI's Diagnostics Chief Filed Stock Sales Spanning a Volatile Week. Here's What Happened Currently.com Tempus AI's Data Chief Just Filed a Form 4. His Segment Grew 28% Last Quarter. The Motley Fool James William Rogers Sells 22,529 Shares of Tempus AI (NASDAQ:TEM) Stock MarketBeat
+
+- **[Business Topic]** AST SpaceMobile: Tactically Use ASTX To Amplify Returns As Management Executes - Seeking Alpha
+  - Source: Seeking Alpha
+  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPclJiX2NFWENQdS1XbndiTFhUUF9oUVhxTmpqZHpJaUcxZHgxV1hvY1FpUms2cVlkWjBhWGc0M3pSV2JaTk1YdjV3ZDRhWWN6aHR6NVo2c2V2b0trUEpKcF9MRlRLTkxhcnV1QWluUHdRSFpxVm42NDA2WWxSYXE2cW1hN0VZNGh0OTRnR2h5YjZFOElRM3g2dHowVlVuYzdJTDdlbkF5T0FiejZNRUVQeElpQUZSOVlYVGc?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: AST SpaceMobile: Tactically Use ASTX To Amplify Returns As Management Executes - Seeking Alpha. AST SpaceMobile: Tactically Use ASTX To Amplify Returns As Management Executes Seeking Alpha AST SpaceMobile's 800MHz tests 'milestone' for D2D, says AT&T Light Reading Why Is ASTS Stock Rising? FCC Review Of Ligado’s 96-Satellite Spectrum Plan Still Pending Stocktwits AST SpaceMobile Shares Gain Monday: What's Driving the Action? Benzinga AST SpaceMobile’s FCC Test Arrives as Investors Weigh a Costly Q2 Miss Barchart.com
+
+- **[Business Topic]** Watch Chinese AI Models Gain Ground on Price and Use - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNSUdpS0tiMGVkUnV2OHRKZzhYcmQwZzlXTjZkT3VVazJLcnRZZzk4Ri1jQzFNcUNaZkx0MDdlVnh6NHRlLXNhSHByeThSTjFxYnVWVXhwR1J3VWNyTXVCamxkWFBXWU5SdVc5cVhpQ3pMUmFtZVl2b0Q5MjYtUUszM0E2MDhXMnlzVzRndldXR09HalYxakJTV2NpdE5xT2FYQmZJ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Watch Chinese AI Models Gain Ground on Price and Use - Bloomberg.com. Watch Chinese AI Models Gain Ground on Price and Use Bloomberg.com The Mistral paradox: Europe’s push for tech sovereignty relies on China’s Z.ai South China Morning Post America’s NIMBY Problem with China: Open Models, Closed Minds Hudson Institute Test, Standardize, Restrict: A U.S. Policy for Chinese AI Models Just Security Phil Drietz's letter: China is leading in AI and robots West Central Tribune
+
+- **[K24 Digital]** Tielemans getting nutmegged: Talking points and player ratings in Man Utd vs Hull City
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/epl/tielemans-getting-nutmegged-talking-points-and-player-ratings-in-man-utd-vs-hull-city
+  - Draft material: Tielemans getting nutmegged: Talking points and player ratings in Man Utd vs Hull City.
+
+Tielemans getting nutmegged: Talking points and player ratings in Man Utd vs Hull City Manchester United’s Premier League opener got off to the worst possible start as Michael Carrick’s team fell 2–0 to newcomers Hull City at the KCOM Stadium on Saturday, August 22, 2026. The defeat marked the first time in Manchester United’s history that they have lost to a newly promoted side on the opening day of a top-flight season. It also marked their fourth loss in their last seven Gameweek 1 Premier League fixtures, following an opening-day defeat to Arsenal in the 2025/26 season. Tieleman’s nutmegged The Tigers’ second goal came after Belgian midfielder Youri Tielemans was breached by a delicate nutmeg, prompting him to commit a foul for a free-kick, from which Hull scored to double their lead. His and United’s claim for a possible foul in the build-up to the goal also fell on deaf ears. The nutmeg was a moment that encapsulated United’s struggles throughout the match, with Hull looking dangerous on counter-attacks while United dominated possession.
+
+- **[KBC Digital]** Ruto: Kenyans will judge leaders by their track record in 2027
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/ruto-kenyans-will-judge-leaders-by-their-track-record-in-2027/
+  - Draft material: Ruto: Kenyans will judge leaders by their track record in 2027.
+
+President William Ruto has challenged political leaders to let their development record speak for them ahead of the 2027 General Election instead of relying on rhetoric, insults and ethnic politics. Speaking on Saturday at the African Brotherhood Church (ABC) Women of Faith Congress at Scott Christian University in Machakos Town, Ruto said Kenyans will judge leaders by what they have delivered rather than the political narratives they advance. “A leader is measured by the work they do. A leader is not measured by words, insults, hatred or tribalism. Every leader should work hard, and when the time comes, Kenyans will know who has worked,” Ruto said. The President said his administration has pursued development across regions, stating that government projects should not be confined to areas considered political strongholds. “What is happening in the Rift Valley will happen in Eastern, Central, Nyanza and every part of Kenya,” he said. Ruto also renewed his call for an end to divisive politics, urging leaders to use their platforms to unite Kenyans and shun ethnic and political divisions. “We no longer want politics of hatred, tribalism and discrimination.
+
+- **[Kenyans.co.ke]** CSs Make Immediate Changes to NTSA, KWS Leadership
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126415-murkomen-chirchir-make-leadership-appointments-ntsa-kws-fresh-shake
+  - Draft material: CSs Make Immediate Changes to NTSA, KWS Leadership.
+
+Several Cabinet Secretaries have made a series of appointments and reappointments to key state agencies, including the National Transport and Safety Authority (NTSA), the Kenya Wildlife Service (KWS), and the Intelligence Service Complaints Board. Stephen Mutai has been appointed by Roads and Transport Cabinet Secretary Davis Chirchir as a member of the NTSA Board for a three-year term effective August 21. In another key appointment, Professor Erastus Mutembei Kanga has been re-appointed as Director-General of the KWS for a further three years. Kanga will continue leading the wildlife agency after Tourism and Wildlife Cabinet Secretary Rebecca Miano renewed his appointment. At the same time, Interior Cabinet Secretary Kipchumba Murkomen appointed a new leadership team to the Intelligence Service Complaints Board, with Joseph Gitonga Riungu named as Chairperson. Riungu will be joined on the board by Naema Ibrahim Somo, Lawrence Nyalle, businessman and former Homa Bay County gubernatorial aspirant Samwel Owino Wakiaga, and Charity Kagwi Ndung’u, all appointed for three years. On the other hand, Treasury Cabinet Secretary John Mbadi has re-appointed Patrick Kimemia Ndirangu, Lucy Chepkemoi, Amos Simiyu Makokha and Ali Mohamed Haji as members of the Public Procurement Regulatory Board.
+
+- **[Nation Africa]** 30-year ex-PC Cheluget land dispute ends as government buys 5,800 acres for settlers
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/counties/narok/30-year-ex-pc-cheluget-land-dispute-ends-as-government-buys-5-800-acres-for-settlers-5567260
+  - Draft material: 30-year ex-PC Cheluget land dispute ends as government buys 5,800 acres for settlers. Senior government officials confirm that the land transaction has progressed.
+
+- **[Nation Africa]** Three women turn personal struggles into a mentorship movement for Kenyan girls
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/gender/three-women-turn-personal-struggles-into-a-mentorship-movement-for-kenyan-girls-5563448
+  - Draft material: Three women turn personal struggles into a mentorship movement for Kenyan girls. Binti Rising hopes to expand its mentorship model beyond Nairobi and support more young people.
+

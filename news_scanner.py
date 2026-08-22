@@ -147,6 +147,15 @@ def clean_and_strip_paywall_text(text):
     if not text: return ""
     cleaned_text = re.sub(r'<[^<]+?>', '', text)
     cleaned_text = html.unescape(cleaned_text)
+    # Normalize BEFORE pattern matching, not after: real-world CMS content
+    # (Standard Media in particular) frequently uses &nbsp; for spacing --
+    # html.unescape() turns that into U+00A0, not a plain space -- and
+    # curly quotes (&#8217;) instead of straight apostrophes. The literal
+    # spaces and straight "'" baked into PAYWALL_AND_BIO_PATTERNS silently
+    # fail to match across either of those, letting whole boilerplate
+    # sentences slip through untouched.
+    cleaned_text = re.sub(r'\s+', ' ', cleaned_text)
+    cleaned_text = cleaned_text.replace('\u2019', "'").replace('\u2018', "'")
     for pattern in PAYWALL_AND_BIO_PATTERNS:
         cleaned_text = re.sub(pattern, "", cleaned_text, flags=re.IGNORECASE | re.DOTALL)
     cleaned_text = re.sub(r'\s+', ' ', cleaned_text).strip()
@@ -530,10 +539,15 @@ def main():
             
             for index, item in enumerate(clean_suggestions, 1):
                 sensitive_tag = "⚠️ [SENSITIVE] " if item["sensitive"] else ""
-                f.write(f"### {index}. {sensitive_tag}{item['title']}\n")
-                f.write(f"- **Category**: {item['category']}\n")
-                f.write(f"- **Source Link**: {item['link']}\n")
-                f.write(f"- **Snippet**: {item['summary'][:350]}...\n")
+                # Post-ready format: bold headline, then the cleaned summary
+                # as one flowing paragraph directly beneath it (no bullets),
+                # so this can be copied straight into a Facebook post. Link
+                # and category are kept as a light reference line underneath
+                # rather than dropped entirely -- still needed to trace the
+                # story back to its source -- just not styled as metadata.
+                f.write(f"**{index}. {sensitive_tag}{item['title']}**\n\n")
+                f.write(f"{item['summary']}\n\n")
+                f.write(f"_{item['category']} — {item['link']}_\n")
                 f.write("\n---\n\n")
         print(f"[SUCCESS] Saved {len(clean_suggestions)} unique updates to {SUGGESTED_POSTS_FILE}.")
     else:

@@ -1,6 +1,6 @@
-# Kenya News Suggestions - Generated 2026-08-22 22:24:21 EAT
+# Kenya News Suggestions - Generated 2026-08-22 22:42:23 EAT
 
-Scanned lookback gap of 15 minutes. Found 1 unique stories.
+Scanned lookback gap of 18 minutes. Found 2 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
@@ -23,10 +23,17 @@ Scanned lookback gap of 15 minutes. Found 1 unique stories.
 
 ---
 
-### 1. Charlene Ruto, brother George dress to kill as Miss International Kenya is hosted in the wild
+### 1. Forget AI, debt has become the main character on Wall Street as markets just now decided that it's gotten out of control after years of warnings - Fortune
+- **Category**: Business Topic
+- **Source Link**: https://news.google.com/rss/articles/CBMinAFBVV95cUxPcDRPYkl6eUcyQl90NlNYRFV4b29OMmRVd1NuTkdONkQ1UGdNdDh1QjJ6M1d5X1lLRGxwOERnaUZ3RXdBc1JPTENvdnJHWUkxbGlkN1NWbjU3QnhaQ3F2dlJScldlSS1ndlR3bGp3YTdpZ2R0dzdUZjRGT3ItaS16cDFONm5CX3JTcEdQMEd3OWpjSzlWZGFfdk9LU1g?oc=5
+- **Snippet**: Forget AI, debt has become the main character on Wall Street as markets just now decided that it's gotten out of control after years of warnings FortuneAI-driven surge in bond yields could be next risk for markets and growth ReutersWhy the Treasury market’s newfound calm could break down in September MarketWatchNo one saw this coming! LinkedInUS ca...
+
+---
+
+### 2. Bag iko na nduma: Martha Karua gives unexpected answer to viral ‘bag ni ya nini?’ question
 - **Category**: K24 Digital
-- **Source Link**: https://k24.digital/entertainment/celebrity/charlene-ruto-brother-george-dress-to-kill-as-miss-international-kenya-is-hosted-in-the-wild
-- **Snippet**: First Daughter Charlene Ruto and her brother George Ruto stepped out in stylish ensembles as Miss International Kenya...
+- **Source Link**: https://k24.digital/entertainment/celebrity/bag-iko-na-nduma-martha-karua-gives-unexpected-answer-to-viral-bag-ni-ya-nini-question
+- **Snippet**: People’s Liberation Party (PLP) leader Martha Karua has responded to the viral Gen Z question, “Bag ni ya...
 
 ---
 

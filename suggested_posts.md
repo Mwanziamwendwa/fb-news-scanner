@@ -8934,3 +8934,177 @@ Kenya Power explains why it keeps carrying out routine maintenance on transforme
 
 Apostle Dan Wema heartbroken as young Kakamega man he stood by through cancer is buried Philanthropist and Facebook influencer Apostle Dan Wema has mourned young Kakamega man Erick, whom he had supported through his battle with cancer, following his burial on Friday, August 21, 2026. In an emotional post following the burial on Friday, August 21, 2026, Wema described Erick’s death as a painful end to a battle he had closely followed. “And that is how cancer took our brother Erick… Bye-bye, bro,” Wema wrote. He also expressed disbelief at the young age at which Erick died, noting that he was born in 2001. “Cancer will one day die… Imagine kijana wa 2001 akatuacha,” Wema wrote. Erick’s treatment Before Erick’s burial, Wema had shared details of the arrangements and revealed the extent to which he had become involved in supporting the young man and his family. In an update issued five days before the burial, Wema said he had personally committed himself to ensuring that Erick received a decent and dignified send-off.
 
+## Scan run: 2026-08-22 08:03 (Nairobi time)
+
+- **[Taifa Leo]** Gachagua ataka FBI ichunguze ajali ya ndege iliyomwangamiza Ng’eno
+  - Source: Taifa Leo
+  - Link: https://taifaleo.nation.co.ke/habari/gachagua-ataka-fbi-ichunguze-ajali-ya-ndege-iliyomwangamiza-ngeno/
+  - Draft material: Gachagua ataka FBI ichunguze ajali ya ndege iliyomwangamiza Ng’eno.
+
+Gachagua ataka FBI ichunguze ajali ya ndege iliyomwangamiza Ng’eno ALIYEKUWA Naibu Rais, Rigathi Gachagua ametaka maafisa kutoka Scotland Yard ya Uingereza na Shirika la Upelelezi la Amerika (FBI) waalikwe nchini kuchunguza ajali ya helikopta iliyomuua aliyekuwa Mbunge wa Emurua Dikirr Johana Ng’eno na watu wengine watano. Bw Gachagua alisema Idara ya Upelelezi wa Jinai (DCI) na Mamlaka ya Usafiri wa Anga Kenya (KCAA) haziwezi kufanya uchunguzi huru kutokana na maswali mengi ambayo yameibuliwa kuhusu ajali hiyo. Alisema hayo Ijumaa alipomtembelea mama wa marehemu Ng’eno, Bi Mary Temas, katika kijiji cha Mogondo, Kaunti ya Narok. “Hatuna imani na polisi wa Kenya na idara nyingine katika suala hili,” alisema Bw Gachagua, akimtaka Rais William Ruto kuwaalika wachunguzi kutoka Uingereza na Amerika. Ajali hiyo ilitokea Februari 28 katika kijiji cha Chepkiep, eneo bunge la Mosop, Kaunti ya Nandi. Iliwaua Bw Ng’eno, rubani George Were, mpiga picha Nick Kosgei, afisa wa Huduma ya Misitu Kenya (KFS) Amos Kipngetich Rotich, mwalimu Carlos Robert Kibet Keter na afisa wa itifaki katika Serikali ya Kaunti ya Narok Wycliff Kiprotich Rono. Bw Gachagua alisema familia ya marehemu na Wakenya wana haki ya kufahamishwa ukweli kuhusu kilichosababisha ajali hiyo ili kuondoa shaka iliyopo.
+
+- **[Taifa Leo]** Walinzi wa Nassir wadaiwa kufyatulia vijana risasi
+  - Source: Taifa Leo
+  - Link: https://taifaleo.nation.co.ke/habari/walinzi-wa-nassir-wadaiwa-kufyatulia-vijana-risasi/
+  - Draft material: Walinzi wa Nassir wadaiwa kufyatulia vijana risasi.
+
+Walinzi wa Nassir wadaiwa kufyatulia vijana risasi WATU watatu walijeruhiwa baada ya walinzi wanaodaiwa kuwa wa Gavana wa Mombasa, Abdulswamad Nassir kufyatua risasi katika hafla ya umma katika Uwanja wa Bomu, Changamwe, Mombasa, Ijumaa alasiri. Tukio hilo lilitokea wakati wa mkutano wa kuhamasisha wananchi kuhusu mpango wa Biashara Mtaani, unaoendeshwa kupitia Hazina ya Mzunguko ya Kaunti ya Mombasa kwa wakazi wa Changamwe na Jomvu. Kamanda wa Polisi wa Kaunti ya Mombasa, Stella Cherono alisema uchunguzi umeanzishwa na akawataka wote wenye taarifa kutoa kwa polisi. “Tunachunguza tukio ambapo watu watatu walipigwa risasi na kujeruhiwa katika Uwanja wa Bomu. Tunawaomba wahusika wote kutoa taarifa uchunguzi ukiendelea,” alisema Bi Cherono. Alisema vijana hao watatu walijeruhiwa kwa risasi na kukimbizwa katika kituo cha afya kilicho karibu, huku baadhi wakihamishiwa katika Hospitali ya Coast General kwa matibabu zaidi. Walioshuhudia walisema kundi la vijana lilimsogelea gavana likiimba “Wantam”, na walinzi wake wakaingilia kati na kufyatua risasi kadhaa. Afisa mmoja aliyekuwa kwenye hafla hiyo alisema polisi waliokota maganda kadhaa ya risasi eneo la tukio. Mwanaharakati wa haki za binadamu, Francis Ouma alilaani tukio hilo na kutaka uchunguzi kufanywa kuhusu matumizi ya bunduki dhidi ya raia. Alitaka IPOA kuchunguza na kubaini waliowafyatulia risasi vijana hao.
+
+- **[Taifa Leo]** Ajabu mapanga sasa yakigeuzwa silaha kali ya wahuni
+  - Source: Taifa Leo
+  - Link: https://taifaleo.nation.co.ke/habari/habari-za-kitaifa/ajabu-mapanga-sasa-yakigeuzwa-silaha-kali-ya-wahuni/
+  - Draft material: Ajabu mapanga sasa yakigeuzwa silaha kali ya wahuni.
+
+Ajabu mapanga sasa yakigeuzwa silaha kali ya wahuni MAPANGA yanabadilishwa kutoka zana ya kawaida ya shambani kuwa silaha ya kutisha na kuwashambulia watu, huku ripoti ya kijasusi ikifichua kuwa angalau mapanga 500 yalisambazwa kwa vijana waliozua vurugu wakati wa ziara ya Linda Mwananchi, Homa Bay. Huku joto la kisiasa likipanda kuelekea uchaguzi mkuu wa 2027, vijana wanaobeba mapanga katika mikutano ya hadhara na makabiliano ya kisiasa wamekuwa chanzo cha wasiwasi. Zana iliyokuwa ikitumika hasa mashambani sasa inatumika kama silaha ya vitisho na vurugu. Baadhi ya vijana hata wameunda utamaduni wa mapanga, wakitumia nyimbo na densi kama mapangale, inayoiga kitendo cha kutumia panga kukata au kucharaza. Hali hii inazua swali: Ni rahisi kiasi gani kununua mapanga kwa wingi, na je, Kenya ina sheria za kutosha kudhibiti uuzaji wake? Kwa sasa hakuna mfumo maalum wa leseni unaohitaji kibali ili mtu anunue au kumiliki panga kwa kuwa inatambuliwa kama kifaa cha kilimo na matumizi ya nyumbani. Hata hivyo, inaweza kugeuka haraka kuwa silaha hatari ikitumiwa na mtu mwenye nia mbaya. Mara kadhaa, maafisa wa usalama wamewakamata watu wakisafirisha idadi kubwa ya mapanga yanayoshukiwa kunuiwa kutumiwa katika makabiliano.
+
+- **[Standard Politics]** Kariuki warns against divisive politics as Mt Kenya weighs 2027 direction
+  - Source: Standard Politics
+  - Link: https://www.standardmedia.co.ke/politics/article/2001555908/kariuki-warns-against-divisive-politics-as-mt-kenya-weighs-2027-direction
+  - Draft material: Kariuki warns against divisive politics as Mt Kenya weighs 2027 direction.
+
+Ndia MP George Kariuki has called for a new political approach in Mt Kenya, warning residents against leaders he accuses of using insults, ethnic rhetoric and divisive politics at a time when the region is seeking to secure its interests ahead of the 2027 General Election. Kariuki accused DP Kithure Kindiki and Public Service Cabinet Secretary Ruku of pursuing what he described as efforts to divide the Mt Kenya region, while also dismissing former Deputy President Rigathi Gachagua's political style as unsuitable for a region seeking to strengthen its relationships with other communities. Premium Article Uncover the stories others won't tell. Subscribe now for exclusive access. Continue Reading → What you get - Unlimited access to all premium content - Ad-free browsing experience - Mobile-optimised reading - Weekly newsletters & digests Pay via M - PESA VISA Airtel Money Secure Payments Kenya's most trusted newsroom since 1902 Already a subscriber? Log in to continue
+
+- **[Kenya Latest]** Floods with a chance of diseases - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxOUTBYVkt1M0FYak1VbThBLVNkY2JLTGNHRWk2UGswdFZma0tDYUJLODRNb0ZtY01aeEI4bklaZkcwdjlkZlJUTndtanpvMWtMeFFZSHZXZkNEdkVMenZ0MGJfZVBuVV9MX19pbmdMeFB0YnNqTTYyVUVJSHA3WUk0bFBtaw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Floods with a chance of diseases - Daily Nation. Floods with a chance of diseases Daily Nation
+
+- **[Kenya Latest]** From ‘white gold’ to ruins: Why Kenya’s pyrethrum industry collapsed - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcUprc09yS3E3TkY5S3pfSHpUSFIyd2o2c3hjQWZ5Y2g1eVM1dDR6ZzZSRHFwLVhyMWN1SUR2dEtBUThNMkpNUmR2TUYtX2k5WTBCOFJqQ3IycmJMcy1pekxuRnJYWW5uaDBoMkUwTUl5WC01aHhjUDNZVWJJa1hnZXdNb1dIUV9rSUJGR2gtTWhXV1RNTC1jQk1iQUtyWXNoNk1lalRuTkhSQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: From ‘white gold’ to ruins: Why Kenya’s pyrethrum industry collapsed - Daily Nation. From ‘white gold’ to ruins: Why Kenya’s pyrethrum industry collapsed Daily Nation
+
+- **[Kenya Latest]** Gachagua’s new skin? Ex-DP steps up national push to shed ‘Mt Kenya man’ tag - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWW8wTlBWVU9acXlyb2VaQ3hGeGRmMlQtNFlMdk5adllFZFNsMmtVcjZPZWpVV1A1RUYyMGlNdzBtYjBnMEtneUNRRk9iTWZjX08xVVVoM0JnN1BsSXVSNS1jdHktVjdOWVgwbUs3YUhrcnZ2RGY5MEVhZTU0NGpHV1BiVDRKVk42NUk1d3daSDhZTHV2SC1ZQXk5M0gtZkdmcm53MFRrT0NFYmpoeUFIck5vMU9SZERSMDBWVk1US00?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Gachagua’s new skin? Ex-DP steps up national push to shed ‘Mt Kenya man’ tag - Daily Nation. Gachagua’s new skin? Ex-DP steps up national push to shed ‘Mt Kenya man’ tag Daily Nation "Wewe hutapatiwa nafasi ya DCP": Gachagua mad after aspirant's car disrupts him Tuko News Gachagua's convoy attacked in Nakuru Citizen Digital Maraga puts govt on notice ahead of Linda Mwananchi Homa Bay tour People Daily DCP Nakuru tour: Gachagua’s day two itinerary the-star.co.ke
+
+- **[Politics]** Inside Linda Mwananchi party headache as Sifuna hints at new name - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkk4UDFtWFpwT3Q2TDRnSzlsLTB3a1htcDZDUnZMSm1QVWp0Q0ZtSzJ5ZFdoVXBJRnI1bVhIMm80b2tIaUxVbWdDcFZSUW5sbnNZYXFTU1NMLTE1bmpDeC04ZHFiQmNVZWFYXzlkN1Z3eG5lLWZCTk95RVFJXy03OUJLYnlZcjFlMlYwMWw0aTNzNGJDekp0aG9nZGdENkNqVzF6a3hBdWs4aTRhN3pZVm9Qczk2dw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Inside Linda Mwananchi party headache as Sifuna hints at new name - Daily Nation. Inside Linda Mwananchi party headache as Sifuna hints at new name Daily Nation
+
+- **[Business Topic]** Safaricom responds after users report nationwide network connectivity issues - People Daily
+  - Source: People Daily
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOckhUY2JScVlyS0NJWFUtQlNNTERGNmpSbHVwUFZKdmhfb2R1b1BFZ09qUUpsbFg4T0tScWRZQlJBQm9uME1aX3QyRExTaUFaZHEzU2hIanp3S0QzYmZ4QUZCRVR4VHJHOFlIQXBRZW5LT3g5elkwdS10Z1hBc0ZpdkJnMl8wa3luUnFYZElsYmZUTGxCcjdDT19HQThoVjVXMXpJYmlvaVRYT04zOEhnV0dEQQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Safaricom responds after users report nationwide network connectivity issues - People Daily. Safaricom responds after users report nationwide network connectivity issues People Daily
+
+- **[Business Topic]** China's upgraded high-altitude wind power project that extracts clean energy from stratosphere completes test - Global Times
+  - Source: Global Times
+  - Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hb2d0VlQ0WFdnOWJPMWNrNG5RRnF1d05ZR0tlcGNNSlpMWmJHb1NCRFItSVhjcGlhd1VRMWJfeE9QelNVWldET0R1M0tETFZiTDJvRThkZWFlZXZyYkVSM2Nn?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: China's upgraded high-altitude wind power project that extracts clean energy from stratosphere completes test - Global Times. China's upgraded high-altitude wind power project that extracts clean energy from stratosphere completes test Global Times
+
+- **[Business Topic]** Michael Polansky is training an AI model on skin that’s still alive - TechCrunch
+  - Source: TechCrunch
+  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXgwcGtqWjFOSDJMZm5LbVJxeGk4S2QzSnZuVFRXSXpLUk9hc1VZaTl3WVFud2RvejlrV3lzcHNPQV9hZ2V3R0k4bEcyQmNsOXdyUmJVVXRDZG1ZZVJhWmVjYmxTMGNPSnJHekVxd0dCcFJITjBxNFpldy14NHlPcUNLZm5YTVlrMXcwMWpyUXRKSGl6a2JmYVlWRzFIUGt0RWRj?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Michael Polansky is training an AI model on skin that’s still alive - TechCrunch. Michael Polansky is training an AI model on skin that’s still alive TechCrunch
+
+- **[Business Topic]** Japanese space tech startup Letara expands beyond satellite thrusters with $16M - TechCrunch
+  - Source: TechCrunch
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFhGQkxWLXJaUWhwOF9zZVBOdUZiZllrckh6N0RSMzRoWERGN0c2VXJfNlZUZll5M1RDMFhUODlfN1c5dWpGRmY4TFpjNHVuOTg5WXJuQXltcUR6R0RERjU1dFFWUF9iNnBpN2ZKekJJOUpCVDgzb3ZmQWd2TndxMUhvdnpmN2xsMkRnZUFGZVV3WW1YeGw3MjJPSHR1NnpienRGYzFlVE1XRy0tN2FFZDR2QQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Japanese space tech startup Letara expands beyond satellite thrusters with $16M - TechCrunch. Japanese space tech startup Letara expands beyond satellite thrusters with $16M TechCrunch Letara Raised $16 Million for Hybrid Missile Systems UA.NEWS Japanese Startup Letara Raises $16 Million to Develop Larger Hybrid Rocket Systems Межа. Новини України.
+
+- **[Business Topic]** BMO (TSX:BMO) Stock Looks Near Fair Value As Its 144% Run Cools - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxOZW9vU0l5VlFiR2dPTWpaVHFCeWN5eWtWcjBIVmlfcU1qMFdPZWU3aXZIejFsQlpKRFVXRW1BYWhrVXJMWHdoSzJvS09fdnpWU0dQaUZPcFRXc0swdDJyYXVHTWRHNWpOR2FwM1FzMmNOUnYzd0FjWjhVY1pIUk0wSTVTU0h4c0FoNTFYUXNuaWcxZw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: BMO (TSX:BMO) Stock Looks Near Fair Value As Its 144% Run Cools - Yahoo Finance. BMO (TSX:BMO) Stock Looks Near Fair Value As Its 144% Run Cools Yahoo Finance See more headlines and perspectives on Google News
+
+- **[Business Topic]** The Trump economy: $40tn debt, 6.7% mortgages and $5 diesel - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxQSEZfOUdEQkQ5dzdFU0VtOHNtSFNVcXlLWHdiSWpRQXprbS1WVldJalFEUWVuZ0pJakZ6ZGcwTDdwUVFWZVgyMUxvWjBvWlpVbGN4Qk1pM3pZckJNNXNtejFCU09zNGRtR3NsSTVtMTllZTJCZDlLdlI3TVY2b2g0bm1SZFA?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: The Trump economy: $40tn debt, 6.7% mortgages and $5 diesel - Financial Times. The Trump economy: $40tn debt, 6.7% mortgages and $5 diesel Financial Times US debt has hit $40tn - Will that be a wake-up call? BBC US debt crosses $40 trillion threshold after doubling under Trump and Biden Reuters U.S. Debt Hits $40 Trillion as America’s Borrowing Binge Continues The New York Times U.S. fiscal policy potholes RBC Wealth Management
+
+- **[Business Topic]** The man selling the Lakers: Mark Walter’s unravelling empire - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOUjFhbS01RDk0aEoyc2FnLWxlc0F5empPRGh0M0dCeEkyNjVucUVta2ZBR3JWVUVXejluVWw1NnNnNEZ4TFdmWmI4NE11TXhjZjNYc1Bub2FHakI5aG40aWFIMzE1Z3V1VnFsWWhMVkxuWlduOVdiQjlLazNnelZMaVNRYk8?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: The man selling the Lakers: Mark Walter’s unravelling empire - Financial Times. The man selling the Lakers: Mark Walter’s unravelling empire Financial Times Exclusive | Prosecutors Focus on Four Businesses Tied to Dodgers Owner Mark Walter WSJ Amid federal scrutiny, Dodgers owner Mark Walter’s empire shifting billions The New York Times Dodgers owner Mark Walter's insurer to cut $6.5 billion in investments amid probe Reuters To Probe Mark Walter’s Business, DOJ Sought Egan-Jones’ Records Bloomberg.com
+
+- **[Business Topic]** How Germany's doctors, lawyers and dentists got burnt by private markets bets - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDVUci0zMWc0eC1IelR3NjRTVkNIaTdyVUd3ZGNsdEVVdGtWd1pwdEp5Z2g2c3B6cm45SUstNGdTUlhXVTFvNTI2VHRRTmR4Z3lOVmF3THdpV1hJV0xNSDBJQnVFbzh0QWx3VVI5S3gtbTVLYm4zWjdlejVDRXhuUnFIWXQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: How Germany's doctors, lawyers and dentists got burnt by private markets bets - Financial Times. How Germany's doctors, lawyers and dentists got burnt by private markets bets Financial Times
+
+- **[Business Topic]** Chinese durian lovers rejoice as better logistics send prices lower - South China Morning Post
+  - Source: South China Morning Post
+  - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWkNIc2puaWVTeEMyN1VGVUo1R0tpRGotVUUtYlhkc2FwN2ZBSHlFQ3dVVG1kamRCVWh4cnZQMl9nd3ZFVWdiVVVoNnFmR2VsQmo4SkhKY3hLaElFcHI1WHVpQWRLeFJOd3dleHlRWE9VSGhHOUJLSjFCRkowSUtiOXhwNFVILUkxbkNYNjZFLWpBNHZTSXdGeGpwb2FaLWlrQUtrYTNZanBEVVRKaEZBRzgxanlzWUFyeEdxV3p1amctc01hVk5aVHFkb3NWVDBCZlZnVTctQdIB1wFBVV95cUxNQnhfNTVCQ1p0VjI3TXY4SDhVUTh4WVlkaVNEaW82NGMtSGVPMWNYZFFYeTRFc3l5d2Z5cnBVcGpPQ1NKeDlCZURuY1pabFNOV3VGQ01Rd3RxbENxdG5zZFdRSVFCcEc4MEkyR2JBRC0ycHpzeG9UWEt1bmdUalVZYUM3Q2twZy13LU9xZXpDSXQ1ZTFOaDB1X0JpSm9kcDVTalhTMmx3LXl2MktyXzV3cTNVbWhZR19kSEl6NVhDUm04cnAzczR0dVRsTVZkVWMtYjNkOXpiNA?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Chinese durian lovers rejoice as better logistics send prices lower - South China Morning Post. Chinese durian lovers rejoice as better logistics send prices lower South China Morning Post
+
+- **[Nairobi Leo]** Eric Mugaa Murithi: Kenya’s Youngest CS Putting Water Engineers to Task
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/features/article/29684/eric-mugaa-murithi-kenyas-youngest-cs-putting-water-engineers-to-task
+  - Draft material: Eric Mugaa Murithi: Kenya’s Youngest CS Putting Water Engineers to Task.
+
+At 32 years of age, Eric Mugaa Murithi became the youngest Cabinet Secretary in President William Ruto’s Cabinet. An engineer by training, Mugaa has made inspections of water and irrigation projects a visible part of his tenure, with several visits featuring pointed questions to engineers and contractors about the quality, progress and operation of projects under his ministry. In some of those inspections, the questions have gone beyond general updates. Muuga has challenged technical explanations, questioned contractors over timelines and, in some cases, identified specific shortcomings in the works being implemented. Here are five instances that illustrate that approach: K’obong’o Irrigation Project - Nyando, Kisumu County Read More On 26 February 2026, Mugaa broke ground for the K’obong’o Irrigation Project in Nyando Sub-County, Kisumu County. The project is intended to irrigate 1,000 acres and benefit 240 households. Its works include rehabilitation of the intake, installation of new pumps and development of a water-distribution network. During the launch, Mugaa engaged the site's engineers over conflicting information about the pumps. He asked how many pumps were installed, how many were operational, how many were being installed and how many were undergoing rehabilitation.
+
+- **[K24 Digital]** Term 3 is only nine weeks: Exam preparation tips for KPSEA, KJSEA and KCSE candidates
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/term-3-is-only-nine-weeks-exam-preparation-tips-for-kpsea-kjsea-and-kcse-candidates
+  - Draft material: Term 3 is only nine weeks: Exam preparation tips for KPSEA, KJSEA and KCSE candidates.
+
+Term 3 is only nine weeks: Exam preparation tips for KPSEA, KJSEA and KCSE candidates Term 3 in Kenya’s school calendar is only nine weeks, but it is a crucial period for candidates preparing for the Kenya Primary School Education Assessment (KPSEA), Kenya Junior School Education Assessment (KJSEA) and Kenya Certificate of Secondary Education (KCSE). With limited time remaining, focused revision, discipline and proper planning can make a significant difference. Create a realistic revision timetable Divide the nine weeks into three phases. Use the first three weeks to identify and cover syllabus gaps, weeks four to six for intensive practice with past papers and sample questions, and the final three weeks for timed mocks, weak areas and light revision. Give each subject enough attention based on your strengths and weaknesses, while leaving room for school activities and unexpected commitments. A realistic timetable is more useful than one that is impossible to maintain. Focus on active revision Avoid spending most of your time simply reading notes. Use mind maps, flashcards and short summaries, explain difficult concepts to a classmate and answer questions without looking at your notes.
+
+- **[K24 Digital]** World Plant Milk Day: How plant-based drinks compare with dairy milk
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/food-and-culinary/world-plant-milk-day-how-plant-based-drinks-compare-with-dairy-milk
+  - Draft material: World Plant Milk Day: How plant-based drinks compare with dairy milk.
+
+World Plant Milk Day: How plant-based drinks compare with dairy milk As the world marks World Plant Milk Day on August 22, 2026, many families are rethinking what goes into their morning cup of tea or porridge. Fresh cow milk has been the king of the Kenyan breakfast table for generations. However, with more people discovering they are lactose intolerant, plant milks are quickly taking up space in local supermarket fridges. Choosing between regular dairy and plant alternatives like soy, oat, or almond comes down to what your body actually gets from each glass. How nutrients compare in your cup Fresh cow milk naturally carries about 3.3 grams of protein in every 100 millilitres, alongside easy-to-absorb calcium that builds strong bones. When you look at plant options, soy milk comes closest to matching dairy because it contains complete proteins that help repair body tissues. On the other hand, almond and oat milks usually offer much less protein, often giving you less than one gram per glass.
+
+- **[K24 Digital]** Passport bribery: How much Kenyans pay to get their document faster and the risks involved
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/passport-bribery-how-much-kenyans-pay-to-get-their-document-faster-and-the-risks-involved
+  - Draft material: Passport bribery: How much Kenyans pay to get their document faster and the risks involved.
+
+Passport bribery: How much Kenyans pay to get their document faster and the risks involved For many Kenyans, obtaining a passport is supposed to be a straightforward government service: apply through the official eCitizen platform, pay the prescribed fee, submit biometric details and wait for the document to be processed. In reality, however, long delays, backlogs and uncertainty over processing times have created an informal market for people seeking to get their passports faster. Applicants facing urgent travel, employment, education or family commitments have reported paying brokers and corrupt officials thousands of shillings to bypass delays and move their applications through the system. The shortcut, however, can come at a far greater cost than the bribe itself. The official cost of a Kenyan passport The official cost of a standard 66-page ordinary Kenyan passport is Ksh12,500. That is the amount applicants are expected to pay through official government channels. Yet corruption surveys and recent enforcement cases suggest that some applicants are asked to pay substantial additional amounts to have their applications processed more quickly.
+
+- **[K24 Digital]** Arteta eager to build on Coventry win as Arsenal aim to defend EPL title
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/epl/arteta-eager-to-build-on-coventry-win-as-arsenal-aim-to-defend-epl-title
+  - Draft material: Arteta eager to build on Coventry win as Arsenal aim to defend EPL title.
+
+Arteta eager to build on Coventry win as Arsenal aim to defend EPL title Mikel Arteta is pleased with Arsenal’s impressive start to the 2026/27 season and is looking forward to using the upcoming break between matches to further develop his team. The Gunners made it two consecutive 3-0 victories within five days after comfortably overcoming Coventry City at Emirates Stadium on Friday night, August 21, 2026. Their campaign had begun with an equally convincing Community Shield triumph over Manchester City in Cardiff, setting the tone for a promising season. Against Coventry, Arsenal quickly established control by taking a two-goal advantage before Martin Odegaard completed the scoring shortly after the interval. Their performances have been marked by efficient finishing, defensive solidity and a strong collective understanding. Arteta is particularly encouraged by the manner in which his team has adapted despite several players returning late from the World Cup, while a number of new arrivals are still becoming accustomed to the squad. 10-day break Arsenal now face a 10-day wait before returning to action against Aston Villa on Monday Night Football, August 31, 2026.
+
+- **[K24 Digital]** PHOTOS: Pilot of chopper that crashed in Samburu was a cheerful young man who loved adventure
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/photos-pilot-of-chopper-that-crashed-in-samburu-was-a-cheerful-young-man-who-loved-adventure
+  - Draft material: PHOTOS: Pilot of chopper that crashed in Samburu was a cheerful young man who loved adventure.
+
+PHOTOS: Pilot of chopper that crashed in Samburu was a cheerful young man who loved adventure Josh Outram, the pilot of the ill-fated helicopter that crashed in Samburu on Wednesday, August 19, killing all seven people on board, including five US nationals, was an aspiring young man whose seemingly vibrant life was abruptly cut short by the tragic accident. His Facebook page, which bears the name Josh Basil Outram, offers a glimpse into the life he lived, with photographs and videos capturing his adventures across Kenya and abroad, moments with friends and family, and quieter occasions when he appeared to simply be enjoying life away from the demands of his profession. His final post on the page was a video capturing a breathtaking view from one of his flights above a popular lake in Kenya, where a flock of birds suddenly took flight beneath the helicopter, creating a striking spectacle that appeared almost as though it had been lifted from a wildlife documentary.
+
+- **[K24 Digital]** Karangu Muraya’s brother who sells chapati in Mwiki gifted land days after appeal for help
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/karangu-murayas-brother-who-sells-chapati-in-mwiki-gifted-land-days-after-appeal-for-help
+  - Draft material: Karangu Muraya’s brother who sells chapati in Mwiki gifted land days after appeal for help.
+
+Karangu Muraya’s brother who sells chapati in Mwiki gifted land days after appeal for help Facebook influencer and philanthropist Karangu Muraya’s brother Karuga appears to be the new owner of a parcel of land, if photos he shared after being handed a title deed are anything to go by. Karuga, who has been trending after appealing to Kenyans to support his chapati business based in Mwiki, shared the photos on TikTok on Friday, August 21, 2026, as he thanked God and said his life was beginning to change step by step. In one of the photos, Karuga is seen inside the offices of a popular real estate company, where he met one of its officials who handed him the title deed. In other photos, he is seen posing alongside other company officials while holding the title deed, appearing to celebrate the moment. The photos left his fans congratulating him, with some encouraging him to keep pushing as they said his determination was slowly being noticed and rewarded. “Semeni wabarikiwe sana,” he wrote while tagging the real estate company.
+
+- **[Kenyans.co.ke]** NPS Announces Officer Deployment Plan Ahead of 2027 Elections
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126400-nps-prepares-10000-new-officers-deployment-ahead-2027-elections
+  - Draft material: NPS Announces Officer Deployment Plan Ahead of 2027 Elections.
+
+The National Police Service (NPS) has announced that it is preparing to add 10,000 newly trained officers to its ranks as part of efforts to strengthen security ahead of the 2027 General Election. The confirmation came during an oversight visit to the National Police Service Training College in Kiganjo, Nyeri County, on Friday, August 21, by the National Assembly Departmental Committee on National Administration and Internal Security. According to Deputy Inspector General of Police Eliud Lang’at, the recruits are expected to graduate from the college on August 28, marking their formal entry into the service. He said the timing of the deployment is important as the country moves closer to the next election, when police will be required to manage heightened security demands. “The recruitment comes at a critical time as the country heads towards the 2027 elections, when increased security interventions will be required,” the DIG stated. Lang’at explained that the additional personnel will help ease staffing pressures caused by years of limited recruitment and a decline in officer numbers.
+
+- **[Kenyans.co.ke]** Johana Ng'eno's Brother Dies Hours After Gachagua Promise
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126398-paul-ngeno-brother-late-emurua-dikirr-mp-johana-ngeno-dies
+  - Draft material: Johana Ng'eno's Brother Dies Hours After Gachagua Promise.
+
+Paul Ng’eno, brother of the late Emurua Dikirr MP Johana Ng’eno, has died after a long illness, the family has confirmed. Paul died on Friday, August 21, just hours after former Deputy President Rigathi Gachagua visited his family and committed to settling his Ksh1.8 million hospital bill. According to the family, Paul had been battling an illness for an extended period and was receiving medical treatment in Eldoret when he died. Reports indicate that the brother of the late MP had been receiving treatment following a motorbike accident some time ago that affected his spinal cord and throat area. He underwent surgery recently and was reportedly stable as he was being prepared for discharge. “Unfortunately, his condition deteriorated a few hours ago, and he sadly passed away this evening,” the family stated. Paul’s death comes 174 days after his younger brother Johana died in a fatal helicopter crash on February 28. On February 28, Johana Ng’eno tragically died alongside five other people when the helicopter they were travelling in crashed in Nandi County. The Airbus H125 went down at about 4:45pm in Chepkiep Village, Mosop Sub-County, amid heavy mist and poor weather conditions.
+
+- **[Kenya Latest]** Sifuna’s team heads to court, plots next move in Machakos - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGFNRWpqa1dvU0ExajN5azBobkVVaTdXX3VtUm1NZnV5dEtiNWRaNGJnTTZZc2pYWjFDT2ZGd3dwcDJzY0ZadU8xRGFVMnNVSTNSeVQ3dldqZTRjd1Qta0dHOTgzMWRtQ05kTnQ4UkR6eWxLbmFVRmx0NFVxdkJNbnlUTDFRRXN4Q2lLQmtUOGlCNEd0Rm1mU2xTR0FQUW8?oc=5
+
+- **[Kenya Latest]** Goons, gangs: What Homa Bay violence signalled about Kenya’s 2027 elections - The EastAfrican
+  - Source: The EastAfrican
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPbEpWOUxBVHhmQ2wzUWtvTE9fV3RuQ0F6RGtPcUZJVGZwOC0wQ2NYcy1vamI5emtyWmh2elRaX1pyWDN5VU1CN1VyS0JxaFdBQlpDa3E4dGxoVEhJM1ZRNFhUMFE5U2JWb3FRdF94ZXZxYlo4cWw2X0laNXZlbHZpc01QcW1sdEUwcGZ2VjFXdWxHZFprSVBKb0ppVlhGUGZIb0laN1Q5MU5KY2wzQ09MUg?oc=5
+
+- **[Business Topic]** See How China Weathered the Iran Oil Shock - WSJ
+  - Source: WSJ
+  - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNaEhzdTlmdjZ2WS1MS3FyY21JRk1OaUpkV0RlVEZ6dHZrbU43YXZERkZKLTZCaGpKaFNZNjZUdlEzaUxaREhfYmVXdTZfemh5TkRGQmllM3FiWTVvRjNma1FuMXZlZnIzLXdqQUdQTnp4V1FUMVpTZWU1QmxleHBqQVFYeGdIeEh2aldxTG0za2RJZmpwVWc?oc=5
+
+- **[Business Topic]** UK recruiters rebound despite European jobs weakness - Financial Times
+  - Source: Financial Times
+  - Link: https://news.google.com/rss/articles/CBMicEFVX3lxTE5WVklWeXdHSHQ2X19YemlSUXJiZkJ3WG5iSmpqZExfTGNWRGRXazE5WFJVbUtWdFQzUEY2OGljUzhBZHNSaWdLUnJpLW41Sk5QeTcwMkUzSUZ0U3Z4X0o5eFhycWRfZktfcGpmLUVYTFY?oc=5
+

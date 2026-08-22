@@ -1,33 +1,18 @@
-# Kenya News Suggestions - Generated 2026-08-22 23:08:32 EAT
+# Kenya News Suggestions - Generated 2026-08-22 23:44:50 EAT
 
-Scanned lookback gap of 15 minutes. Found 1 unique stories.
+Scanned lookback gap of 23 minutes. Found 1 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
 - **Ghafla KE** (url_variant): `https://ghafla.co.ke/ke/feed` → `http://ghafla.co.ke/ke/feed`
-- **Kenya News Agency** (google_news_search_fallback): `https://www.kenyanews.go.ke/feed/` → `https://news.google.com/rss/search?q=Kenya%20Kenya%20News%20Agency&hl=en-KE&gl=KE&ceid=KE:en`
-- **Mwakilishi** (google_news_search_fallback): `https://mwakilishi.com/feed` → `https://news.google.com/rss/search?q=Kenya%20Mwakilishi&hl=en-KE&gl=KE&ceid=KE:en`
-- **Sharp Daily** (google_news_search_fallback): `https://sharpdaily.co.ke/feed/` → `https://news.google.com/rss/search?q=Kenya%20Sharp%20Daily&hl=en-KE&gl=KE&ceid=KE:en`
-- **KenyaMOJA** (google_news_search_fallback): `https://www.kenyamoja.com/news/nairobi-leo/feed` → `https://news.google.com/rss/search?q=Kenya%20KenyaMOJA&hl=en-KE&gl=KE&ceid=KE:en`
-- **Getembe Latest** (google_news_search_fallback): `https://getembetv.co.ke/rss/latest-posts` → `https://news.google.com/rss/search?q=Kenya%20Getembe%20Latest&hl=en-KE&gl=KE&ceid=KE:en`
-- **Getembe News** (google_news_search_fallback): `https://getembetv.co.ke/rss/category/news` → `https://news.google.com/rss/search?q=Kenya%20Getembe%20News&hl=en-KE&gl=KE&ceid=KE:en`
-- **Getembe Business** (google_news_search_fallback): `https://getembetv.co.ke/rss/category/business` → `https://news.google.com/rss/search?q=Kenya%20Getembe%20Business&hl=en-KE&gl=KE&ceid=KE:en`
-- **Getembe Education** (google_news_search_fallback): `https://getembetv.co.ke/rss/category/education` → `https://news.google.com/rss/search?q=Kenya%20Getembe%20Education&hl=en-KE&gl=KE&ceid=KE:en`
-- **Getembe Politics** (google_news_search_fallback): `https://getembetv.co.ke/rss/category/politics` → `https://news.google.com/rss/search?q=Kenya%20Getembe%20Politics&hl=en-KE&gl=KE&ceid=KE:en`
-- **Getembe Health** (google_news_search_fallback): `https://getembetv.co.ke/rss/category/health` → `https://news.google.com/rss/search?q=Kenya%20Getembe%20Health&hl=en-KE&gl=KE&ceid=KE:en`
-- **Viral Tea Latest** (google_news_search_fallback): `https://viraltea.co.ke/rss/latest-posts` → `https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20Latest&hl=en-KE&gl=KE&ceid=KE:en`
-- **Viral Tea News** (google_news_search_fallback): `https://viraltea.co.ke/rss/category/news` → `https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20News&hl=en-KE&gl=KE&ceid=KE:en`
-- **Viral Tea Breaking** (google_news_search_fallback): `https://viraltea.co.ke/rss/category/breaking` → `https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20Breaking&hl=en-KE&gl=KE&ceid=KE:en`
-- **Viral Tea National** (google_news_search_fallback): `https://viraltea.co.ke/rss/category/national` → `https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20National&hl=en-KE&gl=KE&ceid=KE:en`
-- **Viral Tea Local** (google_news_search_fallback): `https://viraltea.co.ke/rss/category/local` → `https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20Local&hl=en-KE&gl=KE&ceid=KE:en`
 
 ---
 
-**1. Rose Muhando stuns Kamulu crowd with powerful renditions of Kikuyu, Kamba hits**
+**1. Kanyari’s brother Apostle Mwangi shows off huge apartment he owns in Kayole, says he is a millionaire**
 
-Tanzanian gospel singer Rose Muhando left attendees at a crusade in Kamulu elated and cheering after delivering a
+Salvation Healing Ministry founder Pastor Victor Kanyari's brother, Apostle Jackson Mwangi, has showed off a huge apartment he
 
-_K24 Digital — https://k24.digital/entertainment/celebrity/rose-muhando-stuns-kamulu-crowd-with-powerful-renditions-of-kikuyu-kamba-hits_
+_K24 Digital — https://k24.digital/entertainment/celebrity/kanyaris-brother-apostle-mwangi-shows-off-huge-apartment-he-owns-in-kayole-says-he-is-a-millionaire_
 
 ---
 

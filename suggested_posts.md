@@ -1,6 +1,6 @@
-# Kenya News Suggestions - Generated 2026-08-23 00:42:09 EAT
+# Kenya News Suggestions - Generated 2026-08-23 01:08:24 EAT
 
-Scanned lookback gap of 32 minutes. Found 1 unique stories.
+Scanned lookback gap of 26 minutes. Found 2 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
@@ -23,11 +23,19 @@ Scanned lookback gap of 32 minutes. Found 1 unique stories.
 
 ---
 
-**1. Apostle Julius Suubi reveals what Ugandan preacher Robert Kayanja prophesied about African women**
+**1. 2026 CAVB: Nigeria’s 12-player Squad Departs To Kenya - News Agency of Nigeria**
 
-Exploits Worship Centre founder Apostle Julius Suubi has shared a powerful message delivered by Pastor Robert Kayanja to
+2026 CAVB: Nigeria's 12-player Squad Departs To Kenya News Agency of Nigeria
 
-_K24 Digital — https://k24.digital/entertainment/celebrity/apostle-julius-suubi-reveals-what-ugandan-preacher-robert-kayanja-prophesied-about-african-women_
+_Kenya News Agency — https://news.google.com/rss/articles/CBMie0FVX3lxTE93ajNqQllmYWc0MVFxeTBZZFMtdEphNDNPUlFRUzBTTERjZU51OExYSlk2VXdPTmxPcTYyUHhaTXBuX0t4Z1djYXVuUGJRTGhFdVFYYlhodEVrdGFTdVN5eFJNT0dMRGkzUzRTQS1iSEl5MzhIY20zSlYxSQ?oc=5_
+
+---
+
+**2. Kenyan Prince announces he is relocating to Dubai after receiving official UAE residency permit**
+
+Forex trader Raymond Omosa, popularly known as Kenyan Prince, has announced that he will permanently relocate from Kenya
+
+_K24 Digital — https://k24.digital/entertainment/celebrity/kenyan-prince-announces-he-is-relocating-to-dubai-after-receiving-official-uae-residency-permit_
 
 ---
 

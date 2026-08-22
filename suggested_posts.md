@@ -9108,3 +9108,351 @@ Paul Ng’eno, brother of the late Emurua Dikirr MP Johana Ng’eno, has died af
   - Source: Financial Times
   - Link: https://news.google.com/rss/articles/CBMicEFVX3lxTE5WVklWeXdHSHQ2X19YemlSUXJiZkJ3WG5iSmpqZExfTGNWRGRXazE5WFJVbUtWdFQzUEY2OGljUzhBZHNSaWdLUnJpLW41Sk5QeTcwMkUzSUZ0U3Z4X0o5eFhycWRfZktfcGpmLUVYTFY?oc=5
 
+## Scan run: 2026-08-22 10:26 (Nairobi time)
+
+- **[Taifa Leo]** Siasa: IEBC yapiga breki kampeni katika maeneo ya ibada, mazishini
+  - Source: Taifa Leo
+  - Link: https://taifaleo.nation.co.ke/habari/siasa-iebc-yapiga-breki-kampeni-katika-maeneo-ya-ibada-mazishini/
+  - Draft material: Siasa: IEBC yapiga breki kampeni katika maeneo ya ibada, mazishini.
+
+Siasa: IEBC yapiga breki kampeni katika maeneo ya ibada, mazishini TUME Huru ya Uchaguzi na Mipaka (IEBC) imewapa wanasiasa na wanaowania nyadhifa mbalimbali waliochapisha mabango ya kampeni yenye nembo ya tume hiyo siku tano kuyaondoa mara moja, ikiongeza juhudi za kukabiliana na kampeni za mapema kuelekea Uchaguzi Mkuu wa Agosti 10, 2027. Katika taarifa kuhusu maandalizi ya uchaguzi huo, IEBC ilisema matumizi ya nembo yake kwenye vifaa vya kampeni ni kinyume cha sheria na yanaweza kutoa taswira ya kuunga mkono wagombeaji fulani, jambo linalohatarisha uhuru, kutopendelea upande wowote na hadhi yake kama taasisi isiyoegemea siasa. “Tume imebaini matumizi yasiyoidhinishwa ya nembo yake kwenye vifaa vya kampeni. Matumizi hayo si halali na yanaweza kuashiria kuwa tume inaunga mkono wagombeaji husika,” ilisema IEBC. Tume hiyo ilionya kwamba yeyote atakayeshindwa kuondoa vifaa hivyo ndani ya siku tano atachukuliwa hatua za kisheria. Ingawa wanasiasa wengi wamekuwa wakizuru maeneo mbalimbali nchini wakitafuta uungwaji mkono, IEBC imesisitiza kuwa kipindi rasmi cha kampeni bado hakijaanza. Kwa mujibu wa sheria, kampeni za uchaguzi wa 2027 zitaanza baada ya mgombeaji kuidhinishwa rasmi na tume, lakini si kabla ya Mei 29, 2027, na zitakoma Agosti 7, 2027, saa 48 kabla ya siku ya kupiga kura.
+
+- **[Taifa Leo]** Azma ya Omar kuwania ugavana Mombasa yaleta mgawanyiko kati ya UDA na ODM Pwani
+  - Source: Taifa Leo
+  - Link: https://taifaleo.nation.co.ke/habari/azma-ya-omar-kuwania-ugavana-mombasa-yaleta-mgawanyiko-kati-ya-uda-na-odm-pwani/
+  - Draft material: Azma ya Omar kuwania ugavana Mombasa yaleta mgawanyiko kati ya UDA na ODM Pwani.
+
+Azma ya Omar kuwania ugavana Mombasa yaleta mgawanyiko kati ya UDA na ODM Pwani TANGAZO la Katibu Mkuu wa UDA, Hassan Omar kuwania ugavana Mombasa mwaka 2027 limezua mgawanyiko katika ushirikiano unaoibuka kati ya UDA na ODM, huku juhudi za kugawana maeneo ya kisiasa Pwani zikikabiliwa na changamoto. Bw Omar ametangaza kuwa ataendelea na azma yake ya kuwania kiti hicho, hatua inayotishia mpango wa vyama hivyo kuepuka kushindana moja kwa moja katika baadhi ya kaunti. Kwa zaidi ya mwezi mmoja, viongozi wa UDA na ODM wamekuwa wakijadili uwezekano wa kugawana maeneo, ambapo kila chama kingepewa nafasi ya kuongoza katika kaunti fulani huku kingine kikimuunga mkono mgombea wake. Hata hivyo, Bw Omar amekataa mpango huo akisema wapiga kura wanapaswa kuwa huru kuchagua viongozi wanaowataka. “Tuungane na tuchague viongozi wetu kwa uhuru. Kwale tumeona ODM haitaki ugawaji wa maeneo, nasi UDA hatutaki. Hatuwezi kuamriwa na mtu, tutafanya maamuzi yetu,” alisema Bw Omar. Kauli hiyo imeweka mashakani juhudi za kubadilisha ushirikiano wa kitaifa kati ya UDA na ODM kuwa muungano wa kisiasa wa kuelekea uchaguzi wa 2027. Mombasa ni ngome ya muda mrefu ya ODM, huku UDA ikijaribu kupanua ushawishi wake katika eneo hilo.
+
+- **[Sauce Kenya]** Kenyan National Arrested in Zanzibar Over Alleged Illegal Tour Operations
+  - Source: Sauce Kenya
+  - Link: https://sauce.co.ke/2026/08/kenyan-national-arrested-in-zanzibar-over-alleged-illegal-tour-operations/
+  - Draft material: Kenyan National Arrested in Zanzibar Over Alleged Illegal Tour Operations. A Kenyan national has been arrested in Zanzibar alongside two other foreign nationals for allegedly conducting tour and excursion activities in violation of the island’s tourism laws. The three were apprehended on August 18 during an operation by the Zanzibar Commission for Tourism (ZCT) in collaboration with the Immigration Department. They have been identified as […] The post Kenyan National Arrested in Zanzibar Over Alleged Illegal Tour Operations appeared first on sauce.co.ke .
+
+- **[Sauce Kenya]** University of Nairobi Ordered to Pay Graduate KSh3 Million Over Graduation List Removal
+  - Source: Sauce Kenya
+  - Link: https://sauce.co.ke/2026/08/university-of-nairobi-ordered-to-pay-graduate-ksh3-million-over-graduation-list-removal/
+  - Draft material: University of Nairobi Ordered to Pay Graduate KSh3 Million Over Graduation List Removal. The University of Nairobi (UoN) has been ordered to pay a graduate KSh3 million after the High Court found that the institution violated her constitutional rights by removing her name from the graduation list on the day of her ceremony. Justice Lawrence Mugambi also directed the university to issue Marceline Murono with an unqualified apology […] The post University of Nairobi Ordered to Pay Graduate KSh3 Million Over Graduation List Removal appeared first on sauce.co.ke .
+
+- **[Sauce Kenya]** Kilimani Househelp Found Dead in Apartment in Suspected Suicide
+  - Source: Sauce Kenya
+  - Link: https://sauce.co.ke/2026/08/kilimani-househelp-found-dead-in-apartment-in-suspected-suicide/
+  - Draft material: Kilimani Househelp Found Dead in Apartment in Suspected Suicide. Police in Nairobi are investigating the death of a 36-year-old househelp whose body was discovered at an apartment in Kilimani in what is being treated as a suspected case of suicide. The woman, identified as Grace Akinyi Mangana, was reportedly found hanging from a staircase grill at around 6:30am. The incident was reported by the […] The post Kilimani Househelp Found Dead in Apartment in Suspected Suicide appeared first on sauce.co.ke .
+
+- **[Sauce Kenya]** Parliament Approves Duncan Ojwang as New IPOA Chairperson
+  - Source: Sauce Kenya
+  - Link: https://sauce.co.ke/2026/08/parliament-approves-duncan-ojwang-as-new-ipoa-chairperson/
+  - Draft material: Parliament Approves Duncan Ojwang as New IPOA Chairperson. Parliament has approved the appointment of Dr Duncan Ojwang Oburu as the new chairperson of the Independent Policing Oversight Authority (IPOA), paving the way for him to take charge of the civilian body responsible for overseeing the police. The National Assembly approved Ojwang’s nomination on Wednesday, August 19, 2026, after adopting a report by the […] The post Parliament Approves Duncan Ojwang as New IPOA Chairperson appeared first on sauce.co.ke .
+
+- **[Sauce Kenya]** Sifuna Calls Ruto ‘Biggest Problem in Kenya’, Urges Voters to Reject Him in 2027
+  - Source: Sauce Kenya
+  - Link: https://sauce.co.ke/2026/08/sifuna-calls-ruto-biggest-problem-in-kenya-urges-voters-to-reject-him-in-2027/
+  - Draft material: Sifuna Calls Ruto ‘Biggest Problem in Kenya’, Urges Voters to Reject Him in 2027. Nairobi Senator Edwin Sifuna has renewed his criticism of President William Ruto, describing him as “the biggest problem in this country” and urging Kenyans to vote for a new administration in the 2027 General Election. Sifuna made the remarks on Friday during the burial of Gloria Sekeiyan, the late wife of Kakamega Senator Boni Khalwale, […] The post Sifuna Calls Ruto ‘Biggest Problem in Kenya’, Urges Voters to Reject Him in 2027 appeared first on sauce.co.ke .
+
+- **[Sauce Kenya]** Atwoli Denies Claims He Escaped Samburu Helicopter Crash
+  - Source: Sauce Kenya
+  - Link: https://sauce.co.ke/2026/08/atwoli-denies-claims-he-escaped-samburu-helicopter-crash/
+  - Draft material: Atwoli Denies Claims He Escaped Samburu Helicopter Crash. COTU Secretary-General Francis Atwoli has dismissed social media reports claiming that he narrowly escaped the helicopter crash in Samburu County that killed all seven people on board. Atwoli said the reports were false and clarified that he was not part of the ill-fated flight that crashed near Mt Ololokwe on Wednesday. In a statement, the […] The post Atwoli Denies Claims He Escaped Samburu Helicopter Crash appeared first on sauce.co.ke .
+
+- **[Sauce Kenya]** Ndindi Nyoro Welcomes Two UDA MCAs to PPK After Leaving Ruto’s Party
+  - Source: Sauce Kenya
+  - Link: https://sauce.co.ke/2026/08/ndindi-nyoro-welcomes-two-uda-mcas-to-ppk-after-leaving-rutos-party/
+  - Draft material: Ndindi Nyoro Welcomes Two UDA MCAs to PPK After Leaving Ruto’s Party. Kiharu MP and People’s Party of Kenya (PPK) leader Ndindi Nyoro has welcomed two politicians from the ruling United Democratic Alliance (UDA) into his party. Nyoro announced the defections on August 20, 2026, just days after making his own exit from UDA and joining PPK as he seeks to strengthen the party ahead of the […] The post Ndindi Nyoro Welcomes Two UDA MCAs to PPK After Leaving Ruto’s Party appeared first on sauce.co.ke .
+
+- **[Sauce Kenya]** Brother of Late Emurua Dikirr MP Johana Ng’eno Dies After Long Illness
+  - Source: Sauce Kenya
+  - Link: https://sauce.co.ke/2026/08/brother-of-late-emurua-dikirr-mp-johana-ngeno-dies-after-long-illness/
+  - Draft material: Brother of Late Emurua Dikirr MP Johana Ng’eno Dies After Long Illness. Paul Ng’eno, the brother of the late Emurua Dikirr MP Johana Ng’eno, has died after battling a prolonged illness, his family has confirmed. Paul died on Friday, August 21, 2026, while receiving treatment in Eldoret. His death came just hours after former Deputy President Rigathi Gachagua visited the family and pledged to settle his outstanding […] The post Brother of Late Emurua Dikirr MP Johana Ng’eno Dies After Long Illness appeared first on sauce.co.ke .
+
+- **[Sauce Kenya]** Charlene Ruto and Isaya Yunge Announce Plans for White Wedding
+  - Source: Sauce Kenya
+  - Link: https://sauce.co.ke/2026/08/charlene-ruto-and-isaya-yunge-announce-plans-for-white-wedding/
+  - Draft material: Charlene Ruto and Isaya Yunge Announce Plans for White Wedding. President William Ruto’s daughter, Charlene Ruto, and her fiancé, Isaya Yunge, have announced plans for their upcoming white wedding, marking the next stage of their marriage celebrations. The couple shared the announcement on social media, with Yunge expressing his excitement ahead of the ceremony. “See you at the altar, my love,” Yunge said. The announcement […] The post Charlene Ruto and Isaya Yunge Announce Plans for White Wedding appeared first on sauce.co.ke .
+
+- **[Sauce Kenya]** Boni Khalwale Challenges Shinyalu Men to Marry His Daughters
+  - Source: Sauce Kenya
+  - Link: https://sauce.co.ke/2026/08/boni-khalwale-challenges-shinyalu-men-to-marry-his-daughters/
+  - Draft material: Boni Khalwale Challenges Shinyalu Men to Marry His Daughters. Kakamega Senator Boni Khalwale left mourners amused after turning part of his speech at the funeral of his late third wife, Gloria Sekeiyan, into an unusual appeal to single men in Shinyalu. Speaking during Gloria’s funeral service at Malinya Stadium in Kakamega County on Friday, August 21, Khalwale joked that men in the area appeared […] The post Boni Khalwale Challenges Shinyalu Men to Marry His Daughters appeared first on sauce.co.ke .
+
+- **[The Kenya Times]** Former High Court Judge Mbalu Mutava Dies After Sudden Illness
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/latest-kenya-times-news/former-high-court-judge-mbalu-mutava-dies-after-sudden-illness/
+  - Draft material: Former High Court Judge Mbalu Mutava Dies After Sudden Illness.
+
+Former High Court Judge Justice Joseph Mbalu Mutava has died after falling ill suddenly on the night of August 22. Justice Mutava died on the morning of August 23, while receiving medical attention at Makindu Orthopedic and Trauma Hospital in Makueni County. According to the family, the former judge had been in good health and had attended the burial ceremony of a close friend before he suddenly fell ill later that night. He was subsequently rushed to hospital for treatment but died while receiving medical attention. Justice Mutava was the husband of Kibwezi East Member of Parliament Jessica Mbalu. Justice Mbalu, who was married to Kibwezi East MP Jessica Mbalu, joined the Judiciary in August 2011 after being appointed by the Judicial Service Commission (JSC). He was part of the first group of lawyers appointed to the Bench following the promulgation of the 2010 Constitution. Mary Wanjohi is a digital news correspondent at The Kenya Times driven by a deep commitment to truth, storytelling, and public service. With a background in Communication and Journalism, she has developed a strong foundation in news reporting, feature writing, and investigative research.
+
+- **[The Kenya Times]** Why World Bank Banned eCitizen Firm and Its CEO James Ayugi
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/business/why-world-bank-banned-ecitizen-firm-and-its-ceo-james-ayugi/
+  - Draft material: Why World Bank Banned eCitizen Firm and Its CEO James Ayugi.
+
+The World Bank has barred Webmasters Kenya Ltd, the firm behind the eCitizen platform, and its director, James Ayugi, from participating in World Bank-financed projects for at least five years. The World Bank Sanctions Board, in Case No. 790, found the firm and Ayugi liable for fraudulent and obstructive practices after they allegedly falsely represented that two key experts were available for a World Bank Group-financed project. According to the lender, the company and its director were also accused of obstructing the Bank’s investigation by failing to provide requested documents during an audit. “The Respondents were found liable for fraudulent and obstructive practices. Specifically, the Respondents misrepresented the availability of two key experts for a contract under a World Bank Group-financed Project. The Respondents also materially impeded the exercise of the Bank’s inspection and audit rights by failing to meaningfully comply with the Bank’s documentary requests in the context of an audit,” World bank notes. The five-year ban is conditional, meaning Webmasters Kenya Ltd. and Ayugi can only be cleared after serving the minimum period if they meet the requirements set by the Sanctions Board.
+
+- **[The Kenya Times]** Ogamba Explains University Funding Changes as Number of Students Rises
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/latest-kenya-times-news/julius-ogamba-funding/
+  - Draft material: Ogamba Explains University Funding Changes as Number of Students Rises.
+
+Education Cabinet Secretary Julius Ogamba has defended the government’s proposed changes to Kenya’s higher education funding system, saying the changes are necessary to ensure every qualified student can access tertiary education as the number of university entrants increases. Speaking during the 11th graduation ceremony at the University of Embu, Ogamba said the government is reviewing the current funding framework to address challenges under previous financing models. He highlighted some gaps in both the Differentiated Unit Cost (DUC) model and the Student-Centered Funding Model introduced in 2023. According to him, the Means Testing Instrument used under the Student-Centered Funding Model had denied deserving students the opportunity to pursue courses aligned with their career aspirations. “Where the parent was not determined to have the capacity to fund a doctor or an engineer, the student was forced to change courses and take one that the parent could afford. We have changed that thinking and said, let us fund the future of the student,” Ogamba said. Also Read: New University Funding Model: How Investors Will Finance Students Through Bonds Students Under University Funds This comes as thousands of students prepare to apply for admission to universities and other institutions of higher learning.
+
+- **[The Kenya Times]** Weatherman Lists Regions Expecting Rain and Clouds in August’s Final Week
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/weather/weatherman-lists-regions-expecting-rain-and-clouds-in-augusts-final-week/
+  - Draft material: Weatherman Lists Regions Expecting Rain and Clouds in August’s Final Week.
+
+The Kenya Meteorological Department (KMD) has forecast rainfall in several parts of the country between August 23 and 27, with some regions also expected to experience cool, cloudy conditions. According to the five-day weather forecast issued on August 21, several counties are expected to receive rainfall during the period, while parts of Nairobi, Kiambu, Murang’a, Kirinyaga, Nyeri, Makueni, Machakos, Embu, Marsabit, Wajir and Garissa are likely to experience intermittent cool, cloudy conditions. “Rainfall is expected in several counties. Intermittent cool, cloudy conditions are expected in parts of Nairobi, Kiambu, Murang’a, Kirinyaga, Nyeri, Makueni, Machakos, Embu, Marsabit, Wajir, and Garissa counties,” reads part of the forecast. In Nairobi, cloudy to sunny intervals are expected on Sunday, Monday and Thursday mornings, while Tuesday and Wednesday mornings will have sunny intervals. Afternoons will have sunny intervals throughout the period, with light showers expected on Sunday night. KMD Details Weather Forecasts in the Coastal Regions In the Coast region, Mombasa, Kwale, Kilifi and Lamu are expected to experience light showers in the morning, with sunny intervals in the afternoon and partly cloudy nights. Mombasa will have light showers on Sunday and Tuesday mornings, as well as Thursday morning, and light showers on Wednesday night.
+
+- **[Education News]** Age gap raises questions over competitive balance at FEASSA Games
+  - Source: Education News
+  - Link: https://educationnews.co.ke/age-gap-raises-questions-over-competitive-balance-at-feassa-games/?utm_source=rss&utm_medium=rss&utm_campaign=age-gap-raises-questions-over-competitive-balance-at-feassa-games
+  - Draft material: Age gap raises questions over competitive balance at FEASSA Games.
+
+- Spectators at the East African school games in Morogoro have raised questions after some Kenyan teams have shown markedly greater physical size and maturity than regional counterparts. - Observers have pointed to differing secondary-school structures, Kenya’s Form Four cutoff versus other countries’ Form Six, as a possible explanation rather than deliberate over-age fielding. - FEASSA and national school-sports authorities have been urged to publish clear age limits and verification procedures to restore confidence in the competition. Organisers of the East African school games in Morogoro are facing renewed calls to publish clear age limits, eligibility criteria and verification procedures for all competing delegations, after visible differences in physical development between some Kenyan teams and their regional counterparts drew attention from spectators during the tournament. Several matches at the games, which brought together young athletes from across the region for competition, learning and cross-border friendship, produced encounters in which some Kenyan sides appeared markedly bigger, stronger and more physically mature than teams from neighbouring countries. In a number of these matches, the contrast was pronounced enough that spectators began asking whether every participating team was drawing its players from comparable age brackets and education structures.
+
+- **[Capital FM Lifestyle]** Fena Gitu And Other African Lyricists Sparkle In Hennessy Cypher 2026
+  - Source: Capital FM Lifestyle
+  - Link: https://capitalfm.africa/fena-gitu-and-other-african-lyricists-sparkle-in-hennessy-cypher-2026/
+  - Draft material: Fena Gitu And Other African Lyricists Sparkle In Hennessy Cypher 2026.
+
+For the first time in its 15-year history, the Hennessy Cypher features two Francophone African talents, as six of the continent’s most exciting hip-hop voices unite for a new collaboration produced by Sarz. Six of the continent’s most exciting hip-hop voices unite for a new collaboration produced by Sarz. This August, Hennessy continues its hip-hop legacy with Hennessy Cypher 2026. Cameroon’s Tenor makes history as the first artist from the country to feature in the Cypher, joining Suspect 95 from Côte d’Ivoire, Yanga Chief from South Africa, Kwesi Arthur from Ghana, Fena Gitu from Kenya, and British-Nigerian rapper Enny from the United Kingdom. Under the creative direction of one of Africa’s most influential producers, Sarz, the Hennessy Cypher 2026 remains unapologetically rooted in hip-hop, pairing distinct flows and lyrical traditions with a production that honours the genre’s foundations, while pointing to its next chapter. “The art of blending is at the heart of Hennessy. Just as distinct eaux-de-vie are brought together to create something exceptional, this year’s Cypher unites six remarkable voices from across Africa and the United Kingdom, each bringing their own perspective and energy.
+
+- **[Capital FM Business]** Kenya’s next unicorn: Which startup could be worth $1bn?
+  - Source: Capital FM Business
+  - Link: https://capitalfm.africa/kenyas-next-unicorn-which-startup-could-be-worth-1bn/
+  - Draft material: Kenya’s next unicorn: Which startup could be worth $1bn?
+
+NAIROBI, Kenya, Aug 22 – For many years, Kenya has established itself as a hub for startups on the African continent, largely driven by its developed technology and financial sectors, skilled talent pool and scalable solutions addressing local challenges in fintech, agritech and renewable energy. The inflow of investment has made Kenya one of the leading startup markets on the continent, alongside South Africa, Nigeria and Egypt. Some of the major players include Wasoko, Sun King, M-KOPA and BURN Manufacturing, among others. The strength of Kenya’s startup ecosystem was illustrated last year when BURN Manufacturing, Spiro, d.light and Sun King raised a combined Sh98.5 billion, accounting for nearly 70 percent of all venture funding raised in the country. Sun King raised about Sh35 billion in debt and equity, while Spiro secured Sh12.9 billion from investors. BURN Manufacturing raised Sh11.6 billion during the period. According to Africa: The Big Deal, Kenyan startups raised about Sh126 billion, outperforming Egypt, South Africa and Nigeria. Clean energy companies, including d.light, Sun King, M-KOPA, BURN Manufacturing and PowerGen, accounted for a significant share of the funding.
+
+- **[Kenya Latest]** The hibiscus craze: Why this drought-tolerant shrub is taking over cups and farms - Daily Nation
+  - Source: Daily Nation
+  - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRS1sVnZQaUxZVjkwbG52dDBSV0VQc1U0Tm5pcDVDQU1SVlYtMFVpcWF1Q2d4UWVlUnk3X0V3TjFPdVRTT082MExvRFlkbm1vaWowUWFnOHZqX195YXJPQ1p5WkJoNDJjSE1sempVMjNQZkplb2RUTTExSG1KNFVkRUNhQUEwT29QQVdEUF9QUUpVMU9ETk5sZ1RGNFJOT1BQZW1UTVJ2bWdNZUNsVXRvNXhMRTZmWUdyVmE3TlVER2k?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: The hibiscus craze: Why this drought-tolerant shrub is taking over cups and farms - Daily Nation. The hibiscus craze: Why this drought-tolerant shrub is taking over cups and farms Daily Nation
+
+- **[Kenya Latest]** How ‘fake’ experts triggered World Bank blacklist of e-Citizen firm - Business Daily
+  - Source: Business Daily
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3FVSzFfVDR1LUp2N3pJUzFPbGJNLWNWX0xFWVVMQmgzSVJ4NTZGS0tLTmJ5NGY2MURBTGVnOWpGRXRRYjFybDgxS1dUaUYyeTB3ckNUQjl4UE4zZERpcjctRUxPOW95Tm1vS2hwQnNyQnhQSHl5VTAwU09rMDVfUEZIbWhDcVh2VTJ1M2JKVk4zYlZmOU92QXJhemhSRGdhc29URnYzZm9YbmJ5NV9jQ0NiczE?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: How ‘fake’ experts triggered World Bank blacklist of e-Citizen firm - Business Daily. How ‘fake’ experts triggered World Bank blacklist of e-Citizen firm Business Daily World Bank sanctions eCitizen director James Ayugi and his company Citizen Digital Why the World Bank sanctioned Kenyan firm behind eCitizen and its owner Pulse Kenya Why World Bank Banned ECitizen Firm And Its CEO James Ayugi The Kenya Times
+
+- **[Kenya Latest]** Three Shot, Scores Injured as Youths Clash With Governor’s Guards - Kenyans.co.ke
+  - Source: Kenyans.co.ke
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2ZyaGtJTndybzdBYVUtQnRIaGR3cDBuVUJZNHU3QjVVM0MyYV96Yk1nNVN5ZW91ckpWX3EwSDZ3S0xGMjBvM09oWEVMNFRONmZYN2lWdTBKSXNtaHhjQ3pieTJ5cHBtSExJNnkwSEYyU2NUWWVEOVlPMnl5Si0xYUptSGlReTNCc2ViQ3NTcTgyOTdCel9fYXJQR0hfLUVodmJoRm1wQW9JUGM?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Three Shot, Scores Injured as Youths Clash With Governor’s Guards - Kenyans.co.ke. Three Shot, Scores Injured as Youths Clash With Governor’s Guards Kenyans.co.ke Governor’s Bodyguard Allegedly Opens Fire During Clash With Youths Chanting ‘Wantam’ Nairobi Leo
+
+- **[Business Topic]** "More savings": Safaricom waives Pochi fees for transactions up to KSh 200 - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVHNLVFZVSEszQUtzUG5pU1F1RVNQYlVPRjdNazJFek1OUGpHMUVOcEs0bFZLbjlLTFFpcDJLeGZDWm5RaHNIV0FBX1Y3S0Q4WGFIcHIwWnZjVzBjQnFwcFZ4UTdYY1lpTmd2T1BjeFl5X3I3TzNlMHM1T1A4a0pHQ0hfTG1CaFVLZmgwN1lSNGh6ODhkRm5tYUROaktSckwyemliU1A0WHdVemM?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: "More savings": Safaricom waives Pochi fees for transactions up to KSh 200 - Tuko News. "More savings": Safaricom waives Pochi fees for transactions up to KSh 200 Tuko News
+
+- **[Business Topic]** World Bank projects Lebanon economy to contract by 6.4% due to war - Citizen Digital
+  - Source: Citizen Digital
+  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQc18wUGMwSW1FS0RVU3dtejAtNTI4N3NMaEpHTlc3eEw1cEQ3TGxPTThFZjNfM1ZEeWRNZnFmSUdwdHRnel9VNmdwSWdNbnBnZjR3S2d5dW9wQ1pkRUtBZW8zaFZjNzZkcTNNSHFfdTZwQVhIZHhoXzl0UVhFbUlqYVdJUU0xdGlKVkQyMXFxQzItOEE0VDZZY3E2QWxNQkZwOXhUNTlaMA?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: World Bank projects Lebanon economy to contract by 6.4% due to war - Citizen Digital. World Bank projects Lebanon economy to contract by 6.4% due to war Citizen Digital See more headlines and perspectives on Google News
+
+- **[Business Topic]** Six investors reveal the biggest market risks — and one strategy they agree on - CNBC
+  - Source: CNBC
+  - Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxNSVVOVmM1RDEwbVJta1cxQXctLXR6cGI5VGhRZjRKWHVIWWFoTzlOTGFzRWI4a3MwbkctMzdHUVpfM0V5bmdqN25oWjREWW5nWFROdnhScVJENHpDVjQwSEd3MXFjemFEZEs2cV95bkI3Z01vclQ1djRpMWw1R3laZzZxSUFjcEdmdjJFZ0VLVEkzQdIBlwFBVV95cUxOclo0VHlaamFYUzFiR3l6RGgwQnhIbS1XTzJwQU1hc3ZrQm1pLVBsRzdyNG5jQUxfV2ZYNVpGeVE5a0wzcmU0RUhWdWJnZDFrM2NvclBPZ1VXX1JwNWpIaU9xaDcwMjVOYnhWdU9rVVRLSzg0NXNzenRPZzlDMDBoa0dkMnpPU0JaWWdLNmEyTTNGMmNuUjFR?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Six investors reveal the biggest market risks — and one strategy they agree on - CNBC. Six investors reveal the biggest market risks — and one strategy they agree on CNBC Britain’s most bearish investors name their fears Interactive Investor
+
+- **[Business Topic]** Subterranean salad: underground farmers seek solution to food crisis in disused UK mines - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVldza0RvbDJBUUhKRFgyc0dnUWk5dWJlWnJpTDVFUWRzU1doT3V1ZzY4NFRoUVgwajJtNWtZOWVOQ0pTWDVWYWg3dnpKLUVpNE9SQ2lVem1fcHp2cUlCOHNtX08ya0tDTEdMcndpa0tiMjVBalNiWDBreUFOdTlYSm9rdmpvNjlFR2ZNNW5pYnBBWGZ1S0hkQ2VlN1BBYzU0RVBBMGw2MlJxRWlQSGFkTlRTWEtRV3NNSGY5OG9nbUtaWUQ5ZndubjctNWdlN3JuTkI3Sm9n?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Subterranean salad: underground farmers seek solution to food crisis in disused UK mines - The Guardian. Subterranean salad: underground farmers seek solution to food crisis in disused UK mines The Guardian
+
+- **[Business Topic]** NYT Pips hints, answers for August 22, 2026 - Mashable
+  - Source: Mashable
+  - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPOHVQaG9PWmw0V2I4Z3Zsc0hHZ2VGeEE3M3JwZWhBcWxTRVBLWUFJZ2Y5SWtwTkxNWDBpbWFTTGd6bUI2SzlhSGVqLTdudUtoTGFWQmI0LWVWUVdiZ2VhOHQybkh3X2Rmb0RqNTAza3hBVGdFV01EbDRySmtld3RBT3VjSHVQZFBUN2JibzN1YUwwd09TZlJTRzNKOA?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: NYT Pips hints, answers for August 22, 2026 - Mashable. NYT Pips hints, answers for August 22, 2026 Mashable NYT Pips Hints, Answers and Walkthrough for Saturday, August 22, 2026 Technobezz NYT Gaming Segment Gains Subscriber Engagement with Latest Pips Puzzle - Profit Warning Alert vinanet.vn How To Solve Today’s NYT Pips Puzzles, Saturday August 22 Forbes NYT Pips Puzzles Gain Traction: The New York Times Expands Its Digital Gaming Portfolio - Upward Estimate Revision vinanet.vn
+
+- **[Business Topic]** Powering the cloud after 60 years underground: Ormat’s geothermal pivot to AI - Fortune
+  - Source: Fortune
+  - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxQZTBIdDI1ODU5bGVULThsY2NBT1ZMYWlLS2lVZHhkbVU1SEc3amRPZVNaQW1uY0FzOXoxSkFZeVZnT2JZNFI0UzJ4OXUwUlZXRVd5NlFiZmRTcWJGSVYtUlYySHlDay1PRkxsT2UzOVZjRFU0dUpTQXNLS3FjNkpPYktNYWowZncxVG9vMUFR?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Powering the cloud after 60 years underground: Ormat’s geothermal pivot to AI - Fortune. Powering the cloud after 60 years underground: Ormat’s geothermal pivot to AI Fortune
+
+- **[Nairobi Leo]** Governor’s Bodyguard Allegedly Opens Fire During Clash With Youths Chanting ‘Wantam’
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29687/governors-bodyguard-allegedly-opens-fire-during-clash-with-youths-chanting-wantam
+  - Draft material: Governor’s Bodyguard Allegedly Opens Fire During Clash With Youths Chanting ‘Wantam’.
+
+One person sustained a gunshot wound after a bodyguard attached to Mombasa Governor Ahmednassir Nassir allegedly opened fire during a clash with youths chanting 'Wantam' slogans on Friday, August 21. Governor’s Bodyguard Allegedly Opens Fire During Clash With Youths Chanting ‘Wantam’ Aug 22, 2026 at 09:57 AM By Paul Kurgat According to Mombasa County Police Commander Stella Cherono, the youths interrupted Nassir's address with their chants during his public engagement in Changamwe. Cherono stated the situation escalated when the victims allegedly became violent, prompting the Governor's security detail to respond swiftly. "They chanted 'Wantam,' and as the Governor wanted to address them, they became violent. That is where the fracas started," the Mombasa Police Commander explained. Nonetheless, she reiterated that the National Police Service (NPS) does not condone acts of violence, and confirmed that law enforcement officers had launched investigations into the matter. One of the eyewitnesses claimed that had the people not intervened, the gunshot would have been fatal. "The bodyguard drew his weapon, but I tried to tell him to let the youth be. The bullet was to hit the victim on his upper body, but hit him on his leg after the people confronted him," he claimed.
+
+- **[Nairobi Leo]** Kenya Met Predicts Showers, Sunny Conditions in Counties This Saturday
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29686/kenya-met-predicts-showers-sunny-conditions-in-counties-this-saturday
+  - Draft material: Kenya Met Predicts Showers, Sunny Conditions in Counties This Saturday.
+
+The Kenya Meteorological Department has forecast a mix of rain, cloud cover and sunny spells across the country this Saturday, August 22, in its daily weather update issued Friday afternoon. According to the department, rainfall is expected in parts of Kericho, Bomet, Kakamega, Bungoma, Nyandarua, Mombasa, Kwale, Kilifi and Lamu counties, while intermittent cool and cloudy conditions will be experienced in sections of Taita Taveta, Marsabit, Meru, Tharaka-Nithi, Kirinyaga, Kiambu, Embu, Murang'a, Nyeri, Nyandarua, Machakos, Makueni, Nairobi, Kajiado and Laikipia. Strong southerly to southeasterly winds exceeding 25 knots (12.5 metres per second) are forecast over Turkana, Marsabit, Isiolo, Garissa, Mandera, Wajir, Tana River, Taita Taveta, Kwale, Kilifi, Lamu and Kitui counties. Coastal counties are expected to record a mix of cloud and light showers before clearing into sunny intervals. Read More Mombasa will see partly cloudy conditions overnight with light showers in a few places in the morning, before sunny intervals take hold in the afternoon, with temperatures ranging between 22°C and 29°C. Kwale and Kilifi are expected to follow a similar pattern, with highs of 27°C and 29°C respectively.
+
+- **[Ghafla]** Former Nairobi Women Rep Wangui Ng’ang’a Explains Why Ruto Stands Out From Other Presidents
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/former-nairobi-women-rep-wangui-nganga-explains-why-ruto-stands-out-from-other-presidents/
+  - Draft material: Former Nairobi Women Rep Wangui Ng’ang’a Explains Why Ruto Stands Out From Other Presidents. Former Nairobi Women Representative aspirant Hon. Wangui B. Ng’ang’a, popularly known as Miss B, recently turned heads during a candid appearance on the popular digital broadcast, Obinna Show Live. She explained that she is confident about the administration of William Ruto. ”There’s no other president that has done the amount of work that President William […] The post Former Nairobi Women Rep Wangui Ng’ang’a Explains Why Ruto Stands Out From Other Presidents appeared first on Ghafla! .
+
+- **[Ghafla]** Gachagua Vows To Build Grave For The Late MP Johana Ng’eno In Kericho
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/gachagua-vows-to-build-grave-for-the-late-mp-johana-ngeno-in-kericho/
+  - Draft material: Gachagua Vows To Build Grave For The Late MP Johana Ng’eno In Kericho. Democracy for the Citizens Party (DCP) leader Rigathi Gachagua visited the family home of the late Emurua Dikirr MP Johana Ng’eno in Mogondo, Kericho County, on Friday, August 21, 2026, to pay his respects five months after the lawmaker’s passing. Accompanied by political allies from the Mt. Kenya region, Gachagua laid wreaths at the gravesite […] The post Gachagua Vows To Build Grave For The Late MP Johana Ng’eno In Kericho appeared first on Ghafla! .
+
+- **[Ghafla]** Ruto Leads 2027 Presidential Race as Opposition Unity Emerges as Key Factor
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/ruto-leads-2027-presidential-race-as-opposition-unity-emerges-as-key-factor/
+  - Draft material: Ruto Leads 2027 Presidential Race as Opposition Unity Emerges as Key Factor. President William Ruto has entered the final year before the 2027 General Election with a lead over other individual presidential contenders, according to a recent Swiss poll on public sentiment. The survey, which assessed presidential preferences, political party popularity, opposition realignment and the growing influence of Gen Z voters, points to a competitive race in […] The post Ruto Leads 2027 Presidential Race as Opposition Unity Emerges as Key Factor appeared first on Ghafla! .
+
+- **[Ghafla]** Government Clarifies Shared Benefits As Nandi, Uasin Gishu, And Elgeyo Marakwet Partner For Mashujaa Day
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/government-clarifies-shared-benefits-as-nandi-uasin-gishu-and-elgeyo-marakwet-partner-for-mashujaa-day/
+  - Draft material: Government Clarifies Shared Benefits As Nandi, Uasin Gishu, And Elgeyo Marakwet Partner For Mashujaa Day. Cabinet Secretary for Interior and National Administration Kipchumba Murkomen has assured residents of Elgeyo Marakwet that the decision to co-host the upcoming Mashujaa Day celebrations with Nandi and Uasin Gishu counties will not diminish the developmental gains for the region. Speaking on Friday, August 21, 2026, during an inspection tour of Kamariny Stadium in Keiyo […] The post Government Clarifies Shared Benefits As Nandi, Uasin Gishu, And Elgeyo Marakwet Partner For Mashujaa Day appeared first on Ghafla! .
+
+- **[Ghafla]** Mudavadi Pushes for Closer Government-Church Collaboration
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/mudavadi-pushes-for-closer-government-church-collaboration/
+  - Draft material: Mudavadi Pushes for Closer Government-Church Collaboration. Prime Cabinet Secretary and Cabinet Secretary for Foreign and Diaspora Affairs Musalia Mudavadi has called for closer cooperation between the government and the Church, highlighting the role of faith-based organisations in promoting peace, unity and national development. Mudavadi said religious institutions remain important partners in fostering moral leadership, social cohesion and dialogue, noting that strong […] The post Mudavadi Pushes for Closer Government-Church Collaboration appeared first on Ghafla! .
+
+- **[Ghafla]** Kenya Power Announces Planned Maintenance on Mombasa Road
+  - Source: Ghafla
+  - Link: https://www.ghafla.co.ke/kenya-power-announces-planned-maintenance-on-mombasa-road/
+  - Draft material: Kenya Power Announces Planned Maintenance on Mombasa Road. Kenya Power has announced a planned electricity maintenance exercise along Mombasa Road in Nairobi on Saturday, August 22, 2026. The scheduled maintenance will take place from 9:00 a.m. to 5:00 p.m., during which customers in the affected area are expected to experience a temporary power interruption. Areas to Be Affected According to the notice, the […] The post Kenya Power Announces Planned Maintenance on Mombasa Road appeared first on Ghafla! .
+
+- **[K24 Digital]** Court suspends TSC circular restricting teachers’ social media use
+  - Source: K24 Digital
+  - Link: https://k24.digital/news/court-suspends-tsc-circular-restricting-teachers-social-media-use
+  - Draft material: Court suspends TSC circular restricting teachers’ social media use.
+
+Court suspends TSC circular restricting teachers’ social media use The Kiambu High Court has issued a conservatory order restraining the Teachers Service Commission (TSC) from implementing a circular banning teachers from using social media. The interim order came after a petitioner moved to court to challenge a circular released to teachers by TSC on August 13, 2026, titled ‘Prohibition of Unprofessional Conduct on Social Media Platforms and Cyberbullying’. Justice Francis Kyambia, on Friday, August 21, 2026, restrained TSC from actualising the said circular pending the hearing of the petition filed to challenge it. “That pending the hearing of the notice of motion on September 21, 2026, a conservatory order be and is hereby issued suspending the implementation of Circular No. 14/2026 dated August 13, 2026, issued bythe acting Chief Executive Officer of Teachers Service Commission to teachers service directors,county directors and all teachers under the title prohibition of unprofessional conduct on social media platforms and cyber bullying,” Judge Kyambia ordered. According to the petitioner, the said circular is meant to limit teachers’ fundamental right to expression as guaranteed under Article 33 of the Constitution of Kenya, 2010.
+
+- **[K24 Digital]** El Niño rains: Counties along Kenya’s rivers facing rising flood risk
+  - Source: K24 Digital
+  - Link: https://k24.digital/news/el-nino-rains-counties-along-kenyas-rivers-facing-rising-flood-risk
+  - Draft material: El Niño rains: Counties along Kenya’s rivers facing rising flood risk.
+
+El Niño rains: Counties along Kenya’s rivers facing rising flood risk Kenya is bracing for a potentially wetter-than-normal October–December season as a strengthening El Niño raises the risk of flooding along major rivers and in low-lying communities. The Kenya Meteorological Service has warned of an 81 per cent chance of a strong El Niño during the October–December period, with a 97 per cent probability that its effects could continue into early 2027. The government has identified 18 counties as high-risk areas, with flooding, landslides, disease outbreaks and infrastructure damage among the expected hazards. For communities living along Kenya’s major river systems, the biggest concern is not simply the amount of rain expected but what happens when heavy rainfall upstream sends large volumes of water downstream. Tana River threat Tana River County remains one of the areas to watch as rainfall increases. The Tana River cuts through a large section of the county before reaching the Indian Ocean, leaving communities around Garsen and Hola vulnerable when river levels rise. The county experienced severe flooding during the 2023 El Niño season, when homes and farms were submerged. Additional heavy rainfall could again threaten homes, roads, crops and livestock.
+
+- **[K24 Digital]** Kenya Met issues weather forecast for Saturday, August 22: Expect showers, chilly mornings and strong winds
+  - Source: K24 Digital
+  - Link: https://k24.digital/news/kenya-met-issues-weather-forecast-for-saturday-august-22-expect-showers-chilly-mornings-and-strong-winds
+  - Draft material: Kenya Met issues weather forecast for Saturday, August 22: Expect showers, chilly mornings and strong winds.
+
+Kenya Met issues weather forecast for Saturday, August 22: Expect showers, chilly mornings and strong winds Kenyans should prepare for contrasting weather conditions today, August 22, 2026, as cold morning temperatures hit central regions while northern areas experience high heat. The daily report shows temperatures dropping as low as 9°C in Nyandarua and rising up to 36°C in Mandera and Turkana. Expected rainfall and strong wind alerts Several regions across the country will experience rainfall at different times of the day. According to the advisory, “Rainfall expected in some parts of Kericho, Bomet, Kakamega, Bungoma, Nyandarua, Mombasa, Kwale, Kilifi, and Lamu counties.” Coastal towns like Mombasa, Kwale, and Kilifi will start the day with light morning showers before sunny intervals take over in the afternoon. In Bungoma, light rains are expected around Mount Elgon during the morning hours. Rainfall is also projected to extend into parts of Western Kenya later in the day. Afternoon light showers and thunderstorms are expected in Kericho and Kakamega. This follows recent weather data showing Kisumu recorded over 20 mm of rain in the 24-hour period leading up to August 21. Besides the rain, strong winds will affect several low-lying and coastal counties.
+
+- **[K24 Digital]** Talanta vs Amahoro: Why Rwanda’s stadium has a slight edge over Kenya’s premier facility
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/talanta-vs-amahoro-why-rwandas-stadium-has-a-slight-edge-over-kenyas-premier-facility
+  - Draft material: Talanta vs Amahoro: Why Rwanda’s stadium has a slight edge over Kenya’s premier facility.
+
+Talanta vs Amahoro: Why Rwanda’s stadium has a slight edge over Kenya’s premier facility The newly modernized Amahoro Stadium in Kigali, Rwanda, and Kenya’s Talanta Sports City Stadium, alias Raila Odinga International Stadium in Nairobi, are among the most ambitious football infrastructure projects in East Africa. Both venues have been designed to meet modern international standards, incorporate advanced technology and provide world-class facilities for major sporting events. However, when the two stadiums are compared purely on the breadth of sporting facilities and overall functionality, Amahoro Stadium has a slight edge over Raila Odinga International Stadium. The seating configuration at Rwanda’s Amahoro Stadium gives it a slight aesthetic advantage over Kenya’s Talanta Sports City Stadium, particularly when the two venues are compared purely on the quality, appearance and arrangement of their spectator seats. Visual comparison The main visual drawback at Talanta is its use of green fixed, non-foldable plastic seats in the regular terraces. The seats have been described by some Kenyans as inferior “bakuli” seats, and their presence across the lower sections gives the stadium a less polished appearance when compared with Amahoro’s more uniform seating design.
+
+- **[K24 Digital]** GTA 6 leaks: Everything to know about the world’s most anticipated game
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/technology/gta-6-leaks-everything-to-know-about-the-worlds-most-anticipated-game
+  - Draft material: GTA 6 leaks: Everything to know about the world’s most anticipated game.
+
+GTA 6 leaks: Everything to know about the world’s most anticipated game Grand Theft Auto VI, one of the most anticipated releases in gaming, is facing a new wave of leaks just weeks before Rockstar Games is expected to provide another official look at the title. The latest material, which began circulating online around August 18, 2026, includes gameplay clips, map images and details about some of the game’s mechanics. Rockstar Games and its parent company, Take-Two Interactive, have not publicly confirmed every detail, but copyright takedown requests and legal action targeting platforms hosting the material indicate that the companies are treating the leaks seriously. How the GTA 6 leaks started A person or group using the name CyberLeek began posting short clips and images that appeared to show GTA 6 gameplay. Some of the footage features protagonist Jason Duval, leading to reports that the source had access to a playable development build. The leaked material is believed to come from an older version of the game rather than the final build. This is important because features, graphics, missions and gameplay systems can change significantly during development.
+
+- **[K24 Digital]** Cricket: Kenya to host Super 90 League for three consecutive seasons
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/cricket-kenya-to-host-super-90-league-for-three-consecutive-seasons
+  - Draft material: Cricket: Kenya to host Super 90 League for three consecutive seasons.
+
+Cricket: Kenya to host Super 90 League for three consecutive seasons Cricket Kenya has announced a three-season partnership with the Super 90 League that will bring the fast-paced 90-ball competition to Nairobi, beginning with Season 4 in November 2026. The league will be staged at Gymkhana Cricket Club, with Kenya set to host three consecutive editions covering Seasons 4, 5 and 6. The agreement is expected to establish a long-term presence for the international cricket property while providing Kenyan fans with an opportunity to watch recognised cricketing names alongside former local stars. Super 90 selected Kenya as its next destination following previous editions held in India and Sri Lanka. The organisers cited the country’s cricketing heritage, passionate supporters, sporting culture and potential to host major international cricket and entertainment events. Season 4 will feature six franchise teams competing in 18 matches under the competition’s 90-ball format. One of the key attractions will be the inclusion of two retired Kenyan cricketers in each franchise. The initiative will give former Kenyan players an opportunity to return to competitive action in front of home supporters while sharing the stage with established international cricketing figures.
+
+- **[K24 Digital]** School reopening: Term 3 closing date, national exams and holiday dates parents should know
+  - Source: K24 Digital
+  - Link: https://k24.digital/news/school-reopening-term-3-closing-date-national-exams-and-holiday-dates-parents-should-know
+  - Draft material: School reopening: Term 3 closing date, national exams and holiday dates parents should know.
+
+School reopening: Term 3 closing date, national exams and holiday dates parents should know Parents and learners preparing for the final term of the year can rest easy as basic education institutions open on August 24, 2026. The Ministry of Education has dismissed claims circulating on social media that the school calendar was altered, assuring families that preparations for the shortest term of the year should proceed without delay. Addressing misleading reports surrounding the school calendar, Education Cabinet Secretary Julius Migos Ogamba confirmed that all learning centres will adhere strictly to the approved schedule. “We wish to clarify that the academic calendar for basic education institutions and Teacher Training Colleges remains unchanged,” Education Cabinet Secretary Julius Migos Ogamba stated in a press release dated August 19, 2026. Term 3 schedule for schools and colleges Primary and secondary schools across the country will open on August 24, 2026, for a nine-week session. The basic education calendar for the third term will conclude on October 23, 2026. Given the tight timeline of this term, learners will not have a half-term break, allowing teachers maximum time to complete the syllabus before national assessments start.
+
+- **[K24 Digital]** Kihumbuini Stadium: Sakaja bets on Ksh277M project to nurture talent in Kangemi, Kawangware and Westlands
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/kihumbuini-stadium-sakaja-bets-on-ksh277m-project-to-nurture-talent-in-kangemi-kawangware-and-westlands
+  - Draft material: Kihumbuini Stadium: Sakaja bets on Ksh277M project to nurture talent in Kangemi, Kawangware and Westlands.
+
+Kihumbuini Stadium: Sakaja bets on Ksh277M project to nurture talent in Kangemi, Kawangware and Westlands Nairobi City County Governor Johnson Sakaja has said the redevelopment of Kihumbuini Stadium at a cost of Ksh277 million has passed the 70 per cent completion mark. In a statement on Friday evening, August 21, 2026, the county boss said the project is expected to provide a modern sporting facility for talent development in the areas of Kangemi, Kawangware and Westlands, once the remaining works are finalised. Sakaja added that the terraces and changing rooms have already been completed, while work on the playing surface and shades is at an advanced stage. “This is part of our broader commitment to transforming Nairobi’s stadiums into modern, quality facilities where our young people can discover, develop and showcase their talents, while communities have access to safe spaces for sports and recreation,” he said. The governor added that Kihumbuini is part of a wider programme to upgrade sporting facilities across Nairobi. Woodley Stadium and City Stadium are also undergoing major improvements as the county seeks to expand access to quality grounds for athletes and local teams.
+
+- **[K24 Digital]** Wavinya Ndeti shares proud moment as son earns master’s degree with distinction
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/wavinya-ndeti-shares-proud-moment-as-son-earns-masters-degree-with-distinction
+  - Draft material: Wavinya Ndeti shares proud moment as son earns master’s degree with distinction.
+
+Wavinya Ndeti shares proud moment as son earns master’s degree with distinction Machakos Governor Wavinya Ndeti has celebrated a major family milestone after her son, Daniel Kitone Oduwole, graduated with a Master of Science in Management with Distinction from HULT International Business School. In a heartfelt message shared on her X account on Saturday, August 22, 2026, Ndeti congratulated Daniel on his academic achievement, praising his hard work, discipline and determination. “Your hard work, discipline, and determination have made us immensely proud. Your siblings and I celebrate you and this remarkable milestone,” she wrote. The governor said she hoped the achievement would mark the beginning of greater success and fulfilment in her son’s life. Ndeti also paid tribute to her late husband, saying she believed he would be proud of their son’s achievement. “Dad is smiling with pride and happiness as he continues to watch over us from above. His love and legacy live on through all of us,” she said. Daniel’s Academic Journey The latest achievement adds to Daniel’s growing list of academic milestones. He previously graduated from Brookhouse Schools in 2022, earning distinctions in an International Level 3 Extended Diploma, equivalent to three A-levels.
+
+- **[KBC Digital]** Farouk Kibet backs Wetang’ula to succeed Ruto in 2032
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/farouk-kibet-backs-wetangula-to-succeed-ruto-in-2032/
+  - Draft material: Farouk Kibet backs Wetang’ula to succeed Ruto in 2032.
+
+President William Ruto’s aide, Farouk Kibet, has backed National Assembly Speaker Moses Wetang’ula to succeed the President in 2032. Kibet made the remarks during an empowerment drive in support of BUCOE SACCO at St Francis Milima Comprehensive School in Likuyani Constituency, Kakamega County, where Western Kenya leaders endorsed Wetang’ula’s bid for the presidency. Kibet said Wetang’ula’s national leadership experience, political skills and record as Speaker of the National Assembly made him suitable to succeed Ruto. “We have seen the selflessness of Wetang’ula as a national leader, his leadership skills and wisdom as National Speaker, and indeed his astuteness as a statesman. He fits the bill to succeed President Ruto,” said Kibet. Wetang’ula, who was the chief guest, used the occasion to campaign for Ruto’s re-election, saying the administration had demonstrated its commitment to equitable development across the country. “I stand before you, my people, and I want to tell you that I will do my best to ensure that this Government enters a second term for the sustainability and continued development of this region and indeed the entire Country,” said Wetang’ula.
+
+- **[KBC Digital]** Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/russian-strikes-on-ukraine-kill-two-officials-say-a-day-after-deadly-attack-on-mall/
+  - Draft material: Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall.
+
+At least two people have been killed in Ukraine by Russian strikes while nine people remain missing a day after a double-tap attack on a shopping centre that killed 16. Local authorities said one person was killed in a warehouse fire in Kyiv after an alert for a ballistic missile while another was killed in a drone strike on Zaporizhzhia in the early hours of Saturday. The Russian defence ministry said it launched massive strikes targeting transport infrastructure and warehouses. The attacks follow a deadly Russian double-tap drone strike on a busy mall in Kryvyi Rih on Friday that President Volodymyr Zelensky called “absolutely cynical and despicable”. Earlier on Friday, Hanzha said that of the 130 people injured, 29 were in a serious condition. There are fears the death toll could rise further. Rescue teams from four other Ukrainian regions are being urgently deployed to help search for survivors. Kryvyi Rih Mayor Oleksandr Vilkul said the Russian drones were flying at “extremely low altitudes”, describing the attackers as “animals”. “There are missing people who are not responding to calls,” the mayor added.
+
+- **[KBC Digital]** Canada says it will match US tariffs ‘dollar for dollar’ as trade talks break down
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/canada-says-it-will-match-us-tariffs-dollar-for-dollar-as-trade-talks-break-down/
+  - Draft material: Canada says it will match US tariffs ‘dollar for dollar’ as trade talks break down.
+
+A fresh wave of US tariffs on a wide array of Canadian goods has come into effect as of midnight on Saturday after a last minute break down in trade talks. Announcing the suspension of negotiations shortly before the Friday night deadline, Canadian Prime Minister Mark Carney said he would impose reciprocal tariffs on US goods “dollar for dollar”. Carney said “last-minute changes in the US proposed terms were unfair, uneconomic, and called into question the reliability of any deal”. Trade negotiators had been engaged in intense talks since July, after President Donald Trump threatened to impose a 50% levy on nearly $20bn (C$28bn) of Canadian imports by 19 August. Trump had temporarily paused those tariffs earlier in the week, saying the two sides were close to signing a trade deal that was “very good” for both countries. But minutes before a deadline for a deal, Carney said that while “important progress” had been made in the talks it was “not enough to meet our objectives for Canadians”. “As a result, this evening, I have decided to suspend trade negotiations with the US and have directed negotiators to return to Ottawa,” he said.
+
+- **[Kenyans.co.ke]** Global Rating Agency Warns Ruto, Mbadi Over Costly Loans
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126405-sp-retains-kenyas-b-credit-rating-warns-rising-debt-costs-and-fiscal-risks
+  - Draft material: Global Rating Agency Warns Ruto, Mbadi Over Costly Loans.
+
+S&P Global Ratings has warned that Kenya’s fiscal deficit could widen to 7.1 per cent of GDP in the 2026/27 financial year, driven by revenue shortfalls, rising interest payments and increased spending ahead of the 2027 General Election. The projected deficit is above Treasury’s target of 5.5 per cent, with S&P also pointing to additional expenditure linked to the Middle East conflict as a factor likely to widen the gap. Despite the warning, the global rating agency retained Kenya’s sovereign credit rating at B and maintained a stable outlook. S&P affirmed Kenya’s B long-term and short-term foreign and local currency ratings, while its transfer and convertibility assessment remained at B+. The agency said the stable outlook indicates Kenya’s strong economic growth prospects and continued access to concessional external financing, which offset concerns over high interest costs, slower fiscal consolidation and external imbalances. The forecast echoes concerns raised by Moody’s in July, when the credit rating agency warned that increased government spending ahead of the 2027 General Election could push the deficit beyond the Treasury’s projections. Moody’s had also projected a 7.1 per cent deficit for 2026/27, citing weaker revenue collection, pre-election spending and greater reliance on costly domestic borrowing.
+
+- **[Kenyans.co.ke]** Chaos, Panic as Train Collides With PSV Bus in Githurai
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126404-chaos-panic-train-collides-psv-bus-githurai
+  - Draft material: Chaos, Panic as Train Collides With PSV Bus in Githurai.
+
+A train collided with a bus in Githurai on Friday evening after the vehicle attempted to cross the railway tracks, leaving both vehicles and nearby property badly damaged. Circulating accounts indicate that no fatalities or serious injuries were reported in the incident, which occurred at around 6:30pm. CCTV footage obtained by Kenyans.co.ke shows the bus crossing the tracks at a sustained speed when the train crashed into its driver’s side before it could clear the area. The impact pushed the bus along the tracks, also dragging a parked vehicle and damaging a nearby structure before the train came to a stop. Other vehicles in the area were affected as debris was scattered around the scene following the collision. Dust and smoke briefly engulfed the area, while bystanders were seen running away from the crash. The bus driver was seen emerging from the vehicle quickly after the crash as witnesses gathered at the scene. The train involved was marked 9306, reportedly identified as one operating the Nairobi Central Station-Ruiru route passenger service, which was passing through Githurai when the collision occurred.
+
+- **[Kenyans.co.ke]** Kenya Holds Talks With Ecuador Over Fatal Samburu Helicopter Crash
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126401-kenya-pledges-fast-track-probe-chopper-crash-killed-ecuador-intelligence-chief
+  - Draft material: Kenya Holds Talks With Ecuador Over Fatal Samburu Helicopter Crash.
+
+Kenya has pledged to expedite preliminary investigations into the helicopter crash that killed Ecuador’s intelligence chief Michele Sensi-Contugi Ycaza and his wife, Stephany María Hollihan. Principal Secretary for Foreign Affairs Korir Sing’Oei made the commitment during a phone call with Ecuador’s Deputy Minister of Foreign Affairs Alejandro Davalos on Saturday, August 22. In a statement obtained by Kenyans.co.ke, Sing’Oei said Kenya would also provide support for the recovery and repatriation of the victims’ remains in addition to working to establish the circumstances surrounding the crash. “I reaffirmed Kenya’s commitment to working round the clock to conclude preliminary investigations into the circumstances of the accident and to facilitate the necessary support toward the retrieval and repatriation of the remains, so that the departed may be accorded a fitting and dignified send-off,” the PS stated. The pledge comes as Ecuador mourns the deaths of Sensi-Contugi, the director of the country’s National Intelligence Centre, and his wife. The couple died on Wednesday during a recreational visit when the helicopter they were travelling in crashed while en route from Loisaba Conservancy to Ewaso Nyiro in Samburu County.
+
+- **[Nation Africa]** US judge reinstates visas for 75 nations banned by Trump
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/world/us-judge-reinstates-visas-for-75-nations-banned-by-trump--5567028
+  - Draft material: US judge reinstates visas for 75 nations banned by Trump. The judge ruled that Rubio’s policy did not have the congressional authority to issue a blanket...
+
+- **[Nation Africa]** Popular Ohangla musician Emma Jalamo begins Nyanza tour
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/life-and-style/weekend/popular-ohangla-musician-emma-jalamo-begins-nyanza-tour-5566670
+  - Draft material: Popular Ohangla musician Emma Jalamo begins Nyanza tour. On Sunday, Jalamo will perform at The Black Pearl in Nyamasaria, Kisumu.
+
+- **[Nation Africa]** Justice begins at home: Strengthen Judiciary's Sexual Harassment Policy
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/news/gender/justice-begins-at-home-strengthen-judiciary-s-sexual-harassment-policy-5563124
+  - Draft material: Justice begins at home: Strengthen Judiciary's Sexual Harassment Policy. Annual review offers the Judiciary an opportunity to harmonise its sexual harassment policy and...
+
+- **[Kenya Latest]** Khalwale: Kakamega’s million votes belong to Sifuna - the-star.co.ke
+  - Source: the-star.co.ke
+  - Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxPaHlUT0tQc21hQ0VBTlNWN2VUYlRUeTNyVFMzOF9tZHJlVjI5TWR6Mk9XdVJwaTF3RjBydmZlTTdxblNmb2l3RG02NXVMaURKazZjX2lQVHlMTXZ2VlRtLVoxcE1pVUttdGZlZ1VRRko0R0VpM2pMNGhwNk15emRzczJLWlJtTEFTSUE1eU55ZHZCSVRDenp3?oc=5
+
+- **[Nation Africa]** Murkomen breaks silence on Homa Bay violence, blames opposition for ignoring police intelligence
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/videos/murkomen-breaks-silence-on-homa-bay-violence-blames-opposition-for-ignoring-police-intelligence-5567004
+
+- **[Nation Africa]** When it's painfully tight: Living with vaginismus and how to treat it
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/life-and-style/saturday-magazine/when-it-s-painfully-tight-living-with-vaginismus-and-how-to-treat-it-5567006
+
+- **[Nation Africa]** Redsan talks about his music and what to expect during Redsdan@30
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/videos/redsan-talks-about-his-music-and-what-to-expect-during-redsdan-30-5567002
+
+- **[Nation Africa]** Kindiki: How can a Deputy President be chased away by the whole country? Can't be me
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/videos/kindiki-how-can-a-deputy-president-be-chased-away-by-the-whole-country-can-t-be-me-5567000
+
+- **[Nation Africa]** Gachagua: Only Scotland Yard and FBI can be trusted to probe MP Johana Ng'eno's death, not DCI
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/videos/gachagua-only-scotland-yard-and-fbi-can-be-trusted-to-probe-mp-johana-ng-eno-s-death-not-dci-5566998
+

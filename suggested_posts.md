@@ -1,6 +1,6 @@
-# Kenya News Suggestions - Generated 2026-08-22 22:42:23 EAT
+# Kenya News Suggestions - Generated 2026-08-22 23:08:32 EAT
 
-Scanned lookback gap of 18 minutes. Found 2 unique stories.
+Scanned lookback gap of 15 minutes. Found 1 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
@@ -23,17 +23,11 @@ Scanned lookback gap of 18 minutes. Found 2 unique stories.
 
 ---
 
-### 1. Forget AI, debt has become the main character on Wall Street as markets just now decided that it's gotten out of control after years of warnings - Fortune
-- **Category**: Business Topic
-- **Source Link**: https://news.google.com/rss/articles/CBMinAFBVV95cUxPcDRPYkl6eUcyQl90NlNYRFV4b29OMmRVd1NuTkdONkQ1UGdNdDh1QjJ6M1d5X1lLRGxwOERnaUZ3RXdBc1JPTENvdnJHWUkxbGlkN1NWbjU3QnhaQ3F2dlJScldlSS1ndlR3bGp3YTdpZ2R0dzdUZjRGT3ItaS16cDFONm5CX3JTcEdQMEd3OWpjSzlWZGFfdk9LU1g?oc=5
-- **Snippet**: Forget AI, debt has become the main character on Wall Street as markets just now decided that it's gotten out of control after years of warnings FortuneAI-driven surge in bond yields could be next risk for markets and growth ReutersWhy the Treasury market’s newfound calm could break down in September MarketWatchNo one saw this coming! LinkedInUS ca...
+**1. Rose Muhando stuns Kamulu crowd with powerful renditions of Kikuyu, Kamba hits**
 
----
+Tanzanian gospel singer Rose Muhando left attendees at a crusade in Kamulu elated and cheering after delivering a
 
-### 2. Bag iko na nduma: Martha Karua gives unexpected answer to viral ‘bag ni ya nini?’ question
-- **Category**: K24 Digital
-- **Source Link**: https://k24.digital/entertainment/celebrity/bag-iko-na-nduma-martha-karua-gives-unexpected-answer-to-viral-bag-ni-ya-nini-question
-- **Snippet**: People’s Liberation Party (PLP) leader Martha Karua has responded to the viral Gen Z question, “Bag ni ya...
+_K24 Digital — https://k24.digital/entertainment/celebrity/rose-muhando-stuns-kamulu-crowd-with-powerful-renditions-of-kikuyu-kamba-hits_
 
 ---
 

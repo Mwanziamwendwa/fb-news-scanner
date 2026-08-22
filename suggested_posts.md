@@ -9725,3 +9725,140 @@ The High Commission of India in Nairobi has confirmed that 22 Indian seafarers w
   - Source: the-star.co.ke
   - Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxNcTBFbDd3X243alNMOTU4ZzFsUmcwSzdJc3RwUzgyZlR1SnY2a1gyZHVnNWFrSENhZmdMa2JEWnd0M2VBTEFWWHFfS042TnhjTTFqc2licWVkVGpGQzlvMHZrT0lYTEFtYzNfV3diajVUUEdkTjFZMjBpRDhjV0g5dnFYSGg4Tks0R2pTZWJYRQ?oc=5
 
+## Scan run: 2026-08-22 12:57 (Nairobi time)
+
+- **[The Kenya Times]** Kenyan Shilling Remains Stable as Forex Reserves Hit USD15.2 Billion
+  - Source: The Kenya Times
+  - Link: https://thekenyatimes.com/business/kenyan-shilling-remains-stable-as-forex-reserves-hit-usd15-2-billion/
+  - Draft material: Kenyan Shilling Remains Stable as Forex Reserves Hit USD15.2 Billion.
+
+The Kenya Shilling remained stable against major international and regional currencies during the week ending August 20, 2026, trading at KSh129.49 against the US dollar. According to the Central Bank of Kenya (CBK) Weekly Bulletin released on August 21, the shilling traded at KSh129.49 on August 20, compared to KSh129.40 on August 13. “The Kenya Shilling remained stable against major international and regional currencies during the week ending August 20, 2026. It exchanged at KSh129.49 per U.S. dollar on August 20, compared to KSh129.40 per U.S. dollar on August 13,” reads part of the statement. The Sterling Pound was trading at KSh176.48, the Euro at KSh151.20, and 100 Japanese Yen at KSh81.53. The Ugandan Shilling stood at KSh28.74, the Tanzanian Shilling at KSh20.43, the Rwandan Franc at KSh11.35, and the South African Rand at KSh8.02. CBK Reports USD 15.2 Billion in Kenya’s Forex Reserves Kenya’s foreign exchange reserves also remained adequate, standing at USD 15.155 billion as of August 20, equivalent to 6.3 months of import cover. Foreign exchange reserves remained above the CBK’s statutory requirement to endeavour to maintain at least four months of import cover.
+
+- **[Education News]** Mara Sugar FC sign St Joseph’s Boys Kitale alumnus Instin Simiyu
+  - Source: Education News
+  - Link: https://educationnews.co.ke/mara-sugar-fc-sign-st-josephs-boys-kitale-alumnus-instin-simiyu/?utm_source=rss&utm_medium=rss&utm_campaign=mara-sugar-fc-sign-st-josephs-boys-kitale-alumnus-instin-simiyu
+  - Draft material: Mara Sugar FC sign St Joseph’s Boys Kitale alumnus Instin Simiyu.
+
+- Mara Sugar FC has signed midfielder Instin Simiyu from St Joseph’s Boys Kitale ahead of the new season. - Simiyu has departed Shabana FC without having made a competitive appearance for the club. - Simiyu has joined a squad managed by head coach Mike Mururi, who has taken on the task of developing his potential. Kenya Premier League outfit Mara Sugar FC have bolstered their midfield ranks with the signing of Instin Simiyu, a product of St Joseph’s Boys Kitale, as the Millers continue preparations for the upcoming season. The midfielder arrives at Mara Sugar looking to reset his senior career after a disappointing stint at Shabana FC, where he joined last year but failed to make a single competitive appearance for the top-flight side. At Mara Sugar, Simiyu will link up with head coach Mike Mururi, whose experience in the local game is expected to play a key role in helping the youngster convert his schoolboy promise into senior-level consistency.
+
+- **[Education News]** Why TSC’s move to stop arbitrary teacher appointments to acting positions is a step in the right direction
+  - Source: Education News
+  - Link: https://educationnews.co.ke/why-tscs-move-to-stop-arbitrary-teacher-appointments-to-acting-positions-is-a-step-in-the-right-direction/?utm_source=rss&utm_medium=rss&utm_campaign=why-tscs-move-to-stop-arbitrary-teacher-appointments-to-acting-positions-is-a-step-in-the-right-direction
+  - Draft material: Why TSC’s move to stop arbitrary teacher appointments to acting positions is a step in the right direction.
+
+- TSC has directed County Directors to stop appointing officers to substantive positions and to instead report vacancies to headquarters for competitive recruitment. - Evelyn Mitei has issued the directive dated August 18, 2026, following reports of County Directors placing officers in acting Sub-County Director roles. - The directive could restore fairness for teachers who have long felt overlooked for administrative positions despite years of experience. The Teachers Service Commission (TSC) has drawn a firm line on appointments within its field administration, directing County Directors to immediately stop appointing officers to established substantive positions and instead report vacancies to Commission headquarters for competitive recruitment. In a directive dated August 18, 2026, TSC Acting Commission Secretary and Chief Executive Officer Evelyn Mitei made it clear that County Directors do not have the authority to appoint officers to substantive positions, whether on an acting, temporary or any other basis. Where a substantive vacancy arises, it must instead be reported to headquarters for the prescribed recruitment, selection and appointment process. The Commission has also directed County Directors to review communications already issued on such appointments and take corrective action where irregular arrangements are identified.
+
+- **[Standard Politics]** Gachagua woos Kipsigis community, warns them against Ruto
+  - Source: Standard Politics
+  - Link: https://www.standardmedia.co.ke/politics/article/2001555926/gachagua-woos-kipsigis-community-warns-them-against-ruto
+  - Draft material: Gachagua woos Kipsigis community, warns them against Ruto.
+
+Audio By Vocalize Former Deputy President Rigath Gachagua has intensified his 2027 political campaign against President William Ruto in the South Rift region, urging the Kipsigis community to join him in sending Ruto home. Speaking in Emurua Dikirr constituency in Narok County, Gachagua said that Ruto does not stand a chance of being re-elected due to his failure to deliver on key development promises he made to Kenyans. He said the community risks being left behind in the next government if they fail to support the opposition in removing Ruto from power. The impeached deputy president accused Ruto of isolating the Kipsigis, saying it was time for the community to chart a different political path away from the president. He took issue with the way Ruto’s administration handled the death of former Emurua Dikirr MP Johana Ng’eno, demanding that senior government officials, among them Interior Cabinet Secretary Kipchumba Murkomen, should tell the people the circumstances surrounding the helicopter crash that claimed the lives of Ng’eno and four others.
+
+- **[Politics]** Embu elders reject Nembure meeting that installed Kindiki as Mt Kenya East spokesman - People Daily
+  - Source: People Daily
+  - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxQRlpRQ2w3NVNCTFhsbEVIUVVCcDZseXN0UXE5bkE2RlhRTHJOMkptcmtmN0lZVUlTNEkwYTdNUU95RDJEdTd2aU1HNHdQdk9TT2dHTklvZ0tpSmVsbm4yTjRheGFSY2EzalNwTi1ITmpJS2V2VTBKZ0tBUXlKdXpKU0w2b21MdXhlWEUzdkJpMlFoQ1JVNWdxYVV6ZHpOYUhsOUh6dUhEYXN1TjZhMVNhSGFRcFZ3Zkh1dEZJbU5vdUQ2TEJGU2pr?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Embu elders reject Nembure meeting that installed Kindiki as Mt Kenya East spokesman - People Daily. Embu elders reject Nembure meeting that installed Kindiki as Mt Kenya East spokesman People Daily
+
+- **[Business Topic]** Kenya's Forex Reserves Decline for 3rd Consecutive Week, Puts Slight Pressure on Shilling - Tuko News
+  - Source: Tuko News
+  - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUHR0MjMtdkdpRW1JeFpHWXd3cGJWb1JQUzhXUGd6V1FBMTFEY3BHTENyS3o0V0c5MDdjejNTbGxSaTBuRkRsN3Q5UmEwOXF3S09jWU5DOVFyZXVPSmZ4VUNENW9Sa0VIdWxvM0txRC1pRG5UYzEtX2FWSlhubDFpZVNHWC12SUR1TWVrS2VSUjVxQ1JGTVdwUVEzMHQ4aC1nbElXWVkwTEI2anQydGNGYnJrMmtWeUdzbWFQSGhhWDRmZHNGZzRIeUlNVVQ4UEptUUE?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Kenya's Forex Reserves Decline for 3rd Consecutive Week, Puts Slight Pressure on Shilling - Tuko News. Kenya's Forex Reserves Decline for 3rd Consecutive Week, Puts Slight Pressure on Shilling Tuko News Kenya’s forex reserves remain above Ksh1.9 trillion People Daily Kenyan Shilling Trades Within Narrow Range Against US Dollar, Loses to Pound in August Tuko News Kenya has enough forex buffer to withstand El Niño, Middle East shocks - CBK The Eastleigh Voice The Shilling Holds Below KSh130 as Dollar Inflows Strengthen Dawan Africa
+
+- **[Business Topic]** Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs - Reuters
+  - Source: Reuters
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGw0X0lOUmZESVVqMWhVeV84V3ptaFJTWDhqSzdPUm9CUEF5QmppQUExYWVwN09OZjhqYnpOcUxaRDZHdngzTHNaWWtPZy1namVHODNULWtCNkpSV0hvSmRfMkRFeXQ2bkNIR05qQUFSdzc4bWV4ZFZud0ppWWVGQVVnbTR0ZXhSMUVWQ3Y5ZXluc1VrUXh6NUhmNEJ2RDAzdElkMjZKS3lqMXNHdHR1ZlJB?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs - Reuters. Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs Reuters Vatican to build €100 million renewable energy plant, sources say AOL.com
+
+- **[Business Topic]** Laptop catches fire on US flight, pilot reports - BBC
+  - Source: BBC
+  - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4eG9XRk44bjRnZTB5bHRsV3BWWWVoanVWcktRQXlfSWlrZmYzWFdtbkFKbkk1Y3JpMklCa3hlQThWS3ZLSDNGMVRMay1jYXIwWkFYVG1fbjNBUQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Laptop catches fire on US flight, pilot reports - BBC. Laptop catches fire on US flight, pilot reports BBC See more headlines and perspectives on Google News
+
+- **[Business Topic]** U.K. Flash PMI Signals Stronger Economic Growth And Improved Confidence In August - Seeking Alpha
+  - Source: Seeking Alpha
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPRnJHeElzQWtXcGRLRTg1OWlxUGg4blV6NElQLXBzZmhESXlVU2ZMWHZCQ2RrTlN3UF9wQS1iV19zUkdyLWh5OVU2TEJJejVyT0RxRWdfUFFkd0llM2U2MDAtVnJhb1J3aWhYZVQ1SWRqMmwwQU12LXNoSUpDUEVyaGd6Si1OWnlRNDdsQklpZ3l0ekY2MzFuOFZOcjZadlBrU00tcEhVdjJocnNFTTRZVjQ1dUNPcm8?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: U.K. Flash PMI Signals Stronger Economic Growth And Improved Confidence In August - Seeking Alpha. U.K. Flash PMI Signals Stronger Economic Growth And Improved Confidence In August Seeking Alpha UK economy’s rebound fails to stem two years of mass job losses City AM United Kingdom: Services-led growth and price risks – Nomura FXStreet UK flash PMI signals stronger economic growth and improved confidence in August S&P Global Gold and bitcoin surge after US bond market selloff; UK economy on ‘firmer footing’ - as it happened The Guardian
+
+- **[Business Topic]** Vingroup Among Vietnam Stocks to Debut on FTSE’s EM Index - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOSWg1blA2NlcyMmR2MGJOM3l4SWhOZXFaRjlHQXZCZFlBQzhmbXI4bW42SE1XRVJjSF9KXy1fUFRvWlR2N3l5QUcxQTNpRFRxSlZHYkhLRVFRclRlM3NqbmNIQUg0REUyc0JmdzNGdWZvNmZsaS1LV3U3WHQ4MnI2alVrS0hQT3dWa1M4em9nSUdVWUFzcGUzSTFKU2ZUZEt2aXZvNThqUDE4blhOYnpmVDB3bw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Vingroup Among Vietnam Stocks to Debut on FTSE’s EM Index - Bloomberg.com. Vingroup Among Vietnam Stocks to Debut on FTSE’s EM Index Bloomberg.com Developing quality demand for the stock market. Vietnam.vn FTSE Russell names Hoa Phat, Vingroup, Vietcombank for Vietnam's emerging-market upgrade TradingView
+
+- **[Business Topic]** 3 Nuclear Energy Stocks Backed by Cash and AI Power Demand - simplywall.st
+  - Source: simplywall.st
+  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxOSFhvd284SS1RMHlaWV9KS0ZOZ3FIRXBmeTdtZEdFUFBhSXhmU3JYbW82NTllblVKNjhiVE9iLXNBZ2c0eFF4LTNHT0I3NUNrWEp1ZHdwcHg0TTNfbGY1ZzFHZjB1Zi0wN2Z1NkZORjVuVmZ2dkU3ZEtxdy1MTWNxQzd2TjJQWThsZWJKQlhXNDVVLV9QZG5UMUhyZjBxTXlGcDNEQTV2Qnh2b1BjMWx0MDRjNjI5WWNFQ1pSamRZUDFvSmw4d2hqdi03R0bSAdIBQVVfeXFMT01kdXNqQ0c1VlMxRDR4d201NC1rb1hQWjBJYnVsYVp0bDZNNDI2R0F5dkh6REhMeW5CNFctYjg1a0h6OTNTM3VtQVdpSzVGaGRaZVpPNmZ3V21lUEVWcWdTcWlweXJ2QjJJZEtoU1hxSmswamRTd1lsSGloOGlLNEFfRzFSaWJPazJLWTFUY1FYelFpUmV5VmdQSmhMX0c5MWhNem1ySkY2ZU9qRXNES2k0Z2xjNkkxSVBkYzRzNE1heHFKN3dQNmxBdEI4akEzRzR3?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: 3 Nuclear Energy Stocks Backed by Cash and AI Power Demand - simplywall.st. 3 Nuclear Energy Stocks Backed by Cash and AI Power Demand simplywall.st 3 Nuclear Energy Stocks Riding the AI Power Surge in August 24/7 Wall St. What Is the Best Nuclear Reactor Stock You Should Put $1,000 Into in 2026? The Motley Fool Nuclear Energy's $10 Trillion AI Boom: Why NuScale Power Could Be a Long-Term Player - Full Year Guidance vinanet.vn 3 Japanese Nuclear Energy Stocks Linked To Grid And AI Infrastructure Growth simplywall.st
+
+- **[Business Topic]** Hapag Lloyd (XTRA:HLAG) Stock Could Be Pricey After Rotterdam Terminal Deal - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxQWXZKNHBoVUdDNklralRiQUJhci1sS1pNRjVBOHVqQzBHclZERU91ZUZZazY3UmtmbERPYXN5aUt4OGpCREZIRnUycnpyR205WTNSYlRvdUdPNjB3azdWRjE5QXBxeDVla0liZV9jazZtNktyeHdEZW51REhpRUpwQndwbVBmWTY4bk9waHowN2hFZ2pia1NF?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Hapag Lloyd (XTRA:HLAG) Stock Could Be Pricey After Rotterdam Terminal Deal - Yahoo Finance. Hapag Lloyd (XTRA:HLAG) Stock Could Be Pricey After Rotterdam Terminal Deal Yahoo Finance APM Terminals and Hapag-Lloyd partner to drive future growth at Maasvlakte II Hapag-Lloyd Hapag-Lloyd buys 25% stake in Rotterdam APM terminal Trans.INFO Hapag-Lloyd Invests in APM Terminals Rotterdam to Drive Growth The Maritime Executive Hapag-Lloyd to acquire 25% of box terminal at Rotterdam vital to Gemini The Loadstar
+
+- **[Business Topic]** Pitney Bowes (PBI) Launches Debt Tender Offer On A Narrative That Still Sees Upside - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxOMVZrbjNqcHluTHBjbEdoYWl2Z3g1VkM0MGZYWEgxd2J2UG0zUDJoY2VVa2t4bDktWDVxSU1pNFpBczVObF91d21veFJpU3BVRUlLc1g4RXY2Sk5KSlFKVExtcmwwY1BSV2o4S1hqVzVmNUY4VDJSVU5PczNESVpMYjhEd1VuQ04zMWtyY01DTlBWYVYxQWl2Rld1OA?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Pitney Bowes (PBI) Launches Debt Tender Offer On A Narrative That Still Sees Upside - Yahoo Finance. Pitney Bowes (PBI) Launches Debt Tender Offer On A Narrative That Still Sees Upside Yahoo Finance Pitney Bowes Inc. Commences Cash Tender Offers for Two Series of Notes Business Wire Pitney Bowes (PBI) Starts $50 Million Debt Tender Offers simplywall.st Pitney Bowes starts $50M cash tender offers for 2037 and 2043 notes TradingView Pitney Bowes Launches Tender Offers for Up to $50 Million in Notes marketscreener.com
+
+- **[Nairobi Leo]** Passaris Makes U-Turn on Running for MP, Announces Bid for Third Term
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29691/passaris-makes-u-turn-on-running-for-mp-announces-bid-for-third-term
+  - Draft material: Passaris Makes U-Turn on Running for MP, Announces Bid for Third Term.
+
+On Saturday, August 22, Nairobi Woman Representative Esther Passaris announced that she will defend her seat in the August 2027 General Elections. Passaris formally launched her bid alongside her new campaign song, which endorses her for a third term. "My name is Esther Muthoni Passaris, and in 353 days, I will be defending my seat as the Nairobi County Woman Representative in the 2027 General Election," the Woman Rep announced. Passaris' announcement today means that she has dropped her bid to run for Makadara Constituency Member of Parliament (MP). She declared on February 23 that she would run for MP, stating it would offer her an opportunity to contribute significantly to the constituency's development. Read More The Woman Rep. admitted that she picked Makadara over Westlands because the seat would be vacant, since the incumbent MP, George Aladwa, had whispered to her that he would run for Nairobi Governor. In November 2025, she publically declared that she would not contest for the Woman Rep position after serving two terms in office, adding that it was time to pass the baton to the next eligible female leader.
+
+- **[Nairobi Leo]** Kithure Kindiki Makes Appeal to Uhuru Kenyatta Days after Ruto's Attacks
+  - Source: Nairobi Leo
+  - Link: https://nairobileo.co.ke/news/article/29690/kithure-kindiki-makes-appeal-to-uhuru-kenyatta-days-after-rutos-attacks
+  - Draft material: Kithure Kindiki Makes Appeal to Uhuru Kenyatta Days after Ruto's Attacks.
+
+Deputy President Kithure Kindiki has appealed to retired President Uhuru Kenyatta to steer clear of active politics, urging him instead to embrace his role as a statesman above the political fray. Speaking Saturday, August 22, during the Mt Kenya East Grassroots Leaders event at Kinoru Stadium in Meru town, Kindiki said Kenya's only living retired head of state carries a responsibility that goes beyond partisan politics, and warned against his legacy being exploited by individuals with divisive agendas. "We are asking our retired president, Uhuru Kenyatta, to continue being a statesman who counsels the country because he is the only retired president. We don't want him to be misused in politics that incite and divide the country," Kindiki stated. Kindiki's remarks come at a time when President William Ruto has repeatedly and more directly accused Uhuru of bankrolling opposition figures ahead of the 2027 General Election. Uhuru's camp, led by his Jubilee Party, has dismissed. Read More Kindiki, however, opted for a more conciliatory tone, framing his appeal as a call to safeguard Uhuru's standing rather than as a direct political attack. "As a retired president, he should be there us our go-to leader who can help the country.
+
+- **[K24 Digital]** Term 3 preparation: How to set up budget-friendly study desk that boosts focus
+  - Source: K24 Digital
+  - Link: https://k24.digital/lifestyle/life-hacks/term-3-preparation-how-to-set-up-budget-friendly-study-desk-that-boosts-focus
+  - Draft material: Term 3 preparation: How to set up budget-friendly study desk that boosts focus.
+
+Term 3 preparation: How to set up budget-friendly study desk that boosts focus With Term 3 opening on August 24, 2026, parents are busy buying textbooks, uniforms, and stationery. Yet, how you set up your child’s study corner matters just as much as getting the right supplies. You do not need to spend extra money to turn a messy table into a great learning spot. Simple tweaks to lighting and layout help children concentrate better and protect their eyes during evening revision. Getting lighting right to protect young eyes Positioning a study lamp correctly makes a huge difference when children sit down for evening revision. Always place desk lamps on the side opposite to your child’s writing hand. If your child writes with their right hand, put the lamp on the left side of the desk. For left-handed children, place it on the right. This stops the writing hand from casting dark shadows across the page. Without shadows blocking the exercise book, your child avoids straining their eyes, which helps prevent headaches and fatigue. During daylight hours, place the desk sideways to a window so direct sunlight does not reflect off pages or screens.
+
+- **[K24 Digital]** ‘It was all scripted’ – Gen Z Mama Mboga says she was never a couple with Dappaman
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/it-was-all-scripted-gen-z-mama-mboga-says-she-was-never-a-couple-with-dappaman
+  - Draft material: ‘It was all scripted’ – Gen Z Mama Mboga says she was never a couple with Dappaman.
+
+‘It was all scripted’ – Gen Z Mama Mboga says she was never a couple with Dappaman Content creator Scholastica Meme, popularly known as Gen Z Mama Mboga, has clarified her relationship with fellow content creator Dappaman, saying the romantic content they shared was scripted and that they were never a real couple. Gen Z Mama Mboga clarified in an official statement on Saturday, August 22, 2026, announcing that she had ended her content collaboration with Dappaman. “The content we did together was all scripted. Nothing about it was real. We were never a real couple,” she said. The two creators had publicly presented themselves as a couple in January 2026, sharing romantic content that attracted attention from their followers. Scripted content Meme said the decision to end their collaboration was hers and that she would no longer create content with Dappaman. “That chapter is now closed for me. Moving forward, you will not see any content from me with him,” she said. She explained that she now wants to focus on her personal life, growth and content that is authentic to her.
+
+- **[K24 Digital]** Neville backs Alvarez move as Arsenal seek Champions League breakthrough
+  - Source: K24 Digital
+  - Link: https://k24.digital/sports/epl/neville-backs-alvarez-move-as-arsenal-seek-champions-league-breakthrough
+  - Draft material: Neville backs Alvarez move as Arsenal seek Champions League breakthrough.
+
+Neville backs Alvarez move as Arsenal seek Champions League breakthrough Arsenal have made an excellent opening to their Premier League title defence, but former Manchester United defender Gary Neville believes the reigning champions could still use one more elite attacking option, and has identified Atletico Madrid forward Julian Alvarez as the ideal addition. The Gunners followed their Community Shield triumph over Manchester City by producing another convincing display, defeating newly promoted Coventry City 3-0 at the Emirates Stadium on Friday night, August 21, 2026. Kai Havertz, Bukayo Saka and Martin Odegaard all found the net as Mikel Arteta’s side controlled the contest. Despite Arsenal’s strong start, Neville believes they require an attacking player capable of producing something special in difficult matches. The former Manchester United defender feels Alvarez could provide precisely that quality. “What a squad [Mikel Arteta] has built,” said Neville.
+
+- **[KBC Digital]** Wetangula says Ruto re-election will accelerate development in western region
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/wetangula-says-ruto-re-election-will-accelerate-development-in-western-region/
+  - Draft material: Wetangula says Ruto re-election will accelerate development in western region.
+
+National Assembly Speaker Moses Wetang’ula has urged residents of Bungoma County to re-elect President William Ruto in the 2027 General Election, saying a second term will accelerate development in the Western region. Wetang’ula spoke on Saturday when he met Bungoma stakeholders and members of the business community at the Mabanga Farmers Training Centre (FTC). He highlighted ongoing national government projects in the region and assured residents that the projects will be completed, noting that shared leadership and a common vision were key to advancing development. Wetang’ula also urged eligible residents who have not registered as voters to do so before the registration window closes, saying increased voter registration would help protect development gains and create opportunities for the region.
+
+- **[Kenyans.co.ke]** MPs Raise Alarm Over President Ruto's Stadium Projects
+  - Source: Kenyans.co.ke
+  - Link: https://www.kenyans.co.ke/news/126410-mps-raise-alarm-over-ksh217-billion-pending-bills-linked-stadium-projects
+  - Draft material: MPs Raise Alarm Over President Ruto's Stadium Projects.
+
+Members of Parliament have scrutinised Ksh2.176 billion in pending bills at the State Department for Sports, with officials attributing the amount to ongoing stadium construction and rehabilitation projects. The disclosure was made during a National Assembly Departmental Committee on Sports and Culture meeting to review the implementation of the 2025/26 budget, where Webuye West MP Dan Wanyama questioned the decision to undertake projects without adequate resources to meet their costs. He said poor planning and budgeting could leave the government with unfinished projects and mounting financial obligations. “At what point do you go overboard and have projects that you can’t pay? Maybe you are chewing more than you can swallow,” Wanyama said. The committee further warned that failure to settle verified bills could also create disputes with contractors and suppliers involved in the works. Sports Department officials explained that some of the obligations relate to projects, including Kipchoge Keino Stadium, the Kenya Academy of Sports Phase 1B, and constituency sports academies. They said they would prioritise verification of the outstanding claims before engaging the National Treasury on funding for their settlement. The scrutiny comes as President William Ruto continues to champion major stadium construction and upgrading projects across the country.
+
+- **[Nation Africa]** BOC Kenya raises interim dividend despite 40pc profit dip
+  - Source: Nation Africa
+  - Link: https://nation.africa/kenya/business/companies/boc-kenya-raises-interim-dividend-despite-40pc-profit-dip--5567080
+  - Draft material: BOC Kenya raises interim dividend despite 40pc profit dip. The profit slump stems from the disappearance of large customer engineering projects.
+
+- **[Business Topic]** China’s robot games evolve from science fair to strategic showcase - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPT1VUNHBYcG9wNG5HVXdlRGlOcnJEaUxBb0ZLNmdQRnN6TFZGREVyVTVpbG92VF8tVTNLSmVsSUJDcGZmbV9ib0k4bFBkNHBnM1g4R2VJMG0wSG9zTjA1alVmell1M1BwX19hbXpBV1VzbmVmcEFXQzJYYXlwYlRJcDZ2M0VzT1Z2Tml5V2FmT19pVVlncHFOSg?oc=5
+
+- **[Business Topic]** Philippines Says Military Logistics Pact With Japan Now in Force - Bloomberg.com
+  - Source: Bloomberg.com
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmVhMm1yS1hCZTh2YXBnRTRVUzJuYnhsRVhrZTB1VnpPeHhKWkdKS2NNWUU5YU1mZFBhWnBULTBYMURaQUNIOG5zMV9UZEVnTlNERXF3VlNEWjhWQlNXWV8xdEczU0UySWY4U2Q2X2l2QzVjamx2R1pLVFRaYUZsblRqa0NaN0lWaVlzbWFCYzl1UmZTX2tXYmRJZ2o0M0xLVDd0QVk5cUNHd3F2emp1QTdBZFdETEFiR05oY2xKVkg3QQ?oc=5
+

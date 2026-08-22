@@ -10555,3 +10555,59 @@ The government has begun the process of acquiring land for the construction of a
   - Source: Yahoo Finance
   - Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxNWDFqQWpKcHNyelZuWU9KWllQMGt3SUlNRE5CQll3MGRocURKYjJ2NlFlek14SVdQSHhPdlpzdk84dEY3RDlGbWpHOUlpNWkzUUkwLWxVcmUzZGNvSnIzZ3FNM2t6ZlBZODhydDZVS2ZNSjNsak1uMXByYUdha1h0cHUwRFFSRlExSTRlMGk5WjI4bFE?oc=5
 
+## Scan run: 2026-08-22 19:57 (Nairobi time)
+
+- **[Business Topic]** 40,000 bottles of eye drops across the US recalled over issues with sterility of product - The Guardian
+  - Source: The Guardian
+  - Link: https://news.google.com/rss/articles/CBMifkFVX3lxTE5jWlF6N3hqNUtIWmtNRnZTY1NpYm1majFIT3Q5MGZLU2NxWXdOSXUzNWRobkxiZ0tzemtfM3R6cmFuXzBzYlN6QTVETkp4dkRhVXVFODF5b0QyUmxhUi1VSk0yOTRtcWhERzhVck83eWFTLTdwUXY0RTF5YVlkZw?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: 40,000 bottles of eye drops across the US recalled over issues with sterility of product - The Guardian. 40,000 bottles of eye drops across the US recalled over issues with sterility of product The Guardian FDA recalls eye drop that relieves ocular itch for potential contamination Ophthalmology Times 8 ON YOUR SIDE CONSUMER ALERT: Eye drops recalled WAKA 8 Nearly 40,000 bottles of Clear Eyes recalled over contamination concerns Yahoo Nearly 40,000 Clear Eyes brand eye drops recalled KDNL
+
+- **[Business Topic]** Pinterest Insider Dumps Nearly 94,000 Shares, After Stock Drops by 33% Over Last Year - Yahoo Finance
+  - Source: Yahoo Finance
+  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWpwblJPY082TUhNUFlzZ1pmVjA4NXNhSlZVU3o2WkxXX3JYZW5YNW1FdW9yNHVQaGVicWE4TlNSUmFPbGZQR1NSeW9BMl9RUlNEVFNiaW02MnZZeGhaUnJkMjNTLU0zbkVVeExqVkh3bzU0d00zcTJMWjluTW4zOUY5UGc4Y3lwc3VpVWdkQlcwVENjNWNCa1pyeFYtYTQ?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Pinterest Insider Dumps Nearly 94,000 Shares, After Stock Drops by 33% Over Last Year - Yahoo Finance. Pinterest Insider Dumps Nearly 94,000 Shares, After Stock Drops by 33% Over Last Year Yahoo Finance Pinterest director Benjamin Silbermann sells $2.18m in stock Investing.com Pinterest (NYSE:PINS) Director Sells $1,096,875.00 in Stock MarketBeat
+
+- **[Business Topic]** Eli Lilly: Shaking Off Competition From The Dethroned Novo Nordisk (NYSE:LLY) - Seeking Alpha
+  - Source: Seeking Alpha
+  - Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxQanBfYWRoWU44LUtnOVNZLWpRRk5QaVIxa1JtTy10YnY5di1SRGpoclc3SVpjT2pPLXJkQnNjZ0hEZ2F1VWo2NE1QSFJvMG50ekFKLUNTSkNfZ3kta2hGV01MQ3pvRWM5NTZiQkVvcEJhY1Ntd3VCTzR3OHNyc3Y0Qmo4U2FKY1lXQ2xtQmNsNTkyZDdWR05tMEhIMk9uNnExcHVpbg?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Eli Lilly: Shaking Off Competition From The Dethroned Novo Nordisk (NYSE:LLY) - Seeking Alpha. Eli Lilly: Shaking Off Competition From The Dethroned Novo Nordisk (NYSE:LLY) Seeking Alpha Novo Nordisk: The Pill That Could Close The Gap With Lilly (NYSE:NVO) Seeking Alpha How Does LLY's Q2 GLP-1 Portfolio Performance Stack Up Against NVO's? TradingView Novo takes first round of oral obesity duel. Can it stay ahead of Lilly? BioSpace Novo Nordisk Files Lawsuit Against Eli Lilly Over Allegedly Misleading Drug Ads - CEO Earnings Statement vinanet.vn
+
+- **[Business Topic]** Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock - The Motley Fool
+  - Source: The Motley Fool
+  - Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxQb2FBbHMwY25jcHduZGRGd0IyUWE0T2QyVUZZSzF1U1U2aFlsTUV5S1FqdWVsc0IyZW1RTmJPOG0tZVdNRDNxdk1KUTFPN1oxa1lOa3VYd1VBNlJZQkM4bmpQN1JMUHR1RzdNQlFMbWJ4ZHlEbWZSdVdfZDhIMnF0eDdQMWw2NGdXSHZFVTBvdlZJem55?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock - The Motley Fool. Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock The Motley Fool See more headlines and perspectives on Google News
+
+- **[Business Topic]** 2 Hydrogen Stocks to Buy in August if You Believe in the Turnaround - The Motley Fool
+  - Source: The Motley Fool
+  - Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxQejVMTzBFLXVORkxkaVdpMlhBZW0zRm9uSzlucXRSalE4YmFVT3FKdkhPUWFSbmxFM2RjMEozdWRQYnhlVTgtbnZ5NEt0OVdNcGE2aEtXdDFzTjRQUmkxZVQ3SW50SG1VOWZQblNod01VcldidDZ2VVM2bWhabDUwYkVFZVJTenY0RzhidHpHU2FoUkx5d28w?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: 2 Hydrogen Stocks to Buy in August if You Believe in the Turnaround - The Motley Fool. 2 Hydrogen Stocks to Buy in August if You Believe in the Turnaround The Motley Fool See more headlines and perspectives on Google News
+
+- **[Business Topic]** Roundup: Polish experts see growing potential for AI cooperation with China - Xinhua
+  - Source: Xinhua
+  - Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE5jYlh2WTdaY0p1OXdhTG45Um1fVFRxeHZUd0VmREJ1dW1SYTlhamUxWUJWNFByd3Nab3VtWjhONnNwYjduNmlmRngwSlJ2Rm00NDRLbTJBY2NyeFVsS29QaTRhcWdPSll5RzRTX2l4SEI1VFg5em11S0NPTXk?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Roundup: Polish experts see growing potential for AI cooperation with China - Xinhua. Roundup: Polish experts see growing potential for AI cooperation with China Xinhua
+
+- **[Business Topic]** No, AI Probably Won’t Cure Cancer Anytime Soon, Scientists Say - The Information
+  - Source: The Information
+  - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxQU2tzSWJybmU5OW55VUItak1yM3FFQVZTQXR0bjMxWlEzM2JaVnJ2Zk1JN1hNdXRWT1BvRE10eURuVWc0OWhON1ZpQ0Y2V09BUnVqY085c0p6Y01rTGdzRThmbjhXWUFKNENhV3FTVjAyVHdmYzJPVzRCUloyd09uNTBlVDVCRXNyQjFQUzl3SXUxbk12cnc?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: No, AI Probably Won’t Cure Cancer Anytime Soon, Scientists Say - The Information. No, AI Probably Won’t Cure Cancer Anytime Soon, Scientists Say The Information See more headlines and perspectives on Google News
+
+- **[Business Topic]** Elderly woman allegedly pressured into spending HK$100,000 on beauty products - South China Morning Post
+  - Source: South China Morning Post
+  - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxNblNuTFJ4OU9odVo0TUVDMmRoV2xxYU01bEhPZ3VSQ0FuX0J0RjVHellDaTVwanoxT25GQmZBWU5fVHhLZ0Exd05Rakd6VWNwMHlwaElWRWRUOVdIX2w0YlFrYlE1UzYxbTlsYk1OLUxtaXNpOWtsYmtybkdWc3QybGtOcmlDdTFGaTZaUlBEQUZNU0N3TGl4QS02SGxYalhDUWdsZllQOFUzendVc1JxQWVTX1RfV1NYcnllem1RZmJJd1RTclHSAcYBQVVfeXFMUEJkNDhlTXMtMHVpMldmZHJXcVRwRXhaaG9QZU5lSkxhSlprc003TXM2SWVyZklWU0FzRElHYlVaOVRCMU50TTdheFR4U2k1UUQ5OUI4VllZSUs4WjBqcUgyZExKaHp3TUxKNUYyUHFIeEFoeE14XzhMc2loWmJ6bkdqS3daeTVnWVdEc1FaZ1YyVGdKQVNxSVdBeldMd3U5aC0yU0RWVmpEWlJ3VTFXRS1ZbDRZdUQzSnFHckNadDlhSGx3bGJR?oc=5&hl=en-US&gl=US&ceid=US:en
+  - Draft material: Elderly woman allegedly pressured into spending HK$100,000 on beauty products - South China Morning Post. Elderly woman allegedly pressured into spending HK$100,000 on beauty products South China Morning Post Inside the playbook used to dupe Hongkongers into making big beauty product buys South China Morning Post Official Statement from OPATRA London HQ bastillepost.com Customs detain beauty managers over coerced tactics 香港電台新聞網 2 OPATRA LONDON managers arrested over suspected unfair sales practice TVB
+
+- **[K24 Digital]** Director Trevor explains his role in Heha Movers after reports he wanted to manage them
+  - Source: K24 Digital
+  - Link: https://k24.digital/entertainment/celebrity/director-trevor-explains-his-role-in-heha-movers-after-reports-he-wanted-to-manage-them
+  - Draft material: Director Trevor explains his role in Heha Movers after reports he wanted to manage them.
+
+Director Trevor explains his role in Heha Movers after reports he wanted to manage them Director Trevor has clarified his role in Heha Movers after reports suggested that he wanted to manage the group. Trevor said he was not seeking to become the manager and explained that he intended to help turn Heha Movers into a real moving company. He said his role was focused on connecting the group with people who could help grow the idea into a business. “I don’t know why many news outlets are labelling it as me wanting to manage Heha Movers. I don’t just associate myself with anyone who is trending,” Director Trevor said on Saturday, August 22, 2026. Trevor explained that his interest was in helping the group build a proper business around the Heha Movers name. He said he wanted to connect the group with investors, business owners and people who already understand the moving industry. He said these connections could help turn the name into an actual company.
+
+- **[KBC Digital]** Police to take preventive action against goons, Murkomen says
+  - Source: KBC Digital
+  - Link: https://www.kbc.co.ke/police-to-take-preventive-action-against-goons-murkomen-says/
+  - Draft material: Police to take preventive action against goons, Murkomen says.
+
+Interior and National Administration CS Kipchumba Murkomen has issued firm instructions to security agencies to take preventive measures, including arresting facilitators of goonism before they reach political rallies. “The DCI should not wait until goons are in a particular rally. They must be able to take preventive measures and arrest them,” he said. He also urged Kenyans to stop supporting and attending rallies organised by politicians who sponsor or facilitate goonism. “I am advising Kenyans not to go to rallies of politicians who walk around with goons,” he urged. Murkomen further revealed that more lives could have been lost during the Linda Mwananchi rally in Homa Bay had the police failed to take preventive action early enough. “If the NPS, IG and DCI had not arrested those criminals before the rally, we would be talking about something else. More lives could have been lost had they not taken preventive measures based on intelligence reports,” said the CS. Urging political leaders to work closely with security agencies, Murkomen said Linda Mwananchi ignored security advisories issued to them and instead proceeded to mobilise more goons.
+

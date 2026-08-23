@@ -1,10 +1,11 @@
-# Kenya News Suggestions - Generated 2026-08-23 16:07:26 EAT
+# Kenya News Suggestions - Generated 2026-08-23 16:34:18 EAT
 
-Scanned lookback gap of 53 minutes. Found 14 unique stories.
+Scanned lookback gap of 26 minutes. Found 8 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
 - **Ghafla KE** (url_variant): `https://ghafla.co.ke/ke/feed` → `http://ghafla.co.ke/ke/feed`
+- **Nation Africa** (url_variant): `https://nation.africa/kenya/rss.xml` → `https://www.nation.africa/kenya/rss.xml`
 - **Kenya News Agency** (google_news_search_fallback): `https://www.kenyanews.go.ke/feed/` → `https://news.google.com/rss/search?q=Kenya%20Kenya%20News%20Agency&hl=en-KE&gl=KE&ceid=KE:en`
 - **Mwakilishi** (google_news_search_fallback): `https://mwakilishi.com/feed` → `https://news.google.com/rss/search?q=Kenya%20Mwakilishi&hl=en-KE&gl=KE&ceid=KE:en`
 - **Sharp Daily** (google_news_search_fallback): `https://sharpdaily.co.ke/feed/` → `https://news.google.com/rss/search?q=Kenya%20Sharp%20Daily&hl=en-KE&gl=KE&ceid=KE:en`
@@ -23,115 +24,67 @@ Scanned lookback gap of 53 minutes. Found 14 unique stories.
 
 ---
 
-**1. President Ruto Announces New Fertilizer Prices Countrywide**
+**1. UK orders reviews of franchising sector after Vodafone allegations - The Guardian**
 
-The Kenya Times ~ Trending, Breaking News and Videos President Ruto Announces New Fertilizer Prices Countrywide President William Ruto has announced a fresh reduction in the cost of maize seeds and subsidized fertilizer Speaking during a church service in Taita Taveta County on Sunday, August 23, Ruto said the new prices would take effect within the next two weeks as the government seeks to encourage farmers to take advantage of the […] This post President Ruto Announces New Fertilizer Prices Countrywide first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Morgan Wanyonyi
+UK orders reviews of franchising sector after Vodafone allegations The GuardianSee more headlines and perspectives on Google News
 
-_The Kenya Times — https://thekenyatimes.com/national/ruto-announces-50-subsidy-on-maize-seeds-ksh500-fertilizer-price-cut/_
-
----
-
-**2. Cracks as ODM Governor Issues Ultimatum to Oburu After Leaders Back UDA Candidate**
-
-The latest demands add to internal wrangles that have rocked the Orange Party over the years since its association with the UDA.
-
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126434-kajiado-governor-joseph-ole-lenku-threatens-shut-down-odm-kajiado-over-uda-links_
+_Business Topic — https://news.google.com/rss/articles/CBMirwFBVV95cUxQQnBVVzNNRl9jZ0VVQWh1V0JkMHdpMmlMb0NsSHZJM3ZvRTNPSDVDcnBlN3REV1VHUVNmdEVtMHVyMm5UcmFsVEFwOFJ6UHlPeG1aWm1uLUNFMFZsbEsyR1F1emRYV19laE1uUUdqd1BuZ2x2eWpyNEJLaG13M1NiZHh3bGx4VngyQ0UtcFF0WTNJT2xHZWlWUHEtSl9uX0tzNDR0dXhwV0lzMFk1SDUw?oc=5_
 
 ---
 
-**3. Exclusive | Walmart Keeps Pushing Into Fashion With New Clothing Brand - WSJ**
+**2. ‘Mimi sitaki kuitwa sponsor’ – Uhuru declares amid cheers in Kitale**
 
-Exclusive | Walmart Keeps Pushing Into Fashion With New Clothing Brand WSJ
+Former President Uhuru Kenyatta drew loud cheers in Kitale on Sunday after mentioning Nairobi Senator Edwin Sifuna while
 
-_Business Topic — https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0RxcEVmV1BiOEw4QjdpUTYzRUxBQzBmcTRERDIzMHpOT2F0WUdjTktQdkZCNlQtRjVuam1SYUM2V05KTzNaWjl4MUU0dnZCUGNVZkt0eUdZZTZsMnE5ZHBERnBxVkREWW9XVmszTk96T1kzTmxwOFNpUFk3Z204OVZBLWVsV3E5ejdMVmVCeFlLMkswVUtISHl2Q3NONk5EUldRZEFn?oc=5_
-
----
-
-**4. UoN, KU welcome first years tomorrow as university admissions continue across Kenya**
-
-Thousands of first-year students begin university life as institutions roll out admission and orientation programmes. UoN starts reporting on Monday, while several universities receive and orient new students during the week. Others, including Kibabii and sections of Kenyatta University, started receiving their new students earlier. Thousands of first-year students are beginning a new chapter in... The post UoN, KU welcome first years tomorrow as university admissions continue across Kenya first appeared on Education News.
-
-_Education News — https://educationnews.co.ke/uon-ku-welcome-first-years-tomorrow-as-university-admissions-continue-across-kenya/?utm_source=rss&utm_medium=rss&utm_campaign=uon-ku-welcome-first-years-tomorrow-as-university-admissions-continue-across-kenya_
+_K24 Digital — https://k24.digital/news/mimi-sitaki-kuitwa-sponsor-uhuru-declares-amid-cheers-in-kitale_
 
 ---
 
-**5. MKU second-year student found dead at Eldoret residence as police launch probe**
+**3. Loan spam lands digital lender Sh1m bill**
 
-Police are investigating the circumstances surrounding the death of Bachelor of Education student Faith Jeptoo. The student's body was discovered at her residence in Action area, Eldoret, with reported injuries. Her remains have been moved to MTRH as investigators work to establish what happened. A second-year student at Mount Kenya University (MKU) has been found... The post MKU second-year student found dead at Eldoret residence as police launch probe first appeared on Education News.
+Platinum Credit Limited charged for persistent stream of promotional calls and messages.
 
-_Education News — https://educationnews.co.ke/mku-second-year-student-found-dead-at-eldoret-residence-as-police-launch-probe/?utm_source=rss&utm_medium=rss&utm_campaign=mku-second-year-student-found-dead-at-eldoret-residence-as-police-launch-probe_
-
----
-
-**6. Content Creators, Commercial Photographers Face New Fees Under Nairobi County Rules**
-
-The county has also placed streaming and digital content platforms within its revenue structure.
-
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126433-nairobi-county-introduces-new-fees-content-creators-and-filmmakers_
+_Nation Africa — https://nation.africa/kenya/business/loan-spam-lands-digital-lender-sh1m-bill-5568192_
 
 ---
 
-**7. How to calm your child’s night-before-school jitters as Term 3 starts**
+**4. ‘New season, new trim’ – Haaland reveals buzzcut**
 
-As thousands of Kenyan learners prepare for school, the final evening before Term 3 reopens often brings a
+MANCHESTER, England, August 23, 2026 – Whether it be Zlatan Ibrahimovic, Gareth Bale or Erling Haaland, football has witnessed some iconic man buns over the years. However, Haaland has decided…
 
-_K24 Digital — https://k24.digital/lifestyle/mental-wellnes/how-to-calm-your-childs-night-before-school-jitters-as-term-3-opens_
-
----
-
-**8. 5 reasons every man should change his toothbrush every 2 months**
-
-Your toothbrush has a shelf life too. If its bristles are bent, tired and pointing in different directions,
-
-_K24 Digital — https://k24.digital/lifestyle/health-and-fitness/5-reasons-every-man-should-change-his-toothbrush-every-2-months_
+_Capital FM Sports — https://capitalfm.africa/new-season-new-trim-haaland-reveals-buzzcut/_
 
 ---
 
-**9. Uhuru rejects claims of funding opposition activities, calls for focus on Kenya’s future ahead of 2027 polls - The Eastleigh Voice**
+**5. Sorry, Liverpool! Sturridge predicts Reds’ fate in the 2026/27 season**
 
-Uhuru rejects claims of funding opposition activities, calls for focus on Kenya's future ahead of 2027 polls The Eastleigh Voice
+Former Liverpool forward Daniel Sturridge has expressed optimism for the club's 2026/27 campaign while offering a realistic assessment
 
-_Politics — https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSjVJaTJodWdiTGR0c1JlUTYtcXBEMV9ISVZ0ZFZXMDZyTnhOOER6LTZpRzIzQVJ3VHdNalM5RXdwZFFJdU9mZEcxSXUzNm9PV3RUM3JFOFl4YTRwckp3QXF1NmZmcUFtUDM0ejJUbDVRbkU1R29QaW5xbWotNkVqRU1NYXQ2TkVPWld2am1SVDRqcHBRYVlseXVMWGlLeDl2eV9tYi05SzRJcGFPN2xkZC16bFNnYnY4TUlub1NnVGRLTk5PeXJDVXc2bzhfMmU3TWNDY1RuTnp1dTUwaTFTblBQYXJtZw?oc=5_
-
----
-
-**10. Gachagua to Fly to U.S as Details of Upcoming Trip Emerge**
-
-The trip comes months after Gachagua made a similar trip to Europe to plan for the 2027 general elections roadmap.
-
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126432-gachagua-announces-extended-us-trip-plan-2027-strategy_
+_K24 Digital — https://k24.digital/sports/epl/sorry-liverpool-sturridge-predicts-reds-fate-in-the-20206-27-season_
 
 ---
 
-**11. President William Samoei Ruto (seated right) attends a church service at A.I.C. Makutano in Taita Taveta County. - facebook.com**
+**6. Mourinho urges Vinicius Jr to control emotions**
 
-President William Samoei Ruto (seated right) attends a church service at A.I.C. Makutano in Taita Taveta County. facebook.com
+MADRID, Spain, August 23, 2026 – Real Madrid boss Jose Mourinho says Vinicius Jr needs “great emotional control” after claiming the winger is being bullied on the pitch. The 63‑year‑old's…
 
-_Kenya News Agency — https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY3QxUGI3TWJ4STI5cnlMY282UnVtTVdxZmtnRmprZF8xMVRXMG1wRXZlTVBSWlZHUXVPVEtqdFdmdnJ5WnppazZtOXU0Q3ZMS0x4VWo1aHVVSWkteU9ILVg1OXNLaVpMaHZfc3c2ak9GRmZrMGVUT0FKTjNvcGlmMElfZ19BMHl5MFpEZW5BcFU3bmZ1d21LRWZwS3k2NWFZWHFHejdZSEtjS0VvX09oZjA5NXVBeTFocnk5djBHWnZpNVQ1TWJYWWRoM2d3dXg1WlhZMEtpUW1jTk9ZOEE?oc=5_
-
----
-
-**12. Belgut Half Marathon raises funds for needy learners as over 2,000 athletes take part**
-
-More than 2,000 athletes participate as the annual race raises funds for vulnerable learners. Proceeds will supplement the Belgut Starehe Schools bursary kitty to keep needy students in school. The event combines athletics, education support and talent development while rewarding top-performing runners. A sporting event in Belgut, Kericho County, is emerging as an important avenue... The post Belgut Half Marathon raises funds for needy learners as over 2,000 athletes take part first appeared on Education News.
-
-_Education News — https://educationnews.co.ke/belgut-half-marathon-raises-funds-for-needy-learners-as-over-2000-athletes-take-part/?utm_source=rss&utm_medium=rss&utm_campaign=belgut-half-marathon-raises-funds-for-needy-learners-as-over-2000-athletes-take-part_
+_Capital FM Sports — https://capitalfm.africa/mourinho-urges-vinicius-jr-to-control-emotions/_
 
 ---
 
-**13. Kaguta, Kandu Defend NCBA Golf Series Titles in Nyali**
+**7. Over 62,000 JSS teachers demand answers over unpaid ICT training allowances**
 
-NAIROBI, Kenya, August 23, 2026 – William Kaguta and Mary Kandu successfully defended their titles at the latest leg of the 2026 NCBA Golf Series held at Nyali Golf &…
+Teachers who participated in the June nationwide programme say they are yet to receive their allowances. The training equipped educators with digital skills to support technology integration under Competency-Based Education. Teachers now want TSC and the ICT Authority to disclose payment rates and disbursement timelines. More than 62,000 Junior Secondary School (JSS) teachers who participated... The post Over 62,000 JSS teachers demand answers over unpaid ICT training allowances first appeared on Education News.
 
-_Capital FM Sports — https://capitalfm.africa/kaguta-kandu-defend-ncba-golf-series-titles-in-nyali/_
+_Education News — https://educationnews.co.ke/over-62000-jss-teachers-demand-answers-over-unpaid-ict-training-allowances/?utm_source=rss&utm_medium=rss&utm_campaign=over-62000-jss-teachers-demand-answers-over-unpaid-ict-training-allowances_
 
 ---
 
-**14. FKF PL: Why AFC Leopards are primed for decisive 2026/27 season**
+**8. Uhuru Hits Back at Ruto Over Sifuna Sponsor Remarks**
 
-AFC Leopards enter the upcoming FKF Premier League season facing a clear window to end their long title
+The Kenya Times ~ Trending, Breaking News and Videos Uhuru Hits Back at Ruto Over Sifuna Sponsor Remarks Former President Uhuru Kenyatta has strongly defended democratic freedoms, warning against attempts to block political rivals from holding meetings as allegations continue to swirl that he is backing the opposition. Speaking at the memorial event marking 23 years since the death of Kijana Wamalwa, Uhuru said Kenya's democracy was earned through sacrifice and that no […] This post Uhuru Hits Back at Ruto Over Sifuna Sponsor Remarks first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Wiltord Otieno
 
-_K24 Digital — https://k24.digital/sports/kpl/fkf-pl-afc-leopards-challenged-ahead-of-2026-27-season_
+_The Kenya Times — https://thekenyatimes.com/latest-kenya-times-news/uhuru-hits-back-at-ruto-over-sifuna-sponsor-remarks/_
 
 ---
 

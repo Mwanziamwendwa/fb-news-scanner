@@ -1,6 +1,6 @@
-# Kenya News Suggestions - Generated 2026-08-23 12:15:29 EAT
+# Kenya News Suggestions - Generated 2026-08-23 12:48:55 EAT
 
-Scanned lookback gap of 21 minutes. Found 9 unique stories.
+Scanned lookback gap of 33 minutes. Found 8 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
@@ -24,75 +24,67 @@ Scanned lookback gap of 21 minutes. Found 9 unique stories.
 
 ---
 
-**1. Detectives arrest suspect linked to murders of two elderly women in Trans Nzoia, Bungoma**
+**1. Fully funded Canada Master’s scholarship opens new door for young Kenyans**
 
-Detectives have arrested an 18-year-old man suspected of murdering an elderly woman in Trans Nzoia County and linked to the killing of another in Bungoma County. The first victim, identified as Florence Khosa, was admitted to Cheranganyi Nursing Home with serious injuries sustained during the attack and later succumbed to her injuries while undergoing treatment. […] The post Detectives arrest suspect linked to murders of two elderly women in Trans Nzoia, Bungoma appeared first on KBC Digital.
+Eligible Kenyan graduates aged 35 and below can seek consideration for UBC's 2027 scholarship intake. Successful scholars receive tuition, travel, accommodation, living expenses, health insurance and career-development support. The first application stage opens August 31, with expressions of interest closing September 6, 2026. A prestigious Canadian university has opened a potentially life-changing opportunity for young... The post Fully funded Canada Master's scholarship opens new door for young Kenyans first appeared on Education News.
 
-_KBC Digital — https://www.kbc.co.ke/detectives-arrest-suspect-linked-to-murders-of-two-elderly-women-in-trans-nzoia-bungoma/_
-
----
-
-**2. Sell U.S. dollar versus these currencies, BCA says - Yahoo Finance**
-
-Sell U.S. dollar versus these currencies, BCA says Yahoo Finance
-
-_Business Topic — https://news.google.com/rss/articles/CBMiogFBVV95cUxOb2tfY1k0SHNPSzZHUkQ4c1RndmNTTlBrRm42YTk4OWd6RG9GRmJ5TEx6MGx5bmlWa3ZLYTZNUjh1d2lTanpNMGNqNlRqd2dPd3psQVBmSTZ4Um5JNG1WSjZUQS1XNDFMMzlQd296a3FEbVZqOHZjM2lvWGJJUExrVzA2VmtfdlVRTlV4N0VYNTh6ZnBpeXJ1XzY0ajE1T2swN2c?oc=5_
+_Education News — https://educationnews.co.ke/fully-funded-canada-masters-scholarship-opens-new-door-for-young-kenyans/?utm_source=rss&utm_medium=rss&utm_campaign=fully-funded-canada-masters-scholarship-opens-new-door-for-young-kenyans_
 
 ---
 
-**3. Kenya Power Explains Sudden Reduction in Electricity Tokens**
+**2. Match preview: Manchester City begin post-Guardiola era with Bournemouth test**
 
-The explanation comes amid heightened attention to electricity costs following new adjustments announced by the Energy and Petroleum Regulatory Authority (EPRA) for August 2026.
+Manchester City will begin life after Pep Guardiola in the Premier League when they host Bournemouth at the
 
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126426-kenya-power-explains-why-customers-are-getting-fewer-electricity-tokens-after-outcry_
-
----
-
-**4. Why Sogomo is wrong: Education leadership needs generalists, not necessarily educationists**
-
-Kennedy Buhere challenges Benjamin Sogomo's argument that education leadership requires basic education management experience. He cites past ministers and senior officials from outside education who drove major sector reforms. Buhere argues effective leadership rests on vision, courage, sound judgement and trust in technical experts. Former Chief Executive Officer of the Teachers Service Commission (TSC), Mr... The post Why Sogomo is wrong: Education leadership needs generalists, not necessarily educationists first appeared on Education News.
-
-_Education News — https://educationnews.co.ke/why-sogomo-is-wrong-education-leadership-needs-generalists-not-necessarily-educationists/?utm_source=rss&utm_medium=rss&utm_campaign=why-sogomo-is-wrong-education-leadership-needs-generalists-not-necessarily-educationists_
+_K24 Digital — https://k24.digital/sports/epl/match-preview-manchester-city-begin-post-guardiola-era-with-bournemouth-test_
 
 ---
 
-**5. ‘The line’s running half-empty’: Llanwern steelworks feels the heat from cheap steel imports - The Guardian**
+**3. Maresca sets sights on keeping Manchester City in title race ahead of Bournemouth clash**
 
-'The line's running half-empty': Llanwern steelworks feels the heat from cheap steel imports The Guardian
+Enzo Maresca has made it clear that Manchester City's immediate ambition is not to predict how many trophies
 
-_Business Topic — https://news.google.com/rss/articles/CBMikgFBVV95cUxNdHRwWHBNX3k3djNhWUpqU2FRX2NOUGY2OEpqaFlZcmxWeHF5Y3JmbXVHZWhzTllLZWY1UG9TR3RaZ3daV19HT1hQUkhFSUc1cTFpbU5aX1FoY2VKR2hNejdkaE9XTUxuaXVyQmVGWkJxTDdXSkE3QUJCb2hzaWZNaWtfYjRtZkV5SFgtWnFMbFJkZw?oc=5_
-
----
-
-**6. Millions UDA and ODM Are Set to Receive From Political Parties Fund**
-
-The United Democratic Alliance (UDA) and the Orange Democratic Movement (ODM) are set to receive the largest share of the Political Parties Fund (PPF) in the 2026/2027 financial year.
-
-_Nairobi Leo — https://nairobileo.co.ke/news/article/29697/millions-uda-and-odm-are-set-to-receive-from-political-parties-fund_
+_K24 Digital — https://k24.digital/sports/epl/maresca-sets-sights-on-keeping-manchester-city-in-title-race-ahead-of-bournemouth-clash_
 
 ---
 
-**7. Two New 26- and 30-Storey Towers Set to Transform Nairobi’s Skyline as Govt Asks Kenyans for Views**
+**4. Governor Kachapin fetes former TSC senior officer on retirement after distinguished service**
 
-The Kenya Times ~ Trending, Breaking News and Videos Two New 26- and 30-Storey Towers Set to Transform Nairobi's Skyline as Govt Asks Kenyans for Views The National Environment Management Authority (NEMA) has invited members of the public to comment on two major high-rise developments proposed in Nairobi's Westlands and Kilimani areas before it decides whether to approve them. In notices published in the Kenya Gazette, NEMA said it has received Environmental and Social Impact Assessment reports for the projects, which, […] This post Two New 26- and 30-Storey Towers Set to Transform Nairobi's Skyline as Govt Asks Kenyans for Views first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Wiltord Otieno
+Family, colleagues and former students gathered at Kishaunet Farm to celebrate Reuben's professional journey. Governor Simon Kachapin joined the ceremony and officially opened the retired education officer's new home. The occasion celebrated Reuben's contribution to education, mentorship, public service and the Pokot community. The retirement of Mr Lotuliatum Reuben, a distinguished senior officer who served... The post Governor Kachapin fetes former TSC senior officer on retirement after distinguished service first appeared on Education News.
 
-_The Kenya Times — https://thekenyatimes.com/latest-kenya-times-news/nema-seeks-public-input-on-26-storey-westlands-30-storey-kilimani-projects/_
-
----
-
-**8. The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats - The New York Times**
-
-The World's Breadbaskets Are Getting Pounded by War, Weather and Trade Spats The New York Times'Perfect Storm' of Trump's War and Super El Niño to Drive Food Prices Even Higher Common DreamsWhich food prices could rise as war and heatwaves hit supplies? Euronews.comThe Next Food Inflation Shock Is Being Built Before It Reaches Menus ForbesConcerns Mount About The Global Food Supply. Farmers Face Rising Challenges Driven By Wars And Weather. International Business Times
-
-_Business Topic — https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVdmZVA5MjBDNkpYQVJYM3VTWkE2QXpKWmNrYUdSZnUwN0xSTy1HUWhrWTA3M1RtSHp5ZGpQQVFZRXZIb1hXYWcyZXFYVm1VU0p2SGN1cS1QZ3ZWQ29WWHNkSEpiMFgzYWpkVlNBTXJJQlRmaVVwUmxEWTVPNTJBX0FfRHZKMGxrN05IOA?oc=5_
+_Education News — https://educationnews.co.ke/governor-kachapin-fetes-former-tsc-senior-officer-on-retirement-after-distinguished-service/?utm_source=rss&utm_medium=rss&utm_campaign=governor-kachapin-fetes-former-tsc-senior-officer-on-retirement-after-distinguished-service_
 
 ---
 
-**9. How Kenya can rebuild TVET into a powerhouse of skills, jobs and economic transformation**
+**5. Gachagua attends Karatina church service as Mt Kenya politics takes shape - People Daily**
 
-Kenya has continued to treat TVET as a second-choice pathway, despite growing calls for it to become a central driver of jobs and industrialisation. Experts have called for stronger alignment between TVET training and labour market needs, alongside modern workshops, better-trained instructors and stronger private sector partnerships. Analysts have urged Kenya to reform public perception... The post How Kenya can rebuild TVET into a powerhouse of skills, jobs and economic transformation first appeared on Education News.
+Gachagua attends Karatina church service as Mt Kenya politics takes shape People Daily
 
-_Education News — https://educationnews.co.ke/how-kenya-can-rebuild-tvet-into-a-powerhouse-of-skills-jobs-and-economic-transformation/?utm_source=rss&utm_medium=rss&utm_campaign=how-kenya-can-rebuild-tvet-into-a-powerhouse-of-skills-jobs-and-economic-transformation_
+_Politics — https://news.google.com/rss/articles/CBMiuAFBVV95cUxObkQ1ZzFFMGtlVktVX0lKel9NcFczNFFfUWMtRnlOMFlfc29rYmRjY25EVVY2am1yYmdkWDI3VzNyN3dvT2kzUlo1Xy12dG52NnpOQkcwakoxMVF4M2RkcDE3Q3BkSTRLR09lVFRzVHNRbUdqa2diQWFnZW9JWS1KbmdIazBiVGZDQ1g4eXIwYTY2ZmRvV1Q3bnlmNFNiaUw5cThocjJaTUNGVTVrVEFBMDJMekRoX0xY?oc=5_
+
+---
+
+**6. Senator Mutinda appointed World Scout Parliamentary Union Kenya chairperson**
+
+Prime Cabinet Secretary Musalia Mudavadi has appointed nominated Senator Tabitha Maureen Mutinda as Chairperson of the Executive Committee of the World Scout Parliamentary Union Kenya. Mudavadi, who is also the Cabinet Secretary for Foreign and Diaspora Affairs, made the appointments in a gazette notice dated July 23, in his capacity as provided under the Intergovernmental […] The post Senator Mutinda appointed World Scout Parliamentary Union Kenya chairperson appeared first on KBC Digital.
+
+_KBC Digital — https://www.kbc.co.ke/senator-mutinda-appointed-world-scout-parliamentary-union-kenya-chairperson/_
+
+---
+
+**7. Isaya Yunge reflects on engagement to Charlene Ruto with message about love**
+
+Isaya Yunge has shared a message about love and togetherness weeks after his engagement to President William Ruto's
+
+_K24 Digital — https://k24.digital/entertainment/celebrity/isaya-yunge-reflects-on-engagement-to-charlene-ruto-with-message-about-love_
+
+---
+
+**8. Iran president admits country facing 'many problems'**
+
+"I understand we have many problems in society right now. We are trying to prevent these as much as we can," Pezeshkian said
+
+_Standard World — https://www.standardmedia.co.ke/world/article/2001555989/iran-president-admits-country-facing-many-problems_
 
 ---
 

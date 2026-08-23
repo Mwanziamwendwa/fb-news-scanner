@@ -1,6 +1,6 @@
-# Kenya News Suggestions - Generated 2026-08-23 18:42:47 EAT
+# Kenya News Suggestions - Generated 2026-08-23 19:10:04 EAT
 
-Scanned lookback gap of 1440 minutes. Found 24 unique stories.
+Scanned lookback gap of 1440 minutes. Found 20 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
@@ -23,195 +23,163 @@ Scanned lookback gap of 1440 minutes. Found 24 unique stories.
 
 ---
 
-**1. Governor Ole Lenku Threatens to Quit ODM**
+**1. Ndindi Nyoro begins nationwide political mobilisation ahead of 2027 - standardmedia.co.ke**
 
-Kajiado Governor Joseph Ole Lenku has threatened to leave the Orange Democratic Movement (ODM), citing betrayal from the party leadership.
+Ndindi Nyoro begins nationwide political mobilisation ahead of 2027 standardmedia.co.keMUGWE: What Ndindi Nyoro means for the interregnum of kingpins the-star.co.keNdindi Nyoro dumps UDA, joins opposition ahead of 2027 elections Citizen DigitalNyoro's break with Ruto redraws 2027 opposition map NTV KenyaTHE MOUNT KENYA SUCCESSION BATTLE: Ndindi Nyoro, Gachagua, Sifuna and the Political Storm Threatening to Reshape 2027 thikatowntoday.co.ke
 
-_Nairobi Leo — https://nairobileo.co.ke/news/article/29693/governor-ole-lenku-threatens-to-quit-odm_
-
----
-
-**2. Bessent Has No Easy Fix for What’s Really Driving Bond Yields Up - Yahoo Finance**
-
-Bessent Has No Easy Fix for What's Really Driving Bond Yields Up Yahoo FinanceTreasury doubles debt buybacks as Bessent moves to steady bond market CNBCAn alarmed bond market gets the Trump administration to act again AP NewsForex Today: US Dollar sinks on Treasury buyback ahead of data-heavy Thursday FXStreetWhy does the USD outlook depend on UST and Fed policy credibility? Investing.com
-
-_Business Topic — https://news.google.com/rss/articles/CBMilgFBVV95cUxQMC00dl9ERXhxVUp0UFBXVEFzTmxBZmZ0OTRZbVJPdVl4c3Jwa1Z0Z3ZxMFphaHd4dlc2OVV4TnljRDMtZGFPVmlmai1wVzVRbnFqNjFsSnJHbklzakU3eEFCRktlYm1ZX3JBeWkya1JnUHhGWHZfVGRDOW5Cd3pnZ18wRkVOZGFhaXZFb0stb1U0R2JabHc?oc=5_
+_Kenya Latest — https://news.google.com/rss/articles/CBMixgFBVV95cUxNcGRLbGUyQmJfeHFUT2U4TGZWRHJKekJMWkJ5eExHQk03OW45QU1ibTB5QzM2ZWxmNF9lOUlaYXk4eWRRWFh0aDR3eE1HLW9QRzZ0TFpiMGpuZmVYX0p1Xy1xb1A1bTdUX191S01QM3pUSFZLT1V5aTQ1VW1PYW9Uc080UDJPLUFYWWliUF9lVklIRGhFTkdYeGhzVTl4eDYzM1BLM3kwdXQwbklmUDJzYU1NV2U4ajJibmVXMDkzV2NYVEJvMnc?oc=5_
 
 ---
 
-**3. Government outlines policy path for Kenya's growing telematics sector - standardmedia.co.ke**
+**2. Worst Mistake: Murkomen's reckless remarks expose his aloofness - standardmedia.co.ke**
 
-Government outlines policy path for Kenya's growing telematics sector standardmedia.co.ke
+Worst Mistake: Murkomen's reckless remarks expose his aloofness standardmedia.co.keMurkomen orders preventive action against political goons the-star.co.ke'Kenya does not have a goons crisis,' Murkomen says as police deny links to criminal gangs Citizen DigitalOf Ruto's handlers, Murkomen confirms why ICC awaits UDA govt People DailyMurkomen urges Kenyans to shun rallies marred by goonism KBC Digital
 
-_KenyaMOJA — https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNHNGQXFrYjN5cnVaVUZMYUNFQVA0VDFVT2tOVzQzUnItcjFXRkhSQVk3cVlpMjF2LVZ5WEtUY20wOThjdk85MnNlQXZlMmFZODZJQzltMW9GZlA1Zkw2WTc3cTY0Xy10MjZjQ0Q4YmhxT3QxTTRTZzZQWnhQdy12dm1QVTQ5dFBOOEpRb09CNXRpcERUNlZLakY3b25ickxFZ05XV2o2bi1FdWZUWUhDa2Y1OFByOXpYcTRoZHg1d0NZc2hkcTJUcjZjWlp1NkhfclpoYXBYU1JMVWo2RGxWN3c1WVBTTnQzWlhXd1JLNA?oc=5_
-
----
-
-**4. Gachagua faces fresh threats to his grip on Mt Kenya - Daily Nation**
-
-Gachagua faces fresh threats to his grip on Mt Kenya Daily Nation
-
-_Politics — https://news.google.com/rss/articles/CBMipAFBVV95cUxQYkJMWmxoWWlFYnFfem1MTG1lT2czdFVNZDhQOF9iSThGc2VRU0dzSTRmVVdmMmtPN3ZXd3FsVndYNERBVWh5dHUyX2dWN0sydjVuYjZmcUN6Ul9BZzA0eC1Mbm1rNnI5MHlydlNrQVZyMklzaFZRQWh5b05mUTdidG1OX3dhNnVheFYyM1RjT1Q1M2dZYVhUQUxRaHdfVVh0QXJfRQ?oc=5_
+_Kenya Latest — https://news.google.com/rss/articles/CBMiswFBVV95cUxNa1NjVW1sYXFoU1NfY3dRMmFXVGMzYmhOU0pOX2tzdm5rV3l4dXVRVVJDZjN1a2hNLUNqSFFLNDZOMGI3TFBJZjE2WWl4MVh6ejJmd3BUOXRqeUFxbHRYNVNyVElSc0JyTTkxYUdjeXJuOTk1eTd1Y3N5TnkyRTdQblpsdzFVOGNaRHV1aDBQSXFROVMwWGlzTVAtRHRQZERISjdiS2gtN0Y3U3JBTWJYTEEwaw?oc=5_
 
 ---
 
-**5. Kenyan's goon violence puts ICC back in spotlight as US targets The Hague court - Daily Nation**
+**3. Brown Family Members Rebuked Retiring CEO of Jack Daniel’s Maker - Bloomberg.com**
 
-Kenyan's goon violence puts ICC back in spotlight as US targets The Hague court Daily Nation
+Brown Family Members Rebuked Retiring CEO of Jack Daniel's Maker Bloomberg.comThe Heirs to Jack Daniel's Are Fighting to Keep Control WSJHeirs to the Jack Daniel's Fortune Are Fending Off a Takeover—and a Rogue Cousin WSJ
 
-_Politics — https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ0E1b0VEc0VQa3V2eTZqWWtJcFFpbjFUSTRGaEs4c1RDY1dUUEVjdUd6UzVxWDQwVE50YVpuVnYydnJWLVpxdkdhdG44OUVmSk9IdThLLWZyaGY4bEE4SE85aURKTmFBY3A2YkNkMnZLODQzemY1S0otR3VMZ3psZWdrRk04YkJ4bHZFRkU4a3BvcWRoSUtDeXFjQ3l6VldremMtTlBZclY5c0lUT19uQ0ttbFkwTFpROUZwUjk2Y1p5VS13YWx6Zg?oc=5_
-
----
-
-**6. Term Three: The dos, don’ts, challenges and how to finish the school year strong**
-
-Hillary Muhalya examines how teachers, learners, parents and school leaders can navigate the demanding final term. He argues that preparation, professionalism and encouragement are more productive than panic, conflict and intimidation. With examinations approaching, schools must balance academic performance, discipline, integrity and learner wellbeing. Term Three is not just another stretch of the academic calendar.... The post Term Three: The dos, don'ts, challenges and how to finish the school year strong first appeared on Education News.
-
-_Education News — https://educationnews.co.ke/term-three-the-dos-donts-challenges-and-how-to-finish-the-school-year-strong/?utm_source=rss&utm_medium=rss&utm_campaign=term-three-the-dos-donts-challenges-and-how-to-finish-the-school-year-strong_
+_Business Topic — https://news.google.com/rss/articles/CBMivAFBVV95cUxNdEtrSDM1ekxiUGFCaTlOVzIwbnJNNm1XWlN6U1dCM3F6NDVMRDJ2dGR0emwwNVIya2VVRWlvLWZpNS1wWmNhSk44LTZZNjF1UnpxbmZzTmpHRnRSMThHcktSV0ZlWHh0U0tqZE9JYXI0RjhsMWo0bDJNTm5ldzZrZjItdWVqYWpNN0R5VGIzZVgyeEw1cW1HZWU3VnVSR28tcXhmY1A1LXJPUU11M0ZlLU0zN0dwbHFmLWVzQQ?oc=5_
 
 ---
 
-**7. Tusker stupefy Gor Mahia to win FKF Super Cup**
+**4. KPLC Announces Power Cuts in 5 Counties on Monday**
 
-NAIROBI, Kenya, August 23, 2026 – Tusker were crowned FKF Super Cup champions after a 3-1 victory over Gor Mahia at the Nyayo Stadium on Sunday evening. The brewers took…
+Kenya Power has announced scheduled power interruptions in five counties on Monday, August 24, as part of its planned maintenance activities.
 
-_Capital FM Sports — https://capitalfm.africa/tusker-stupefy-gor-stupor-to-win-fkf-super-cup/_
-
----
-
-**8. UK electricity bills may ease as fixed charges shrink with rising demand - Yahoo Finance**
-
-UK electricity bills may ease as fixed charges shrink with rising demand Yahoo Finance
-
-_Business Topic — https://news.google.com/rss/articles/CBMijwFBVV95cUxNVWVxNUpUUnR3bzdIVWcyeHdtTEx3WHh3SE1fajM3eDE2Q3J4ZlExNGYtMkZ1T2ZxNDhBZHRQRDZtOTd6V2VPa1d1Y0xmQVI3MUJoU0pHUGNWOXE3eDlLcDFfWEh3RlFfbXprbjFubjhvbzZvblNpLWRBTjB1SEQzNUs1TkhLZG5HNnh4Rjh3SQ?oc=5_
+_Nairobi Leo — https://nairobileo.co.ke/news/article/29699/kplc-announces-power-cuts-in-5-counties-on-monday_
 
 ---
 
-**9. Gachagua to Fly to U.S as Details of New 2027 Strategy Emerge - Kenyans.co.ke**
+**5. Indian Women’s $763 Billion Inheritance Bonanza – Barclays Private Bank - Wealth Briefing Asia**
 
-Gachagua to Fly to U.S as Details of New 2027 Strategy Emerge Kenyans.co.keGachagua turns to Gen Z as 56-day political consultations in Wamunyoro end the-star.co.keGachagua returns to Embu as he finalizes engagements ahead of US diaspora visit People DailyWill go to America: Gachagua announces date he'll end Wamunyoro consultations Tuko NewsGachagua Heads to US for Political 'Reflection' After 56 day conclave Capital FM Africa
+Indian Women's $763 Billion Inheritance Bonanza – Barclays Private Bank Wealth Briefing AsiaSee more headlines and perspectives on Google News
 
-_Kenya Latest — https://news.google.com/rss/articles/CBMilwFBVV95cUxPVzlycjk4OGRYZjJCLVB3MFptS1k2Ukl6bFhBbk8wZ0RNRUsxSUZiMl9tZ2dwaEV5eHBmQUJvS2laSjZwMmgzb0huQV9ETXZPSTE3czhWazNUWExQUkFzMXh5QV9ZU19hSFBQTF9FX3VlM2lfQVhaZFBPUGJtMmdEX2dHakxnZHVtS3ZUQVJtNG40dTNSRFNr?oc=5_
-
----
-
-**10. Toxic substances seized, four farmers arrested over elephant deaths in Amboseli**
-
-The death toll has risen to 18 elephants.
-
-_Nation Africa — https://nation.africa/kenya/counties/kajiado/toxic-substances-seized-four-farmers-arrested-over-elephant-deaths-in-amboseli--5568160_
+_Business Topic — https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbzJzV0x4UGlheWo4ZzJvUHNGdDZidWl0eGpSMEE2MHlSQmlCUGZRckhzUDdTS0xYc0c0cFJqNllfUkNnUUFtV0ZLdGEzNU5pQS1SZHZFTkdPR05maDd2S3ZHZkY1bWRvQUh6RzdxZno4SG01YXpJbHdWMVZ1dXM1U2tVajJMWUVpbURON1o1VDE1VU9fLW41V24xeFhZdzVYOGlQeER3ZzhtMzB3eVdJX2NxUXh4d2otVTRzblg5VkdJM0ZhRTBqaHVFdFRSNTE0c2FIc0FPUGw0RjQ5dGQw?oc=5_
 
 ---
 
-**11. 4 arrested over deaths of 18 elephants in Amboseli as finding point to cyanide poisoning**
+**6. Trump Bought SpaceX, Palantir And More: What We Learned From Latest Stock Trades - Forbes**
 
-Miano said the findings “remain subject to further scientific verification before the investigation is deemed complete.”
+Trump Bought SpaceX, Palantir And More: What We Learned From Latest Stock Trades ForbesTrump reshuffled his portfolio in June, selling names like Meta and buying Berkshire Hathaway CNBCTrump's Stock Disclosure Shows More Than 1,000 Trades in June Bloomberg.comTrump Continues Trading Stocks at Warp Speed: Berkshire Bought, Meta Sold Yahoo FinanceTrump Discloses 1,000 Stock Trades in June WSJ
 
-_Capital FM News — https://capitalfm.africa/4-arrested-over-deaths-of-18-elephants-in-amboseli-as-finding-point-to-cyanide-poisoning/_
-
----
-
-**12. Is Wolfspeed Stock a Buy on the Latest Dip? - The Motley Fool**
-
-Is Wolfspeed Stock a Buy on the Latest Dip? The Motley FoolSee more headlines and perspectives on Google News
-
-_Business Topic — https://news.google.com/rss/articles/CBMijgFBVV95cUxPejVVYUFSd05VOEMxSlNXd0NzZ3RNeTJJX2ZoQUZfVUJNZ3pnbmpCY0RhM3c0UmxlYzVQTlFwaGxBQ0xmcXdFSk1oNFd1VVRhcDI4UThfWkV4LS1rRGJwTDdlN1dyVUNnM2ZVaUxSSVpGTHZiSHVYVEx0U0I4c2U5WGIxZ3pJRU41NjZYVkJn?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMixAFBVV95cUxNbGZ1S1dqaEZRWEJQVXpVQS00c0ZjN2gtUXhUbGFpVm1iNEZpLU1HVHJXWmx3MGhNV2h3R1NCYnlKU2FVXzNQek1TZzhnSTNpcG1MdFppZjZiNVpEQkdrNkk2THl6czU4ZjRkamxSbW5Wcjlib0V0d1M0akFud0ExMFpVZ2xwNDRKcGFuY0dLdnB0ZnBxQldXT2I4dFI1TGdpT051RWc0Ujk0bS1PcnRnWkVyRkU0d1I4MFcxbVFqbC1JS081?oc=5_
 
 ---
 
-**13. Numeracy errors deepen as children progress through lower primary**
+**7. Brunei launches program to strengthen hybrid rice breeding - Xinhua**
 
-CEMASTEA finds learners struggle with increasingly complex numeracy errors by Grade Three.
+Brunei launches program to strengthen hybrid rice breeding Xinhua
 
-_Nation Africa — https://nation.africa/kenya/news/education/numeracy-errors-deepen-as-children-progress-through-lower-primary-5568272_
-
----
-
-**14. Joby and Archer Are Racing to FAA Certification While Burning Hundreds of Millions a Year. Here's the 1 Number That Picks the Winner. - The Motley Fool**
-
-Joby and Archer Are Racing to FAA Certification While Burning Hundreds of Millions a Year. Here's the 1 Number That Picks the Winner. The Motley Fool
-
-_Business Topic — https://news.google.com/rss/articles/CBMimAFBVV95cUxNdUNLZXpRUDlmSC1nbGc3VW9feVE5aExzUUNMc3lLc1o0MDFRd3lKbVc3S3VoUTlVWnNpY25CeW9BMmxpNlZodUtmNFJwTk1WbDlycThVY2ZLVFBaLVp3VmdyUGhEWXdKRXNyS3MxQ2RhVW4xMll5ZVVGbUpzQzdhUWx1bWpMUWJ6MWFCRGFhS25vcldUZTdEaA?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMifEFVX3lxTFA4TzV4eHZuUmZrODc3X0ZRMmluc0FKbV82TnEyV0Y4NVA0OVE4WlJlcWpGMHYxT1NickdCOFVCcmdwNF83cWh3cGpKbjBYeUlFZXBwRWxWTGRwX3hJTzluUjRYTlpYZzhLWG9NTDZLdnZURU5odzR2R1NVUjc?oc=5_
 
 ---
 
-**15. Ruto Announces New Fertilizer Prices from Next Month - Kenyans.co.ke**
+**8. Gachagua announces extended US trip - People Daily**
 
-Ruto Announces New Fertilizer Prices from Next Month Kenyans.co.keMaize seed price to reduce by 50% next month - Ruto Citizen DigitalPresident Ruto Announces New Fertilizer Prices Countrywide The Kenya TimesCheaper fertiliser opens the door to bigger harvests in Western Kenya Pulse KenyaFarmers Credit Affordable Fertilizer and Better Infrastructure for Higher Yields Business Today Kenya
+Gachagua announces extended US trip People DailyGachagua turns to Gen Z as 56-day political consultations in Wamunyoro end the-star.co.keGachagua to Fly to U.S as Details of New 2027 Strategy Emerge Kenyans.co.keGachagua returns to Embu as he finalizes engagements ahead of US diaspora visit People DailyWill go to America: Gachagua announces date he'll end Wamunyoro consultations Tuko News
 
-_Kenya Latest — https://news.google.com/rss/articles/CBMilAFBVV95cUxNSzBBVTEzcFdraG03ZXJHdzlURVNkTW9kSkRRVkV3MkszRDJkQnZfLS1xYy1QakhrRlR1TUZBWTZnVjc2eTgtZ0VjVzNHTG1KY3RLY2d0b010SkpnbWw0aksta25qOG1SWXpuXzlVSldqTlpXVXhZbVpaVFI3TDczSGJ4YmY0Z0VLOERYaEhZSzcwaURJ?oc=5_
-
----
-
-**16. Nvidia is the beating heart of the AI boom and the stock market - which sets up a big test - Morningstar**
-
-Nvidia is the beating heart of the AI boom and the stock market - which sets up a big test MorningstarNvidia's Q2 earnings to test resurgent AI trade Yahoo FinanceHSBC: Two Hidden Nvidia Narratives Emerge — Open-Source Models and Supply Chain Lockups as Re-Rating Catalysts finance.biggo.comNVIDIA Stock (NVDA) Opinions on AI Financing and Valuation Concerns Quiver QuantitativeNvidia Stock Is Treading Water Ahead of Earnings This Week - What's the Best NVDA Play? Barchart.com
-
-_Business Topic — https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZzB2ZU1vOTMxWjVmRmN2dVRMMmo2Q0R2c0N2NFZPTVBaSGhHNm45dDhqQlJHbUtWWTgzQ3JCMUtfT2pRY0lWRFFKU0MxQUdndjlZcVRYdWk4cVJHRVZMQWZOaWMwWV9ZMHNBQ0VHTE85RDZvRTdaaVIxSjhiYldkU3dtaDF2NGt5M1RxQ0oxZ3pUaUVDNDlYQk9zWnhFV1J6bkdfR0xud0RNb0liTk9QTktmdDhkUGE5cjRDeG9MdjVsRDNxTjZVcWlZcVdFVWtqcUFpS3NvMC1jNGs?oc=5_
+_Kenya Latest — https://news.google.com/rss/articles/CBMihgFBVV95cUxOeDdMc2xMRVFLT3NUTTMyQk9PazVfR01uYXVadTJfU0NrN3JWWDNLNGV2bFFxSVJZcWxwVnVHNjEyajJjZXo4U3dXNldxZmZnRHVzdGJ4bkhGRE9JZS1pa08zeGQzdEVNbzcwU0F5Yi1VamJGeGRnT0VJWk9LZThESUMteENNQQ?oc=5_
 
 ---
 
-**17. Uhuru rejects claims of funding opposition activities, calls for focus on Kenya’s future ahead of 2027 polls - The Eastleigh Voice**
+**9. ECB head Christine Lagarde 'ready to serve' WEF, report says - Euronews.com**
 
-Uhuru rejects claims of funding opposition activities, calls for focus on Kenya's future ahead of 2027 polls The Eastleigh Voice
+ECB head Christine Lagarde 'ready to serve' WEF, report says Euronews.comSee more headlines and perspectives on Google News
 
-_Politics — https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSjVJaTJodWdiTGR0c1JlUTYtcXBEMV9ISVZ0ZFZXMDZyTnhOOER6LTZpRzIzQVJ3VHdNalM5RXdwZFFJdU9mZEcxSXUzNm9PV3RUM3JFOFl4YTRwckp3QXF1NmZmcUFtUDM0ejJUbDVRbkU1R29QaW5xbWotNkVqRU1NYXQ2TkVPWld2am1SVDRqcHBRYVlseXVMWGlLeDl2eV9tYi05SzRJcGFPN2xkZC16bFNnYnY4TUlub1NnVGRLTk5PeXJDVXc2bzhfMmU3TWNDY1RuTnp1dTUwaTFTblBQYXJtZw?oc=5_
-
----
-
-**18. "He climbed down to oppose me": Ruto opens up on failed attempts to court Uhuru - Tuko News**
-
-"He climbed down to oppose me": Ruto opens up on failed attempts to court Uhuru Tuko NewsMy problem with Uhuru: Ruto lifts lid on how ex-boss snubbed repeated push to reconcile Daily NationGachagua to Uhuru: Stay home and rest let us deal with government the-star.co.keGachagua urges Uhuru to reject handshake with Ruto Citizen DigitalGachagua Tells Ruto to Stop Blaming Uhuru for Kenya's Problems Capital FM Africa
-
-_Kenya Latest — https://news.google.com/rss/articles/CBMiygFBVV95cUxNbDhBeTJNSkZnVTZEZERfVjJjT0hTS2RWNGpCNmkwQ1VDR2pUWTJFTEpSTUk0SWUyanN1bGNwZXBTUXRoMWxDeEJabWl6WUM3QVctWTFEUlREeFhRRl9UWERvMXpob0J2M09qdGNyWHV3NWc4aDhKV1g1RU9UdVJyLXJEdllYN05rUVpsM1NuUWpVLW1JM3hPYWNUMHoxMG1xVkJmZ2hwNW5OczBUdjdXMXlNWTBGQjJTd2VRV3lnUnJidjdiSDhNMmdR?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMipgFBVV95cUxOd3E0TVJFM3VKaklYYTYwZzNDRlBMZW9ZSUluenIwblgzVFphYXpValozR2xYbjNXUi1nSmJTLWlUNG1vODlfb2g1a0RKS08xdmFmTVY4eDdBOC1SbU03bVZTTUpielV5QkR4ZTdmM21nUFJ5UDhWRVF4NU9kdEtHeXUxOENEU2hVenJZWWdIZjg4WEMtTjNiU2xpNTBKM3FXQ1l2eEN3?oc=5_
 
 ---
 
-**19. Scientists turn tiny “defects” into a 5.5x heat transfer boost - Science Daily**
+**10. Pershing Square (PS) Following Earnings Loss And New Venture Launch Faces A Valuation Test - Yahoo Finance**
 
-Scientists turn tiny “defects” into a 5.5x heat transfer boost Science DailySee more headlines and perspectives on Google News
+Pershing Square (PS) Following Earnings Loss And New Venture Launch Faces A Valuation Test Yahoo Finance
 
-_Business Topic — https://news.google.com/rss/articles/CBMib0FVX3lxTE5fSU5uTF9acEpoc3dGdTEtQVZZYVYzQjFKZFRsV2pQOG51VDVlaWx5NDJkQjRTWVFmVThuLUdLNzhxTV94eGdyUDdEd19DWEJoR25zQXJfd3NxTndUVG5kc2pldmlWRVFMV1RIYXVIbw?oc=5_
-
----
-
-**20. Multi-Million Company Put on Notice as Govt Moves to Acquire Land - Kenyans.co.ke**
-
-Multi-Million Company Put on Notice as Govt Moves to Acquire Land Kenyans.co.ke
-
-_Kenya Latest — https://news.google.com/rss/articles/CBMinAFBVV95cUxNdldDTV9RQl94R0UxbEVmZFBCVjNrTDBfX3BiVEU0ZXY1MmhfRjMtY0hDRWJybERqNXkwRWhRam5xMm8wNGdZMUNhZVZBZ2ZUc2RKNmcza25XNy0yT2Q5MDIxSWF3MDVUbnVmZmJPZ0ZEeERsaVFkR2I1UFlKQ3ItUjhqNzNkelg0SV9JZDdVZS1TcUFSQkpsUmRHQVM?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWdNUl9IdlpFZEZmeUh6QlR3WUNuSWNpX0o5TVR2U3RZUEwwczM5SnlnX1Y2a3hWdUxmS01xQWo0S3d1MmV1OGZwVGEtRVNocjZVSFFick44LWM3OVJlMFhmTTd5b0RjRFVLd3MxS1dXc2FYZFZfRTF0eXFkNlFkOGk1MkRUQlhsNHIxVWNSSzZaNm82Rmh3R3JkN2ZJRnJlOEsxaw?oc=5_
 
 ---
 
-**21. Why your phone freezes when storage crosses 85 per cent**
+**11. Kenya’s push to end recruitment of citizens to Russia-Ukraine war - the-star.co.ke**
 
-Many smartphone users know the frustration when a phone slows down, freezes, or crashes while opening M-Pesa, WhatsApp,
+Kenya's push to end recruitment of citizens to Russia-Ukraine war the-star.co.keKenyan mercenary Francis Ndarua: My viral 'suicide bomber' video was staged by Ukraine but reality in Russia is worse Daily NationGrief and uncertainty as Kenyan families seek answers on relatives killed, missing in Russia-Ukraine war standardmedia.co.keRussia-Ukraine war: What awaits Kenyans held as Prisoners of War the-star.co.keHow Kenyan father's search for work ended in captivity on Ukraine battlefield the-star.co.ke
 
-_K24 Digital — https://k24.digital/lifestyle/technology/why-your-phone-freezes-when-storage-crosses-85-per-cent_
-
----
-
-**22. Uhuru, Sifuna among leaders invited to grace Kijana Wamalwa memorial - the-star.co.ke**
-
-Uhuru, Sifuna among leaders invited to grace Kijana Wamalwa memorial the-star.co.ke'Sitaki kuitwa sponsor!' Uhuru reacts after Sifuna mention sparks cheers at Wamalwa memorial the-star.co.keUhuru rejects 'sponsor' tag, urges politicians to let Kenyans choose leaders Citizen DigitalUhuru Responds to Ruto Over Claims Of Sponsoring Opposition Kenyans.co.keUhuru to launch book on Wamalwa's legacy at annual memorial standardmedia.co.ke
-
-_Kenya Latest — https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbGZZNFdYWmNSaEUtT05oNzhUcXVxRERpWm9rWFlHekhfN3ZXM0VDemFySVh6cl9pSTBTc191V0ZhSWMzaE8tN281YVFMa1JSR3M2NTVId0szTXpaSEhrUFBFTDlaeGlfNnZHb0dDbFFITXlIS2dyTVk2R2Y4YnVFNWducWtKV0dDd1Zv?oc=5_
+_Kenya Latest — https://news.google.com/rss/articles/CBMimAFBVV95cUxQUE1qZzhMSmc2M2loTURCS3ZwVnduMDNLRjF6M1RRQmJOa0lTOE1HQ0I0MDc4dExvWkJmNmZzbkU0cEVfSUhIR0QyMnduZkhQR0FTeU54eWpHdXdZLVdrUzd6TFBlSUdoa2d6U09SU2hvTGtxTGhsdGp6ODAyWmpXSDJwdUdWODNneGo3TDZqcWNFMWpZSGJ1Mw?oc=5_
 
 ---
 
-**23. America's AI backlash: How the effort to keep worker trust is evolving inside companies - CNBC**
+**12. Morgan Housel warns of a looming career threat for your child - Yahoo Finance**
 
-America's AI backlash: How the effort to keep worker trust is evolving inside companies CNBC90% of executives say AI hasn't boosted productivity. Some are still cutting jobs FortuneMost companies across America laying off employees seemingly have a new slogan: Not being replaced by ... The Times of IndiaTech layoffs tracker 2026: All the job losses across Apple, TikTok, Meta, Microsoft, Oracle and others Yahoo TechCompanies Replaced Workers With AI; Now 75 Percent Say It Cost Them More International Business Times UK
+Morgan Housel warns of a looming career threat for your child Yahoo FinanceSee more headlines and perspectives on Google News
 
-_Business Topic — https://news.google.com/rss/articles/CBMidkFVX3lxTE9YclU3bGRDU1hmYWFEZVQ0WXZvSXpzS1h4UWxiTEh4M3hncEJYdVN5TkxCeVFHTDl4dGhEWXdUQ0lONGpuRkQ1QkFEVWthbjhBT3VfcnZ6U3lvMkJvWWpRREt2YVlKWmlTZEUwR201Ym45N05fbEHSAXtBVV95cUxQOE1HX3V6cmQzQnVIQ2kyXy13ckdXWVhEQXNqOEZpaWdXY1RBVm1takRCTmdZdXNwUFpHWjNyUk0yaVFwMXZBaDRJQV9jOFNzN0ZDWS1PMG1fNVMxYzBXQU1YcGU5Q2s0N3M3ai1vTUdCelhyQTZHU3FtQzQ?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0RQdnVwdzBFSjhBRnhVQVU4QU1DTkE4STJFY1U4djFOWGtHM0dkWExIZmZrS1ZCV0MtYXUza2tMTkJ6UXQ3aTAtSEhDVXk1enhSY3R3S0J3aHJFcWxRdmcyTnE1VkxlcVdWX1BQdVFOek9hSC1CTWtKSmtGcWcydWlTVm5tdjVGZ0JjclFYVDJ4ZUw1Qll5MnlGTzVnM0k?oc=5_
 
 ---
 
-**24. Man City strike twice late on to beat Bournemouth**
+**13. Uhuru arrives in Kitale for 23rd memorial service of Kijana Wamalwa - the-star.co.ke**
 
-Manchester City scored two late goals to earn Enzo Maresca a win in his first Premier League game
+Uhuru arrives in Kitale for 23rd memorial service of Kijana Wamalwa the-star.co.keUhuru: Kenyans must be free to choose their leaders the-star.co.keSifuna laughs off claims of being sponsored by former President Uhuru Citizen DigitalUhuru Responds to Ruto Over Claims Of Sponsoring Opposition Kenyans.co.keUhuru to launch book on Wamalwa's legacy at annual memorial standardmedia.co.ke
 
-_K24 Digital — https://k24.digital/sports/epl/man-city-strike-twice-late-on-to-beat-bournemouth_
+_Kenya Latest — https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmVjbnViMnNtaUFzQjFCLTIzSWdWNEgyLXRMSjZkM256RG9BQ0k4ejlRdlJxUWhrUVJwalphN2NvamppNThhUGhyS2RJdFZsTVRqZW1BUGc0NTllbmQxN19IaDFCNXNWMk9yaVJGSzZYSzJvUm5sMU5DZzZxRHhYdEJuVlZFSG1BVExzUUZtUTM?oc=5_
+
+---
+
+**14. M&S in Aries collab to revive St Michael label - FashionNetwork - The World's Fashion Business News**
+
+M&S in Aries collab to revive St Michael label FashionNetwork - The World's Fashion Business NewsSee more headlines and perspectives on Google News
+
+_Business Topic — https://news.google.com/rss/articles/CBMimgFBVV95cUxQVDJXbjQ2czllLW0zNE1XakdSeVM4T3NMME5LdUxQZjZWeFhZT1g2VEVfWU4zUUF5RDEybmxMX1JhUFE0bE14NHpnRUhiOTlhTUhLRmxrNlRCa1RXOFR4MFJUSHdHNHV2ZDZwS3J5U0VzQkJBc2pkeG02OTRETXVqZFdJMko5Sy1QbndWM0VSaUR3NWh0UzBVVHB3?oc=5_
+
+---
+
+**15. Tusker stun Gor Mahia to clinch 2026 FKF Super Cup trophy**
+
+Tusker FC are the 2026 Kenya Super Cup champions after defeating Gor Mahia 3–1 in the season curtain-raiser
+
+_K24 Digital — https://k24.digital/sports/kpl/tusker-stun-gor-mahia-to-lift-2026-fkf-super-cup-trophy_
+
+---
+
+**16. Who Is Gladys Wanjiru? Murkomen’s Wife Who Left Her Legal Career to Raise Their Children**
+
+The Kenya Times ~ Trending, Breaking News and Videos Who Is Gladys Wanjiru? Murkomen's Wife Who Left Her Legal Career to Raise Their Children Gladys Wanjiru is the wife of Interior Cabinet Secretary Kipchumba Murkomen. Wanjiru has largely stayed away from the political spotlight surrounding her husband. The two met while studying law at the University of Nairobi and built a relationship that eventually led to marriage. While Murkomen went on to pursue a prominent political career, Wanjiru has […] This post Who Is Gladys Wanjiru? Murkomen's Wife Who Left Her Legal Career to Raise Their Children first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Morgan Wanyonyi
+
+_The Kenya Times — https://thekenyatimes.com/kenya/gladys-wanjiru-profile-education-career-marriage-and-family-life-with-kipchumba-murkomen/_
+
+---
+
+**17. Panic as Speeding Luxury SUV Catches Fire Along Nairobi Expressway**
+
+This year alone has seen an increase in cases where cars burst into flames on major roads, with no explanation behind.
+
+_Kenyans.co.ke — https://www.kenyans.co.ke/news/126437-luxury-car-bursts-flames-along-expressway-near-jkia_
+
+---
+
+**18. Commerzbank chair calls for review of German takeover rules after UniCredit bid - Reuters**
+
+Commerzbank chair calls for review of German takeover rules after UniCredit bid ReutersCommerzbank, German resistance wanes: UniCredit nears deal, what could change Euronews.comCommerzbank's Chair Wants Germany's Takeover Rules Rechecked FinimizeCommerzbank's Ownership Math Tightens: A Share Cancellation, a Legal Shadow, and Berlin's Silence Ad-hoc-news.deWeidmann: Federal government should remain a Commerzbank shareholder for now marketscreener.com
+
+_Business Topic — https://news.google.com/rss/articles/CBMixwFBVV95cUxPWFRZdFVsY2drTW1oQzZCdHpvaVBtQ2Z5VzAycTVwU29USC1aU2kxUkZrMjVjVDdlejNsQWVEOXBsbDFiRk5YV20yVHVPSmRkR016UU9rZ2tJTlNOOUtFOUFRS1AzQmt4UmN2N3dWbHN6cFh4SjRNRmMzUXJNRk9nOWItUTJkeE5MdE5FeVlrcU1ZeHRtdk9ONmh1ZlJod005bENWVnBGRDk3OU9vbGhzano1blRVdkNnenVNUnhxVkp5ckZKdVdB?oc=5_
+
+---
+
+**19. Norris beats Antonelli to claim final Dutch GP win**
+
+ZANDVOORT, The Netherlands, August 23, 2026 – Lando Norris and McLaren beat Mercedes' Kimi Antonelli to take a masterful strategic victory in a compelling Dutch Grand Prix. A topsy-turvy race…
+
+_Capital FM Sports — https://capitalfm.africa/norris-beats-antonelli-to-claim-final-dutch-gp-win/_
+
+---
+
+**20. Underwater Volcanoes Are Geothermal Energy’s Next Frontier - Yahoo Finance**
+
+Underwater Volcanoes Are Geothermal Energy's Next Frontier Yahoo Finance
+
+_Business Topic — https://news.google.com/rss/articles/CBMiogFBVV95cUxQWUltcm02SDVETUhoQXpXbmNQbGgzLUxmTVhzRGJpQnFjTHZ6bjNyajR5YnJwWTBqbUZnNHEwWG5ieFpaeVZGYlRRbzctLUh1OHd4VnlTNnMyQ0FXNE5EUEJOclZkRWxZZlJBc0RNUmdRcHp1SFg3dmgtSUxsMHpLR05UZUdFSlZwYWpvcWlfM1ZhMDdyT2tVdjFRaUdHak5zclE?oc=5_
 
 ---
 

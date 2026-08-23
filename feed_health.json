@@ -121,9 +121,9 @@
   },
   "Nairobi Wire": {
     "status": "ALIVE",
-    "url_used": "https://nairobiwire.com/feed",
-    "auto_fixed": false,
-    "fix_method": null
+    "url_used": "http://nairobiwire.com/feed",
+    "auto_fixed": true,
+    "fix_method": "url_variant"
   },
   "Diaspora Messenger": {
     "status": "ALIVE",

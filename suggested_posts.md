@@ -1,12 +1,13 @@
-# Kenya News Suggestions - Generated 2026-08-23 16:34:18 EAT
+# Kenya News Suggestions - Generated 2026-08-23 16:50:57 EAT
 
-Scanned lookback gap of 26 minutes. Found 8 unique stories.
+Scanned lookback gap of 16 minutes. Found 3 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
 - **Ghafla KE** (url_variant): `https://ghafla.co.ke/ke/feed` → `http://ghafla.co.ke/ke/feed`
 - **Nation Africa** (url_variant): `https://nation.africa/kenya/rss.xml` → `https://www.nation.africa/kenya/rss.xml`
 - **Kenya News Agency** (google_news_search_fallback): `https://www.kenyanews.go.ke/feed/` → `https://news.google.com/rss/search?q=Kenya%20Kenya%20News%20Agency&hl=en-KE&gl=KE&ceid=KE:en`
+- **Nairobi Wire** (url_variant): `https://nairobiwire.com/feed` → `http://nairobiwire.com/feed`
 - **Mwakilishi** (google_news_search_fallback): `https://mwakilishi.com/feed` → `https://news.google.com/rss/search?q=Kenya%20Mwakilishi&hl=en-KE&gl=KE&ceid=KE:en`
 - **Sharp Daily** (google_news_search_fallback): `https://sharpdaily.co.ke/feed/` → `https://news.google.com/rss/search?q=Kenya%20Sharp%20Daily&hl=en-KE&gl=KE&ceid=KE:en`
 - **KenyaMOJA** (google_news_search_fallback): `https://www.kenyamoja.com/news/nairobi-leo/feed` → `https://news.google.com/rss/search?q=Kenya%20KenyaMOJA&hl=en-KE&gl=KE&ceid=KE:en`
@@ -24,67 +25,27 @@ Scanned lookback gap of 26 minutes. Found 8 unique stories.
 
 ---
 
-**1. UK orders reviews of franchising sector after Vodafone allegations - The Guardian**
+**1. Tanzanian actor Mzee Said Kibore who went viral with ‘fala’ song dies**
 
-UK orders reviews of franchising sector after Vodafone allegations The GuardianSee more headlines and perspectives on Google News
+Tanzanian actor Mzee Said Kibore, who gained widespread attention online after going viral in videos featuring the hit
 
-_Business Topic — https://news.google.com/rss/articles/CBMirwFBVV95cUxQQnBVVzNNRl9jZ0VVQWh1V0JkMHdpMmlMb0NsSHZJM3ZvRTNPSDVDcnBlN3REV1VHUVNmdEVtMHVyMm5UcmFsVEFwOFJ6UHlPeG1aWm1uLUNFMFZsbEsyR1F1emRYV19laE1uUUdqd1BuZ2x2eWpyNEJLaG13M1NiZHh3bGx4VngyQ0UtcFF0WTNJT2xHZWlWUHEtSl9uX0tzNDR0dXhwV0lzMFk1SDUw?oc=5_
-
----
-
-**2. ‘Mimi sitaki kuitwa sponsor’ – Uhuru declares amid cheers in Kitale**
-
-Former President Uhuru Kenyatta drew loud cheers in Kitale on Sunday after mentioning Nairobi Senator Edwin Sifuna while
-
-_K24 Digital — https://k24.digital/news/mimi-sitaki-kuitwa-sponsor-uhuru-declares-amid-cheers-in-kitale_
+_K24 Digital — https://k24.digital/entertainment/celebrity/tanzanian-actor-mzee-said-kibore-who-went-viral-with-fala-song-dies_
 
 ---
 
-**3. Loan spam lands digital lender Sh1m bill**
+**2. Why your social life could be ruining your fitness goals**
 
-Platinum Credit Limited charged for persistent stream of promotional calls and messages.
+Getting fit is rarely as simple as buying new gym clothes, downloading a workout app and promising yourself
 
-_Nation Africa — https://nation.africa/kenya/business/loan-spam-lands-digital-lender-sh1m-bill-5568192_
-
----
-
-**4. ‘New season, new trim’ – Haaland reveals buzzcut**
-
-MANCHESTER, England, August 23, 2026 – Whether it be Zlatan Ibrahimovic, Gareth Bale or Erling Haaland, football has witnessed some iconic man buns over the years. However, Haaland has decided…
-
-_Capital FM Sports — https://capitalfm.africa/new-season-new-trim-haaland-reveals-buzzcut/_
+_K24 Digital — https://k24.digital/lifestyle/health-and-fitness/why-your-social-life-could-be-ruining-your-fitness-goals_
 
 ---
 
-**5. Sorry, Liverpool! Sturridge predicts Reds’ fate in the 2026/27 season**
+**3. Man City reach agreement with Lille for Ayoub Bouaddi**
 
-Former Liverpool forward Daniel Sturridge has expressed optimism for the club's 2026/27 campaign while offering a realistic assessment
+English Premier League giants Manchester City have reached an agreement with Ligue One outfit Lille for the signing
 
-_K24 Digital — https://k24.digital/sports/epl/sorry-liverpool-sturridge-predicts-reds-fate-in-the-20206-27-season_
-
----
-
-**6. Mourinho urges Vinicius Jr to control emotions**
-
-MADRID, Spain, August 23, 2026 – Real Madrid boss Jose Mourinho says Vinicius Jr needs “great emotional control” after claiming the winger is being bullied on the pitch. The 63‑year‑old's…
-
-_Capital FM Sports — https://capitalfm.africa/mourinho-urges-vinicius-jr-to-control-emotions/_
-
----
-
-**7. Over 62,000 JSS teachers demand answers over unpaid ICT training allowances**
-
-Teachers who participated in the June nationwide programme say they are yet to receive their allowances. The training equipped educators with digital skills to support technology integration under Competency-Based Education. Teachers now want TSC and the ICT Authority to disclose payment rates and disbursement timelines. More than 62,000 Junior Secondary School (JSS) teachers who participated... The post Over 62,000 JSS teachers demand answers over unpaid ICT training allowances first appeared on Education News.
-
-_Education News — https://educationnews.co.ke/over-62000-jss-teachers-demand-answers-over-unpaid-ict-training-allowances/?utm_source=rss&utm_medium=rss&utm_campaign=over-62000-jss-teachers-demand-answers-over-unpaid-ict-training-allowances_
-
----
-
-**8. Uhuru Hits Back at Ruto Over Sifuna Sponsor Remarks**
-
-The Kenya Times ~ Trending, Breaking News and Videos Uhuru Hits Back at Ruto Over Sifuna Sponsor Remarks Former President Uhuru Kenyatta has strongly defended democratic freedoms, warning against attempts to block political rivals from holding meetings as allegations continue to swirl that he is backing the opposition. Speaking at the memorial event marking 23 years since the death of Kijana Wamalwa, Uhuru said Kenya's democracy was earned through sacrifice and that no […] This post Uhuru Hits Back at Ruto Over Sifuna Sponsor Remarks first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Wiltord Otieno
-
-_The Kenya Times — https://thekenyatimes.com/latest-kenya-times-news/uhuru-hits-back-at-ruto-over-sifuna-sponsor-remarks/_
+_K24 Digital — https://k24.digital/sports/epl/man-city-reach-agreement-with-lille-for-ayoub-bouaddi_
 
 ---
 

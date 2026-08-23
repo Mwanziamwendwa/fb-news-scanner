@@ -9,24 +9,33 @@ from datetime import datetime, timedelta
 import feedparser
 import pytz
 import requests
+from bs4 import BeautifulSoup
 
 # Local Kenyan timezone synchronization
 NAIROBI_TZ = pytz.timezone("Africa/Nairobi")
 
 SUGGESTED_POSTS_FILE = "suggested_posts.md"
-SEEN_LOG_FILE = "seen_log.json"              
-FEED_HEALTH_FILE = "feed_health.json"        
+SEEN_LOG_FILE = "seen_log.json"
+FEED_HEALTH_FILE = "feed_health.json"
 
 # File used by the Dynamic Agent to track exactly when your last manual scan completed
 LAST_RUN_STATE_FILE = "last_run_state.json"
 
-MAX_SUGGESTIONS_PER_RUN = 100          
-LOG_RETENTION_DAYS = 14               
+MAX_SUGGESTIONS_PER_RUN = 100
+LOG_RETENTION_DAYS = 14
 FEED_TIMEOUT_SECONDS = 15
 ARTICLE_FETCH_TIMEOUT_SECONDS = 15
 FEED_HEALTH_CHECK_TIMEOUT_SECONDS = 10
 
 TITLE_SIMILARITY_THRESHOLD = 0.45
+
+# Post-body summary length bound (word count). No minimum on purpose --
+# a story is never dropped just because its article page only yielded
+# a short amount of clean text. Only capped so a very long article
+# doesn't turn into an unreadable wall of text in one Facebook post.
+# Cut only at a full sentence boundary, never mid-sentence, never with
+# an ellipsis.
+SUMMARY_MAX_WORDS = 350
 
 FEED_REQUEST_HEADERS = {
     "User-Agent": (
@@ -51,7 +60,9 @@ PAYWALL_AND_BIO_PATTERNS = [
     r"subscribe now and enjoy \d+% off annual plans",
     r"uncover the stories others won't tell",
     r"already a subscriber",
-    r"become a member to"
+    r"become a member to",
+    r"your premium access has ended.*renew now",
+    r"reclaim your full access.*renew\.",
 ]
 
 FEEDS = [
@@ -143,8 +154,10 @@ _STOPWORDS = {
     "latest", "update", "updates", "says", "say", "said",
 }
 
+
 def clean_and_strip_paywall_text(text):
-    if not text: return ""
+    if not text:
+        return ""
     cleaned_text = re.sub(r'<[^<]+?>', '', text)
     cleaned_text = html.unescape(cleaned_text)
     # Normalize BEFORE pattern matching, not after: real-world CMS content
@@ -166,17 +179,21 @@ def clean_and_strip_paywall_text(text):
     cleaned_text = re.sub(r'(?:\s*[.,;:!?]){2,}\s*$', '.', cleaned_text)
     return cleaned_text
 
+
 def clean_and_tokenize(text):
     text = (text or "").lower()
     text = re.sub(r'[^\w\s]', ' ', text)
     return [w for w in text.split() if w not in _STOPWORDS and len(w) > 1]
 
+
 def get_title_similarity(t1, t2):
     tokens1 = set(clean_and_tokenize(t1))
     tokens2 = set(clean_and_tokenize(t2))
-    if not tokens1 or not tokens2: return 0.0
+    if not tokens1 or not tokens2:
+        return 0.0
     common = tokens1.intersection(tokens2)
     return len(common) / min(len(tokens1), len(tokens2))
+
 
 def is_link_reachable(url):
     try:
@@ -203,11 +220,12 @@ _RSS_LINK_RE = re.compile(
 
 def _url_variants(url):
     """
-    Cheap, mechanical rewrites to try when a feed URL 404s/times out —
-    covers the most common ways these URLs rot over time (protocol
-    change, added/dropped www, trailing slash, /feed vs /rss/, or a
-    dropped /feed suffix entirely). Not a guess at new content, just
-    URL-shape permutations of the exact same address.
+    Cheap, mechanical rewrites to try when a URL 404s/times out --
+    covers the most common ways URLs rot over time (protocol change,
+    added/dropped www, trailing slash, /feed vs /rss/, or a dropped
+    /feed suffix entirely). Not a guess at new content, just URL-shape
+    permutations of the exact same address. Shared by both the feed
+    self-healing agent and the article-fetch self-healing agent below.
     """
     variants = []
     seen = {url}
@@ -247,7 +265,7 @@ def _url_variants(url):
 def _autodiscover_feed_from_homepage(url):
     """
     Falls back to fetching the site's homepage and reading its
-    <link rel="alternate" type="application/rss+xml"> tag — the
+    <link rel="alternate" type="application/rss+xml"> tag -- the
     standard way browsers/readers find a site's real feed URL. Returns
     None (never raises) if the homepage can't be reached or has no
     such tag.
@@ -329,11 +347,107 @@ def find_working_feed_url(original_url, category=None):
 
     return None, None
 
+
 def contains_sensitive_content(text):
     text_lower = (text or "").lower()
     for term in SENSITIVE_TERMS:
-        if term in text_lower: return True
+        if term in text_lower:
+            return True
     return False
+
+
+# Tags whose text is never part of real article body copy -- stripped
+# before paragraph extraction so nav/ad/related-links text can't leak
+# into the fetched section.
+_NON_CONTENT_TAGS = ["script", "style", "nav", "footer", "header", "aside", "form", "iframe", "noscript"]
+
+
+def _extract_paragraphs(soup):
+    """
+    Pulls candidate body text out of a parsed article page. Prefers an
+    <article> tag (used by most WordPress/CMS-driven Kenyan news sites)
+    and falls back to all <p> tags on the page if no <article> tag is
+    present. Returns the joined paragraph text, not yet word-bounded.
+    """
+    for tag in soup.find_all(_NON_CONTENT_TAGS):
+        tag.decompose()
+
+    container = soup.find("article") or soup.find(attrs={"class": re.compile(r"(article|post)[-_]?(body|content)", re.I)})
+    scope = container if container else soup
+
+    paragraphs = [p.get_text(" ", strip=True) for p in scope.find_all("p")]
+    paragraphs = [p for p in paragraphs if len(p.split()) > 4]  # drop stray one-liners/captions
+    return " ".join(paragraphs)
+
+
+def bound_section_by_words(text, max_words=SUMMARY_MAX_WORDS):
+    """
+    Caps `text` at max_words, cut only at a sentence boundary -- never
+    mid-sentence, never with a trailing ellipsis. No minimum floor: a
+    short cleaned text is returned exactly as-is, since a story is
+    never dropped here for being short. Only used to keep a long
+    article from turning into an unreadably long single post.
+    """
+    words = text.split()
+    if len(words) <= max_words:
+        return text
+
+    sentences = re.split(r'(?<=[.!?])\s+', text)
+    section = ""
+    word_count = 0
+    for sentence in sentences:
+        sentence_words = len(sentence.split())
+        if word_count + sentence_words > max_words:
+            break
+        section += (" " if section else "") + sentence
+        word_count += sentence_words
+
+    if section:
+        return section
+    # No single sentence fit within the cap (one very long run-on
+    # sentence) -- fall back to a hard word cut at max_words.
+    return " ".join(words[:max_words])
+
+
+def _fetch_page(url):
+    """Single raw GET attempt. Returns (soup, ok) -- never raises."""
+    try:
+        resp = requests.get(url, headers=FEED_REQUEST_HEADERS, timeout=ARTICLE_FETCH_TIMEOUT_SECONDS)
+        if not resp.ok:
+            return None
+        return BeautifulSoup(resp.text, "html.parser")
+    except Exception:
+        return None
+
+
+def fetch_article_section(url):
+    """
+    Self-healing agent: fetches the article page at `url` and returns a
+    cleaned, up-to-350-word section of real body text -- exactly as
+    written, no AI rewriting. If the exact URL fails (dead link,
+    redirect rot, timeout), retries the same mechanical URL variants
+    used for feed healing (protocol swap, www swap, trailing slash)
+    before giving up on this story. A story is only skipped if the
+    page truly can't be reached or yields no usable text at all --
+    never because the extracted text is "too short".
+    """
+    soup = _fetch_page(url)
+
+    if soup is None:
+        for candidate in _url_variants(url):
+            soup = _fetch_page(candidate)
+            if soup is not None:
+                break
+
+    if soup is None:
+        return None
+
+    raw_text = _extract_paragraphs(soup)
+    cleaned = clean_and_strip_paywall_text(raw_text)
+    if not cleaned:
+        return None
+
+    return bound_section_by_words(cleaned)
 
 
 # ==============================================================================
@@ -346,13 +460,6 @@ def main():
     # ----------------==========================================================
     # LOOKBACK WINDOW: FIXED AT 24 HOURS
     # ----------------==========================================================
-    # Previously this scaled to the time since the last successful run --
-    # but with the workflow's own 30-minute cron keeping that gap small,
-    # every run ended up scanning only the last 15-30 minutes regardless
-    # of how long it had actually been since anyone looked at the output,
-    # starving the story count. Fixed at 24h instead: seen_log already
-    # dedupes by link, so a wider window just means a bigger candidate
-    # pool per run, not repeat posts of the same story.
     LOOKBACK_WINDOW_MINUTES = 24 * 60
     time_gap_minutes = LOOKBACK_WINDOW_MINUTES
 
@@ -362,7 +469,7 @@ def main():
                 state = json.load(f)
                 last_run_time = datetime.fromisoformat(state["last_successful_run_utc"])
                 print(f"[DYNAMIC AGENT] Last scan detected at: {last_run_time.astimezone(NAIROBI_TZ)}")
-        except:
+        except Exception:
             print("[DYNAMIC AGENT] State file unreadable.")
 
     print(f"[DYNAMIC AGENT] Lookback window fixed at: {time_gap_minutes} minutes (24 hours).")
@@ -375,10 +482,6 @@ def main():
             if isinstance(loaded, list):
                 seen_log = loaded
             elif isinstance(loaded, dict):
-                # Old format from an earlier script version stored
-                # {title: timestamp} instead of a list of links.
-                # Migrate by keeping the keys so old entries still
-                # count as "seen" instead of silently crashing.
                 print("[WARN] seen_log.json is in an old dict format, migrating to list.")
                 seen_log = list(loaded.keys())
             else:
@@ -401,12 +504,6 @@ def main():
         fix_method = None
 
         if not is_link_reachable(working_url):
-            # ---------------------------------------------------------
-            # SELF-HEALING AGENT: FEED URL REPAIR
-            # ---------------------------------------------------------
-            # A dead feed used to just get skipped for the run and
-            # left broken until someone noticed. Instead, try to find
-            # a working replacement URL automatically before giving up.
             print(f"[SELF-HEALING AGENT] {feed['category']} unreachable, attempting repair...")
             fixed_url, fix_method = find_working_feed_url(feed["url"], category=feed["category"])
             if fixed_url:
@@ -417,19 +514,18 @@ def main():
 
         return feed, working_url, fix_method
 
-    # Resolve every feed's working URL concurrently rather than one at
-    # a time; this is the expensive part of the run (network round
-    # trips), not the actual feed parsing below.
     resolved = []
     with ThreadPoolExecutor(max_workers=12) as pool:
         futures = [pool.submit(resolve_feed, feed) for feed in FEEDS]
         for future in as_completed(futures):
             resolved.append(future.result())
 
-    # Preserve FEEDS order for deterministic health_data/log output.
     resolved.sort(key=lambda r: FEEDS.index(r[0]))
 
-    # Extraction Pass
+    # Extraction Pass -- title/link/category only at this stage. The
+    # post-body text now comes from fetching each selected story's own
+    # article page (see the fetch pass below), not the RSS
+    # <summary>/<description> field.
     for feed, working_url, fix_method in resolved:
         if working_url:
             health_data[feed["category"]] = {
@@ -451,7 +547,6 @@ def main():
                     title = (getattr(entry, "title", "") or "").strip()
                     link = (getattr(entry, "link", "") or "").strip()
 
-                    # Skip malformed RSS entries without a title or link.
                     if not title or not link:
                         continue
 
@@ -459,23 +554,16 @@ def main():
                         getattr(entry, "published_parsed", None)
                         or getattr(entry, "updated_parsed", None)
                     )
-                    
+
                     if pub_parsed:
                         pub_time = datetime(*pub_parsed[:6]).replace(tzinfo=pytz.utc)
                         age_mins = (now_utc - pub_time).total_seconds() / 60
-                        
-                        # Dynamic lookback bounds check
-                        if 0 <= age_mins <= time_gap_minutes and link not in seen_log:
-                            raw_summary = getattr(entry, "summary", "") or getattr(entry, "description", "")
-                            processed_snippet = clean_and_strip_paywall_text(raw_summary)
-                            
-                            if len(processed_snippet) < 15: continue
 
+                        if 0 <= age_mins <= time_gap_minutes and link not in seen_log:
                             fresh_extracted_stories.append({
                                 "category": feed["category"],
                                 "title": title,
                                 "link": link,
-                                "summary": processed_snippet,
                             })
             except Exception as e:
                 print(f"[WARN] Failed to parse {feed['category']} ({working_url}): {e}")
@@ -491,39 +579,54 @@ def main():
     with open(FEED_HEALTH_FILE, "w", encoding="utf-8") as f:
         json.dump(health_data, f, indent=2)
 
-    # Cross-Feed Deduplication & Sensitivity Inspection
-    #
-    # Shuffled before the per-run cap is applied: FEEDS is a fixed list,
-    # so scanning in that order every run means feeds near the top
-    # (Google News, Standard Media, ...) can fill MAX_SUGGESTIONS_PER_RUN
-    # on their own and feeds near the bottom (Kenyapedia, ...) never get
-    # a chance to contribute. Shuffling per run gives every feed a fair
-    # shot over time instead of the same feeds winning every single run.
+    # Cross-Feed Deduplication (title-based, cheap -- no article fetch
+    # needed yet). Shuffled first so feeds later in FEEDS get a fair
+    # shot at filling the per-run cap instead of the same feeds winning
+    # every run.
     random.shuffle(fresh_extracted_stories)
-    clean_suggestions = []
+    deduped_candidates = []
     for story in fresh_extracted_stories:
         is_duplicate = False
-        for chosen in clean_suggestions:
+        for chosen in deduped_candidates:
             if get_title_similarity(story["title"], chosen["title"]) >= TITLE_SIMILARITY_THRESHOLD:
                 is_duplicate = True
                 break
-        
         if not is_duplicate:
+            deduped_candidates.append(story)
+            if len(deduped_candidates) >= MAX_SUGGESTIONS_PER_RUN:
+                break
+
+    # Article-Fetch Pass -- only for the deduped/capped candidate set,
+    # run concurrently since this is the slow, network-bound step. A
+    # story is only dropped here if its article page is truly
+    # unreachable (even after the self-healing retry) or yields zero
+    # usable text -- never because the text was short.
+    def fetch_for_story(story):
+        section = fetch_article_section(story["link"])
+        return story, section
+
+    clean_suggestions = []
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        futures = [pool.submit(fetch_for_story, story) for story in deduped_candidates]
+        for future in as_completed(futures):
+            story, section = future.result()
+            if not section:
+                continue
+            story["summary"] = section
             story["sensitive"] = (
                 contains_sensitive_content(story["title"])
-                or contains_sensitive_content(story["summary"])
+                or contains_sensitive_content(section)
             )
             clean_suggestions.append(story)
-
-            # Only store valid links in the seen log.
             if story.get("link"):
                 seen_log.append(story["link"])
 
-            # Enforce the configured maximum suggestions per run.
-            if len(clean_suggestions) >= MAX_SUGGESTIONS_PER_RUN:
-                break
+    # Restore a stable, deterministic order for the written output
+    # (fetch completion order is nondeterministic across runs).
+    candidate_order = {c["link"]: i for i, c in enumerate(deduped_candidates)}
+    clean_suggestions.sort(key=lambda s: candidate_order.get(s["link"], 0))
 
-    # Output to suggested_posts.md
+    # Output to suggested_posts.md -- headline + summary only.
     if clean_suggestions:
         with open(SUGGESTED_POSTS_FILE, "w", encoding="utf-8") as f:
             f.write(f"# Kenya News Suggestions - Generated {now_utc.astimezone(NAIROBI_TZ).strftime('%Y-%m-%d %H:%M:%S')} EAT\n\n")
@@ -533,38 +636,30 @@ def main():
                 for fix in suggested_fixes:
                     f.write(
                         f"- **{fix['category']}** ({fix['method']}): "
-                        f"`{fix['original_url']}` → `{fix['working_url']}`\n"
+                        f"`{fix['original_url']}` -> `{fix['working_url']}`\n"
                     )
                 f.write("\n")
             f.write("---\n\n")
-            
+
             for index, item in enumerate(clean_suggestions, 1):
                 sensitive_tag = "⚠️ [SENSITIVE] " if item["sensitive"] else ""
-                # Post-ready format: bold headline, then the cleaned summary
-                # as one flowing paragraph directly beneath it (no bullets),
-                # so this can be copied straight into a Facebook post. Link
-                # and category are kept as a light reference line underneath
-                # rather than dropped entirely -- still needed to trace the
-                # story back to its source -- just not styled as metadata.
+                # Post-ready format: bold headline, then the fetched
+                # article summary as one flowing paragraph. No link, no
+                # category -- link is kept only in seen_log.json for dedup.
                 f.write(f"**{index}. {sensitive_tag}{item['title']}**\n\n")
                 f.write(f"{item['summary']}\n\n")
-                f.write(f"_{item['category']} — {item['link']}_\n")
-                f.write("\n---\n\n")
+                f.write("---\n\n")
         print(f"[SUCCESS] Saved {len(clean_suggestions)} unique updates to {SUGGESTED_POSTS_FILE}.")
     else:
         print(f"[INFO] Zero new entries published in the tracked {time_gap_minutes}-minute timeframe gap.")
 
-    # ----------------==========================================================
-    # SELF-HEALING AGENT: LOG PRUNING
-    # ----------------==========================================================
     if len(seen_log) > 1200:
         print("[SELF-HEALING AGENT] Pruning log entries to protect memory space...")
         seen_log = seen_log[-1200:]
-        
+
     with open(SEEN_LOG_FILE, "w", encoding="utf-8") as f:
         json.dump(seen_log, f)
 
-    # Lock state timestamp
     with open(LAST_RUN_STATE_FILE, "w", encoding="utf-8") as f:
         json.dump({"last_successful_run_utc": now_utc.isoformat()}, f)
     print(f"[STATE SAVED] Last successful run timestamp locked at {now_utc.isoformat()}.")

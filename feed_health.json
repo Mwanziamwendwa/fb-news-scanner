@@ -49,9 +49,9 @@
   },
   "SPM Buzz": {
     "status": "ALIVE",
-    "url_used": "http://spmbuzz.com/feed/",
-    "auto_fixed": true,
-    "fix_method": "url_variant"
+    "url_used": "https://spmbuzz.com/feed/",
+    "auto_fixed": false,
+    "fix_method": null
   },
   "Ghafla": {
     "status": "ALIVE",

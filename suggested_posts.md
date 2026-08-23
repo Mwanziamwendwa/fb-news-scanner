@@ -1,11 +1,10 @@
-# Kenya News Suggestions - Generated 2026-08-23 15:13:27 EAT
+# Kenya News Suggestions - Generated 2026-08-23 16:07:26 EAT
 
-Scanned lookback gap of 31 minutes. Found 11 unique stories.
+Scanned lookback gap of 53 minutes. Found 14 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
 - **Ghafla KE** (url_variant): `https://ghafla.co.ke/ke/feed` → `http://ghafla.co.ke/ke/feed`
-- **Nation Africa** (url_variant): `https://nation.africa/kenya/rss.xml` → `https://www.nation.africa/kenya/rss.xml`
 - **Kenya News Agency** (google_news_search_fallback): `https://www.kenyanews.go.ke/feed/` → `https://news.google.com/rss/search?q=Kenya%20Kenya%20News%20Agency&hl=en-KE&gl=KE&ceid=KE:en`
 - **Mwakilishi** (google_news_search_fallback): `https://mwakilishi.com/feed` → `https://news.google.com/rss/search?q=Kenya%20Mwakilishi&hl=en-KE&gl=KE&ceid=KE:en`
 - **Sharp Daily** (google_news_search_fallback): `https://sharpdaily.co.ke/feed/` → `https://news.google.com/rss/search?q=Kenya%20Sharp%20Daily&hl=en-KE&gl=KE&ceid=KE:en`
@@ -24,91 +23,115 @@ Scanned lookback gap of 31 minutes. Found 11 unique stories.
 
 ---
 
-**1. Schools reopen: Full Third Term 2026 calendar, national exams, holidays and key dates for learners**
+**1. President Ruto Announces New Fertilizer Prices Countrywide**
 
-Schools reopen Monday for a nine-week Third Term before national assessments and examinations begin. Grade 6, Grade 9 and KCSE candidates enter the crucial final phase of their academic year. Teacher Training Colleges also reopen Monday but remain in session two weeks longer than schools. Kenyan schools reopen on Monday, August 24, for the third... The post Schools reopen: Full Third Term 2026 calendar, national exams, holidays and key dates for learners first appeared on Education News.
+The Kenya Times ~ Trending, Breaking News and Videos President Ruto Announces New Fertilizer Prices Countrywide President William Ruto has announced a fresh reduction in the cost of maize seeds and subsidized fertilizer Speaking during a church service in Taita Taveta County on Sunday, August 23, Ruto said the new prices would take effect within the next two weeks as the government seeks to encourage farmers to take advantage of the […] This post President Ruto Announces New Fertilizer Prices Countrywide first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Morgan Wanyonyi
 
-_Education News — https://educationnews.co.ke/schools-reopen-full-third-term-2026-calendar-national-exams-holidays-and-key-dates-for-learners/?utm_source=rss&utm_medium=rss&utm_campaign=schools-reopen-full-third-term-2026-calendar-national-exams-holidays-and-key-dates-for-learners_
-
----
-
-**2. Kenya Power Dealt Blow as Court Rules on Power Disconnections in Some Areas**
-
-The ruling means Kenya Power can therefore not cut power supply to specific areas without following certain guidelines.
-
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126364-court-stops-kenya-power-disconnecting-electricity-counties-over-unpaid-bills_
+_The Kenya Times — https://thekenyatimes.com/national/ruto-announces-50-subsidy-on-maize-seeds-ksh500-fertilizer-price-cut/_
 
 ---
 
-**3. Russian skydiver sets world record in support of International Youth Festival**
+**2. Cracks as ODM Governor Issues Ultimatum to Oburu After Leaders Back UDA Candidate**
 
-Russian athlete and multiple world record holder Sergey Boytcov jumped from a hot air balloon at an altitude of 11,551 meters, dedicating the fete to the International Festival of Youth 2026. The record breaking fete achieved ahead of Russia's National Flag Day was part of the Stratum Jump 11–12, a project of the Russian company Created […] The post Russian skydiver sets world record in support of International Youth Festival appeared first on KBC Digital.
+The latest demands add to internal wrangles that have rocked the Orange Party over the years since its association with the UDA.
 
-_KBC Digital — https://www.kbc.co.ke/russian-skydiver-sets-world-record-in-support-of-international-youth-festival/_
-
----
-
-**4. Kijana Wamalwa: Queen’s English Genius From London Who Died as Kenya’s Poorest VP Living in Rented Houses**
-
-The Kenya Times ~ Trending, Breaking News and Videos Kijana Wamalwa: Queen's English Genius From London Who Died as Kenya's Poorest VP Living in Rented Houses When Kijana Wamalwa became Vice President in 2003, many Kenyans saw a man who had made it. He had studied in Britain, spoke polished Queen's English, and occupied the second-highest office in the country. But behind the smart suits and powerful title was a different story. Unlike many politicians who built huge fortunes during their […] This post Kijana Wamalwa: Queen's English Genius From London Who Died as Kenya's Poorest VP Living in Rented Houses first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Wiltord Otieno
-
-_The Kenya Times — https://thekenyatimes.com/explainers/why-kijana-wamalwa-had-rented-houses-while-serving-as-vice-president/_
+_Kenyans.co.ke — https://www.kenyans.co.ke/news/126434-kajiado-governor-joseph-ole-lenku-threatens-shut-down-odm-kajiado-over-uda-links_
 
 ---
 
-**5. The role of food in Kenyan weddings, Ruracios and family gatherings**
+**3. Exclusive | Walmart Keeps Pushing Into Fashion With New Clothing Brand - WSJ**
 
-In Kenya, you can forget the flowers, the matching outfits and even the beautifully decorated cake for a
+Exclusive | Walmart Keeps Pushing Into Fashion With New Clothing Brand WSJ
 
-_K24 Digital — https://k24.digital/lifestyle/food-and-culinary/the-role-of-food-in-kenyan-weddings-ruracios-and-family-gatherings_
-
----
-
-**6. 2026 FEASSA Games: Full list of champions from the Morogoro showdown**
-
-Kenya reclaimed the overall secondary schools crown after collecting 20 gold medals in Morogoro. Schools from Uganda, Kenya, Rwanda and Tanzania shared honours across the different sporting disciplines. Football, volleyball, rugby, hockey, handball and basketball produced thrilling finals as regional champions emerged. Kenya emerged overall secondary schools champions as the curtain came down on the... The post 2026 FEASSA Games: Full list of champions from the Morogoro showdown first appeared on Education News.
-
-_Education News — https://educationnews.co.ke/2026-feassa-games-full-list-of-champions-from-the-morogoro-showdown/?utm_source=rss&utm_medium=rss&utm_campaign=2026-feassa-games-full-list-of-champions-from-the-morogoro-showdown_
+_Business Topic — https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0RxcEVmV1BiOEw4QjdpUTYzRUxBQzBmcTRERDIzMHpOT2F0WUdjTktQdkZCNlQtRjVuam1SYUM2V05KTzNaWjl4MUU0dnZCUGNVZkt0eUdZZTZsMnE5ZHBERnBxVkREWW9XVmszTk96T1kzTmxwOFNpUFk3Z204OVZBLWVsV3E5ejdMVmVCeFlLMkswVUtISHl2Q3NONk5EUldRZEFn?oc=5_
 
 ---
 
-**7. Three suspects arrested months after Mtito Andei robbery attempt**
+**4. UoN, KU welcome first years tomorrow as university admissions continue across Kenya**
 
-Three suspects have been arrested over an attempted highway robbery along the Mombasa-Nairobi highway in which one of their accomplices was fatally shot. The suspects were arrested nearly three months after the May 6, 2026 incident near Mutomo area in Mtito Andei. According to the Directorate of Criminal Investigations (DCI), the gang staged a fake […] The post Three suspects arrested months after Mtito Andei robbery attempt appeared first on KBC Digital.
+Thousands of first-year students begin university life as institutions roll out admission and orientation programmes. UoN starts reporting on Monday, while several universities receive and orient new students during the week. Others, including Kibabii and sections of Kenyatta University, started receiving their new students earlier. Thousands of first-year students are beginning a new chapter in... The post UoN, KU welcome first years tomorrow as university admissions continue across Kenya first appeared on Education News.
 
-_KBC Digital — https://www.kbc.co.ke/three-suspects-arrested-months-after-mtito-andei-robbery-attempt/_
-
----
-
-**8. Gachagua accuses Ruto of using smaller ‘wheelbarrow parties’ to split Mt Kenya vote - People Daily**
-
-Gachagua accuses Ruto of using smaller 'wheelbarrow parties' to split Mt Kenya vote People Daily
-
-_Politics — https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeUk3bVc1Q1ZaRG1hV084UlliSkJWMURVZmQyTkpJMGlxSFNwSGRXMGdQZUg5Ty1QWHk0YTZ6aVl1N0cyWnBjQ2YteDl3eHhfVnlrRU1kQi1GQVZTUDZtaTl1c2dPOVprRzB4WVhNY2c4N3Y5bVMxVnJ3dUkxZGlQNHRDaWpVSXZhVTdyUnExNlozSXl1NEEycTBGZkRTR0d3LTY3TS1RQkZvUFBrVjc5QWxxMVJrUUNkQnBqYWFfeGJsQjg?oc=5_
+_Education News — https://educationnews.co.ke/uon-ku-welcome-first-years-tomorrow-as-university-admissions-continue-across-kenya/?utm_source=rss&utm_medium=rss&utm_campaign=uon-ku-welcome-first-years-tomorrow-as-university-admissions-continue-across-kenya_
 
 ---
 
-**9. United's next decision: What to do with all those Boeing 737 Max 10 seats it ordered years ago - CNBC**
+**5. MKU second-year student found dead at Eldoret residence as police launch probe**
 
-United's next decision: What to do with all those Boeing 737 Max 10 seats it ordered years ago CNBC
+Police are investigating the circumstances surrounding the death of Bachelor of Education student Faith Jeptoo. The student's body was discovered at her residence in Action area, Eldoret, with reported injuries. Her remains have been moved to MTRH as investigators work to establish what happened. A second-year student at Mount Kenya University (MKU) has been found... The post MKU second-year student found dead at Eldoret residence as police launch probe first appeared on Education News.
 
-_Business Topic — https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2RoN2hGaGt0MzVVbmw4dldMNEJJOG8yU0ZRNVBqejYzeXJzZGVidElZcmpQRk52emlIenREVGE2eDRYUFhfREF1bGRkNkV5VWhLa1l0U2F5cGU2dkRvMFczSGZ5di1VaHlRSUZiTTVXYzBXNkxaRG1CVXF5RjQ0bHJR0gGHAUFVX3lxTE9fZmpHY2RKTnBsTFVpbVFjbUhOdXdaSmY5SGxWZnFaRl9Ja3RpRHJmX2p6R1VvaEwtcVc2eTZIa1lBMUt1LTRDZVcwYUZsM2pRX1dpQXpLTzB6ZWVoZlU1Mk5WX1loTFlrakhLQWx3cThRTEE2UUF1ejZlUXp4dnlZVnBzTHg0VQ?oc=5_
-
----
-
-**10. Gachagua: Why I won’t honour NCIC summons**
-
-Ex-DP demands full evidence on alleged hate speech.
-
-_Nation Africa — https://nation.africa/kenya/news/politics/gachagua-why-i-won-t-honour-ncic-summons-5568148_
+_Education News — https://educationnews.co.ke/mku-second-year-student-found-dead-at-eldoret-residence-as-police-launch-probe/?utm_source=rss&utm_medium=rss&utm_campaign=mku-second-year-student-found-dead-at-eldoret-residence-as-police-launch-probe_
 
 ---
 
-**11. ‘Never-say-die’ Bankers slide past Oilers to reach Driftwood 7s final**
+**6. Content Creators, Commercial Photographers Face New Fees Under Nairobi County Rules**
 
-NAIROBI, Kenya, August 23, 2026 – KCB Rugby came from behind to book their slot in the final of the ongoing Driftwood 7s with a 10-5 victory over Menengai Oilers.…
+The county has also placed streaming and digital content platforms within its revenue structure.
 
-_Capital FM Sports — https://capitalfm.africa/never-say-die-bankers-slide-past-oilers-to-reach-driftwood-7s-final/_
+_Kenyans.co.ke — https://www.kenyans.co.ke/news/126433-nairobi-county-introduces-new-fees-content-creators-and-filmmakers_
+
+---
+
+**7. How to calm your child’s night-before-school jitters as Term 3 starts**
+
+As thousands of Kenyan learners prepare for school, the final evening before Term 3 reopens often brings a
+
+_K24 Digital — https://k24.digital/lifestyle/mental-wellnes/how-to-calm-your-childs-night-before-school-jitters-as-term-3-opens_
+
+---
+
+**8. 5 reasons every man should change his toothbrush every 2 months**
+
+Your toothbrush has a shelf life too. If its bristles are bent, tired and pointing in different directions,
+
+_K24 Digital — https://k24.digital/lifestyle/health-and-fitness/5-reasons-every-man-should-change-his-toothbrush-every-2-months_
+
+---
+
+**9. Uhuru rejects claims of funding opposition activities, calls for focus on Kenya’s future ahead of 2027 polls - The Eastleigh Voice**
+
+Uhuru rejects claims of funding opposition activities, calls for focus on Kenya's future ahead of 2027 polls The Eastleigh Voice
+
+_Politics — https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSjVJaTJodWdiTGR0c1JlUTYtcXBEMV9ISVZ0ZFZXMDZyTnhOOER6LTZpRzIzQVJ3VHdNalM5RXdwZFFJdU9mZEcxSXUzNm9PV3RUM3JFOFl4YTRwckp3QXF1NmZmcUFtUDM0ejJUbDVRbkU1R29QaW5xbWotNkVqRU1NYXQ2TkVPWld2am1SVDRqcHBRYVlseXVMWGlLeDl2eV9tYi05SzRJcGFPN2xkZC16bFNnYnY4TUlub1NnVGRLTk5PeXJDVXc2bzhfMmU3TWNDY1RuTnp1dTUwaTFTblBQYXJtZw?oc=5_
+
+---
+
+**10. Gachagua to Fly to U.S as Details of Upcoming Trip Emerge**
+
+The trip comes months after Gachagua made a similar trip to Europe to plan for the 2027 general elections roadmap.
+
+_Kenyans.co.ke — https://www.kenyans.co.ke/news/126432-gachagua-announces-extended-us-trip-plan-2027-strategy_
+
+---
+
+**11. President William Samoei Ruto (seated right) attends a church service at A.I.C. Makutano in Taita Taveta County. - facebook.com**
+
+President William Samoei Ruto (seated right) attends a church service at A.I.C. Makutano in Taita Taveta County. facebook.com
+
+_Kenya News Agency — https://news.google.com/rss/articles/CBMi3gFBVV95cUxOY3QxUGI3TWJ4STI5cnlMY282UnVtTVdxZmtnRmprZF8xMVRXMG1wRXZlTVBSWlZHUXVPVEtqdFdmdnJ5WnppazZtOXU0Q3ZMS0x4VWo1aHVVSWkteU9ILVg1OXNLaVpMaHZfc3c2ak9GRmZrMGVUT0FKTjNvcGlmMElfZ19BMHl5MFpEZW5BcFU3bmZ1d21LRWZwS3k2NWFZWHFHejdZSEtjS0VvX09oZjA5NXVBeTFocnk5djBHWnZpNVQ1TWJYWWRoM2d3dXg1WlhZMEtpUW1jTk9ZOEE?oc=5_
+
+---
+
+**12. Belgut Half Marathon raises funds for needy learners as over 2,000 athletes take part**
+
+More than 2,000 athletes participate as the annual race raises funds for vulnerable learners. Proceeds will supplement the Belgut Starehe Schools bursary kitty to keep needy students in school. The event combines athletics, education support and talent development while rewarding top-performing runners. A sporting event in Belgut, Kericho County, is emerging as an important avenue... The post Belgut Half Marathon raises funds for needy learners as over 2,000 athletes take part first appeared on Education News.
+
+_Education News — https://educationnews.co.ke/belgut-half-marathon-raises-funds-for-needy-learners-as-over-2000-athletes-take-part/?utm_source=rss&utm_medium=rss&utm_campaign=belgut-half-marathon-raises-funds-for-needy-learners-as-over-2000-athletes-take-part_
+
+---
+
+**13. Kaguta, Kandu Defend NCBA Golf Series Titles in Nyali**
+
+NAIROBI, Kenya, August 23, 2026 – William Kaguta and Mary Kandu successfully defended their titles at the latest leg of the 2026 NCBA Golf Series held at Nyali Golf &…
+
+_Capital FM Sports — https://capitalfm.africa/kaguta-kandu-defend-ncba-golf-series-titles-in-nyali/_
+
+---
+
+**14. FKF PL: Why AFC Leopards are primed for decisive 2026/27 season**
+
+AFC Leopards enter the upcoming FKF Premier League season facing a clear window to end their long title
+
+_K24 Digital — https://k24.digital/sports/kpl/fkf-pl-afc-leopards-challenged-ahead-of-2026-27-season_
 
 ---
 

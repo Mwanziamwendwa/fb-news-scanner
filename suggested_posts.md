@@ -1,10 +1,11 @@
-# Kenya News Suggestions - Generated 2026-08-23 13:46:44 EAT
+# Kenya News Suggestions - Generated 2026-08-23 14:10:16 EAT
 
-Scanned lookback gap of 36 minutes. Found 9 unique stories.
+Scanned lookback gap of 23 minutes. Found 6 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
 - **Ghafla KE** (url_variant): `https://ghafla.co.ke/ke/feed` → `http://ghafla.co.ke/ke/feed`
+- **Nation Africa** (url_variant): `https://nation.africa/kenya/rss.xml` → `https://www.nation.africa/kenya/rss.xml`
 - **Kenya News Agency** (google_news_search_fallback): `https://www.kenyanews.go.ke/feed/` → `https://news.google.com/rss/search?q=Kenya%20Kenya%20News%20Agency&hl=en-KE&gl=KE&ceid=KE:en`
 - **Mwakilishi** (google_news_search_fallback): `https://mwakilishi.com/feed` → `https://news.google.com/rss/search?q=Kenya%20Mwakilishi&hl=en-KE&gl=KE&ceid=KE:en`
 - **Sharp Daily** (google_news_search_fallback): `https://sharpdaily.co.ke/feed/` → `https://news.google.com/rss/search?q=Kenya%20Sharp%20Daily&hl=en-KE&gl=KE&ceid=KE:en`
@@ -23,75 +24,51 @@ Scanned lookback gap of 36 minutes. Found 9 unique stories.
 
 ---
 
-**1. From long-time girlfriend to fiancée: What to know about Usain Bolt’s partner Kasi Bennett**
+**1. Gachagua To Make Major Announcement Tomorrow Ahead of Long US Tour**
 
-Kasi Bennett, a Jamaican entrepreneur and mother of three, has stepped into a new chapter with sprint legend
+Gachagua said after adressing Kenyans, he will be travelling to the US where he will stay for a while.
 
-_K24 Digital — https://k24.digital/entertainment/celebrity/from-long-time-girlfriend-to-fiancee-what-to-know-about-usain-bolts-partner-kasi-bennett_
-
----
-
-**2. Inside Josh Kushner’s $17 Billion Fortune: The Lakers, OpenAI, SpaceX - Forbes**
-
-Inside Josh Kushner's $17 Billion Fortune: The Lakers, OpenAI, SpaceX ForbesRead Joshua Kushner's First Formal Thrive Capital Investor Letter Bloomberg.comThrive Investor Letter Reveals OpenAI-Fueled Growth, Stake Sale Bloomberg.com
-
-_Business Topic — https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZjRSOEJwaFZ1QmJuZjQ1X2FNc2tWeXdnSmp3NDZzbnpiU0ZHV2ZTdTJRckxXaHJDbXlycVdCc0YtU0YxcG0xb1ItVnpwZGdnWUswbVJkMUdndkZvYlN4TVlpSVgzeXI3aDEtVDl4WUh0RWpQMzk5b1RFQkh3WGIxWURpbmd6eFNqUnAxNmt1UXVxR3JlbmVROTgxeXRkVFUzcjBwd3FmQktYN1Y4S0V3UEZ2SlVxMXAtWUd1T0pXUnJaYmExMWZsdjY0bUVZTGhVV1NYOA?oc=5_
+_Nairobi Leo — https://nairobileo.co.ke/news/article/29698/gachagua-to-make-major-announcement-tomorrow-ahead-of-long-us-tour_
 
 ---
 
-**3. BoM workers: Some schools lead with dignity while others leave staff struggling**
+**2. Why I believe TSC commissioner nominee Antonina Lentoijoni can end the culture of teacher stagnation**
 
-BoM employees report sharply different experiences depending on how individual schools manage their welfare and employment. Timely salaries, clear contracts and respectful supervision can make even modest employment arrangements more dignified. Concerns persist over delayed pay, low wages, holiday arrangements, deductions and treatment of some school workers. Board of Management (BoM) workers remain an indispensable... The post BoM workers: Some schools lead with dignity while others leave staff struggling first appeared on Education News.
+Ashford Kimani sees Lentoijoni's proposed career pathways as offering renewed hope to long-serving classroom teachers. The approach could allow professional advancement without compelling accomplished teachers to move into school administration. Kimani argues that transparent progression, adequate funding and automation could restore confidence in the teaching profession. I do not know Commissioner nominee Antonina Lentoijoni in... The post Why I believe TSC commissioner nominee Antonina Lentoijoni can end the culture of teacher stagnation first appeared on Education News.
 
-_Education News — https://educationnews.co.ke/bom-workers-some-schools-lead-with-dignity-while-others-leave-staff-struggling/?utm_source=rss&utm_medium=rss&utm_campaign=bom-workers-some-schools-lead-with-dignity-while-others-leave-staff-struggling_
-
----
-
-**4. Multi-Million Company Put on Notice as Govt Moves to Acquire Land**
-
-Compulsory acquisition is allowed under Article 40 of the Constitution, which permits the State to acquire privately held land.
-
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126427-nlc-moves-compulsorily-acquire-217-hectares-del-monte-land_
+_Education News — https://educationnews.co.ke/why-i-believe-tsc-commissioner-nominee-antonina-lentoijoni-can-end-the-culture-of-teacher-stagnation/?utm_source=rss&utm_medium=rss&utm_campaign=why-i-believe-tsc-commissioner-nominee-antonina-lentoijoni-can-end-the-culture-of-teacher-stagnation_
 
 ---
 
-**5. Nairobi County Sets New Daily Charges for Political Rallies at County Facilities**
+**3. 𝐓𝐡𝐞 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥 𝐒𝐞𝐜𝐫𝐞𝐭𝐚𝐫𝐲 𝐟𝐨𝐫 𝐏𝐮𝐛𝐥𝐢𝐜 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐚𝐧𝐝 𝐇𝐮𝐦𝐚𝐧 𝐂𝐚𝐩𝐢𝐭𝐚𝐥 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐃𝐫 𝐉𝐚𝐧𝐞 𝐈𝐦𝐛𝐮𝐧𝐲𝐚, 𝐡𝐚𝐬 𝐮𝐧𝐝𝐞𝐫𝐬𝐜𝐨𝐫𝐞𝐝 𝐭𝐡𝐞 𝐛𝐫𝐨𝐚𝐝𝐞𝐫 𝐫𝐨𝐥𝐞 𝐨𝐟 𝐞𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐊𝐞𝐧𝐲𝐚’𝐬 𝐡𝐮𝐦𝐚𝐧 𝐜𝐚𝐩𝐢𝐭𝐚𝐥. S - facebook.com**
 
-The charges are to affect how politicians will utilise Nairobi County's major facilities, as the 2027 general elections clock is ticking.
+𝐓𝐡𝐞 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥 𝐒𝐞𝐜𝐫𝐞𝐭𝐚𝐫𝐲 𝐟𝐨𝐫 𝐏𝐮𝐛𝐥𝐢𝐜 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐚𝐧𝐝 𝐇𝐮𝐦𝐚𝐧 𝐂𝐚𝐩𝐢𝐭𝐚𝐥 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐃𝐫 𝐉𝐚𝐧𝐞 𝐈𝐦𝐛𝐮𝐧𝐲𝐚, 𝐡𝐚𝐬 𝐮𝐧𝐝𝐞𝐫𝐬𝐜𝐨𝐫𝐞𝐝 𝐭𝐡𝐞 𝐛𝐫𝐨𝐚𝐝𝐞𝐫 𝐫𝐨𝐥𝐞 𝐨𝐟 𝐞𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐊𝐞𝐧𝐲𝐚'𝐬 𝐡𝐮𝐦𝐚𝐧 𝐜𝐚𝐩𝐢𝐭𝐚𝐥. S facebook.com
 
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126428-nairobi-county-sets-new-daily-fees-political-rallies-sports-facilities_
-
----
-
-**6. Retirement is not the end: Why teachers should turn experience into a nobler mission**
-
-Enock Okong'o argues that leaving formal employment should not mark the end of a teacher's usefulness. Biblical teachings, he says, present later life as a transition from strenuous work to wisdom and mentorship. Retired teachers can continue serving through mentoring, writing, school boards and guidance of younger professionals. For many teachers in Kenya today, the... The post Retirement is not the end: Why teachers should turn experience into a nobler mission first appeared on Education News.
-
-_Education News — https://educationnews.co.ke/retirement-is-not-the-end-why-teachers-should-turn-experience-into-a-nobler-mission/?utm_source=rss&utm_medium=rss&utm_campaign=retirement-is-not-the-end-why-teachers-should-turn-experience-into-a-nobler-mission_
+_Kenya News Agency — https://news.google.com/rss/articles/CBMi0glBVV95cUxQOEZLcm1vUExBZW1SemJtQ01iOTZtWDZ0Rnd3NWJ2TDVDTUVia1FIMHY5OEg3Y0tvR2RvZGpKQjV2QXQ1SERxb1lwcm9KcG5mNjBabzJDOGZkQTY2OXBXQTA1RHVMcXdXQU1ua3ZWWXY0bFJWMUxEOGhBc1A0NFUxYVhwenNfZ0duSjIwOEdVQ1ZuTjdoTjdRSGhycW9GdDUwUU1zV01iSDZ4b0YxQWk3UUJRaE5zUl9yd29ZTnY4MXhWV09hMGU3Yy1jWmxKLW1lSkZBMHUxUDlwTDgwOUJmSmE5RU5UX1N1X1U1Q1NUNmJaNHVhNGJJd0JUX0RhMzIwLU5BSE95X1ZaWElCTnpiRzM1T2ZoaGlaUzVKVjBDdEtyd0lTZklEMF91azdPX0FTLTU0UFZIX05fMnZZc1FFNzhXcEs4MGJCc0RNdjZzb1NSZVVOZ2RONVBUc093clZidVJ3MzUzV0kteEZFYmZUd21PT2FuMDFvbnhVblRFZlZpVGJ3WDBlZUZFa3ZvczZzSWtfcHpyUHcwR2tpNUJReXM0anVLb2lGMEd6bTNpN081cHRiTTJETElpa0JnaU9WclhDamEtbW9zcVBHejkwZWtpNVRJb0VKVGVQQ2VFZ05TeDQxcHI2V3R2Q2pJend5Qk43OF9nMWpiaThFWkM3VFNmVmd4anl1dFJ5QUZCZC0yZHhDV2VjR2R3eEY0alcyTElOUW9tc1hGZWNhbWV0RHFnSkdnd2RialRqWFA4aXlpd1J4VGtTdDFvVFVSNDBFQ2J5VmJSVmRYblo2ZkpHdDlXQ1JsRHNxd3ZoZXlFNlctcjBGYlpLTjdSUzlEUWZfWHFabVpMS1JudGN4WHBNMFUtQ3NueHZBTS0xbDN5QTdjcjVxS3NIR0pLQXhXZ3BzeXdLNnJZMjlmNF95WjB3WjhsbWhlNUNsYTdQNVJBbjNlWWh2Y1JMY0NtOGhpaFJwbnQ4Y1VRanJfenpnS0JmOHZtcnVRVXk1QmVKMzR2SWdocFRiZnlTbUlhY0hmWmh6b0FiMXpPQjBnbGZsOHl2TXBleGdIellwSWdYcVZ3R1RtWWJVQlpXYy1HTnpCOUFDcUV3bUE2UWFrZjFDOGFnVENiTlNmbVVNZmNET2l5S0czMXIyVXVhTzNmeXg1SEMtNUhJM2s3LVRqZ19ycDAzRHlGZXV4M1J4TTI1Y0pzaFZ5aXdLc2hERG1WNDJ2N1VPaXQ3S05fLUxUQUNQa1hHaEp1cm9Ba2VuWmt1cVpLbkFCMi13WnBLYTJGN3VoUVVtZzNlRHJFcU0yUENLZWlySTUtR3NRWDdGUzhLWE1meElDZnkzZXNKbjA4Z1BRMzBQQWVIdjRYYnRNNG50aC1xRFhhV2lEZS1wZWRCSTUwbWlxVXpfUDh2QTJfZmM2aXkwSkNPN1A0V1p1S2RERkl3SHZ6cjRlZkxhckpCZ3dYak1OcW1oU0UxSU1iaENSSGN5OXA4R2JkM2lJX2h2dFdubGQ1X1dGSG5kMXBqb25fZU9MVlJoZW9HeWZhWU9BREZnTnJBd05LZTZXZjJiVGhmV2pDMXB1LU82RUFHRjVzd0RsNUZLQ2N2R2g5WU1YWGphdXoxYlJia1JXdGE3b1F1Tkh3?oc=5_
 
 ---
 
-**7. KCSE 2026: How candidates can tackle ‘Fathers of Nations’ questions and score higher marks**
+**4. Uhuru Responds to Ruto Over Claims Of Sponsoring Opposition**
 
-Candidates need more than content mastery to effectively answer questions on the current set book. Enock Okong'o explains how introductions, evidence and structured paragraphs can strengthen examination responses. The PEEL approach can help candidates organise arguments while avoiding storytelling and unsupported points. As the schools reopen for third term, KCSE candidates and their teachers are... The post KCSE 2026: How candidates can tackle 'Fathers of Nations' questions and score higher marks first appeared on Education News.
+His response followed Ruto's claims that he is sponsoring the opposition to frustrate his government.
 
-_Education News — https://educationnews.co.ke/kcse-2026-how-candidates-can-tackle-fathers-of-nations-questions-and-score-higher-marks/?utm_source=rss&utm_medium=rss&utm_campaign=kcse-2026-how-candidates-can-tackle-fathers-of-nations-questions-and-score-higher-marks_
-
----
-
-**8. Bag ni ya nini? Charity Ngilu, Kalonzo jump on viral trend at Wamalwa Kijana’s memorial**
-
-Wiper Party leader Kalonzo Musyoka shared a light moment with former Kitui Governor Charity Ngilu during a memorial
-
-_K24 Digital — https://k24.digital/entertainment/celebrity/bag-ni-ya-nini-charity-ngilu-kalonzo-jump-on-viral-trend-at-wamalwa-kijanas-memorial_
+_Kenyans.co.ke — https://www.kenyans.co.ke/news/126430-uhuru-rules-out-return-politics-dismisses-sponsor-allegations_
 
 ---
 
-**9. Kisii, Transmara leaders call for ceasefire as border clashes threaten school reopening**
+**5. Personal care products are awash in unlabeled toxic chemicals, study finds - The Guardian**
 
-Political leaders are pushing for dialogue to end fighting between communities along the Kisii-Transmara border. Parents and teachers fear continued insecurity could disrupt learning as schools reopen for third term. Leaders say elders and government officials should urgently intervene to restore peace and protect residents. Political leaders from both Kisii and Transmara have asked warring... The post Kisii, Transmara leaders call for ceasefire as border clashes threaten school reopening first appeared on Education News.
+Personal care products are awash in unlabeled toxic chemicals, study finds The Guardian
 
-_Education News — https://educationnews.co.ke/kisii-transmara-leaders-call-for-ceasefire-as-border-clashes-threaten-school-reopening/?utm_source=rss&utm_medium=rss&utm_campaign=kisii-transmara-leaders-call-for-ceasefire-as-border-clashes-threaten-school-reopening_
+_Business Topic — https://news.google.com/rss/articles/CBMinAFBVV95cUxNSExPQXpTWW9XQVlCcURCSDV2OU5RUFlubFVMUGdQaTdMeUI0ZlJOejNvY1pFaDVmSVhrVENXbm5UdjU0ZmJ0aDRrVW1mbGUzOWt3OC0xbDNGMVI1dDBRTGZ1dTd2UUVxYTJFb3V3ZnhZSk9TMU5TR19ZMkdjZ0o5Rm1BM3g4ZHhvcDNCWmN5V3BWejljM1FpX0lVSXo?oc=5_
+
+---
+
+**6. Accuracy and Completeness of Online Patient Information on Nail-Patella Syndrome: A Pilot Cross-Sectional Study - Cureus**
+
+Accuracy and Completeness of Online Patient Information on Nail-Patella Syndrome: A Pilot Cross-Sectional Study Cureus
+
+_Business Topic — https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdFZQZzFVMGZIX0poMld6eWZBMXYzbXBxZDdXRkVQVjFNanhGMElHMDFObGllVHhvd3hvT3hBZERPNkpTZ3hBNlFZVy02OXlIb2tGQ011eGV1ZUdZTTZWT1EwaXRkU3pXckkyRGs2V0JzaU9iUVFwNjhUN19sM2FrSjM1QXdvWjRFTGtYeEQySHJhUlFUYUdQTDZhZ2tuUkRKQ01VRm9nU0hSanJxVW53Q2F3ZXdJSnYxLWZ3b0VVYUFwMzFmbEVoLXVjdTdyUkxNT2stczJBRGZDaHVpV1BseEJkYw?oc=5_
 
 ---
 

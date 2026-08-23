@@ -1,17 +1,13 @@
 name: Kenya News Scanner
-
 on:
   workflow_dispatch:
   schedule:
     - cron: "*/30 * * * *"
-
 permissions:
   contents: write
-
 concurrency:
   group: kenya-news-scanner
   cancel-in-progress: false
-
 jobs:
   scan-and-post:
     runs-on: ubuntu-latest
@@ -20,55 +16,44 @@ jobs:
     # minutes. 10 minutes is comfortably above a normal run (feed checks
     # now run concurrently) but well under the 30-minute cadence.
     timeout-minutes: 10
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
       - name: Install Python packages
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser pytz requests
-
+          pip install feedparser pytz requests beautifulsoup4
       - name: Run Kenya News Scanner
         run: |
           python news_scanner.py
-
       - name: Commit scanner logs
         run: |
           git config user.name "Kenya News Scanner"
           git config user.email "actions@github.com"
-
           for f in suggested_posts.md seen_log.json feed_health.json last_run_state.json; do
             if [ -f "$f" ]; then
               git add "$f"
             fi
           done
-
           if git diff --cached --quiet; then
             echo "No scanner changes to commit."
             exit 0
           fi
-
           git commit -m "Update Kenya news scanner logs"
-
           for attempt in 1 2 3; do
-            if git fetch origin "${GITHUB_REF_NAME}" &&                git rebase "origin/${GITHUB_REF_NAME}" &&                git push origin "HEAD:${GITHUB_REF_NAME}"; then
+            if git fetch origin "${GITHUB_REF_NAME}" && git rebase "origin/${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
               echo "Scanner logs pushed successfully."
               exit 0
             fi
-
             echo "Push attempt ${attempt} failed."
             git rebase --abort 2>/dev/null || true
             sleep 5
           done
-
           echo "Unable to push scanner log changes after 3 attempts."
           exit 1

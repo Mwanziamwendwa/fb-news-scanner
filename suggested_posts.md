@@ -1,6 +1,6 @@
-# Kenya News Suggestions - Generated 2026-08-23 14:41:39 EAT
+# Kenya News Suggestions - Generated 2026-08-23 15:13:27 EAT
 
-Scanned lookback gap of 31 minutes. Found 8 unique stories.
+Scanned lookback gap of 31 minutes. Found 11 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
@@ -21,71 +21,94 @@ Scanned lookback gap of 31 minutes. Found 8 unique stories.
 - **Viral Tea Breaking** (google_news_search_fallback): `https://viraltea.co.ke/rss/category/breaking` → `https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20Breaking&hl=en-KE&gl=KE&ceid=KE:en`
 - **Viral Tea National** (google_news_search_fallback): `https://viraltea.co.ke/rss/category/national` → `https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20National&hl=en-KE&gl=KE&ceid=KE:en`
 - **Viral Tea Local** (google_news_search_fallback): `https://viraltea.co.ke/rss/category/local` → `https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20Local&hl=en-KE&gl=KE&ceid=KE:en`
-- **Kenyapedia Money** (url_variant): `https://www.kenyapedia.co.ke/rss/category/money-and-finances` → `http://www.kenyapedia.co.ke/rss/category/money-and-finances`
 
 ---
 
-**1. She started with Sh5,000. Six years later, her yarn business has five branches**
+**1. Schools reopen: Full Third Term 2026 calendar, national exams, holidays and key dates for learners**
 
-From watching her mother crochet to running a growing business.
+Schools reopen Monday for a nine-week Third Term before national assessments and examinations begin. Grade 6, Grade 9 and KCSE candidates enter the crucial final phase of their academic year. Teacher Training Colleges also reopen Monday but remain in session two weeks longer than schools. Kenyan schools reopen on Monday, August 24, for the third... The post Schools reopen: Full Third Term 2026 calendar, national exams, holidays and key dates for learners first appeared on Education News.
 
-_Nation Africa — https://nation.africa/kenya/life-and-style/she-started-with-sh5-000-six-years-later-her-yarn-business-has-five-branches--5567904_
-
----
-
-**2. President Ruto orders new Govt payroll system as crackdown targets irregular payments**
-
-The government is tightening payroll controls to eliminate irregularities and strengthen accountability across public institutions. State agencies will migrate to a revamped human-resource and payroll system alongside extensive verification of employee records. The reforms will strengthen cybersecurity, payroll oversight and integration with other public financial-management platforms. President William Ruto has directed the government to establish... The post President Ruto orders new Govt payroll system as crackdown targets irregular payments first appeared on Education News.
-
-_Education News — https://educationnews.co.ke/president-ruto-orders-new-govt-payroll-system-as-crackdown-targets-irregular-payments/?utm_source=rss&utm_medium=rss&utm_campaign=president-ruto-orders-new-govt-payroll-system-as-crackdown-targets-irregular-payments_
+_Education News — https://educationnews.co.ke/schools-reopen-full-third-term-2026-calendar-national-exams-holidays-and-key-dates-for-learners/?utm_source=rss&utm_medium=rss&utm_campaign=schools-reopen-full-third-term-2026-calendar-national-exams-holidays-and-key-dates-for-learners_
 
 ---
 
-**3. Kenya dethrones Uganda to reclaim 2026 FEASSA crown after thrilling Morogoro showdown**
+**2. Kenya Power Dealt Blow as Court Rules on Power Disconnections in Some Areas**
 
-Kenya topped the regional school games after collecting 20 gold medals across diverse sporting disciplines. Uganda finished a close second with 19 titles after dominating football, swimming and several indoor events. Morogoro witnessed Kenyan triumphs in athletics, rugby, hockey, volleyball, handball, chess and other disciplines. Kenya has reclaimed the East African school sports crown after... The post Kenya dethrones Uganda to reclaim 2026 FEASSA crown after thrilling Morogoro showdown first appeared on Education News.
+The ruling means Kenya Power can therefore not cut power supply to specific areas without following certain guidelines.
 
-_Education News — https://educationnews.co.ke/kenya-dethrones-uganda-to-reclaim-2026-feassa-crown-after-thrilling-morogoro-showdown/?utm_source=rss&utm_medium=rss&utm_campaign=kenya-dethrones-uganda-to-reclaim-2026-feassa-crown-after-thrilling-morogoro-showdown_
-
----
-
-**4. Murkomen urges Kenyans to shun rallies marred by goonism**
-
-Interior and National Administration CS Kipchumba Murkomen has urged Kenyans to shun political rallies where goons are involved, warning that politicians who sponsor and facilitate violence should be held accountable. Murkomen said Kenyans should avoid attending meetings where political leaders hire or facilitate goons, as security agencies step up efforts to prevent violence at political […] The post Murkomen urges Kenyans to shun rallies marred by goonism appeared first on KBC Digital.
-
-_KBC Digital — https://www.kbc.co.ke/murkomen-urges-kenyans-to-shun-rallies-marred-by-goonism/_
+_Kenyans.co.ke — https://www.kenyans.co.ke/news/126364-court-stops-kenya-power-disconnecting-electricity-counties-over-unpaid-bills_
 
 ---
 
-**5. Uhuru hits back at Ruto: Kenyans will choose their president in 2027**
+**3. Russian skydiver sets world record in support of International Youth Festival**
 
-Jameni chungeni, sitaki kuitwa sponsor, Uhuru said, drawing laughter from the audience.
+Russian athlete and multiple world record holder Sergey Boytcov jumped from a hot air balloon at an altitude of 11,551 meters, dedicating the fete to the International Festival of Youth 2026. The record breaking fete achieved ahead of Russia's National Flag Day was part of the Stratum Jump 11–12, a project of the Russian company Created […] The post Russian skydiver sets world record in support of International Youth Festival appeared first on KBC Digital.
 
-_Standard Headlines — https://www.standardmedia.co.ke/article/2001556000/uhuru-hits-back-at-ruto-kenyans-will-choose-their-president-in-2027_
-
----
-
-**6. New season, new look! Erling Haaland ditches long blonde hair for different hairstyle**
-
-Football star Erling Haaland is set to sport a whole new look for the new English Premier League
-
-_K24 Digital — https://k24.digital/sports/epl/new-season-new-look-erling-haaland-ditches-long-blonde-hair-for-different-hairstyle_
+_KBC Digital — https://www.kbc.co.ke/russian-skydiver-sets-world-record-in-support-of-international-youth-festival/_
 
 ---
 
-**7. Man leaves tired 7-year-old son alone on mountain during family hike**
+**4. Kijana Wamalwa: Queen’s English Genius From London Who Died as Kenya’s Poorest VP Living in Rented Houses**
 
-A man who left his tired 7-year-old son to wait alone on Japan's Mount Fuji while he continued
+The Kenya Times ~ Trending, Breaking News and Videos Kijana Wamalwa: Queen's English Genius From London Who Died as Kenya's Poorest VP Living in Rented Houses When Kijana Wamalwa became Vice President in 2003, many Kenyans saw a man who had made it. He had studied in Britain, spoke polished Queen's English, and occupied the second-highest office in the country. But behind the smart suits and powerful title was a different story. Unlike many politicians who built huge fortunes during their […] This post Kijana Wamalwa: Queen's English Genius From London Who Died as Kenya's Poorest VP Living in Rented Houses first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Wiltord Otieno
 
-_K24 Digital — https://k24.digital/news/man-leaves-tired-7-year-old-son-alone-on-mountain-during-family-hike_
+_The Kenya Times — https://thekenyatimes.com/explainers/why-kijana-wamalwa-had-rented-houses-while-serving-as-vice-president/_
 
 ---
 
-**8. 50%+1 Race: Counties That Could Decide Ruto’s 2027 Re-Election**
+**5. The role of food in Kenyan weddings, Ruracios and family gatherings**
 
-The Kenya Times ~ Trending, Breaking News and Videos 50%+1 Race: Counties That Could Decide Ruto's 2027 Re-Election President William Ruto has led the latest opinion polls and ranks as the preferred candidate in the 2027 elections. His path to a second term will depend on how his support holds up across Kenya's major voting blocs. Retaining previous support in 2022 and increasing influence in opposition-leaning counties could determine whether he crosses the constitutional 50% […] This post 50%+1 Race: Counties That Could Decide Ruto's 2027 Re-Election first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Morgan Wanyonyi
+In Kenya, you can forget the flowers, the matching outfits and even the beautifully decorated cake for a
 
-_The Kenya Times — https://thekenyatimes.com/politics/nairobi-kiambu-nakuru-counties-that-could-decide-kenyas-2027-presidential-election/_
+_K24 Digital — https://k24.digital/lifestyle/food-and-culinary/the-role-of-food-in-kenyan-weddings-ruracios-and-family-gatherings_
+
+---
+
+**6. 2026 FEASSA Games: Full list of champions from the Morogoro showdown**
+
+Kenya reclaimed the overall secondary schools crown after collecting 20 gold medals in Morogoro. Schools from Uganda, Kenya, Rwanda and Tanzania shared honours across the different sporting disciplines. Football, volleyball, rugby, hockey, handball and basketball produced thrilling finals as regional champions emerged. Kenya emerged overall secondary schools champions as the curtain came down on the... The post 2026 FEASSA Games: Full list of champions from the Morogoro showdown first appeared on Education News.
+
+_Education News — https://educationnews.co.ke/2026-feassa-games-full-list-of-champions-from-the-morogoro-showdown/?utm_source=rss&utm_medium=rss&utm_campaign=2026-feassa-games-full-list-of-champions-from-the-morogoro-showdown_
+
+---
+
+**7. Three suspects arrested months after Mtito Andei robbery attempt**
+
+Three suspects have been arrested over an attempted highway robbery along the Mombasa-Nairobi highway in which one of their accomplices was fatally shot. The suspects were arrested nearly three months after the May 6, 2026 incident near Mutomo area in Mtito Andei. According to the Directorate of Criminal Investigations (DCI), the gang staged a fake […] The post Three suspects arrested months after Mtito Andei robbery attempt appeared first on KBC Digital.
+
+_KBC Digital — https://www.kbc.co.ke/three-suspects-arrested-months-after-mtito-andei-robbery-attempt/_
+
+---
+
+**8. Gachagua accuses Ruto of using smaller ‘wheelbarrow parties’ to split Mt Kenya vote - People Daily**
+
+Gachagua accuses Ruto of using smaller 'wheelbarrow parties' to split Mt Kenya vote People Daily
+
+_Politics — https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeUk3bVc1Q1ZaRG1hV084UlliSkJWMURVZmQyTkpJMGlxSFNwSGRXMGdQZUg5Ty1QWHk0YTZ6aVl1N0cyWnBjQ2YteDl3eHhfVnlrRU1kQi1GQVZTUDZtaTl1c2dPOVprRzB4WVhNY2c4N3Y5bVMxVnJ3dUkxZGlQNHRDaWpVSXZhVTdyUnExNlozSXl1NEEycTBGZkRTR0d3LTY3TS1RQkZvUFBrVjc5QWxxMVJrUUNkQnBqYWFfeGJsQjg?oc=5_
+
+---
+
+**9. United's next decision: What to do with all those Boeing 737 Max 10 seats it ordered years ago - CNBC**
+
+United's next decision: What to do with all those Boeing 737 Max 10 seats it ordered years ago CNBC
+
+_Business Topic — https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2RoN2hGaGt0MzVVbmw4dldMNEJJOG8yU0ZRNVBqejYzeXJzZGVidElZcmpQRk52emlIenREVGE2eDRYUFhfREF1bGRkNkV5VWhLa1l0U2F5cGU2dkRvMFczSGZ5di1VaHlRSUZiTTVXYzBXNkxaRG1CVXF5RjQ0bHJR0gGHAUFVX3lxTE9fZmpHY2RKTnBsTFVpbVFjbUhOdXdaSmY5SGxWZnFaRl9Ja3RpRHJmX2p6R1VvaEwtcVc2eTZIa1lBMUt1LTRDZVcwYUZsM2pRX1dpQXpLTzB6ZWVoZlU1Mk5WX1loTFlrakhLQWx3cThRTEE2UUF1ejZlUXp4dnlZVnBzTHg0VQ?oc=5_
+
+---
+
+**10. Gachagua: Why I won’t honour NCIC summons**
+
+Ex-DP demands full evidence on alleged hate speech.
+
+_Nation Africa — https://nation.africa/kenya/news/politics/gachagua-why-i-won-t-honour-ncic-summons-5568148_
+
+---
+
+**11. ‘Never-say-die’ Bankers slide past Oilers to reach Driftwood 7s final**
+
+NAIROBI, Kenya, August 23, 2026 – KCB Rugby came from behind to book their slot in the final of the ongoing Driftwood 7s with a 10-5 victory over Menengai Oilers.…
+
+_Capital FM Sports — https://capitalfm.africa/never-say-die-bankers-slide-past-oilers-to-reach-driftwood-7s-final/_
 
 ---
 

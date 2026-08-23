@@ -325,13 +325,13 @@
   },
   "Kenyapedia Money": {
     "status": "ALIVE",
-    "url_used": "http://www.kenyapedia.co.ke/rss/category/money-and-finances",
-    "auto_fixed": true,
-    "fix_method": "url_variant"
+    "url_used": "https://www.kenyapedia.co.ke/rss/category/money-and-finances",
+    "auto_fixed": false,
+    "fix_method": null
   },
   "Kenyapedia Grants": {
-    "status": "DEAD",
-    "url_used": null,
+    "status": "ALIVE",
+    "url_used": "https://www.kenyapedia.co.ke/rss/category/business-grants-and-financing",
     "auto_fixed": false,
     "fix_method": null
   },
@@ -348,8 +348,8 @@
     "fix_method": null
   },
   "Kenyapedia Education": {
-    "status": "DEAD",
-    "url_used": null,
+    "status": "ALIVE",
+    "url_used": "https://www.kenyapedia.co.ke/rss/category/education-funding",
     "auto_fixed": false,
     "fix_method": null
   },
@@ -366,8 +366,8 @@
     "fix_method": null
   },
   "Kenyapedia Recent News": {
-    "status": "DEAD",
-    "url_used": null,
+    "status": "ALIVE",
+    "url_used": "https://www.kenyapedia.co.ke/rss/category/recent-news",
     "auto_fixed": false,
     "fix_method": null
   }

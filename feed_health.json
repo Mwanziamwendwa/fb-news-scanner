@@ -49,9 +49,9 @@
   },
   "SPM Buzz": {
     "status": "ALIVE",
-    "url_used": "https://spmbuzz.com/feed/",
-    "auto_fixed": false,
-    "fix_method": null
+    "url_used": "http://spmbuzz.com/feed/",
+    "auto_fixed": true,
+    "fix_method": "url_variant"
   },
   "Ghafla": {
     "status": "ALIVE",
@@ -217,33 +217,33 @@
   },
   "Capital FM News": {
     "status": "ALIVE",
-    "url_used": "http://capitalfm.africa/news/feed/",
-    "auto_fixed": true,
-    "fix_method": "url_variant"
+    "url_used": "https://capitalfm.africa/news/feed/",
+    "auto_fixed": false,
+    "fix_method": null
   },
   "Capital FM Sports": {
     "status": "ALIVE",
-    "url_used": "http://capitalfm.africa/sports/feed/",
-    "auto_fixed": true,
-    "fix_method": "url_variant"
+    "url_used": "https://capitalfm.africa/sports/feed/",
+    "auto_fixed": false,
+    "fix_method": null
   },
   "Capital FM Lifestyle": {
     "status": "ALIVE",
-    "url_used": "http://capitalfm.africa/lifestyle/feed/",
-    "auto_fixed": true,
-    "fix_method": "url_variant"
+    "url_used": "https://capitalfm.africa/lifestyle/feed/",
+    "auto_fixed": false,
+    "fix_method": null
   },
   "Capital FM Business": {
     "status": "ALIVE",
-    "url_used": "https://news.google.com/rss/search?q=Kenya%20Capital%20FM%20Business&hl=en-KE&gl=KE&ceid=KE:en",
-    "auto_fixed": true,
-    "fix_method": "google_news_search_fallback"
+    "url_used": "https://capitalfm.africa/business/feed/",
+    "auto_fixed": false,
+    "fix_method": null
   },
   "Capital FM Kenya": {
     "status": "ALIVE",
-    "url_used": "http://www.capitalfm.co.ke/news/feed/",
-    "auto_fixed": true,
-    "fix_method": "url_variant"
+    "url_used": "https://www.capitalfm.co.ke/news/feed/",
+    "auto_fixed": false,
+    "fix_method": null
   },
   "Getembe Latest": {
     "status": "ALIVE",

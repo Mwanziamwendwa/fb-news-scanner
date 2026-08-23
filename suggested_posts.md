@@ -1,11 +1,10 @@
-# Kenya News Suggestions - Generated 2026-08-23 13:10:32 EAT
+# Kenya News Suggestions - Generated 2026-08-23 13:46:44 EAT
 
-Scanned lookback gap of 21 minutes. Found 10 unique stories.
+Scanned lookback gap of 36 minutes. Found 9 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
 - **Ghafla KE** (url_variant): `https://ghafla.co.ke/ke/feed` → `http://ghafla.co.ke/ke/feed`
-- **Nation Africa** (url_variant): `https://nation.africa/kenya/rss.xml` → `https://www.nation.africa/kenya/rss.xml`
 - **Kenya News Agency** (google_news_search_fallback): `https://www.kenyanews.go.ke/feed/` → `https://news.google.com/rss/search?q=Kenya%20Kenya%20News%20Agency&hl=en-KE&gl=KE&ceid=KE:en`
 - **Mwakilishi** (google_news_search_fallback): `https://mwakilishi.com/feed` → `https://news.google.com/rss/search?q=Kenya%20Mwakilishi&hl=en-KE&gl=KE&ceid=KE:en`
 - **Sharp Daily** (google_news_search_fallback): `https://sharpdaily.co.ke/feed/` → `https://news.google.com/rss/search?q=Kenya%20Sharp%20Daily&hl=en-KE&gl=KE&ceid=KE:en`
@@ -24,83 +23,75 @@ Scanned lookback gap of 21 minutes. Found 10 unique stories.
 
 ---
 
-**1. President Ruto calls on Church to help shape Kenya’s Beyond Vision 2030 development agenda**
+**1. From long-time girlfriend to fiancée: What to know about Usain Bolt’s partner Kasi Bennett**
 
-President William Ruto says planning Kenya's long-term development requires participation beyond the national government. He wants religious organisations involved in shaping development priorities and the proposed National Infrastructure Fund. The President also outlined investments in education, roads, markets, housing and healthcare across Machakos County. President William Ruto has called on the Church and other religious... The post President Ruto calls on Church to help shape Kenya's Beyond Vision 2030 development agenda first appeared on Education News.
+Kasi Bennett, a Jamaican entrepreneur and mother of three, has stepped into a new chapter with sprint legend
 
-_Education News — https://educationnews.co.ke/president-ruto-calls-on-church-to-help-shape-kenyas-beyond-vision-2030-development-agenda/?utm_source=rss&utm_medium=rss&utm_campaign=president-ruto-calls-on-church-to-help-shape-kenyas-beyond-vision-2030-development-agenda_
-
----
-
-**2. Kigali, Rwanda to host 2027 FEASSA Games**
-
-Kigali will stage the 24th edition of the regional secondary schools sporting competition next year. Rwanda takes over hosting duties from Tanzania, where the 2026 games are being held in Morogoro. The event will bring together talented student-athletes and school teams from across the East African region. Kigali has been awarded the rights to host... The post Kigali, Rwanda to host 2027 FEASSA Games first appeared on Education News.
-
-_Education News — https://educationnews.co.ke/kigali-rwanda-to-host-2027-feassa-games/?utm_source=rss&utm_medium=rss&utm_campaign=kigali-rwanda-to-host-2027-feassa-games_
+_K24 Digital — https://k24.digital/entertainment/celebrity/from-long-time-girlfriend-to-fiancee-what-to-know-about-usain-bolts-partner-kasi-bennett_
 
 ---
 
-**3. A section of the ongoing construction of the Kapsabet Stadium sports facility currently at 40 percent construction. Photo: Ruth Mainye/KNA - facebook.com**
+**2. Inside Josh Kushner’s $17 Billion Fortune: The Lakers, OpenAI, SpaceX - Forbes**
 
-A section of the ongoing construction of the Kapsabet Stadium sports facility currently at 40 percent construction. Photo: Ruth Mainye/KNA facebook.com
+Inside Josh Kushner's $17 Billion Fortune: The Lakers, OpenAI, SpaceX ForbesRead Joshua Kushner's First Formal Thrive Capital Investor Letter Bloomberg.comThrive Investor Letter Reveals OpenAI-Fueled Growth, Stake Sale Bloomberg.com
 
-_Kenya News Agency — https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNHNLbmlia1ZlejMtTHJETUdlaTBMblVlTEtaRGNQT3Z6cnRDY2JHaTJfSUpfUDlUM3M3SjNxMUhVWVRUTTAxVW9ZRVM4bk13WlZHWDYyemQ4RW1ZNlczVk85aTFLa3lYV3dxaDVhV1k3TERtWWNpSThOYVByUm9UU2x4emFRM3Q3ZmxHbkN5bmFLSFgySUpsWVhjRE4xTUVXbF9zSURxZ1ZieTZNRGtLV1ZQcHJwTlh6a0EyVzNKa2wtcHF3blh0d2RES2NCc1AxaWU5NzJnb2hXaHJFeFE?oc=5_
-
----
-
-**4. How teachers can effectively manage candidate classes during the critical Third Term**
-
-Clear routines and close supervision can help candidates remain disciplined and focused as examinations approach. Structured revision, continuous assessment and early intervention enable teachers to address learners' academic weaknesses. Parental involvement, counselling and motivation can also reduce anxiety and prevent behavioural problems during third term. The third term is a very important period for a... The post How teachers can effectively manage candidate classes during the critical Third Term first appeared on Education News.
-
-_Education News — https://educationnews.co.ke/how-teachers-can-effectively-manage-candidate-classes-during-the-critical-third-term/?utm_source=rss&utm_medium=rss&utm_campaign=how-teachers-can-effectively-manage-candidate-classes-during-the-critical-third-term_
+_Business Topic — https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZjRSOEJwaFZ1QmJuZjQ1X2FNc2tWeXdnSmp3NDZzbnpiU0ZHV2ZTdTJRckxXaHJDbXlycVdCc0YtU0YxcG0xb1ItVnpwZGdnWUswbVJkMUdndkZvYlN4TVlpSVgzeXI3aDEtVDl4WUh0RWpQMzk5b1RFQkh3WGIxWURpbmd6eFNqUnAxNmt1UXVxR3JlbmVROTgxeXRkVFUzcjBwd3FmQktYN1Y4S0V3UEZ2SlVxMXAtWUd1T0pXUnJaYmExMWZsdjY0bUVZTGhVV1NYOA?oc=5_
 
 ---
 
-**5. The boy from Ol Kalou who built a clinic in America - Daily Nation**
+**3. BoM workers: Some schools lead with dignity while others leave staff struggling**
 
-The boy from Ol Kalou who built a clinic in America Daily Nation
+BoM employees report sharply different experiences depending on how individual schools manage their welfare and employment. Timely salaries, clear contracts and respectful supervision can make even modest employment arrangements more dignified. Concerns persist over delayed pay, low wages, holiday arrangements, deductions and treatment of some school workers. Board of Management (BoM) workers remain an indispensable... The post BoM workers: Some schools lead with dignity while others leave staff struggling first appeared on Education News.
 
-_Kenya Latest — https://news.google.com/rss/articles/CBMimgFBVV95cUxPUEJBbG82RG1NRXMtN2N6S2hFZExSR1NDb05BVTFZMU1RN1ZMNTk5T2xyTHlYUi1HMTFuWU5fRzV6am91clk1NDNGcWpWNHd6YW1Pb0dCV2ZhQkFiSU9UOHYwSnZfU3lacFhOVXlNbjduQ0x2b1Jab3IzWXR5SW5WX3lDaHBkR09LNEwwLUtkVTBLUy1KZzVHUVRn?oc=5_
-
----
-
-**6. Oil major Eni bets on nuclear fusion becoming its ‘next refinery’ - Financial Times**
-
-Oil major Eni bets on nuclear fusion becoming its 'next refinery' Financial Times
-
-_Business Topic — https://news.google.com/rss/articles/CBMihAFBVV95cUxPQy12WTkzOE5wZGh1eU9QMVFtM1VWOXl0TVJHdFlEOFdSOGZJeFJSN19wdng0aVFPbU5SLTYwT3RXTC05bGcyRnFkMXFEeU5wUXhUUHRlZTNyclUxSC1UbjhtNFg1MUh0NUhpaGJOZm5LQXRGRktkeVNUcGJkUnpBQUZYVGs?oc=5_
+_Education News — https://educationnews.co.ke/bom-workers-some-schools-lead-with-dignity-while-others-leave-staff-struggling/?utm_source=rss&utm_medium=rss&utm_campaign=bom-workers-some-schools-lead-with-dignity-while-others-leave-staff-struggling_
 
 ---
 
-**7. KUPPET backs court suspension of TSC social media restrictions on teachers**
+**4. Multi-Million Company Put on Notice as Govt Moves to Acquire Land**
 
-KUPPET Chairman Omboko Milemba says teachers should not face unnecessary restrictions when using digital platforms. He has called for responsible social media use while protecting teachers' freedom of expression. The High Court has temporarily halted enforcement of the disputed TSC circular as the case proceeds. Kenya Union of Post Primary Education Teachers (KUPPET) National Chairman... The post KUPPET backs court suspension of TSC social media restrictions on teachers first appeared on Education News.
+Compulsory acquisition is allowed under Article 40 of the Constitution, which permits the State to acquire privately held land.
 
-_Education News — https://educationnews.co.ke/kuppet-backs-court-suspension-of-tsc-social-media-restrictions-on-teachers/?utm_source=rss&utm_medium=rss&utm_campaign=kuppet-backs-court-suspension-of-tsc-social-media-restrictions-on-teachers_
-
----
-
-**8. How Taiwanese American Woman Became Sole Owner of Popular Nairobi Tech School; Moringa**
-
-The Kenya Times ~ Trending, Breaking News and Videos How Taiwanese American Woman Became Sole Owner of Popular Nairobi Tech School; Moringa Moringa School is a Nairobi-based tech training academy offering programs in software engineering, data science, product design, cybersecurity, cloud, and data analytics. The institution focuses on hands-on technology training and employability, with courses designed to equip learners with practical digital skills. Moringa School was founded in 2014 by Audrey Patricia Cheng and Kenyan entrepreneur Frank […] This post How Taiwanese American Woman Became Sole Owner of Popular Nairobi Tech School; Moringa first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Daisy Moraa
-
-_The Kenya Times — https://thekenyatimes.com/kenya/moringa-school-audrey/_
+_Kenyans.co.ke — https://www.kenyans.co.ke/news/126427-nlc-moves-compulsorily-acquire-217-hectares-del-monte-land_
 
 ---
 
-**9. Anti-FGM Board hit by claims of unremitted SHA, Helb and NSSF deductions**
+**5. Nairobi County Sets New Daily Charges for Political Rallies at County Facilities**
 
-Parliament demands detailed accounts of FGM programme spending as board defends its expenditure.
+The charges are to affect how politicians will utilise Nairobi County's major facilities, as the 2027 general elections clock is ticking.
 
-_Nation Africa — https://nation.africa/kenya/news/gender/anti-fgm-board-hit-by-claims-of-unremitted-sha-helb-and-nssf-deductions-5564994_
+_Kenyans.co.ke — https://www.kenyans.co.ke/news/126428-nairobi-county-sets-new-daily-fees-political-rallies-sports-facilities_
 
 ---
 
-**10. CBA sitting on whopping paper gains as Anthropic plots $2trn IPO - AFR**
+**6. Retirement is not the end: Why teachers should turn experience into a nobler mission**
 
-CBA sitting on whopping paper gains as Anthropic plots $2trn IPO AFRAnthropic IPO filing will show AI backlash as a risk factor, sources say CNBC#anthropicipocouldtopspacexrecordreportssay Community Insights & Market Sentiment | Binance Square BinanceAmazon-Backed Anthropic Needs $1.2 Trillion in Revenue to Justify $2 Trillion Valuation, 'Dean of Valuation' Says Yahoo Finance14 Trillion Valuation: Is the Largest IPO in History Making a Comeback? 36 Kr
+Enock Okong'o argues that leaving formal employment should not mark the end of a teacher's usefulness. Biblical teachings, he says, present later life as a transition from strenuous work to wisdom and mentorship. Retired teachers can continue serving through mentoring, writing, school boards and guidance of younger professionals. For many teachers in Kenya today, the... The post Retirement is not the end: Why teachers should turn experience into a nobler mission first appeared on Education News.
 
-_Business Topic — https://news.google.com/rss/articles/CBMixwFBVV95cUxNWGZnd1Y4dUdVNVFhd3BaVTBYcEpVQVFkdVgxbnNPV1cxV1ZyQUZEYTV0WXRWR2h3bHBZX1FEdXh1cG9JaU05N2lwMFhkTGx5V2NUVF9pSnJfZG51a19IUi1kLVE3V0lIQkZ5UHVvcXlNMlFPazM3dHFIcHE3YzhUc1hscEd2Y2ZNdS1BRUNUbzN5cTJfUGlMZHZLb05sUWgzSnNNNk1zSnFsbG03eG5JZDBFenJLX1NRcnJhSG1DWkRRUXVKTnhN?oc=5_
+_Education News — https://educationnews.co.ke/retirement-is-not-the-end-why-teachers-should-turn-experience-into-a-nobler-mission/?utm_source=rss&utm_medium=rss&utm_campaign=retirement-is-not-the-end-why-teachers-should-turn-experience-into-a-nobler-mission_
+
+---
+
+**7. KCSE 2026: How candidates can tackle ‘Fathers of Nations’ questions and score higher marks**
+
+Candidates need more than content mastery to effectively answer questions on the current set book. Enock Okong'o explains how introductions, evidence and structured paragraphs can strengthen examination responses. The PEEL approach can help candidates organise arguments while avoiding storytelling and unsupported points. As the schools reopen for third term, KCSE candidates and their teachers are... The post KCSE 2026: How candidates can tackle 'Fathers of Nations' questions and score higher marks first appeared on Education News.
+
+_Education News — https://educationnews.co.ke/kcse-2026-how-candidates-can-tackle-fathers-of-nations-questions-and-score-higher-marks/?utm_source=rss&utm_medium=rss&utm_campaign=kcse-2026-how-candidates-can-tackle-fathers-of-nations-questions-and-score-higher-marks_
+
+---
+
+**8. Bag ni ya nini? Charity Ngilu, Kalonzo jump on viral trend at Wamalwa Kijana’s memorial**
+
+Wiper Party leader Kalonzo Musyoka shared a light moment with former Kitui Governor Charity Ngilu during a memorial
+
+_K24 Digital — https://k24.digital/entertainment/celebrity/bag-ni-ya-nini-charity-ngilu-kalonzo-jump-on-viral-trend-at-wamalwa-kijanas-memorial_
+
+---
+
+**9. Kisii, Transmara leaders call for ceasefire as border clashes threaten school reopening**
+
+Political leaders are pushing for dialogue to end fighting between communities along the Kisii-Transmara border. Parents and teachers fear continued insecurity could disrupt learning as schools reopen for third term. Leaders say elders and government officials should urgently intervene to restore peace and protect residents. Political leaders from both Kisii and Transmara have asked warring... The post Kisii, Transmara leaders call for ceasefire as border clashes threaten school reopening first appeared on Education News.
+
+_Education News — https://educationnews.co.ke/kisii-transmara-leaders-call-for-ceasefire-as-border-clashes-threaten-school-reopening/?utm_source=rss&utm_medium=rss&utm_campaign=kisii-transmara-leaders-call-for-ceasefire-as-border-clashes-threaten-school-reopening_
 
 ---
 

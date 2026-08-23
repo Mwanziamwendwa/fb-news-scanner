@@ -313,61 +313,61 @@
   },
   "Kenyapedia Latest": {
     "status": "ALIVE",
-    "url_used": "https://www.kenyapedia.co.ke/rss/latest-posts",
-    "auto_fixed": false,
-    "fix_method": null
+    "url_used": "https://news.google.com/rss/search?q=Kenya%20Kenyapedia%20Latest&hl=en-KE&gl=KE&ceid=KE:en",
+    "auto_fixed": true,
+    "fix_method": "google_news_search_fallback"
   },
   "Kenyapedia Jobs": {
-    "status": "ALIVE",
-    "url_used": "https://www.kenyapedia.co.ke/rss/category/jobs",
+    "status": "DEAD",
+    "url_used": null,
     "auto_fixed": false,
     "fix_method": null
   },
   "Kenyapedia Money": {
-    "status": "ALIVE",
-    "url_used": "https://www.kenyapedia.co.ke/rss/category/money-and-finances",
+    "status": "DEAD",
+    "url_used": null,
     "auto_fixed": false,
     "fix_method": null
   },
   "Kenyapedia Grants": {
-    "status": "ALIVE",
-    "url_used": "https://www.kenyapedia.co.ke/rss/category/business-grants-and-financing",
+    "status": "DEAD",
+    "url_used": null,
     "auto_fixed": false,
     "fix_method": null
   },
   "Kenyapedia Debt": {
-    "status": "ALIVE",
-    "url_used": "https://www.kenyapedia.co.ke/rss/category/debt-and-borrowing",
+    "status": "DEAD",
+    "url_used": null,
     "auto_fixed": false,
     "fix_method": null
   },
   "Kenyapedia Economy": {
-    "status": "ALIVE",
-    "url_used": "https://www.kenyapedia.co.ke/rss/category/kenya-economy",
+    "status": "DEAD",
+    "url_used": null,
     "auto_fixed": false,
     "fix_method": null
   },
   "Kenyapedia Education": {
-    "status": "ALIVE",
-    "url_used": "https://www.kenyapedia.co.ke/rss/category/education-funding",
+    "status": "DEAD",
+    "url_used": null,
     "auto_fixed": false,
     "fix_method": null
   },
   "Kenyapedia Taxes": {
-    "status": "ALIVE",
-    "url_used": "https://www.kenyapedia.co.ke/rss/category/taxes-50",
+    "status": "DEAD",
+    "url_used": null,
     "auto_fixed": false,
     "fix_method": null
   },
   "Kenyapedia Investments": {
-    "status": "ALIVE",
-    "url_used": "https://www.kenyapedia.co.ke/rss/category/savings-and-investments",
+    "status": "DEAD",
+    "url_used": null,
     "auto_fixed": false,
     "fix_method": null
   },
   "Kenyapedia Recent News": {
-    "status": "ALIVE",
-    "url_used": "https://www.kenyapedia.co.ke/rss/category/recent-news",
+    "status": "DEAD",
+    "url_used": null,
     "auto_fixed": false,
     "fix_method": null
   }

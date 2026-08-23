@@ -1,6 +1,6 @@
-# Kenya News Suggestions - Generated 2026-08-23 08:23:48 EAT
+# Kenya News Suggestions - Generated 2026-08-23 08:51:26 EAT
 
-Scanned lookback gap of 25 minutes. Found 5 unique stories.
+Scanned lookback gap of 27 minutes. Found 4 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
@@ -23,43 +23,35 @@ Scanned lookback gap of 25 minutes. Found 5 unique stories.
 
 ---
 
-**1. Is there need for alarm? Manchester United’s Hull defeat raises major questions**
+**1. Foods that can make a pressure cooker explode while cooking**
 
-Manchester United's opening Premier League fixture ended in disappointment as Hull City produced a spirited display to secure
+A pressure cooker has become a useful kitchen shortcut, especially when preparing foods that normally take a long
 
-_K24 Digital — https://k24.digital/sports/epl/is-there-need-for-alarm-manchester-uniteds-hull-defeat-raises-major-questions_
-
----
-
-**2. 4 Arrested Over Deaths of 18 Elephants in Amboseli**
-
-Four suspects have been arrested in connection with the deaths of 18 elephants within the Amboseli ecosystem.
-
-_Nairobi Leo — https://nairobileo.co.ke/news/article/29692/4-arrested-over-deaths-of-18-elephants-in-amboseli_
+_K24 Digital — https://k24.digital/lifestyle/food-and-culinary/foods-that-can-make-a-pressure-cooker-explode-while-cooking_
 
 ---
 
-**3. Jaymo Ule Msee explains why he supports Ruto despite criticism**
+**2. Frank Ilett: Manchester United fan’s haircut challenge continues after Hull shocker**
 
-Social media personality and aspiring politician Wilson Muirani Gathoni, widely known as Jaymo Ule Msee, has explained why
+While Manchester United's players endured a miserable Saturday afternoon, August 22, 2026, one supporter saw his unusual personal
 
-_K24 Digital — https://k24.digital/entertainment/celebrity/jaymo-ule-msee-explains-why-he-supports-ruto-despite-criticism_
-
----
-
-**4. Janet Mbugua calls for action on endometriosis as Natalie Githinji battles stage 4 disease**
-
-Media personality Janet Mbugua has called for stronger action on endometriosis in Kenya, saying the country must move
-
-_K24 Digital — https://k24.digital/entertainment/celebrity/janet-mbugua-calls-for-action-on-endometriosis-as-natalie-githinji-battles-stage-4-disease_
+_K24 Digital — https://k24.digital/sports/epl/frank-ilett-manchester-united-fans-haircut-challenge-continues-after-hull-shocker_
 
 ---
 
-**5. NJAU: Is Ndindi Nyoro a Ruto project, Gachagua challenger or his own man? - the-star.co.ke**
+**3. Rosemary Kimwatu: What to know about the woman who championed data protection in Kenya**
 
-NJAU: Is Ndindi Nyoro a Ruto project, Gachagua challenger or his own man? the-star.co.keMWAMISI: Can Ndindi Nyoro turn Mt Kenya influence into a national agenda? the-star.co.keNyoro's underwhelming statement on prior actions of the moment standardmedia.co.keThe Ndindi Nyoro gamble: Is Kiharu MP building alternative centre to challenge Gachagua's Mt Kenya dominance? People DailyNyoro's break with Ruto redraws 2027 opposition map Daily Nation
+Rosemary Kimwatu Koech, who passed away at her home in Ngong, left behind a career that brought together
 
-_Kenya Latest — https://news.google.com/rss/articles/CBMihAFBVV95cUxPeF9zdlhabVoxbjBjYW5CcUdxVHJ5WGdCbzVldnRFN09RNDh1dmU2cDd0M2g4WnZwX3RZbGNRWjc5MjNTMTZtQV9mV1oxQm1neFNhc3luaDVzZmVkQUdiVVpyVE1mbHducmh1MkI0U2IxR3Q0eE04bTB1S25OSk5pVHZDNlQ?oc=5_
+_K24 Digital — https://k24.digital/entertainment/celebrity/rosemary-kimwatu-what-to-know-about-the-woman-who-championed-data-protection-in-kenya_
+
+---
+
+**4. Details of Upgrades Presidential Jet Has Undergone After Year-Long Overhaul**
+
+The aircraft has been out of service since August 2025, when it was flown to the Netherlands for extensive maintenance amid concerns over its age and reliability.
+
+_Kenyans.co.ke — https://www.kenyans.co.ke/news/126420-details-upgrades-presidential-jet-has-undergone-after-year-long-overhaul_
 
 ---
 

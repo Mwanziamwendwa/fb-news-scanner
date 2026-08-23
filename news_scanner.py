@@ -342,11 +342,20 @@ def contains_sensitive_content(text):
 def main():
     print("[PIPELINE RUN] Starting Dynamic Multi-Agent News Scanner...")
     now_utc = datetime.now(pytz.utc)
-    
+
     # ----------------==========================================================
-    # DYNAMIC AGENT: TIME GAP CALCULATION (WITH 15-MIN SHORT RUN PROTECTION)
+    # LOOKBACK WINDOW: FIXED AT 24 HOURS
     # ----------------==========================================================
-    last_run_time = now_utc - timedelta(hours=24) 
+    # Previously this scaled to the time since the last successful run --
+    # but with the workflow's own 30-minute cron keeping that gap small,
+    # every run ended up scanning only the last 15-30 minutes regardless
+    # of how long it had actually been since anyone looked at the output,
+    # starving the story count. Fixed at 24h instead: seen_log already
+    # dedupes by link, so a wider window just means a bigger candidate
+    # pool per run, not repeat posts of the same story.
+    LOOKBACK_WINDOW_MINUTES = 24 * 60
+    time_gap_minutes = LOOKBACK_WINDOW_MINUTES
+
     if os.path.exists(LAST_RUN_STATE_FILE):
         try:
             with open(LAST_RUN_STATE_FILE, "r", encoding="utf-8") as f:
@@ -354,17 +363,9 @@ def main():
                 last_run_time = datetime.fromisoformat(state["last_successful_run_utc"])
                 print(f"[DYNAMIC AGENT] Last scan detected at: {last_run_time.astimezone(NAIROBI_TZ)}")
         except:
-            print("[DYNAMIC AGENT] State file unreadable. Defaulting parameters.")
+            print("[DYNAMIC AGENT] State file unreadable.")
 
-    time_gap_seconds = (now_utc - last_run_time).total_seconds()
-    time_gap_minutes = int(time_gap_seconds / 60)
-
-    # 15-Minute Safety Window Catch for back-to-back runs
-    if time_gap_minutes < 15:
-        print(f"[DYNAMIC AGENT] Quick run detected ({time_gap_minutes} mins gap). Enforcing 15-minute safety lookup window.")
-        time_gap_minutes = 15
-    else:
-        print(f"[DYNAMIC AGENT] Lookback window configured to capture the last: {time_gap_minutes} minutes.")
+    print(f"[DYNAMIC AGENT] Lookback window fixed at: {time_gap_minutes} minutes (24 hours).")
 
     seen_log = []
     if os.path.exists(SEEN_LOG_FILE):

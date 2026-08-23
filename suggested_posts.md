@@ -1,4 +1,4 @@
-# Kenya News Suggestions - Generated 2026-08-24 00:09:55 EAT
+# Kenya News Suggestions - Generated 2026-08-24 00:41:26 EAT
 
 Scanned lookback gap of 1440 minutes. Found 1 unique stories.
 
@@ -23,9 +23,9 @@ Scanned lookback gap of 1440 minutes. Found 1 unique stories.
 
 ---
 
-**1. Uhuru: Don't claw back our freedoms as political intolerance grows**
+**1. Gachagua to Fly to U.S as Details of Upcoming Trip Emerge**
 
-Retired President Uhuru Kenyatta has scoffed at ongoing attempts to disrupt and sow chaos in opposition rallies while addressing residents at the memorial of late Vice President Kijana Wamalwa. In likely reference to the ongoing problem of goons, the former president said the growing intolerance and disruption of meetings is taking Kenya backwards. He challenged politicians to seek votes in peace. . Bold Reporting Takes Time, Courage and Investment. Stand With Us. 🔥 . … 0 Days 00 Hours 00 Mins 00 Secs Continue Reading → What you get Unlimited access to all premium content Ad-free browsing experience Mobile-optimised reading Weekly newsletters & digests Pay via M - PESA VISA Airtel Money Secure Payments Kenya's most trusted newsroom since 1902 ? Log in to continue . … Subscribe to our newsletter and stay updated on the latest developments and special offers! Pick your favourite topics below for a tailor made homepage just for you
+Democracy for Citizens Party (DCP) leader Rigathi Gachagua, has announced that he will travel to the United States this Wednesday alongside his wife Dorcas Rigathi. While speaking during a church service at PEFA Church in Karatina on August 23, he revealed that the trip is aimed at charting the way forward for his political future ahead of the 2027 General Election. He disclosed that he intends to spend time interacting with different communities abroad during his stay in America. “On Wednesday this week, my wife and I will travel to the United States to plan for the mountain's future. I want to go there and interact with the whites and fellow blacks for a while,” Gachagua stated. He noted that the visit would last a while, without giving an exact date for his return to the country. This trip will mark his second international trip this year, after travelling to the United Kingdom on May 6 for a shortened diaspora and funds mobilisation tour. Thus, in his absence, he has directed allies like the likes of the Nyandarua Senator John Methu, t o hold the fort at home. The DCP leader explained that his extended stay abroad is deliberate, citing a need to make independent political decisions. According to him, being away from the country will shield him from external pressures that often influence major political calls. Gachagua stated that some of the decisions he needs to make cannot be arrived at while he remains within reach of certain influences back home. “And I have a reason why I will be travelling for an extended period. When I am here, there are decisions that I cannot make due to external influence. Therefore, I want to make decisions without undue influence,” Gachagua stated. This announcement comes after he is set to officially conclude his extended Wamunyoro political consultation meetings on Monday, August 24. Gachagua had previously added a 10-day extension to his initial 45-day retreat and is hosting his final batch of delegations before wrapping up.
 
 ---
 

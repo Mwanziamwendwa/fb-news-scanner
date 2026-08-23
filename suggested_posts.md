@@ -1,6 +1,6 @@
-# Kenya News Suggestions - Generated 2026-08-23 10:52:45 EAT
+# Kenya News Suggestions - Generated 2026-08-23 11:14:34 EAT
 
-Scanned lookback gap of 44 minutes. Found 14 unique stories.
+Scanned lookback gap of 21 minutes. Found 10 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
@@ -24,115 +24,83 @@ Scanned lookback gap of 44 minutes. Found 14 unique stories.
 
 ---
 
-**1. KMPDU Raises Alarm Over New Bill Targeting Doctors, Issue Demands**
+**1. FKF Super Cup preview: Gor Mahia aim for Tusker scalp in league’s curtain-raiser**
 
-The proposed legislation seeks to introduce additional regulatory measures, including provisions targeting the fraudulent acquisition of practicing licenses.
+Gor Mahia and Tusker FC will renew their rivalry on Sunday, August 23, 2026 when they meet in
 
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126421-kmpdu-calls-withdrawal-proposed-health-bill-says-existing-laws-are-enough_
-
----
-
-**2. PubMatic (PUBM) Stock Fair Value Rises After Strong Q2 And Analyst Target Increases - Yahoo Finance**
-
-PubMatic (PUBM) Stock Fair Value Rises After Strong Q2 And Analyst Target Increases Yahoo Finance
-
-_Business Topic — https://news.google.com/rss/articles/CBMimwFBVV95cUxNX1BYVkdWRDliZGRyLXkzS2g5UUx3cjNlcnVyQ05yNXZzOU90c2hhVUhIcE5EdlIyMlZCN2h2b3k1dS0zMFdJcEJDNkZBOUNKZ1dQaE55WFhJOUVnd0F3b1pPekc1ejBQRDZGVXpJMmhyekEtbmQyS1VyU1pWbGNWNDJsRGdaM1YtamlhdVdwVWJfMElUQVVWY195MA?oc=5_
+_K24 Digital — https://k24.digital/sports/kpl/fkf-super-cup-preview-gor-mahia-aim-for-tusker-scalp-in-leagues-curtain-raiser_
 
 ---
 
-**3. Thousands expected at Sweden climate demo as election looms**
+**2. UDA, ODM Get Largest Share of Ksh1.4B Political Fund Ahead of 2027 Elections**
 
-Around 10,000 people are expected to turn out for a climate demonstration in Stockholm on Sunday, according to Swedish police and organisers, just weeks ahead of a general election.
+Rigathi Gachagua's DCP has missed out on the funds allocation as the 2027 election clock is ticking.
 
-_Standard World — https://www.standardmedia.co.ke/world/article/2001555977/thousands-expected-at-sweden-climate-demo-as-election-looms_
-
----
-
-**4. Why your cake sinks in the middle even when it looks perfectly baked**
-
-A cake can look perfectly baked when you take it out of the oven, only to sink in
-
-_K24 Digital — https://k24.digital/lifestyle/food-and-culinary/why-your-cake-sinks-in-the-middle-even-when-it-looks-perfectly-baked_
+_Kenyans.co.ke — https://www.kenyans.co.ke/news/126425-uda-set-receive-ksh550-million-political-parties-fund_
 
 ---
 
-**5. Kisii police hunt brewer accused of getting grade 3 pupil drunk on illicit alcohol**
+**3. Aliyejifanya padri na kuongoza misa kadhaa Turkana ndani**
 
-Police in Kisii County have launched a manhunt for a suspect accused of luring a Grade 3 pupil into drinking illicit brew. A medical examination at Keumbu Sub-County Hospital has confirmed that the 8-year-old boy was intoxicated after being enticed by a neighbour. Human rights activists have condemned the incident and called for swift arrest... The post Kisii police hunt brewer accused of getting grade 3 pupil drunk on illicit alcohol first appeared on Education News.
+MWANAUME anayeshtakiwa kwa kujifanya padri wa Kanisa Katoliki aliingia katika shughuli za Jimbo Katoliki la Lodwar, kuongoza misa pamoja na Askofu John Mbinda na baadaye kuongoza ibada katika makanisa kadhaa kabla ya kutiliwa shaka. Mshukiwa huyo, Jones Bogonko Onchonga, sasa amezua maswali katika Jimbo la Kanisa Katoliki la Lodwar kuhusu jinsi alivyoweza kutekeleza majukumu ya kasisi bila kuwa na mamlaka hayo. Mnamo Agosti 16, 2026, jimbo hilo lilitoa taarifa likiwaonya mapadri na waumini kuwa Bw Onchonga si padri wa Kanisa Katoliki. “Rev Fr Jones Bogonko Onchonga, M.C si padri wa Kanisa Katoliki. Kwa hakika, yeye ni mwanamume aliyeoa mwenye watoto wawili huko Kisii,” ilisema taarifa iliyotiwa saini na Askofu Mbinda. Jimbo lilimlaumu Bw Onchonga kwa kukiuka sheria kadhaa za Kanisa Katoliki, ikiwemo kujifanya kutoa sakramenti, kuendesha ibada bila ruhusa na kutumia nyaraka za kanisa kwa njia isiyo halali. Alifikishwa mbele ya Hakimu Mkuu Evanson Ngigi mjini Lodwar Agosti 14 na kukiri shtaka la kujifanya mtu mwingine kinyume na kifungu cha 382 cha Sheria ya Adhabu. Hata hivyo, alibadilisha msimamo huo Agosti 17 mbele ya Hakimu Michael Lokitam. Inadaiwa kuwa kati ya Julai 31 na Agosti 12 alitumia udanganyifu kumshawishi Askofu Mbinda na viongozi wa jimbo kwamba alikuwa padri aliyeteuliwa na aliyepewa mamlaka ya kuendesha shughuli za kanisa. Kwa sasa anazuiliwa katika Gereza la GK Lodwar baada ya kukosa dhamana ya Sh100,000 pamoja na mdhamini wa kiwango hicho, au dhamana ya pesa taslimu ya Sh50,000 Kabla ya kutiliwa shaka, Bw Onchonga alikuwa tayari amepata nafasi ndani ya jimbo hilo. Mnamo Agosti 5, aliungana na Askofu Mbinda kama mmoja wa mapadre walioshiriki misa katika Kanisa Kuu la St Augustine wakati wa uzinduzi wa Legion of Mary. Baada ya misa, Askofu Mbinda aliondoka kuelekea Nairobi huku Bw Onchonga akiendelea kuongoza misa nyingine. Mnamo Agosti 9, waumini katika Shrine ya St Mary's, Lodaraja, karibu na Mto Kawalase, walianza kumtilia shaka. Akiwa amevalia vazi la kasisi la kijani, alidai kuwa alikuwa na uhusiano wa kifamilia na Askofu Mbinda. Waumini walisema alionekana kuchanganyikiwa wakati wa kuendesha misa. Picha yake akiendesha ibada ilisambazwa katika kundi la WhatsApp la mapadre na askofu, na kusababisha maswali zaidi kuhusu utambulisho wake. Mpelelezi mmoja alisema Bw Onchonga wakati fulani alijaribu kumpa muumini sakramenti ambayo haikuwa imetakaswa. Akihojiwa katika ofisi za DCI Lodwar, Bw Onchonga alisema aliwahi kukutana na Askofu Mbinda katika Chuo Kikuu cha Tangaza na alitaka kuwasiliana naye tena baada ya kuondoka Tanzania. Sasa jimbo hilo linakabiliwa na maswali kuhusu taratibu za kuthibitisha watu wanaohudumu kama mapadre na iwapo mtu yeyote ndani ya kanisa alimsaidia mshukiwa huyo kupata nafasi hiyo.
 
-_Education News — https://educationnews.co.ke/kisii-police-hunt-brewer-accused-of-getting-grade-3-pupil-drunk-on-illicit-alcohol/?utm_source=rss&utm_medium=rss&utm_campaign=kisii-police-hunt-brewer-accused-of-getting-grade-3-pupil-drunk-on-illicit-alcohol_
-
----
-
-**6. Drama at Kakamega Funeral as Politicians Fight after Disagreement [Video]**
-
-Mourners took it upon themselves to separate the two politicians who couldn't control their anger.
-
-_Nairobi Leo — https://nairobileo.co.ke/news/article/29694/drama-at-kakamega-funeral-as-politicians-fight-after-disagreement-video_
+_Taifa Leo — https://taifaleo.nation.co.ke/habari/aliyejifanya-padri-na-kuongoza-misa-kadhaa-turkana-ndani/_
 
 ---
 
-**7. Why super-rich families are trading private island living for mainland real estates**
+**4. ‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks - The Guardian**
 
-For years, owning a private island has been viewed as one of the clearest signs of extreme wealth.
+'We are hitting a different chapter': OpenAI leader warns of threat of 'persistent' AI cyber-attacks The GuardianPacing model development in an era of cyber-critical capabilities OpenAIOpenAI to rewrite its safety rules post-Hugging Face AxiosArtificial Intelligence: Rogue AI Is a Scary But Fixable Problem Bloomberg.comWhat to make of OpenAI's pause on its march toward superintelligence LinkedIn
 
-_K24 Digital — https://k24.digital/lifestyle/home-and-living/why-super-rich-families-are-trading-private-island-living-for-mainland-real-estates_
-
----
-
-**8. 'Just a minute': Big man dodges bill, leaving colleagues baffled**
-
-In other news, a Cabinet secretary recently found himself at the mercy of goons, who extorted him.
-
-_Nation Africa — https://nation.africa/kenya/news/-just-a-minute-big-man-dodges-bill-leaving-colleagues-baffled-5567838_
+_Business Topic — https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0E?oc=5_
 
 ---
 
-**9. NTSA Ordered to Cancel Titles of Six Vehicles Linked to Crime**
+**5. Kenyan Bank Charges: Full Comparison of ATM, M-Pesa, PesaLink and Account Fees**
 
-The Asset and Recovery Authority is mandated by the state to collect every asset that has been required through illegal means on behalf of the state.
+The Kenya Times ~ Trending, Breaking News and Videos Kenyan Bank Charges: Full Comparison of ATM, M-Pesa, PesaLink and Account Fees Bank customers in Kenya pay different amounts for everyday services depending on the institution, account type, and channel used. A review by The Kenya Times of the latest tariffs from major banks shows that charges range from as little as zero to hundreds of shillings for a single transaction. The comparison covers Equity Bank, KCB, […] This post Kenyan Bank Charges: Full Comparison of ATM, M-Pesa, PesaLink and Account Fees first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Morgan Wanyonyi
 
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126422-ntsa-ordered-seize-ownership-six-vehicles-forfeited-proceeds-crime_
-
----
-
-**10. Murkomen Dismisses Claims of National Security Crisis Over Political Gangs**
-
-Interior Cabinet Secretary Kipchumba Murkomen has dismissed claims that Kenya is facing a national security crisis linked to the growing presence of goons and criminal gangs in political activities. Speaking in Eldoret on Friday, Murkomen said reports of politically linked gangs had been exaggerated for political purposes and maintained that the country remained secure. “Those […] The post Murkomen Dismisses Claims of National Security Crisis Over Political Gangs appeared first on Ghafla.
-
-_Ghafla KE — https://www.ghafla.co.ke/murkomen-dismisses-claims-of-national-security-crisis-over-political-gangs/_
+_The Kenya Times — https://thekenyatimes.com/business/kenyas-most-expensive-bank-charges-compared-kcb-equity-co-op-absa-and-ncba/_
 
 ---
 
-**11. Wamalwa Memorial To Bring Together Government And Opposition Figures In Kitale**
+**6. Sifuna Goes after Ruto over President's Evidence on Uhuru Sponsoring Linda Mwananchi**
 
-Former President Uhuru Kenyatta is set to attend the annual memorial service for the late Vice-President Michael Kijana Wamalwa in Kitale, Trans Nzoia County, where he will also officially launch a book documenting the late leader's life and legacy. The commemorations will take place at Wamalwa's Milimani home and mausoleum to mark 23 years since […] The post Wamalwa Memorial To Bring Together Government And Opposition Figures In Kitale appeared first on Ghafla.
+President Ruto was pressed in a newspaper interview to produce evidence that former president Uhuru Kenyatta is sponsoring Sifuna and his team.
 
-_Ghafla — https://www.ghafla.co.ke/wamalwa-memorial-to-bring-together-government-and-opposition-figures-in-kitale/_
-
----
-
-**12. Uhuru hails Ethiopia’s rich civilisation, cultural heritage**
-
-The former President spoke during the closing ceremony of the Ethiopian National Dialogue Conference in Addis Ababa. The post Uhuru hails Ethiopia's rich civilisation, cultural heritage appeared first on KBC Digital.
-
-_KBC Digital — https://www.kbc.co.ke/uhuru-hails-ethiopias-rich-civilisation-cultural-heritage/_
+_Nairobi Leo — https://nairobileo.co.ke/news/article/29695/sifuna-goes-after-ruto-over-presidents-evidence-on-uhuru-sponsoring-linda-mwananchi_
 
 ---
 
-**13. From Safaricom to KCB: Tracing Rosemary Koech Kimwatu’s Remarkable Journey in Tech, Law and Data Protection**
+**7. Prof. Olive Mugenda: The woman who broke Kenya’s university leadership glass ceiling**
 
-The Kenya Times ~ Trending, Breaking News and Videos From Safaricom to KCB: Tracing Rosemary Koech Kimwatu's Remarkable Journey in Tech, Law and Data Protection Rosemary Koech Kimwatu was a Kenyan technology-policy lawyer and data-protection executive whose career spanned nearly two decades across law, fintech, public policy, and data governance. She was best known as Head of Data Protection at KCB Bank Group, where she led data-protection compliance and governance. Rosemary Koech-Kimwatu was a married mother of four and lived […] This post From Safaricom to KCB: Tracing Rosemary Koech Kimwatu's Remarkable Journey in Tech, Law and Data Protection first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Daisy Moraa
+Prof. Olive Mugenda was the first woman to lead a Kenyan public university, serving as Kenyatta University's Vice-Chancellor from 2006 to 2016. She has gone on to hold senior roles across Kenya's institutional landscape, including Chancellor of KCA University and Board Chairperson of HF Group PLC. Her career has earned her national honours and international... The post Prof. Olive Mugenda: The woman who broke Kenya's university leadership glass ceiling first appeared on Education News.
 
-_The Kenya Times — https://thekenyatimes.com/profiles/rosemary-koech-kimwatu-career-and-death/_
+_Education News — https://educationnews.co.ke/prof-olive-mugenda-the-woman-who-broke-kenyas-university-leadership-glass-ceiling/?utm_source=rss&utm_medium=rss&utm_campaign=prof-olive-mugenda-the-woman-who-broke-kenyas-university-leadership-glass-ceiling_
 
 ---
 
-**14. Iran executes man accused of aiding US, Israel in anti-govt protests**
+**8. WhatsApp Set to Introduce New Radical Feature Affecting iPhone Users**
 
-Iran on Sunday executed a man accused of carrying a chainsaw during January anti-government protests who was charged with acting as an agent of Israel and the United States.
+WhatsApp began rolling out its initial Liquid Glass redesign more broadly earlier this year after months of testing.
 
-_Standard World — https://www.standardmedia.co.ke/world/article/2001555976/iran-executes-man-accused-of-aiding-us-israel-in-anti-govt-protests_
+_Kenyans.co.ke — https://www.kenyans.co.ke/news/126424-whatsapp-set-major-iphone-redesign-more-liquid-glass-features_
+
+---
+
+**9. President Ruto: How new economic blueprint will be designed**
+
+Opposition leaders have called the initiative a 2027 campaign tool.
+
+_Nation Africa — https://nation.africa/kenya/news/president-ruto-how-new-economic-blueprint-will-be-designed-5567790_
+
+---
+
+**10. The Magic Faraway Tree review: A magical family adventure that mixes fantasy with real-life family struggles**
+
+The Magic Faraway Tree is a 2026 family adventure fantasy film based on the much-loved children's book series
+
+_K24 Digital — https://k24.digital/entertainment/movies/the-magic-faraway-tree-review-a-magical-family-adventure-that-mixes-fantasy-with-real-life-family-struggles_
 
 ---
 

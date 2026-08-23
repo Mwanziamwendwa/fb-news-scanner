@@ -1,4 +1,4 @@
-# Kenya News Suggestions - Generated 2026-08-23 17:12:55 EAT
+# Kenya News Suggestions - Generated 2026-08-23 17:45:33 EAT
 
 Scanned lookback gap of 1440 minutes. Found 100 unique stories.
 
@@ -23,803 +23,803 @@ Scanned lookback gap of 1440 minutes. Found 100 unique stories.
 
 ---
 
-**1. ‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks - The Guardian**
+**1. Everpure (P) Lands Supply Agreement With A Second Top Five Hyperscaler - Yahoo Finance**
 
-'We are hitting a different chapter': OpenAI leader warns of threat of 'persistent' AI cyber-attacks The GuardianPacing model development in an era of cyber-critical capabilities OpenAIOpenAI to rewrite its safety rules post-Hugging Face AxiosFears of AI-induced armageddon are overdone The EconomistWhat to make of OpenAI's pause on its march toward superintelligence LinkedIn
+Everpure (P) Lands Supply Agreement With A Second Top Five Hyperscaler Yahoo Finance
 
-_Business Topic — https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0E?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMinwFBVV95cUxPakVZQ3ZYWDlScnhnNnhjUVBVaDlSbFk1Z3dwUlF6bFFOa19Wdk91UTFtbG1XdlNkMDZRUE1fV2M0ZnpoQ2lHbGFYNjVrSzNHNl9raHBTMHpRSkp3azZ0bHd0ZnMwLWNUYkZiSUpiXy1aRXYwLTNvV2ZjaXg1SXU2LTB6THZoRlI4NzVvc3dGejRCY1NTSjktc2p1SjJqVTg?oc=5_
 
 ---
 
-**2. Sifuna's options on political party**
+**2. More ride-hailing firms target Hong Kong amid licensing roll-out, Mable Chan says - South China Morning Post**
 
-According to the timelines, Political parties have been given until October 15, 2026 to submit the names of their authorized persons and specimen signatures to the .
+More ride-hailing firms target Hong Kong amid licensing roll-out, Mable Chan says South China Morning Post
 
-_Standard Politics — https://www.standardmedia.co.ke/politics/article/2001555955/sifuna-s-options-on-political-party_
+_Business Topic — https://news.google.com/rss/articles/CBMi2gFBVV95cUxOazNTS0h2MVVjZXQ0VnVoWFk5N2cyZE5WM1ZodW05U3B2VEZPaFNLamgwY1gtT0NBZmk2UEhLNlJ5bWhpaWtSWEtPeURLY2ctR1dFdzRHTXhOOU9OYTdkWjFqaW16eWo3dHBjTXlGZ01wMXQyOUNjcXp0YmVQdGNtdl9PNmZXNktKam9mbHVuQkxKU2JBOEZjRG5LM19GNW1wYzNUR1B4bW1obGRqZFVLMTEtVEZqQXhPb3FGb1lpd2VldmRkOTdEUDZFNk45R2U3dU80bVJiQ3d4Z9IB2gFBVV95cUxPWHBTSnpQMDUtYTlIOG1kMEgyUWQtcFVIQTcxVWZKSlpjZkpFalNWSFVkV19ESU9fZ3BuS3dDa3dXZDVKbkVIREV2TU9OM05UMFJET3RybWV3M0N3d0Z4MWZPRjZveVRxZU1SU25mUXhiNHdjSG51Q1VfeXZGS3BkR05oMVJjS0dkVW1wU21ZLXBtTGhIc254dUNLRldFZUo2SDlscXFOOVJfczRHTmRyRnFUcndBY3laTDNBdjVUNXlfZS1TcWpQclJPUFRBVVZiaDh2VHIwV0taQQ?oc=5_
 
 ---
 
-**3. Cracks as ODM Governor Issues Ultimatum to Oburu After Leaders Back UDA Candidate**
+**3. NTSA Ordered to Cancel Logbooks of Six Vehicles Linked to Crime**
 
-The latest demands add to internal wrangles that have rocked the Orange Party over the years since its association with the UDA.
+The Asset and Recovery Authority is mandated by the state to collect every asset that has been required through illegal means on behalf of the state.
 
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126434-kajiado-governor-joseph-ole-lenku-threatens-shut-down-odm-kajiado-over-uda-links_
+_Kenyans.co.ke — https://www.kenyans.co.ke/news/126422-ntsa-ordered-seize-ownership-six-vehicles-forfeited-proceeds-crime_
 
 ---
 
-**4. How alleged priest impostor gained bishop’s trust to lead Masses in Diocese of Lodwar**
+**4. Kajiado Governor Ole Lenku Threatens To Exit ODM To Join Sifuna’s Linda Mwananchi Party**
 
-The diocese issued a notice with two photographs of Mr Onchonga, warning faithful that he is.
+Kajiado Governor Joseph Ole Lenku has threatened to leave the Orange Democratic Movement (ODM) and align his supporters with the Linda Mwananchi movement unless party leadership issues a formal apology regarding its cooperation with United Democratic Alliance (UDA) figures. Speaking on the political situation in the county, Lenku warned that ODM risks dismantling its local […] The post Kajiado Governor Ole Lenku Threatens To Exit ODM To Join Sifuna's Linda Mwananchi Party appeared first on Ghafla.
 
-_Nation Africa — https://nation.africa/kenya/counties/turkana/how-alleged-priest-impostor-gained-bishop-s-trust-to-lead-masses-in-diocese-of-lodwar-5567864_
+_Ghafla KE — https://www.ghafla.co.ke/kajiado-governor-ole-lenku-threatens-to-exit-odm-to-join-sifunas-linda-mwananchi-party/_
 
 ---
 
-**5. Sharon Otieno case: How victim impact statement could shape Obado’s sentence - Daily Nation**
+**5. KCB and Kabras lead Driftwood charge as Quins, Leos bow out**
 
-Sharon Otieno case: How victim impact statement could shape Obado's sentence Daily NationSharon Otieno's family open to reconciliation with Obado, seeks assistance Daily NationExplainer: Can Compensation Save Obado From Jail In Sharon's Murder Case? The Kenya TimesSharon Otieno family seeks compensation after eight-year court battle Citizen DigitalSharon murder: Obado seeks leniency, citing age, health and lengthy murder trial the-star.co.ke
+KCB Rugby, Kabras Sugar, Menengai Oilers and Daystar Falcons have booked their places in the Driftwood Sevens quarter-finals after making strong starts to the third leg of the National Sevens Circuit.
 
-_Kenya Latest — https://news.google.com/rss/articles/CBMitwFBVV95cUxQUEU2NFNLNC05YUR0VUwtbXYtREIwTVhTald0VXFSNW5sd2l4aEF3aEVWNWRZa1lyNEZiNW9vaHd1Zjhqbl9LTUlNcXdiMUVfbFRtTWFPUXVBdjlnYjNsd3ktejZYUzEyVGZVWUtUX25yNlV2NXZ6RUphM2JhZThyTUl2UHo1dGpub3VrS3ZwNzJiX2EtSkRsRmVBT1NtaEotUWZiSmZ3Z1Q3ZDQ4V0RvZnlTbEdrcmc?oc=5_
+_Standard Sports — https://www.standardmedia.co.ke/sports/article/2001555983/kcb-and-kabras-lead-driftwood-charge-as-quins-leos-bow-out_
 
 ---
 
-**6. ‘Boflo’ and cold milk, and other stories pregnant women tell**
+**6. FKF PL: Why AFC Leopards are primed for decisive 2026/27 season**
 
-A friend loved smelling her husband's T-shirts, she even walked around with one in her bag.
+AFC Leopards enter the upcoming FKF Premier League season facing a clear window to end their long title
 
-_Nation Africa — https://nation.africa/kenya/life-and-style/lifestyle/-boflo-and-cold-milk-and-other-stories-pregnant-women-tell-5567464_
+_K24 Digital — https://k24.digital/sports/kpl/fkf-pl-afc-leopards-challenged-ahead-of-2026-27-season_
 
 ---
 
-**7. Bessent Has No Easy Fix for What’s Really Driving Bond Yields Up - Bloomberg.com**
+**7. Ghosts of Mboya’s Kanu: How youth wingers inspired goons of today - Daily Nation**
 
-Bessent Has No Easy Fix for What's Really Driving Bond Yields Up Bloomberg.comTreasury doubles debt buybacks as Bessent moves to steady bond market CNBCForex Today: US Dollar sinks on Treasury buyback ahead of data-heavy Thursday FXStreetWhy does the USD outlook depend on UST and Fed policy credibility? Investing.comMohamed El-Erian warns Treasury yield signals structural shift making America more eciks.org
+Ghosts of Mboya's Kanu: How youth wingers inspired goons of today Daily Nation
 
-_Business Topic — https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ2JzSzV2M19uOU5aN2ZJSVlQTjBuM0VIR1pMYVJocnpabzhnekRpb3hRRnJZRFpoa29RY2t6WnhYX2JtdzlObjY1WGhINkViMGZ3cFZicE9LaEdPeVRlRlotTzZzVk1oUDFEek1wLUE1Rl9zWUViRHdiU3pRS0xWT1ZmZmJCMjktdTJ6Rk0yQ1RnV1NZNlU5QWREOVpEZXFDYVBCNVJzbkdYWWtxdDRaVTIzYm1xZw?oc=5_
+_Politics — https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFVOWVMtRHFfNWl2ZzdDbmVDLXFTbjRQVU9XYV9oV0FPSk1qVmdQTXJNcHdPV2hNSnVrMHN0Ri0yazRMVDlHNm9lbno3RWxlWHZXcWNqZTlZUW1MUjB3S3FqeXlKbXdiNHdhbVplVTIxdDlDampKdGRKdGNySjZOaGY3WGgtaG85OENTeGRLaWNNTmp4ZUNRSzl3aFNVSF8xTFE5Rldkano2Q0F2M0tlcnkwZzE?oc=5_
 
 ---
 
-**8. Thousands expected at Sweden climate demo as election looms**
+**8. Ruto Announces New Fertilizer Prices from Next Month**
 
-Around 10,000 people are expected to turn out for a climate demonstration in Stockholm on Sunday, according to Swedish police and organisers, just weeks ahead of a general election.
+The announcement comes as a major boost for farmers countrywide, serving as a major opportunity for a decrease in farm input for a major output.
 
-_Standard World — https://www.standardmedia.co.ke/world/article/2001555977/thousands-expected-at-sweden-climate-demo-as-election-looms_
+_Kenyans.co.ke — https://www.kenyans.co.ke/news/126436-govt-cut-subsidized-fertilizer-price-ksh2500-ksh2000_
 
 ---
 
-**9. BoM workers: Some schools lead with dignity while others leave staff struggling**
+**9. Slippery blocs: How Ruto's 'tutam' bid is facing test across key regions**
 
-BoM employees report sharply different experiences depending on how individual schools manage their welfare and employment. Timely salaries, clear contracts and respectful supervision can make even modest employment arrangements more dignified. Concerns persist over delayed pay, low wages, holiday arrangements, deductions and treatment of some school workers. Board of Management (BoM) workers remain an indispensable... The post BoM workers: Some schools lead with dignity while others leave staff struggling first appeared on Education News.
+President William Ruto's re-election bid is entering a critical phase as shifting political alliances and growing competition in some of the country's key voting blocs raise questions
 
-_Education News — https://educationnews.co.ke/bom-workers-some-schools-lead-with-dignity-while-others-leave-staff-struggling/?utm_source=rss&utm_medium=rss&utm_campaign=bom-workers-some-schools-lead-with-dignity-while-others-leave-staff-struggling_
+_Standard Politics — https://www.standardmedia.co.ke/politics/article/2001555943/slippery-blocs-how-ruto-s-tutam-bid-is-facing-test-across-key-regions_
 
 ---
 
-**10. Kindiki Warns Gachagua That His “Days in Politics Are Numbered” Over Arrogance And Insults**
+**10. Kenyan Athletes Win Cash Prizes After Dominating South African Race**
 
-Deputy President Kithure Kindiki has invoked the biblical phrase “Mene Mene Tekel Upharsin” to warn former Deputy President Rigathi Gachagua that his political influence is fading, stating that leaders without a tangible record of achievement will be rejected by voters. Speaking at Kinoru Stadium in Meru Town on Saturday, August 22, 2026, Kindiki criticized Gachagua's […] The post Kindiki Warns Gachagua That His “Days in Politics Are Numbered” Over Arrogance And Insults appeared first on Ghafla.
+The Kenya Times ~ Trending, Breaking News and Videos Kenyan Athletes Win Cash Prizes After Dominating South African Race Kenyan athletes Doreen Cherop and Salem Kibet won the women's and men's races, respectively, at the Absa RUN YOUR CITY Tshwane 10K on Sunday, August 23, with Cherop securing her second consecutive victory in the series. Cherop clocked 31:35 to finish three seconds ahead of South African Glenrose Xaba, while another Kenyan, Deborah Chemutai, completed […] This post Kenyan Athletes Win Cash Prizes After Dominating South African Race first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Daisy Moraa
 
-_Ghafla — https://www.ghafla.co.ke/kindiki-warns-gachagua-that-his-days-in-politics-are-numbered-over-arrogance-and-insults/_
+_The Kenya Times — https://thekenyatimes.com/latest-kenya-times-news/absa-run-your-city/_
 
 ---
 
-**11. Tusker Ready for Gor Mahia Super Cup Test**
+**11. Inside South Korea’s chipmaking cram schools - Financial Times**
 
-NAIROBI, Kenya, Aug 22 – Ahead of the new FKF Premier League season, two of the country's top clubs will come head-to-head on Sunday in the Super Cup, setting the…
+Inside South Korea's chipmaking cram schools Financial TimesKorea Nanomeister High School located in Muan-myeon, Miryang-si, Gyeongsangnam-do on the 12th. The s.. 매일경제Korea Nanomeister High School is located in Muan-myeon, Miryang-si, Gyeongsangnam-do on the 12th. Th.. 매일경제Korea Nanomeister High School located in Muan-myeon, Miryang-si, Gyeongsangnam-do on the morning of 매일경제
 
-_Capital FM Sports — https://capitalfm.africa/tusker-ready-for-gor-mahia-super-cup-test/_
+_Business Topic — https://news.google.com/rss/articles/CBMihAFBVV95cUxNeGtoNHVaekVNcG02SGs2bGhEYi0xa1YwSU9USmFYaGZPYWowUEREV0JRTkN3d2FmNTZpbk5IMnhXNVl2X2U0d2FvNFFHMEhHaXVtWWFPeG5CRGZmOWFWYklBd0x4WGhnYmkydUpwVjlES2szdU1YMTZyR3pIY3ZCRmJnWUw?oc=5_
 
 ---
 
-**12. How goons turned a Beyond 2030 Workshop into a Tutam Rally**
+**12. History: Homa Bay’s violence that confounded friend and foe alike - Daily Nation**
 
-The Beyond 2030 banners had mysteriously disappeared. In their place were banners bearing.
+History: Homa Bay's violence that confounded friend and foe alike Daily NationPolitical goonism: Why women are the biggest victims Daily NationKassim Sebu told to report to DCI as Homa Bay probe deepens the-star.co.keMP Caroli Omondi accuses Wanga of 'crocodile tears' over Homa Bay violence People DailyRMS Journalist Recounts Near Death Encounter with Goons in Homa Bay Kenyans.co.ke
 
-_Nation Africa — https://nation.africa/kenya/life-and-style/lifestyle/how-goons-turned-a-beyond-2030-workshop-into-a-tutam-rally-5567314_
+_Kenya Latest — https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUlyaWtOanpnVlc5ZVpKcG0zZnRCdWVNOUVmYTZEdlhjZkI4RHNsN3dVajNITl8wVUVpT1NEMkFhSUJJVGZ2VlMxQ3k2TFV1akg0WnJVZmU0OGRnam0zVEVCMXAzNG9iMmk0d214YWtXeVN1LXh1MFYyaDNQVU5XMGlDeVc4WmRfOWZpRDIxSTdkWk90b1hZb3lxZXl2RWtScWg3T2FXdUNCTWNGUm14eUJqVjM?oc=5_
 
 ---
 
-**13. ‘The line’s running half-empty’: Llanwern steelworks feels the heat from cheap steel imports - The Guardian**
+**13. How FOMO lured South Koreans into stock ‘Squid Game’ and left them broke - South China Morning Post**
 
-'The line's running half-empty': Llanwern steelworks feels the heat from cheap steel imports The GuardianSee more headlines and perspectives on Google News
+How FOMO lured South Koreans into stock 'Squid Game' and left them broke South China Morning PostSouth Korea's rookie investors lose small fortunes amid AI stocks frenzy Al JazeeraKOSPI Sidecar Triggered 49 Times This Year… Calls Grow to Redesign Criteria for Current Trading Environment finance.biggo.comSeoul shares open lower as US bond yields climb again The Korea HeraldKospi opens lower as U.S. bond yields climb again Korea JoongAng Daily
 
-_Business Topic — https://news.google.com/rss/articles/CBMikgFBVV95cUxNdHRwWHBNX3k3djNhWUpqU2FRX2NOUGY2OEpqaFlZcmxWeHF5Y3JmbXVHZWhzTllLZWY1UG9TR3RaZ3daV19HT1hQUkhFSUc1cTFpbU5aX1FoY2VKR2hNejdkaE9XTUxuaXVyQmVGWkJxTDdXSkE3QUJCb2hzaWZNaWtfYjRtZkV5SFgtWnFMbFJkZw?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMiywFBVV95cUxOdXo4azlmNVQ4SzdjRmVPYTUyOXNOZnlkM1ZEdnE5bkMtcTR6ZlNDRWM4d0pjVXhuQmpOck1JSmFKTWx3bDhVMm5wUEZ5N3phQnRiT3JTb1otY01MMzJraWRycDVSeFh1aXRfTS1hV0hJTGphelBMTG5lWUVKMnhneXNzNVVZY05UZWs1S0l6a0w2eGxRMTVsOHRoNUh5NEd4cm12X0lhM2x0Mm9ablV6enA0NnFjM2gtMXVYd2FzR3M2aEo5S19mRTQ1RdIBywFBVV95cUxOcmtkQ28wUXN1WUZyTlZZcHZFcW1BcDkyQ0RjTWVoQ2ttTlhram5wV3lYUWUtZ0dpbnVZYzA3U1ZjSVh1SjlTbFJTV2h6VFRWZklCcTZ6RnZvSzV1LWhWc3JzNjFNN2dnSG9kWmVKQTMybTI0VTVKdDF4WEgxYlhKZUV6cXNiSmpPd2VJSnBBMmxock4zVnRjOVZkcnRrZkZfanBvUDBmZElZY0VSbVJGZ29BMFVPYXJXUFNCbVZBZllKVmhqbldGUWxXZw?oc=5_
 
 ---
 
-**14. UoN, KU welcome first years tomorrow as university admissions continue across Kenya**
+**14. Europe’s Luxury Giants Discern Green Shoots in Key China Market - Yahoo Finance**
 
-Thousands of first-year students begin university life as institutions roll out admission and orientation programmes. UoN starts reporting on Monday, while several universities receive and orient new students during the week. Others, including Kibabii and sections of Kenyatta University, started receiving their new students earlier. Thousands of first-year students are beginning a new chapter in... The post UoN, KU welcome first years tomorrow as university admissions continue across Kenya first appeared on Education News.
+Europe's Luxury Giants Discern Green Shoots in Key China Market Yahoo FinanceSee more headlines and perspectives on Google News
 
-_Education News — https://educationnews.co.ke/uon-ku-welcome-first-years-tomorrow-as-university-admissions-continue-across-kenya/?utm_source=rss&utm_medium=rss&utm_campaign=uon-ku-welcome-first-years-tomorrow-as-university-admissions-continue-across-kenya_
+_Business Topic — https://news.google.com/rss/articles/CBMioAFBVV95cUxNWUpodUZicXAyVWI2M3FkQjZ0MFhrNlhxZUxCTWt6SDV4cW9sQ2JIb0t6MmR0MlVqWWcwSmRDT0ZVZlA1YmN6WTlNRTBPZTgwc3dVOHJWbnZlSXBnUG9pTU04djFaNmFZNG9QemhTeWxybXh4YW1LNklhZ1lXWnUyeXVOQU1mYjZmZ2NpSU9HUFVHY205MzgtMGVpSll1ZlU0?oc=5_
 
 ---
 
-**15. Kenyan businesses turn to cash as high loan costs curb borrowing, CBK survey shows - People Daily**
+**15. Top Wall Street analysts believe in the growth potential of these 3 stocks - CNBC**
 
-Kenyan businesses turn to cash as high loan costs curb borrowing, CBK survey shows People DailyInflation, weak consumer spending threat to loan recovery, warn banks the-star.co.keAuto dealer Caetano Kenya targets Coast with French, Chinese trucks standardmedia.co.keLonger loans give Kenyan businesses a new route to finance assets the-star.co.ke
+Top Wall Street analysts believe in the growth potential of these 3 stocks CNBC3 Cloud Computing Stocks to Buy in August 24/7 Wall St.Buy 3 High-Flying Mid-Cap Stocks on Solid AI Cloud Computing Momentum TradingView3 AI Tech Stocks with Massive Upside Potential TipRanks3 Stocks the Smart Money Is Quietly Buying in August 24/7 Wall St.
 
-_Business Topic — https://news.google.com/rss/articles/CBMiugFBVV95cUxQX3U1Qk1yNlhIUHIyc3gza05KWFpkbHIyVmcxRDZnWGdxU0VvTDg4ajA3TUluVW83eU9KSUhjejdMVk5HVEtFRWZReGZlWmt4d2paaFlwU1p6dFpYUVlKUGltdmNzWnVxelUtSWtwNVNMR3FCaXVucVJtc3lFTTRVeG9XQWV0Z0FPMThnS29NSGtOV3I4Zm5VY2dYOFJmR0lXY2lLMFluMzhSbFBOcFg0T0hNV0JEVDFpaUE?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMioAFBVV95cUxOLTJKbzlQUFprbnBoU0hYZTZMVEZsZk1lU3FYNjUzdEh1T2pqUDcxa0U1Yl9TN3BoUFRRWjFMRGFpLXBVM2JGY1lqWnVCVy1mZDNMOTRpRzU4SFJGQU4wRVdaVlhOUmNzVU5Fa0JWNXdCMXpFU3k0ZkVwNGVPUXdMeEk3VUN4cExpR0g5MXkyTl9jVG1QWDRya0hJdnJ6QlVT0gGmAUFVX3lxTFBpTzdtUUJxSU1SMlNXUEgzX3Z3OUwzcEFfTHI2em15YzF4andLX0wzbjFlOWVCMWFqa3FOdnNQZzY2YmJfcS16aTRPc3pRU2Q4R3FCcHNOVFBfOFBIa2ItN21UZkNMSEIzS0dHdDlQSkpoZGdTd09KdHZoaEpoRjVxVUkxWEs5czNBOFpTeFh1eHFaZk5mUE1GNkdmU0k5bzV4T3pMNWc?oc=5_
 
 ---
 
-**16. From George Saitoti to Michuki, Nkaissery and Ole Lenku: Other Interior CSs before Murkomen**
+**16. Sifuna Goes after Ruto over President's Evidence on Uhuru Sponsoring Linda Mwananchi**
 
-Before Kipchumba Murkomen, Kenyas powerful Interior and national security docket had passed through the hands of several political heavyweights, military men and technocrats
+President Ruto was pressed in a newspaper interview to produce evidence that former president Uhuru Kenyatta is sponsoring Sifuna and his team.
 
-_Standard Politics — https://www.standardmedia.co.ke/politics/article/2001555952/from-george-saitoti-to-michuki-nkaissery-and-ole-lenku-other-interior-css-before-murkomen_
+_Nairobi Leo — https://nairobileo.co.ke/news/article/29695/sifuna-goes-after-ruto-over-presidents-evidence-on-uhuru-sponsoring-linda-mwananchi_
 
 ---
 
-**17. Uhuru receives heroic welcome at Kijana Wamalwa memorial in Kitale - the-star.co.ke**
+**17. President William Ruto inspects the Kimutwa Market - facebook.com**
 
-Uhuru receives heroic welcome at Kijana Wamalwa memorial in Kitale the-star.co.keSee more headlines and perspectives on Google News
+President William Ruto inspects the Kimutwa Market facebook.com
 
-_Kenya Latest — https://news.google.com/rss/articles/CBMilwFBVV95cUxOV2ZDT3JRUHBlN2dNWW02ZVl1UV9NallvZ2lQM29KUl9DU2xJel9JaDZCdjQ1ZEkydUM0R2tlMWVPdTFHNDlkb19FcTRzNFVKbHBzWHdjdmlCdWhBLWxINXpyTzJqZUNVR2JQTWt4czM1bGx0V0gtYnVJTFdrNERIRzduSzBFMEZBNXQ2blN2VUdnYUdFT3lF?oc=5_
+_Viral Tea News — https://news.google.com/rss/articles/CBMitgFBVV95cUxPOEw5aWNhSW1mZnhsWGcxclM1QW9XcVJfTjVzQTQ1amQ4NDZidmxGOEVicTR1dnM2Y1ZMdGtCRG5CX25hMW41eHRvcW8tVFg2aEdxaVRlRnBrSm9xRTNLdVQtdU1uVHB0eUg2YUlRdU1YMElOT2VHcmYyMW15MXNiNnVvNXZNQkVJeVNDQ0pVQ3VzS2FKZzU4SWRVZWFzZEY1aFB5S2RjNXRTRXJZX2tWdVctU21ZUQ?oc=5_
 
 ---
 
-**18. Murkomen Orders Security Agencies to Act Early Against Political Goons**
+**18. Kisii, Transmara leaders call for ceasefire as border clashes threaten school reopening**
 
-Interior Cabinet Secretary Kipchumba Murkomen has directed security agencies to take preventive action against individuals suspected of planning to disrupt political rallies, including arresting alleged facilitators before they reach public gatherings. Murkomen said the National Police Service (NPS) and the Directorate of Criminal Investigations (DCI) should make greater use of intelligence to identify potential threats […] The post Murkomen Orders Security Agencies to Act Early Against Political Goons appeared first on Ghafla.
+Political leaders are pushing for dialogue to end fighting between communities along the Kisii-Transmara border. Parents and teachers fear continued insecurity could disrupt learning as schools reopen for third term. Leaders say elders and government officials should urgently intervene to restore peace and protect residents. Political leaders from both Kisii and Transmara have asked warring... The post Kisii, Transmara leaders call for ceasefire as border clashes threaten school reopening first appeared on Education News.
 
-_Ghafla — https://www.ghafla.co.ke/murkomen-orders-security-agencies-to-act-early-against-political-goons/_
+_Education News — https://educationnews.co.ke/kisii-transmara-leaders-call-for-ceasefire-as-border-clashes-threaten-school-reopening/?utm_source=rss&utm_medium=rss&utm_campaign=kisii-transmara-leaders-call-for-ceasefire-as-border-clashes-threaten-school-reopening_
 
 ---
 
-**19. Safaricom shares simple steps for customers to opt out of Nyakua Bonus - People Daily**
+**19. Schools reopen under debt, funding pressure as shortest, final-term exams loom**
 
-Safaricom shares simple steps for customers to opt out of Nyakua Bonus People Daily
+For schools already struggling with debt, securing supplies on credit is becoming harder.
 
-_Business Topic — https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQVAxajlvOGJZa2pPVERLbDFrM2JZNVZmbmJTZ2laaDctZUNnTW1YMjg1SjFSWmV3WDZoaFdyRVZiOTR0aVk2VUFMYzFPWmN6dzBSZVNnOWthekxYUEFRd050OTViOTBOdnpiT2xRbUJCNWdnTUxicVZKeExfTGp6b0ZRUVhud3ZMRHg0SEhhUnVVQ09tXzdhX1YySTlzd0pzTjlnRDNya01Od2s?oc=5_
+_Nation Africa — https://nation.africa/kenya/news/education/schools-reopen-under-debt-funding-pressure-as-shortest-final-term-exams-loom-5567680_
 
 ---
 
-**20. Nvidia's Q2 earnings to test resurgent AI trade - Yahoo Finance**
+**20. Over 62,000 JSS teachers demand answers over unpaid ICT training allowances**
 
-Nvidia's Q2 earnings to test resurgent AI trade Yahoo FinanceWhy 1 Analyst Says Vera Rubin Is Key for Nvidia Stock in Q2 Barchart.comNVDA Price Prediction: $212 Is the Line in the Sand — Bear Pressure Has the Edge blockchain.newsCiti expects Nvidia stock to trade higher post earnings Investing.comHSBC: Two Hidden Nvidia Narratives Emerge — Open-Source Models and Supply Chain Lockups as Re-Rating Catalysts finance.biggo.com
+Teachers who participated in the June nationwide programme say they are yet to receive their allowances. The training equipped educators with digital skills to support technology integration under Competency-Based Education. Teachers now want TSC and the ICT Authority to disclose payment rates and disbursement timelines. More than 62,000 Junior Secondary School (JSS) teachers who participated... The post Over 62,000 JSS teachers demand answers over unpaid ICT training allowances first appeared on Education News.
 
-_Business Topic — https://news.google.com/rss/articles/CBMilwFBVV95cUxPeG1sTG1ra3lPVXF0YVI1TlRmUEg2bGJ2cjlzNThjQWV2TFVERTZnQlVnWVVNT29JaDhhYUZ4bVRzVFpIemdvZmozOTZLS05pTW5Ob1BPS3phU2hNSUpoLTh2VkZUZ290Y2NIeEtQQ2IxNmZBRnhRQkpGelUzcldoS2ZHd19EX0gtQjFhT0g5QTdrTEdJc0Fj?oc=5_
+_Education News — https://educationnews.co.ke/over-62000-jss-teachers-demand-answers-over-unpaid-ict-training-allowances/?utm_source=rss&utm_medium=rss&utm_campaign=over-62000-jss-teachers-demand-answers-over-unpaid-ict-training-allowances_
 
 ---
 
-**21. Exclusive | Walmart Keeps Pushing Into Fashion With New Clothing Brand - WSJ**
+**21. Sunday weather: Evening showers, strong winds expected as chilly conditions persist across Kenya**
 
-Exclusive | Walmart Keeps Pushing Into Fashion With New Clothing Brand WSJ
+Kenyans should prepare for cool temperatures, scattered showers, and strong winds as the Kenya Meteorological Department issues its
 
-_Business Topic — https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0RxcEVmV1BiOEw4QjdpUTYzRUxBQzBmcTRERDIzMHpOT2F0WUdjTktQdkZCNlQtRjVuam1SYUM2V05KTzNaWjl4MUU0dnZCUGNVZkt0eUdZZTZsMnE5ZHBERnBxVkREWW9XVmszTk96T1kzTmxwOFNpUFk3Z204OVZBLWVsV3E5ejdMVmVCeFlLMkswVUtISHl2Q3NONk5EUldRZEFn?oc=5_
+_K24 Digital — https://k24.digital/news/sunday-weather-evening-showers-strong-winds-expected-as-chilly-conditions-persist-across-kenya_
 
 ---
 
-**22. 2026 FEASSA Games: Full list of champions from the Morogoro showdown**
+**22. Baringo Talai Women Urge Mama Ngina to Persuade Uhuru to Back Ruto in 2027**
 
-Kenya reclaimed the overall secondary schools crown after collecting 20 gold medals in Morogoro. Schools from Uganda, Kenya, Rwanda and Tanzania shared honours across the different sporting disciplines. Football, volleyball, rugby, hockey, handball and basketball produced thrilling finals as regional champions emerged. Kenya emerged overall secondary schools champions as the curtain came down on the... The post 2026 FEASSA Games: Full list of champions from the Morogoro showdown first appeared on Education News.
+Women from the Talai community in Baringo County have appealed to former First Lady Mama Ngina Kenyatta to persuade her son, former President Uhuru Kenyatta, to support President William Ruto's bid for a second term in the 2027 General Election. The women said Uhuru should honour what they described as a commitment he made to […] The post Baringo Talai Women Urge Mama Ngina to Persuade Uhuru to Back Ruto in 2027 appeared first on Ghafla.
 
-_Education News — https://educationnews.co.ke/2026-feassa-games-full-list-of-champions-from-the-morogoro-showdown/?utm_source=rss&utm_medium=rss&utm_campaign=2026-feassa-games-full-list-of-champions-from-the-morogoro-showdown_
+_Ghafla KE — https://www.ghafla.co.ke/baringo-talai-women-urge-mama-ngina-to-persuade-uhuru-to-back-ruto-in-2027/_
 
 ---
 
-**23. Chartbook 468 “Apocalypse Now” in the Treasury Market? March 2020 as seen from August 2026. - Adam Tooze | Substack**
+**23. Worst Mistake: Murkomen's reckless remarks expose his aloofness**
 
-Chartbook 468 “Apocalypse Now” in the Treasury Market? March 2020 as seen from August 2026. Adam Tooze | SubstackRising Treasury Yields Stock Market Impact: August 2026 Investment Guide Intellectia AI
+Murkomen is under intense public scrutiny following remarks dismissing public alarm over the rising political violence, by claiming that a goon crisis was non-existent in the country
 
-_Business Topic — https://news.google.com/rss/articles/CBMid0FVX3lxTE54RHQtbTkyRkVhWFExSFRGZWlGQ1lRb2NVdGZJWXQ4THlYcnNSMXdKbGhuZVRrSFZNVjVScXJKb1JUOUlHVEx6aG9qWGtzRklJanhMczJPYXhULWxWTzE3MERMNDdBYzZKMFZOcDJJLVZsN2xhQWFv?oc=5_
+_Standard Politics — https://www.standardmedia.co.ke/politics/article/2001555957/worst-mistake-murkomen-s-reckless-remarks-expose-his-aloofness_
 
 ---
 
-**24. Uhuru rejects ‘sponsor’ tag, urges politicians to let Kenyans choose leaders - Citizen Digital**
+**24. Kigali, Rwanda to host 2027 FEASSA Games**
 
-Uhuru rejects 'sponsor' tag, urges politicians to let Kenyans choose leaders Citizen Digital
+Kigali will stage the 24th edition of the regional secondary schools sporting competition next year. Rwanda takes over hosting duties from Tanzania, where the 2026 games are being held in Morogoro. The event will bring together talented student-athletes and school teams from across the East African region. Kigali has been awarded the rights to host... The post Kigali, Rwanda to host 2027 FEASSA Games first appeared on Education News.
 
-_Politics — https://news.google.com/rss/articles/CBMiswFBVV95cUxPR0E1dTNBcV9hNkc3WUc1WEFMRldzSk9NUGtNQks2YTFIeExwT2FBQWttV1E1QnRJZTdpbHhaeXhLWXFvVVQ2RXdUWUNEc21KajViNUktUU5uM1EwbnFIMGtUVXNiTmVZeTZVX1pnYVhVMW5sTDBaT3NpWFh0TFI5elRBb3hTTThlMi11emlINHZkVGUyN2dnMTM4akx3RE44bGpkTFczbm1jdFBfNVBseTZZOA?oc=5_
+_Education News — https://educationnews.co.ke/kigali-rwanda-to-host-2027-feassa-games/?utm_source=rss&utm_medium=rss&utm_campaign=kigali-rwanda-to-host-2027-feassa-games_
 
 ---
 
-**25. How to lose weight in a healthy and sustainable way**
+**25. Isaya Yunge reflects on engagement to Charlene Ruto with message about love**
 
-Losing weight is not simply about eating less or spending hours exercising. For someone looking to shed excess
+Isaya Yunge has shared a message about love and togetherness weeks after his engagement to President William Ruto's
 
-_K24 Digital — https://k24.digital/lifestyle/health-and-fitness/how-to-lose-weight-in-a-healthy-and-sustainable-way_
+_K24 Digital — https://k24.digital/entertainment/celebrity/isaya-yunge-reflects-on-engagement-to-charlene-ruto-with-message-about-love_
 
 ---
 
-**26. KCSE 2026: How candidates can tackle ‘Fathers of Nations’ questions and score higher marks**
+**26. UDA, ODM Get Largest Share of Ksh1.4B Political Fund Ahead of 2027 Elections**
 
-Candidates need more than content mastery to effectively answer questions on the current set book. Enock Okong'o explains how introductions, evidence and structured paragraphs can strengthen examination responses. The PEEL approach can help candidates organise arguments while avoiding storytelling and unsupported points. As the schools reopen for third term, KCSE candidates and their teachers are... The post KCSE 2026: How candidates can tackle 'Fathers of Nations' questions and score higher marks first appeared on Education News.
+Rigathi Gachagua's DCP has missed out on the funds allocation as the 2027 election clock is ticking.
 
-_Education News — https://educationnews.co.ke/kcse-2026-how-candidates-can-tackle-fathers-of-nations-questions-and-score-higher-marks/?utm_source=rss&utm_medium=rss&utm_campaign=kcse-2026-how-candidates-can-tackle-fathers-of-nations-questions-and-score-higher-marks_
+_Kenyans.co.ke — https://www.kenyans.co.ke/news/126425-uda-set-receive-ksh550-million-political-parties-fund_
 
 ---
 
-**27. Williams, Alcaraz to play US Open mixed doubles**
+**27. Investors try to catch ‘falling knife’ with bets on risky funds during chip rout - Financial Times**
 
-LOS ANGELES, USA, Aug 22 – Serena Williams will team up with Carlos Alcaraz for the US Open mixed doubles this coming week. The 23-time Grand Slam singles champion made…
+Investors try to catch 'falling knife' with bets on risky funds during chip rout Financial Times
 
-_Capital FM Sports — https://capitalfm.africa/williams-alcaraz-to-play-us-open-mixed-doubles/_
+_Business Topic — https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnpYQlJMSmJvX19tS1ZrdjNBaG1uZG9hcVo2czdEVEFPR3lKVHMyMlRnX1NNVVE1VkxLNnNnWVJHVll6UFlzdnBNcTB0TTVWNW42ZFVic3BKdFZtTTNWY1BZZmhHZzYyYlNBaWVZWFIzWWNadUl3NnJyTjc3bVh4aU4wY24?oc=5_
 
 ---
 
-**28. Kenya Power Announces Planned Power Maintenance in Several Counties on August 23**
+**28. Malaba Border Post generates over Ksh11 billion in revenue**
 
-Kenya Power has announced a series of planned power maintenance exercises scheduled for Sunday, August 23, 2026, affecting parts of Nairobi, Kajiado, Uasin Gishu, Kilifi, Laikipia and Nyeri counties. The scheduled interruptions will take place at different times depending on the affected area, with some customers expected to remain without electricity for several hours. Residents […] The post Kenya Power Announces Planned Power Maintenance in Several Counties on August 23 appeared first on Ghafla.
+The Malaba One Stop Border Post (OSBP) generated more than Ksh11 billion in the last financial year (2025/2026). The OSBP surpassed its target of Ksh10,619,791,008.54 during the period, achieving 104 per cent of the target. The border post has recorded a steady increase in revenue generation, from Ksh1,485,508,679 in the 2014/2015 financial year to Ksh11.04 […] The post Malaba Border Post generates over Ksh11 billion in revenue appeared first on KBC Digital.
 
-_Ghafla — https://www.ghafla.co.ke/kenya-power-announces-planned-power-maintenance-in-several-counties-on-august-23/_
+_KBC Digital — https://www.kbc.co.ke/malaba-border-post-generates-over-ksh11-billion-in-revenue/_
 
 ---
 
-**29. Eni eyes Europe fusion plant by early 2040s, FT reports - Reuters**
+**29. US efforts to secure AI supply chains doomed to fail: Chinese academic - South China Morning Post**
 
-Eni eyes Europe fusion plant by early 2040s, FT reports ReutersSee more headlines and perspectives on Google News
+US efforts to secure AI supply chains doomed to fail: Chinese academic South China Morning PostChina urges respect for digital sovereignty in AI race ReutersKazakhstan's Role in Pax Silica After WAICO The Times Of Central AsiaChinese scholar calls US AI and supply chain initiatives doomed UA.NEWS💬Money Quote: U.S. and China Can Share the AI Pie WSJ
 
-_Business Topic — https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOWVfaWZTSkxXVzBKcFZvNjdKXzV6Tmp3bFRlZEFGSzZzcTQtbE1VaDhKclNVMGJacUxBZU1Hc0NKWHRVdkNUWTdHRXQ1eU1GcWlEazRpYTVabU5hdkgtNTBudDJhbVU5ZU1CSjAwRnJMZ1BSYTAxLUNMOGdobDlOaE92TEtGR19TNzVELWRYc3M5LXJHb3JaTGN5cWtwZkhvOVhqdV9aYjUtZw?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMiygFBVV95cUxQdmlQNm5uY25KVmxscFRJdE9WbzNyVGItb0pINENLRFRMVXVLTDZrYWFNVGg0VERwR3Rtbnd0TmVlWmJTRXBUY1BEWi1tcF9hREZDUDBOTWZaQ2JobENMVWtqbU80UFM3dzVQeUlHN2ZxczZWQ1ZFVDJ2MXVWM19fTHRIc0ctem9wSVU4RHVja0YyYTgxZkhBalQwNXBzMzRvcm9VWmtzVF9EZ09pajZpR3pqdzBMdlBXMnE4a0RWbHdnQ1g2d1FZOFBn0gHKAUFVX3lxTE5rVExwUm5ub2FYWV9JQ0d1MXN6dkFXZ1V5TmVuRGI3dndsX3JoYmt4dmtYb1BFcklGMU1Uc0hsU1dLRWpmRU9nTHg2cjZkUjF5WDRydkNMRkxUWDhscW15ZlJrQ21EZHRMbVQ2dUc0ZTJxZVVqQ0lmVGowdzQ1c2ZKdHk2TjVwZi1qRHkydXZrM2l4RC1FVFJIeEZ6a2hvNW1TdUc2X3RBYmpBWHlxX085a1pPTHBiYVdZWk9uMVJ2MUdBVGQtbGdNQUE?oc=5_
 
 ---
 
-**30. Kaguta, Kandu Defend NCBA Golf Series Titles in Nyali**
+**30. ‘Never-say-die’ Bankers slide past Oilers to reach Driftwood 7s final**
 
-NAIROBI, Kenya, August 23, 2026 – William Kaguta and Mary Kandu successfully defended their titles at the latest leg of the 2026 NCBA Golf Series held at Nyali Golf &…
+NAIROBI, Kenya, August 23, 2026 – KCB Rugby came from behind to book their slot in the final of the ongoing Driftwood 7s with a 10-5 victory over Menengai Oilers.…
 
-_Capital FM Sports — https://capitalfm.africa/kaguta-kandu-defend-ncba-golf-series-titles-in-nyali/_
+_Capital FM Sports — https://capitalfm.africa/never-say-die-bankers-slide-past-oilers-to-reach-driftwood-7s-final/_
 
 ---
 
-**31. Why defecting UDA MPs are under siege as Gachagua wave sweeps Mt Kenya - the-star.co.ke**
+**31. President Ruto: How new economic blueprint will be designed**
 
-Why defecting UDA MPs are under siege as Gachagua wave sweeps Mt Kenya the-star.co.keGachagua faces fresh threats to his grip on Mt Kenya Daily NationGachagua woos Kipsigis community, warns them against Ruto standardmedia.co.keGachagua expands definition of Mt Kenya bloc to include Isiolo and Marsabit People DailyGachagua Positions DCP Ahead of 2027 Vellum Kenya
+Opposition leaders have called the initiative a 2027 campaign tool.
 
-_Kenya Latest — https://news.google.com/rss/articles/CBMiswFBVV95cUxPck9hQzlhTzN3bHQyZTZBazBxdjhDbVItWmNFcXpwdVNzcXZkUEpjQlVIUEVzdTduN0dWRWliemRsZVU5QXZ4SDB4VlpzeFpCd2FTOHNGV3pQcDBnMWFobVJVdXQ1Y2hBTDhiOGxScGUtTkNyNFVBbHNoSDdFdHdvYi10MHNtdEFveTlfN0c1b3lKb3RSdjNPYi13aDNDaVJlbGJFZTFTb3h2TnlmcGJRbUJjaw?oc=5_
+_Nation Africa — https://nation.africa/kenya/news/president-ruto-how-new-economic-blueprint-will-be-designed-5567790_
 
 ---
 
-**32. The soda defence: How government is selling Kenya's economic recovery**
+**32. Chinese humanoid robot smashes Usain Bolt’s 100m record**
 
-The data shows soft drink production in 2025 stood at 703.7 million litres compared to 671.1 million litres in 2024, which was also an improvement from 580.5 million in 2023
+A humanoid robot from China has posted a remarkable 100-metre time that is faster than the long-standing world
 
-_Standard Politics — https://www.standardmedia.co.ke/politics/article/2001555959/the-soda-defence-how-government-is-selling-kenya-s-economic-recovery_
+_K24 Digital — https://k24.digital/sports/athletics/chinese-humanoid-robot-smashes-usain-bolts-100m-record_
 
 ---
 
-**33. Wanyonyi triumphs in Lausanne as stars eye glory in Silesia**
+**33. Anti-FGM Board hit by claims of unremitted SHA, Helb and NSSF deductions**
 
-Measured steps and a tactical homestretch push decided the winner of the mens 800m showdown at the Lausanne Diamond League in Switzerland on Friday night.
+Parliament demands detailed accounts of FGM programme spending as board defends its expenditure.
 
-_Standard Sports — https://www.standardmedia.co.ke/sports/article/2001555964/wanyonyi-triumphs-in-lausanne-as-stars-eye-glory-in-silesia_
+_Nation Africa — https://nation.africa/kenya/news/gender/anti-fgm-board-hit-by-claims-of-unremitted-sha-helb-and-nssf-deductions-5564994_
 
 ---
 
-**34. Content Creators, Commercial Photographers Face New Fees Under Nairobi County Rules**
+**34. The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats - The New York Times**
 
-The county has also placed streaming and digital content platforms within its revenue structure.
+The World's Breadbaskets Are Getting Pounded by War, Weather and Trade Spats The New York TimesJPMorgan warns a global food crisis could hit next year, and unlike oil, there's no backup plan for fertilizer Yahoo FinanceWhich food prices could rise as war and heatwaves hit supplies? Euronews.comJPMorgan Predicts Global Food Crisis, Scott Bessent's Budget Deficit Forecast and More: This Week in Economy TradingViewThe Next Food Inflation Shock Is Being Built Before It Reaches Menus Forbes
 
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126433-nairobi-county-introduces-new-fees-content-creators-and-filmmakers_
+_Business Topic — https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVdmZVA5MjBDNkpYQVJYM3VTWkE2QXpKWmNrYUdSZnUwN0xSTy1HUWhrWTA3M1RtSHp5ZGpQQVFZRXZIb1hXYWcyZXFYVm1VU0p2SGN1cS1QZ3ZWQ29WWHNkSEpiMFgzYWpkVlNBTXJJQlRmaVVwUmxEWTVPNTJBX0FfRHZKMGxrN05IOA?oc=5_
 
 ---
 
-**35. Ruto adai Uhuru amekataa handisheki licha ya juhudi zake za kutaka wapatanishwe**
+**35. Hong Kong’s Chan Says City Must Respond to AI’s Risks for Jobs - Bloomberg.com**
 
-HAKUNA siri kwamba uhusiano kati ya Rais William Ruto na mtangulizi wake Uhuru Kenyatta umeharibika. Lakini kiwango cha uhasama kati ya viongozi hao wawili, ambao wakati mmoja walionekana kuwa washirika wasioweza kutenganishwa, unaonekana katika juhudi za Rais Ruto za miaka minne zilizolenga kurejesha uhusiano wao. Katika mahojiano ya kipekee na Taifa Jumapili katika Ikulu ya Nairobi Ijumaa, Agosti 21, Rais Ruto alifichua kwa mara ya kwanza kwa undani jinsi alivyoshindwa kumshawishi Bw Kenyatta kujitenga na siasa za vyama na kuchukua nafasi ya kiongozi mstaafu anayewaunganisha Wakenya. Rais alisema aliwahi kumtembelea Bw Kenyatta nyumbani kwake Ichaweri, Gatundu, Kiambu, na pia ofisini kwake karibu na Ikulu, akimshawishi kusaidia kujenga maono mapya ya taifa. “Nilienda kumuona Ichaweri na pia katika ofisi yake hapa jirani na nikamuomba kwamba, kama kiongozi wa zamani wa nchi, na wa pekee aliye hai sasa, tafadhali tusaidie kujenga maono mapya ya nchi,” alisema. Lakini kwa mujibu wa Rais, Bw Kenyatta alichagua kuendelea kushiriki siasa za upinzani. “Mtangulizi wangu alikuwa na nafasi ya kuwa kiongozi wa kitaifa, na kuwa mtu wa kuunganisha nchi yetu. Lakini alichagua kushuka na kuwa kiongozi wa upinzani,” alisema. Uhusiano wa Ruto na Kenyatta uliwahi kuwa miongoni mwa ushirikiano wenye nguvu zaidi katika siasa za Kenya. Wawili hao waligombea urais pamoja mwaka 2013 na 2017 chini ya chama cha Jubilee. Ushirikiano huo ulijengwa baada ya ghasia za baada ya uchaguzi wa 2007/08 na mashtaka katika Mahakama ya Kimataifa kuhusu Uhalifu (ICC) yaliyowakabili viongozi kadhaa wa Kenya. Lakini mambo yalibadilika katika muhula wa pili wa Bw Kenyatta. Handisheki ya Machi 2018 kati ya Bw Kenyatta na aliyekuwa kiongozi wa ODM Raila Odinga yalimuacha Dkt Ruto ametengwa kisiasa. Mvutano huo ulifikia kilele katika uchaguzi wa 2022 ambapo Bw Kenyatta alikataa kumuunga mkono aliyekuwa naibu wake na badala yake akamuunga mkono Bw Odinga. Dkt Ruto alishinda uchaguzi huo. Sasa, miaka minne baada ya kuingia Ikulu, majeraha ya zamani bado yanaonekana. Bw Kenyatta bado ni mwenyekiti wa Baraza la Azimio, chombo kikuu cha kufanya maamuzi katika muungano huo, na pia anaongoza chama cha Jubilee. Baada ya kifo cha Bw Odinga, amempa kiongozi wa Wiper Patriotic Front Kalonzo Musyoka jukumu la kuongoza Azimio na anaunga mkono aliyekuwa Waziri wa Usalama wa Ndani Fred Matiang'i katika juhudi za kumuondoa Dkt Ruto madarakani mwaka ujao. Lakini Rais Ruto alisema alijaribu kuzuia mgawanyiko huo. Alifichua kuwa wakati mmoja alizungumza na Bw Odinga kuhusu haja ya viongozi wakuu wa kisiasa kufanya kazi pamoja kujenga maono ya muda mrefu ya Kenya. “Sasa sisi ni wazee. Sisi ni viongozi wa nchi hii. Kwa nini tusifanye kazi pamoja, tujenge maono makubwa ambayo tunaweza kuyakabidhi kwa kizazi kijacho cha viongozi?” Rais alikumbuka akimwambia Bw Odinga. Kwa mujibu wake, Bw Odinga alikubaliana naye na wakapendekeza kumtafuta Bw Kenyatta. Mnamo Desemba 9, 2024, Rais Ruto alisafiri hadi nyumbani kwa Bw Kenyatta Ichaweri kwa mkutano wa ana kwa ana uliolenga kufungua ukurasa mpya kati ya viongozi hao wawili. Miezi kadhaa baadaye, Bw Kenyatta alirejea Ikulu mnamo Agosti 2025 na kufanya mazungumzo ya faragha na Rais, yakiwemo masuala ya amani nchini DRC. Lakini juhudi hizo hazikubadilisha uhusiano wao kisiasa. Dkt Ruto sasa anamlaumu mtangulizi wake kwa kuchagua kuunga upinzani badala ya kusaidia kujenga mwafaka wa kitaifa. Uhasama huo umeenea pia katika mjadala wa uchumi. Rais alidai Bw Kenyatta alitabiri kuwa serikali yake ingeanguka ndani ya miezi mitatu kutokana na hali mbaya ya uchumi aliyokuwa ameacha. “Kenya ilikuwa inakabiliwa na uhaba wa fedha za kigeni, mfumuko mkubwa wa bei, mikopo ghali na hofu kuhusu uwezo wake wa kutimiza majukumu ya nje,” alisema. Kwa mujibu wa Rais, Bw Kenyatta aliwaambia washirika wake wa Azimio kuwa serikali mpya haingeweza kudumu. “Alijua kuhusu uwezekano wa kushindwa kulipa deni, alijua hali ya uchumi,” alisema. “Nina hakika ana tatizo kwamba… niliweza kuongoza nchi na hatukushindwa kulipa.” Rais pia alilinganisha deni la umma lililoachwa na tawala zilizotangulia. Alisema utawala wa Daniel arap Moi uliacha deni la takriban Sh630 bilioni mwaka 2002, Mwai Kibaki Sh1.8 trilioni, huku Bw Kenyatta akiacha deni la karibu Sh10.3 trilioni. Kwa sasa, alisema, deni linakaribia Sh13 trilioni. Hata hivyo, Rais alikiri kwamba miradi ya miundombinu ya utawala wa Bw Kenyatta haikuwa mibaya. “Utawala wa Uhuru haukuwekeza katika mambo yasiyofaa,” alisema. Tofauti, kwa mujibu wa Dkt Ruto, ni kwamba serikali yake inatafuta njia mbadala za kufadhili miradi bila kutegemea sana mikopo ya serikali.
+Hong Kong's Chan Says City Must Respond to AI's Risks for Jobs Bloomberg.comPaul Chan unveils AI upskilling for Hong Kong gbcode.rthk.hkHong Kong firm bets on Chinese open-weight models to rival CoreWeave South China Morning Post
 
-_Taifa Leo — https://taifaleo.nation.co.ke/habari/ruto-adai-uhuru-amekataa-handisheki-licha-ya-juhudi-zake-za-kutaka-wapatanishwe/_
+_Business Topic — https://news.google.com/rss/articles/CBMiswFBVV95cUxORWFXbEFaVGlaU2pJdG5YYVcxcHpXdmV5Z0htME9GdmlxWHZHdnJXbjBidlV0aDFIR3BLZFREU0VVdUx2RV9nUlZpNGY3eTZMcW44Xy10VHpoNlVjQU1PaU5kRmpnbF8wbkdPYXRJc0NOQnFsR0tWcEc3Z1UzcFlURXZmYTVrRDk0TTd6YjdHVVFFR092Qnd4Qi1pZHVjNHJLbEdrWXl0M21lLWcyci1FQWlFZw?oc=5_
 
 ---
 
-**36. Uhuru hits back at Ruto: Kenyans will choose their president in 2027**
+**36. OTC Markets CEO: 250 years of market history just collided with a new SEC rule - Yahoo Finance**
 
-Jameni chungeni, sitaki kuitwa sponsor, Uhuru said, drawing laughter from the audience.
+OTC Markets CEO: 250 years of market history just collided with a new SEC rule Yahoo Finance
 
-_Standard Headlines — https://www.standardmedia.co.ke/article/2001556000/uhuru-hits-back-at-ruto-kenyans-will-choose-their-president-in-2027_
+_Business Topic — https://news.google.com/rss/articles/CBMilAFBVV95cUxOaF81R2o0TnJzVWlwa0l0aTQwc0Fsbmd4RnNDZHB4bkpmSXJCSXlhUW1vZFd3OFUxSUVkWHV1c0Q1c2pDRmp2TzVLcVVtOVpvMTRYRjQzWkhITW51c2haMS1NZVhVRnV5bnRzQ05UOWdLdHhtOFJKYkxNUGFyRTFURE83SEZLSTMtUmIwWEs3cmJ2b2dl?oc=5_
 
 ---
 
-**37. CBK reports Ksh45.9B excess liquidity in banking sector - People Daily**
+**37. Uhuru calls for protection of democratic freedoms**
 
-CBK reports Ksh45.9B excess liquidity in banking sector People DailyKenyan Shilling Remains Stable As Forex Reserves Hit USD15.2 Billion The Kenya TimesKenya's Forex Reserves Decline for 3rd Consecutive Week, Puts Slight Pressure on Shilling Tuko NewsKenya's forex reserves remain above Ksh1.9 trillion People DailyKenyan Shilling Trades Within Narrow Range Against US Dollar, Loses to Pound in August Tuko News
+Former President Uhuru Kenyatta has urged political leaders to protect democratic freedoms and respect political diversity. Uhuru said democratic rights enjoyed by Kenyans were secured through the sacrifices of leaders who fought for a society where citizens could freely elect their representatives. He spoke on Saturday in Kitale during a ceremony marking the 23rd anniversary […] The post Uhuru calls for protection of democratic freedoms appeared first on KBC Digital.
 
-_Business Topic — https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ3dyU2oyUXZ2MGYxMmZ6cE1LODVHVVNTcHU3SHB6YVcyQ2x4X2ZVN2hlUlNTZnprYkhidUFxbXJybmxhN0d6OTBySC1qbGdJVW9CZnJzVUJseFBsejc2UjBTTEp2aEdxcHdqRWFmdkhyQmJxYU8zclRMT1VjNmNOREVwZGxRcnVuZGc3dVhISUhqWFNRM09r?oc=5_
+_KBC Digital — https://www.kbc.co.ke/uhuru-calls-for-protection-of-democratic-freedoms-2/_
 
 ---
 
-**38. KeNHA, NLC Issue Notice to Landowners for New 215KM Road Projects - Kenyans.co.ke**
+**38. Teachers raise alarm over limited SHA medical services in Webuye**
 
-KeNHA, NLC Issue Notice to Landowners for New 215KM Road Projects Kenyans.co.ke
+Bungoma East teachers say limited comprehensive SHA services are forcing some beneficiaries to seek treatment elsewhere. KNUT wants more health facilities accredited to ease congestion and improve access to inpatient services. Union officials are calling for intervention by SHA and health authorities to address the reported gaps. Teachers in Bungoma East Branch have raised concerns... The post Teachers raise alarm over limited SHA medical services in Webuye first appeared on Education News.
 
-_Kenya Latest — https://news.google.com/rss/articles/CBMiowFBVV95cUxOV0MyVDF1QlhIZXNock1QMzNEMUpIX2ktNHVSdW9PTkh5ZXpmQWFRUGI0bW5qelluemVVbW5EOWZOeTk1bnhyMWNXbm5iWGM5dXYyS3NWNGNLd3NZdE1lYm83OGFYMWxxOVJGdmJmU29SYlFLMnhYeVlzOXBpQkMyVWc4Ri1aU1hsLU1IUTh4RTgyanpMZlJmV1hCYkUzbUwxMml3?oc=5_
+_Education News — https://educationnews.co.ke/teachers-raise-alarm-over-limited-sha-medical-services-in-webuye/?utm_source=rss&utm_medium=rss&utm_campaign=teachers-raise-alarm-over-limited-sha-medical-services-in-webuye_
 
 ---
 
-**39. Three suspects arrested months after Mtito Andei robbery attempt**
+**39. Things parents say about teachers that can destroy a child’s learning journey**
 
-Three suspects have been arrested over an attempted highway robbery along the Mombasa-Nairobi highway in which one of their accomplices was fatally shot. The suspects were arrested nearly three months after the May 6, 2026 incident near Mutomo area in Mtito Andei. According to the Directorate of Criminal Investigations (DCI), the gang staged a fake […] The post Three suspects arrested months after Mtito Andei robbery attempt appeared first on KBC Digital.
+Parents' comments about teachers can shape how children respond to instruction, discipline and correction. Negative remarks at home may undermine classroom relationships and weaken a learner's willingness to accept guidance. Parents can challenge genuine wrongdoing while preserving respectful communication between children, teachers and schools. A child's learning journey does not begin and end at the... The post Things parents say about teachers that can destroy a child's learning journey first appeared on Education News.
 
-_KBC Digital — https://www.kbc.co.ke/three-suspects-arrested-months-after-mtito-andei-robbery-attempt/_
+_Education News — https://educationnews.co.ke/things-parents-say-about-teachers-that-can-destroy-a-childs-learning-journey/?utm_source=rss&utm_medium=rss&utm_campaign=things-parents-say-about-teachers-that-can-destroy-a-childs-learning-journey_
 
 ---
 
-**40. SportPesa Casino launches ‘Every Spin Counts’ and ‘Shinda Heavy’ rewards - Daily Nation**
+**40. Bitcoin slips under $77,000 as rally boosts mining economics - Yahoo Finance**
 
-SportPesa Casino launches 'Every Spin Counts' and 'Shinda Heavy' rewards Daily Nation
+Bitcoin slips under $77,000 as rally boosts mining economics Yahoo FinanceSee more headlines and perspectives on Google News
 
-_Business Topic — https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3dwWDNsOUtjaVowLUxibTY3RlZLdTRWMHU2dlN5dmRUQjlsN2NWTTdmT1czV05rUU9neVZjTHg2MExadmY0VkdSQ1lFdlZDbTlZZTJOV1VvcVAwSFNpdkNFS2RIQW5vZmYwWjRHNFpaVjJLRDh2cnVCcWl6Ym5HbVNpeERIMjJtLWhkVkxQYUtSalFPRW9sRlpn?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMilgFBVV95cUxNZVBielg3N0E3OVlMOWZPb0FYUzlxV3dSamZjODhpMWh4eHpKU2NaV3J2MHRJUnZnb0ZYVEo0S2JnVnlGLXp3WGJIU1NaT0FvYzI3cXA2UXBTMXZoUnd3TjhuQUxacExvM29Kb09QWDJ0YTR2Wmhvdk52WlpKb2FhS1Y1cXhJd2tLVEg3WXZOOVUxdzQ3Zmc?oc=5_
 
 ---
 
-**41. My problem with Uhuru: Ruto lifts lid on how ex-boss snubbed repeated push to reconcile - Daily Nation**
+**41. Hype for Moderna’s Cancer Vaccine Is Running Ahead of the Math - WSJ**
 
-My problem with Uhuru: Ruto lifts lid on how ex-boss snubbed repeated push to reconcile Daily Nation
+Hype for Moderna's Cancer Vaccine Is Running Ahead of the Math WSJModerna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope ReutersCancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar CNBCWhat it was like to go through a trial that could revolutionize cancer treatment The Washington PostWhy Is MRNA Stock Up Today? Moderna Closes 177% Higher Memeburn
 
-_Politics — https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWGJlWExZOWJkc3RUOHRWSHRTYmxzLUwxOUdiakQzTzRWbXdmLWFLb25CWkxzNFdTUy1sNzh3YnM0Mi14eVVjVEJOTl9SVTdMY1pabGZNclFWSy1xWWxYUEd6VmU3aFN6cVVwR1ZLaWY2UE9MSFZKUzl2SWt2N09sWWFFTXZSS2VlNE1xWUdkSGkxSFNleHJja01sZGdGbmJMOHBfaThZWmNFQjdvNEQyaFNWU2pkZFZ4dlJjWU5ZWU53a01nVE9XQXZ1Z2lVRjBXM0E?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMipwFBVV95cUxOLUJZdlVWUWt6ZHB3YnpkSHZUampvbHpXbWNUNlRwY05KS2dIZzNJUEE3ZF9MS3Ywd0Q0ODZMS2M5UndUZHFKNEQ1OFE0NGNhd3hGdGVNSnlYSHhheVAxcGk3Zm85QXVBTE5IYVZibXVETWFzWnB3TWpyZ09Db0JaT2VlQ2tUNUdaU0pSQkxJM2hTU2piS0dsRGtUb2pwVVRXYzdjTE1jaw?oc=5_
 
 ---
 
-**42. Gor, Tusker clash amidst FKF league kick-off doubts**
+**42. How to keep cut watermelon fresh and crunchy in your fridge**
 
-Season opener set for Nyayo National Stadium today as dispute over promotion rules proceeds in.
+On hot days, slicing into a cold, sweet watermelon is one of the easiest ways to cool down,
 
-_Nation Africa — https://nation.africa/kenya/sports/football/-gor-tusker-clash-amidst-fkf-league-kick-off-doubts-5567794_
+_K24 Digital — https://k24.digital/lifestyle/food-and-culinary/how-to-keep-cut-watermelon-fresh-and-crunchy-in-your-fridge_
 
 ---
 
-**43. Mourinho urges Vinicius Jr to control emotions**
+**43. Japan outlines measures to protect infrastructure from cyberattacks - The Japan Times**
 
-MADRID, Spain, August 23, 2026 – Real Madrid boss Jose Mourinho says Vinicius Jr needs “great emotional control” after claiming the winger is being bullied on the pitch. The 63‑year‑old's…
+Japan outlines measures to protect infrastructure from cyberattacks The Japan Times
 
-_Capital FM Sports — https://capitalfm.africa/mourinho-urges-vinicius-jr-to-control-emotions/_
+_Business Topic — https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEJEQ29kb2JycjZJdUNqTUFDTy1zbmdRM0VxSnozeGNDTllnMFRjd0lqZGdjWkhTUjdjM2tEdmtQT1dRQU5Pc3hZaWpQaEdCbndyTVZjSEZyU0NFQ2tfQlEwTGpKczBNZGpfY1hFblZWM2ZVcjhmOEF4bE10NUpVbzRQYTk5UURycXBNSW9mc3JmMzBEaE1FSlNMYnU3MWJFckZlbGtNUlZpQQ?oc=5_
 
 ---
 
-**44. Murkomen Dismisses Claims of National Security Crisis Over Political Gangs**
+**44. From Safaricom to KCB: Tracing Rosemary Koech Kimwatu’s Remarkable Journey in Tech, Law and Data Protection**
 
-Interior Cabinet Secretary Kipchumba Murkomen has dismissed claims that Kenya is facing a national security crisis linked to the growing presence of goons and criminal gangs in political activities. Speaking in Eldoret on Friday, Murkomen said reports of politically linked gangs had been exaggerated for political purposes and maintained that the country remained secure. “Those […] The post Murkomen Dismisses Claims of National Security Crisis Over Political Gangs appeared first on Ghafla.
+The Kenya Times ~ Trending, Breaking News and Videos From Safaricom to KCB: Tracing Rosemary Koech Kimwatu's Remarkable Journey in Tech, Law and Data Protection Rosemary Koech Kimwatu was a Kenyan technology-policy lawyer and data-protection executive whose career spanned nearly two decades across law, fintech, public policy, and data governance. She was best known as Head of Data Protection at KCB Bank Group, where she led data-protection compliance and governance. Rosemary Koech-Kimwatu was a married mother of four and lived […] This post From Safaricom to KCB: Tracing Rosemary Koech Kimwatu's Remarkable Journey in Tech, Law and Data Protection first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Daisy Moraa
 
-_Ghafla — https://www.ghafla.co.ke/murkomen-dismisses-claims-of-national-security-crisis-over-political-gangs/_
+_The Kenya Times — https://thekenyatimes.com/profiles/rosemary-koech-kimwatu-career-and-death/_
 
 ---
 
-**45. Kenyan Businesswoman Among Three Foreigners Arrested in Zanzibar Over Unlicensed Tourism - Mwakilishi.com**
+**45. 'That was not healthcare, it was theft': President Ruto Critiques Previous Health System - Mwakilishi.com**
 
-Kenyan Businesswoman Among Three Foreigners Arrested in Zanzibar Over Unlicensed Tourism Mwakilishi.com
+'That was not healthcare, it was theft': President Ruto Critiques Previous Health System Mwakilishi.com
 
-_Mwakilishi — https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY3BaUlpjS2V6ZC1fUVhCTnhCRnJNSzhkcl9OUndWVk1icFpFUXJHeWlqenZZQ0JZTGRsOTFOU2wwbUpYb3hyZGpRZk41T01NVDVyWGhaMk1pYm9zaUM3cDFOZHMtWDE3NUFJeHhIWjcyX2YzUnBKQ1gzT21mdnZwQVpUNm9rSDg2bVFpallzY3pYWjM0Sm1ORTl1dnQ0ZE1jXzBncTgyeHd4a1RqN1NHdTJtcWJQX29ENUFn?oc=5_
+_Mwakilishi — https://news.google.com/rss/articles/CBMitwFBVV95cUxPLXBCTXFZaFZJYkpIMVkzeU9PT2dkM0RYQ2x0VXNzS3BMdnBmcndFR29MQTlNNW53d3pTeVFkOGJjWnNGUVp2eks3ZjlrMmI2RnhTSm1xME9vMXFLNlA1clJvZlVfS1hISmdFQ0VIZkhTQTIxRnZzLUdWODZ5aEt3QmgyaEUwM3VnNHVsOXNMSS1JTXZsU0l1ejBKUUdRdWJmYWMtWW40cXM3aFFxLU1zbHUwZWZwUnM?oc=5_
 
 ---
 
-**46. Why your social life could be ruining your fitness goals**
+**46. 5 reasons every man should change his toothbrush every 2 months**
 
-Getting fit is rarely as simple as buying new gym clothes, downloading a workout app and promising yourself
+Your toothbrush has a shelf life too. If its bristles are bent, tired and pointing in different directions,
 
-_K24 Digital — https://k24.digital/lifestyle/health-and-fitness/why-your-social-life-could-be-ruining-your-fitness-goals_
+_K24 Digital — https://k24.digital/lifestyle/health-and-fitness/5-reasons-every-man-should-change-his-toothbrush-every-2-months_
 
 ---
 
-**47. Kenya Power Dealt Blow as Court Rules on Power Disconnections in Some Areas**
+**47. Sifuna's options on political party - standardmedia.co.ke**
 
-The ruling means Kenya Power can therefore not cut power supply to specific areas without following certain guidelines.
+Sifuna's options on political party standardmedia.co.keSee more headlines and perspectives on Google News
 
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126364-court-stops-kenya-power-disconnecting-electricity-counties-over-unpaid-bills_
+_Kenya Latest — https://news.google.com/rss/articles/CBMipgFBVV95cUxORWlUNTV6aDRUTVZlN3pQYlNuU0xqTnkxOS1EQnYxQ2IwV3RPaFFjMEJzcDBCZFFHRGhOTzhjeW5wVUhuZnlIQmlrUXVQblBINExEM0M1UHdsQ3c0eDQ4a2plQzI3UmZHSnAtTlFDUkh6ZHNiU1BOMkMzVHpmdG1WUVczQXN6bEw1WDVZMXpTMWRQUExSOHFNeDlOUTBNdHRybHZYNUh3?oc=5_
 
 ---
 
-**48. Beyoncé’s New Single Brings Her To Career Milestones On Multiple Charts - Forbes**
+**48. Onshore windfarm applications hit 10-year high in England - The Guardian**
 
-Beyoncé's New Single Brings Her To Career Milestones On Multiple Charts ForbesSee more headlines and perspectives on Google News
+Onshore windfarm applications hit 10-year high in England The Guardian
 
-_Business Topic — https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWFpTV200X1ZXM0NGWHFrQy1lRjZVR2xNUld2M0FKazFrUzhKSWNLWUhKUXNTbnYyVGtieGEtanhVdTNNZlBIbkJ1UFhwdG5UQUd3RUV1SDQ4OU41VWtaRmV2b0Y5Qll1OEZPd0Z1VWxhanEtRnlDRnlibXRNVEl3WXRZNUljdGJVTzI2Y0RNX2ExbDlueWM0Y1lUN2U1N2NzTVRUNTk4ZFZQN1Rqa0l5czE1SUhqaElDanVpREN4bTM?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMipAFBVV95cUxOS1A1bDlzZm0ydkYzcUJ4MkYxN0x6NjZKcjdjNUR3eTRVSEpUTTVsU2ktMVVBTzlfWmFQRzF4aEdXRkJINjVTTEJKMWhtSUxOaHdFOE5reExNTTFrOE9tbENGNlhHT0txZWRNYm53VUZRV1lqMVVscWJBTkh3T3lpczU0S1NaU01RWXlsOHpzVFZFdEU3RnQ5dEs0SThIRXBFV2Itcg?oc=5_
 
 ---
 
-**49. Match preview: Manchester City begin post-Guardiola era with Bournemouth test**
+**49. Sorry, Liverpool! Sturridge predicts Reds’ fate in the 2026/27 season**
 
-Manchester City will begin life after Pep Guardiola in the Premier League when they host Bournemouth at the
+Former Liverpool forward Daniel Sturridge has expressed optimism for the club's 2026/27 campaign while offering a realistic assessment
 
-_K24 Digital — https://k24.digital/sports/epl/match-preview-manchester-city-begin-post-guardiola-era-with-bournemouth-test_
+_K24 Digital — https://k24.digital/sports/epl/sorry-liverpool-sturridge-predicts-reds-fate-in-the-20206-27-season_
 
 ---
 
-**50. Ruto Steps Up Attack on Kalonzo Over SHA Pledge, Accuses Opposition of Lacking Alternatives**
+**50. Jacinta Mwatela: Reggae lover who helped unearth Kenya’s biggest scandals**
 
-President William Ruto has renewed his criticism of Wiper leader Kalonzo Musyoka, questioning the opposition leader's ability to offer workable alternatives to the government's policies ahead of the 2027 General Election. Speaking at a rally in Machakos on Saturday, August 22, Ruto took aim at Kalonzo's recent pledge to abolish the Social Health Authority (SHA) […] The post Ruto Steps Up Attack on Kalonzo Over SHA Pledge, Accuses Opposition of Lacking Alternatives appeared first on Ghafla.
+Whichever office she found herself in, the staunch Catholic smoked out financial illegalities.
 
-_Ghafla — https://www.ghafla.co.ke/ruto-steps-up-attack-on-kalonzo-over-sha-pledge-accuses-opposition-of-lacking-alternatives/_
+_Nation Africa — https://nation.africa/kenya/news/jacinta-mwatela-reggae-lover-who-helped-unearth-kenya-s-biggest-scandals--5567872_
 
 ---
 
-**51. Two New 26- and 30-Storey Towers Set to Transform Nairobi’s Skyline as Govt Asks Kenyans for Views**
+**51. Uhuru hails Ethiopia’s rich civilisation, cultural heritage**
 
-The Kenya Times ~ Trending, Breaking News and Videos Two New 26- and 30-Storey Towers Set to Transform Nairobi's Skyline as Govt Asks Kenyans for Views The National Environment Management Authority (NEMA) has invited members of the public to comment on two major high-rise developments proposed in Nairobi's Westlands and Kilimani areas before it decides whether to approve them. In notices published in the Kenya Gazette, NEMA said it has received Environmental and Social Impact Assessment reports for the projects, which, […] This post Two New 26- and 30-Storey Towers Set to Transform Nairobi's Skyline as Govt Asks Kenyans for Views first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Wiltord Otieno
+The former President spoke during the closing ceremony of the Ethiopian National Dialogue Conference in Addis Ababa. The post Uhuru hails Ethiopia's rich civilisation, cultural heritage appeared first on KBC Digital.
 
-_The Kenya Times — https://thekenyatimes.com/latest-kenya-times-news/nema-seeks-public-input-on-26-storey-westlands-30-storey-kilimani-projects/_
+_KBC Digital — https://www.kbc.co.ke/uhuru-hails-ethiopias-rich-civilisation-cultural-heritage/_
 
 ---
 
-**52. Wamalwa Memorial To Bring Together Government And Opposition Figures In Kitale**
+**52. It Ends review: A moody existential horror built for Gen Z**
 
-Former President Uhuru Kenyatta is set to attend the annual memorial service for the late Vice-President Michael Kijana Wamalwa in Kitale, Trans Nzoia County, where he will also officially launch a book documenting the late leader's life and legacy. The commemorations will take place at Wamalwa's Milimani home and mausoleum to mark 23 years since […] The post Wamalwa Memorial To Bring Together Government And Opposition Figures In Kitale appeared first on Ghafla.
+Every generation deserves its own postgrad malaise movie. Not every attempt is going to be “The Graduate” or
 
-_Ghafla KE — https://www.ghafla.co.ke/wamalwa-memorial-to-bring-together-government-and-opposition-figures-in-kitale/_
+_K24 Digital — https://k24.digital/entertainment/movies/it-ends-review-a-moody-existential-horror-built-for-gen-z_
 
 ---
 
-**53. MWAMISI: Can Ndindi Nyoro turn Mt Kenya influence into a national agenda? - the-star.co.ke**
+**53. Alibaba announces $10.2bn share placement as Chinese companies expand AI investment - Financial Times**
 
-MWAMISI: Can Ndindi Nyoro turn Mt Kenya influence into a national agenda? the-star.co.keMUGWE: What Ndindi Nyoro means for the interregnum of kingpins the-star.co.keNdindi Nyoro dumps UDA, joins opposition ahead of 2027 elections Citizen DigitalNyoro's break with Ruto redraws 2027 opposition map NTV KenyaTHE MOUNT KENYA SUCCESSION BATTLE: Ndindi Nyoro, Gachagua, Sifuna and the Political Storm Threatening to Reshape 2027 thikatowntoday.co.ke
+Alibaba announces $10.2bn share placement as Chinese companies expand AI investment Financial TimesAlibaba Group Announced Proposed Placing of New Shares in Hong Kong The Daily Tribune NewsAlibaba (BABA) Stock Drops 9% After Announcing $10.2B Fundraising for AI Expansion BlockonomiAlibaba raises HK$80B in equity, all earmarked for AI DealroomAlibaba to Raise $10 Billion by Selling Shares for AI Expansion Bloomberg.com
 
-_Kenya Latest — https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVWU0UnVrQ1NsOUIzeVJYd0E3NmtnVmxaa19NTUNIZE40ZEx5RWUzM2VWa05jSmN3cU0zREQyWHFOQ0JmTzJHLXY0T0l3YWs0Y3d6S0Y1TU9ESnAyM1hiTjF0dlItWjYtX29mX2pMUy00Q05rdnJTbDhibDFzdk9XMzZkRVlxQVZ0Vmk2RW5GQWgwSGNxQnJ6d0htaHpuVkxDem5MVTQ3VkUyZw?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMihAFBVV95cUxNNEdNMFc2bXZIeDFtSUVHaURibi1oU1VRSFU0SzF0MlAxYUJheEt1U1d1djktaEtza1ZuVGJGS0U2LWZmQXlYYXJwR0V4WFJKWnRQMDJ0eVhseUlZNlA5Qzc2eFE1a3JzRGxaTEZvXzl2NTlWUS1BSFVCd1VsNzZBcTJ5ZnE?oc=5_
 
 ---
 
-**54. President William Samoei Ruto makes an impromptu stop at Kimutwa Market, where he interacts with traders and members of the public. - facebook.com**
+**54. Opposition's unity pact faces test as principals plan make or break retreat - Daily Nation**
 
-President William Samoei Ruto makes an impromptu stop at Kimutwa Market, where he interacts with traders and members of the public. facebook.com
+Opposition's unity pact faces test as principals plan make or break retreat Daily NationOpposition Leaders Set August 24–26 Retreat to Chart Way Forward Capital FM AfricaUnited Opposition to Hold Retreat Next Week Nairobi Leo
 
-_Kenya News Agency — https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUmRWb2ktZVhnd1cyamlvaDVHSGRHLVhpQ2tDSEtaeDM4dDlPSGZlSmJfQ085UU5LU3BiN2RYcWNkZVRCR3U5Y0tCa0RUZG10TjVqTnBKamtVQWdQVmZMOW1NcmpUZVhCbF9VSy15REJRYWdTQ3A5dDRJMXFJNzA2ZWlsWC0yWllPcERCdVh2cEtDZ0htZVgxa0VPZnBKbDZSSDY5MGNmZGx1dXdUeXhjdThab3JsMTk2Y0NvUmFUczNTY2xyNjY5V3BQNHRPNEJlQ0hDWE1weUs5bmgwakE?oc=5_
+_Kenya Latest — https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQmdBcWRIaXVlWUlXVHVIaVp2bmpuRGFQVkQ3MnZlcmJyVlVTMHZwTFNSc3dLeTRRcjFRZ2dxWXp6Mm1oRXdFYk15UjBIUDNpYVJ5WnZPQzg3eHQzMGR0XzZ6M2RCVkdfRVlKSG9EYWpfM0RzZ2VESjFObmRZenhsdV9jNGFGa2lKOUkyaXJPY2tHUFJhanUxNmo3NWNyMjNWbzUwQnJuSzZWZDBnWFFCMktlTXJtcWdqd1VuLTlndVJ3MjA?oc=5_
 
 ---
 
-**55. Fact-Check: Ruto says only two women promises remain. Is that true?**
+**55. Residents Count Losses as Huge Fire Destroys Homes in Nairobi - Kenyans.co.ke**
 
-Four years after the 2022 election, several commitments to women have yet to be fully implemented.
+Residents Count Losses as Huge Fire Destroys Homes in Nairobi Kenyans.co.keTraders count losses after fire destroys property worth millions in Marurui, Nairobi the-star.co.keNight fire razes Marurui as traders lose property worth millions People DailyFire destroys property worth millions of shillings in Marurui TV47 DigitalTraders Count Losses as Overnight Fire Razes Businesses Kenyans.co.ke
 
-_Nation Africa — https://nation.africa/kenya/news/gender/fact-check-ruto-says-only-two-women-promises-remain-is-that-true--5565196_
+_Kenya Latest — https://news.google.com/rss/articles/CBMipgFBVV95cUxQYi0zTl9mOGRfOHI0TmVvUFMxWF92MFFUN2pfSWdHaHl6OTV5TVhENnhQODVVeW9qMDUxZ0h2UGFQYUxkLVplV3NvbjZCTzhSeHo2enl2ZXAyTy03YlptM010VjJBX3d1SUx6andtbXNibGdkN1N3amY5UEg1dUZPUmJIazJWMHBDaUFXVzNwdjQ1SHM0QVJJZFJ3T2JwNGw5MUJTTTNR?oc=5_
 
 ---
 
-**56. Ndindi Nyoro akoroga hesabu za Gachagua Mlimani**
+**56. Major roads likely to experience traffic snarl-up as schools reopen**
 
-KIONGOZI wa chama cha Democracy for the Citizens Party (DCP), Rigathi Gachagua anakabiliwa na changamoto mpya katika juhudi zake za kudhibiti siasa za eneo la Mlima Kenya, mwezi mmoja tu baada ya ushindi mkubwa wa chama chake katika uchaguzi mdogo wa Ol Kalou. Katika uchaguzi huo wa Julai 17, mgombeaji wa DCP, Kamau Ngotho alipata kura 35,440, sawa na asilimia 85 ya kura zote, dhidi ya mgombeaji wa United Democratic Alliance (UDA) aliyeungwa mkono na Rais William Ruto, Muchina Nyaga, aliyepata kura 5,450. Ushindi huo ulimpa Bw Gachagua nguvu mpya na kumfanya kujitangaza kuwa kiongozi asiye na mpinzani wa kisiasa katika Mlima Kenya, huku akitaja DCP kama chama chaguo la wakazi wa eneo hilo. Katika uchaguzi huo, Jubilee ya Rais mstaafu Uhuru Kenyatta ilipata kura 198 huku Party of National Unity (PNU) ya aliyekuwa Gavana wa Meru Peter Munya ikipata kura 28. Lakini mwezi mmoja baadaye, Bw Gachagua anakabiliwa na upinzani mpya, huku hatua ya Mbunge wa Kiharu Ndindi Nyoro kujiunga na People's Party of Kenya (PPK) na kuwa kiongozi wake ikiwa changamoto kubwa zaidi. Bw Nyoro anasema chama chake ni sehemu ya upinzani na kinalenga kushirikiana na vyama vingine kupata mgombea mmoja wa urais kwa uchaguzi mkuu wa mwaka ujao, pamoja na kuondoa serikali ya Rais Ruto madarakani. Hata hivyo, Bw Gachagua na washirika wake wamemtaja Bw Nyoro kama mpinzani anayelenga kuvuruga juhudi za kuunganisha kura za Mlima Kenya. “Mlima ni mmoja, chama ni kimoja (DCP), na kiongozi wa eneo ni mmoja (Gachagua),” alisema Kaimu Katibu Mkuu wa DCP John Methu, ambaye pia ni Seneta wa Nyandarua. Bw Nyoro, hata hivyo, amesisitiza kuwa yeye ni kiongozi halisi wa upinzani anayelenga kuimarisha ajenda ya upinzani. “Nitafanya kazi na viongozi wote wa upinzani, akiwemo Bw Gachagua, na chama changu hakitakuwa mahali pa kukimbilia watu waliokataliwa na Mlima ambao wamekuwa wakitukana DCP na uongozi wake,” alisema. “Najua kuna wanaonitilia shaka. Lakini baada ya muda mtaona msimamo wangu kamili katika kupinga na kuondoa serikali hii madarakani.” Mchanganuzi wa siasa Gasper Odhiambo alisema Bw Nyoro ana haki ya kidemokrasia kuanzisha chama na kujiunga na upinzani, lakini muda na namna alivyoingia kwenye siasa za upinzani huenda zikamfanya akabiliane na upinzani mkali. “Bw Gachagua ana haki yote kumchukulia Bw Nyoro kuwa mpinzani wake. Swali ni kwa nini Bw Nyoro alisubiri hadi Bw Gachagua aondolewe kwa kura ya kutokuwa na imani, akabiliane na makundi ya wahuni na maafisa wa polisi waliopotoka, ndipo aanze kuhamasisha Mlima Kenya kuingia upinzani,” alisema. Bw Odhiambo alisema Bw Gachagua mwenyewe alipitia upinzani kama huo baada ya kuondolewa kwenye wadhifa wa Naibu Rais. Alisema wakati huo Jubilee na PNU tayari vilikuwa katika upinzani. “Bw Nyoro ameingia kushindana na Bw Gachagua na DCP. Kisichojulikana ni kama anafanya hivyo kwa niaba yake mwenyewe au kuna nguvu iliyojificha nyuma ya pazia la siasa.” Bw Odhiambo pia alikumbusha kuwa kabla ya Bw Gachagua kuondolewa madarakani Oktoba 2024, washirika wa Bw Nyoro katika Kaunti ya Murang'a, wakati huo wakiongozwa na Seneta Joe Nyutu, walikuwa wamemuonya Rais Ruto kuwa angehatarisha kiti chake ikiwa angemwacha Bw Gachagua na kumchagua Bw Nyoro. “Upinzani wa Bw Nyoro dhidi ya Bw Gachagua si jambo jipya. Umekuwepo tangu 2022,” alisema. Alisema katika shughuli zote rasmi za Bw Gachagua katika Mlima Kenya akiwa Naibu Rais, Bw Nyoro hakuhudhuria hata moja. “Wakati Bw Gachagua aliondolewa mamlakani na kujitahidi kujijenga kisiasa upya, Bw Nyoro alikuwa amekaa katikati. Sasa kwa kuwa Bw Gachagua anaonekana kurejea kwa nguvu, Bw Nyoro anaingia katika uwanja huo akiwa na chama na azma ya kushindana naye. Bw Nyoro ana mengi ya kueleza,” alisema. Katika mkutano wa kisiasa Kiharu Agosti 19, Bw Nyoro aliwaomba wakazi wamuamini na akasisitiza kuwa yeye si msaliti. “Ni kwamba mamlaka huchukuliwa, hayapeanwi. Lazima nijionyeshe kwa njia bora itakayonisaidia kutimiza malengo yangu,” alisema. Alisema atawasimamisha wagombeaji katika uchaguzi wa 2027 na pia atamenyania nafasi ya kuwa mgombea urais wa upinzani. “Nina nia njema na nawaomba sote tuvumiliane,” alisema. Kuingia kwa Bw Nyoro katika uwanja huo kunatokea wakati Naibu Rais Kithure Kindiki anaonekana kuunga mkono juhudi za kuunda mrengo tofauti wa kisiasa Mlima Kenya Mashariki. Waziri wa Utumishi wa Umma Geoffrey Ruku ameibuka kama mmoja wa watetezi wakuu wa mpango huo. Bw Ruku anataka Meru, Tharaka Nithi na Embu kuungana chini ya Prof Kindiki na kisha kujadiliana na Rais Ruto kuhusu nafasi yao katika serikali ijayo. Ingawa Prof Kindiki amekuwa akisema hadharani kuwa Mlima Kenya unapaswa kuwa kitu kimoja, wazee kutoka Meru na Embu tayari wamemtangaza kuwa msemaji wao. Katika ishara nyingine ya mgawanyiko huo, Prof Kindiki alisema aliyekuwa Gavana wa Meru Kiraitu Murungi amepewa jukumu la kushirikiana na Rais mstaafu Kenyatta kuhakikisha kuna ushirikiano unaolenga “kuwazuia wapiga kura wa Mlima Kenya kuchagua upinzani mwaka 2027”. Wakati huohuo, Mbunge wa Laikipia Mashariki Mwangi Kiunjuri na mwenzake wa Ndia George Kariuki wameanzisha mikakati ya kisiasa inayolenga kupunguza ushawishi wa Bw Gachagua. Bw Kiunjuri anaripotiwa kuratibu vyama vidogo vinavyomuunga mkono Rais Ruto katika eneo la Mlima Kenya, huku Bw Kariuki akijenga mtandao wa viongozi wa mashinani wanaounga mkono msimamo wake.
+The reopening of schools on Monday, August 24, 2026, is likely to bring heavier traffic to some of Kenya's
 
-_Taifa Leo — https://taifaleo.nation.co.ke/habari/ndindi-nyoro-akoroga-hesabu-za-gachagua-mlimani/_
+_K24 Digital — https://k24.digital/lifestyle/travel-and-leisure/major-roads-likely-to-experience-traffic-snarl-up-as-schools-reopen_
 
 ---
 
-**57. Scott Bessent just kicked the bitcoin debasement trade into another gear: Chart of the Day - Yahoo Finance**
+**57. Iran president admits country facing 'many problems'**
 
-Scott Bessent just kicked the bitcoin debasement trade into another gear: Chart of the Day Yahoo FinanceDigital Gold Stirs at Last – Week in Review Bitcoin NewsWeekend Round-Up: Bitcoin's Best Week Since 2023, Coinbase CEO's Bullish Outlook and More BenzingaHow bitcoin and gold went from a slump to an MVP week in just a few days thedailystar.comGold and crypto prices soar as rattled investors look for a safe bet The Observer
+"I understand we have many problems in society right now. We are trying to prevent these as much as we can," Pezeshkian said
 
-_Business Topic — https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeHkwMjRsRV9PLVMtMGtNR1pKZ0lqLWFkVkdhRVpkTm1ISHh0WHZ5dG4xTXhYX1BoMlNxZDh6dkhsdkZZWDNSYk1VR3R3bFdQd3B3aVBqVm5zSzhfeGc5bkFGcXhEQ2kwSlFHZnFrTUt3ZWhWV2FuLUtvbTNnR1R3RFNualpuZnQ1SWxrQUp4RDh1cjVNZGcwcU5JQjR3MnM3b0U1ZlFiWldiaXJkOUZxRTBGalU0a3ZGQk9KLW5mTG5fSlhHZy1mOVdzNVdPdF96c1JGTTJrYW1sczNpMXp3SXptMXBOZ3Jy?oc=5_
+_Standard World — https://www.standardmedia.co.ke/world/article/2001555989/iran-president-admits-country-facing-many-problems_
 
 ---
 
-**58. Kesogon reclaim East Africa volleyball gong as ACK Chepsaita settle for silver**
+**58. NBA, Chuka University sign deal to strengthen biosafety education and research**
 
-Kesogon Mixed Senior School bagged their second regional girls' gong after an emphatic win against compatriots St Marthas Mwitoti in a final match played at the Morogoro Teachers Training College
+The partnership will expand opportunities for joint research, professional training and curriculum development in biosafety. Students will benefit from internships, industrial attachments, mentorship, summer schools and collaborative research initiatives. The institutions also plan to strengthen public awareness and national capacity in modern biotechnology and regulatory compliance. The National Biosafety Authority (NBA) has signed a Memorandum... The post NBA, Chuka University sign deal to strengthen biosafety education and research first appeared on Education News.
 
-_Standard Sports — https://www.standardmedia.co.ke/sports/article/2001555965/kesogon-reclaim-east-africa-volleyball-gong-as-ack-chepsaita-settle-for-silver_
+_Education News — https://educationnews.co.ke/nba-chuka-university-sign-deal-to-strengthen-biosafety-education-and-research/?utm_source=rss&utm_medium=rss&utm_campaign=nba-chuka-university-sign-deal-to-strengthen-biosafety-education-and-research_
 
 ---
 
-**59. Gachagua faces fresh threats to his grip on Mt Kenya**
+**59. Meghan’s casting in The Gentlemen reportedly withdrawn**
 
-Gachagua is facing renewed threats to his grip on the vote-rich Mt Kenya.
+The Duchess of Sussex's casting in Guy Ritchie's The Gentlemen has been withdrawn, it was reported. Tina Brown,
 
-_Nation Africa — https://nation.africa/kenya/news/politics/gachagua-faces-fresh-threats-to-his-grip-on-mt-kenya-5567538_
+_K24 Digital — https://k24.digital/entertainment/celebrity/meghans-casting-in-the-gentlemen-reportedly-withdrawn_
 
 ---
 
-**60. Safari to Pagak or Singapore? Why Homa Bay should worry us**
+**60. Retirement is not the end: Why teachers should turn experience into a nobler mission**
 
-Last weeks happenings in Homa Bay, and many more elsewhere, speak to a country that could be headed to Pagak, and not to the Singapore city-state.
+Enock Okong'o argues that leaving formal employment should not mark the end of a teacher's usefulness. Biblical teachings, he says, present later life as a transition from strenuous work to wisdom and mentorship. Retired teachers can continue serving through mentoring, writing, school boards and guidance of younger professionals. For many teachers in Kenya today, the... The post Retirement is not the end: Why teachers should turn experience into a nobler mission first appeared on Education News.
 
-_Standard Politics — https://www.standardmedia.co.ke/politics/article/2001555982/safari-to-pagak-or-singapore-why-homa-bay-should-worry-us_
+_Education News — https://educationnews.co.ke/retirement-is-not-the-end-why-teachers-should-turn-experience-into-a-nobler-mission/?utm_source=rss&utm_medium=rss&utm_campaign=retirement-is-not-the-end-why-teachers-should-turn-experience-into-a-nobler-mission_
 
 ---
 
-**61. Why I believe TSC commissioner nominee Antonina Lentoijoni can end the culture of teacher stagnation**
+**61. The Magic Faraway Tree review: A magical family adventure that mixes fantasy with real-life family struggles**
 
-Ashford Kimani sees Lentoijoni's proposed career pathways as offering renewed hope to long-serving classroom teachers. The approach could allow professional advancement without compelling accomplished teachers to move into school administration. Kimani argues that transparent progression, adequate funding and automation could restore confidence in the teaching profession. I do not know Commissioner nominee Antonina Lentoijoni in... The post Why I believe TSC commissioner nominee Antonina Lentoijoni can end the culture of teacher stagnation first appeared on Education News.
+The Magic Faraway Tree is a 2026 family adventure fantasy film based on the much-loved children's book series
 
-_Education News — https://educationnews.co.ke/why-i-believe-tsc-commissioner-nominee-antonina-lentoijoni-can-end-the-culture-of-teacher-stagnation/?utm_source=rss&utm_medium=rss&utm_campaign=why-i-believe-tsc-commissioner-nominee-antonina-lentoijoni-can-end-the-culture-of-teacher-stagnation_
+_K24 Digital — https://k24.digital/entertainment/movies/the-magic-faraway-tree-review-a-magical-family-adventure-that-mixes-fantasy-with-real-life-family-struggles_
 
 ---
 
-**62. Students urged not to be swayed by bank account freebies ahead of September - Birmingham Live**
+**62. Aliyejifanya padri na kuongoza misa kadhaa Turkana ndani**
 
-Students urged not to be swayed by bank account freebies ahead of September Birmingham LiveTwo-thirds of UK students run out of cash before end of term Financial Times
+MWANAUME anayeshtakiwa kwa kujifanya padri wa Kanisa Katoliki aliingia katika shughuli za Jimbo Katoliki la Lodwar, kuongoza misa pamoja na Askofu John Mbinda na baadaye kuongoza ibada katika makanisa kadhaa kabla ya kutiliwa shaka. Mshukiwa huyo, Jones Bogonko Onchonga, sasa amezua maswali katika Jimbo la Kanisa Katoliki la Lodwar kuhusu jinsi alivyoweza kutekeleza majukumu ya kasisi bila kuwa na mamlaka hayo. Mnamo Agosti 16, 2026, jimbo hilo lilitoa taarifa likiwaonya mapadri na waumini kuwa Bw Onchonga si padri wa Kanisa Katoliki. “Rev Fr Jones Bogonko Onchonga, M.C si padri wa Kanisa Katoliki. Kwa hakika, yeye ni mwanamume aliyeoa mwenye watoto wawili huko Kisii,” ilisema taarifa iliyotiwa saini na Askofu Mbinda. Jimbo lilimlaumu Bw Onchonga kwa kukiuka sheria kadhaa za Kanisa Katoliki, ikiwemo kujifanya kutoa sakramenti, kuendesha ibada bila ruhusa na kutumia nyaraka za kanisa kwa njia isiyo halali. Alifikishwa mbele ya Hakimu Mkuu Evanson Ngigi mjini Lodwar Agosti 14 na kukiri shtaka la kujifanya mtu mwingine kinyume na kifungu cha 382 cha Sheria ya Adhabu. Hata hivyo, alibadilisha msimamo huo Agosti 17 mbele ya Hakimu Michael Lokitam. Inadaiwa kuwa kati ya Julai 31 na Agosti 12 alitumia udanganyifu kumshawishi Askofu Mbinda na viongozi wa jimbo kwamba alikuwa padri aliyeteuliwa na aliyepewa mamlaka ya kuendesha shughuli za kanisa. Kwa sasa anazuiliwa katika Gereza la GK Lodwar baada ya kukosa dhamana ya Sh100,000 pamoja na mdhamini wa kiwango hicho, au dhamana ya pesa taslimu ya Sh50,000 Kabla ya kutiliwa shaka, Bw Onchonga alikuwa tayari amepata nafasi ndani ya jimbo hilo. Mnamo Agosti 5, aliungana na Askofu Mbinda kama mmoja wa mapadre walioshiriki misa katika Kanisa Kuu la St Augustine wakati wa uzinduzi wa Legion of Mary. Baada ya misa, Askofu Mbinda aliondoka kuelekea Nairobi huku Bw Onchonga akiendelea kuongoza misa nyingine. Mnamo Agosti 9, waumini katika Shrine ya St Mary's, Lodaraja, karibu na Mto Kawalase, walianza kumtilia shaka. Akiwa amevalia vazi la kasisi la kijani, alidai kuwa alikuwa na uhusiano wa kifamilia na Askofu Mbinda. Waumini walisema alionekana kuchanganyikiwa wakati wa kuendesha misa. Picha yake akiendesha ibada ilisambazwa katika kundi la WhatsApp la mapadre na askofu, na kusababisha maswali zaidi kuhusu utambulisho wake. Mpelelezi mmoja alisema Bw Onchonga wakati fulani alijaribu kumpa muumini sakramenti ambayo haikuwa imetakaswa. Akihojiwa katika ofisi za DCI Lodwar, Bw Onchonga alisema aliwahi kukutana na Askofu Mbinda katika Chuo Kikuu cha Tangaza na alitaka kuwasiliana naye tena baada ya kuondoka Tanzania. Sasa jimbo hilo linakabiliwa na maswali kuhusu taratibu za kuthibitisha watu wanaohudumu kama mapadre na iwapo mtu yeyote ndani ya kanisa alimsaidia mshukiwa huyo kupata nafasi hiyo.
 
-_Business Topic — https://news.google.com/rss/articles/CBMilgFBVV95cUxNclRTanFMUVBpam9HRkc0OWk2aE9XSG16akstVy1ZNy1WYjlHY0hJbHNoZlFaQnFoYzRSc2dMZ0NIUlZ2T2xhQmVONHdSS3o1eWl2WW16NmczX1JvcE9JWXE2aEJHYVJsaXRrbUp3UWF1eWI3YWJRbGR1QUFIQUIzck9KaENYcVZFaGhSOTJGb3MyWS0xT2fSAZsBQVVfeXFMUFN6SFBxTjNzdzRaZ3d6NExnS2ZxanMxam9ZU3lvRndWRUliSFZjZXA4ajI1S2FYSkxfUDdaVF9NSjZ3ZkFkYWR1VWozU0l0RXJxQVc3a3ljdENQNGdDWjBMcW5CRGpTWkdGak1PWXZ0cGpPUlJ4RjhnQUUyaElaQzlpNktVUFQ2bmRCWHlqNldTbTIyTUVITlNwSWc?oc=5_
+_Taifa Leo — https://taifaleo.nation.co.ke/habari/aliyejifanya-padri-na-kuongoza-misa-kadhaa-turkana-ndani/_
 
 ---
 
-**63. 5ct. Diamond to Sparkle at Bonhams Sydney Auction - Rapaport**
+**63. World's largest heavy lift vessel carries oil platform to Shetland - BBC**
 
-5ct. Diamond to Sparkle at Bonhams Sydney Auction Rapaport
+World's largest heavy lift vessel carries oil platform to Shetland BBC
 
-_Business Topic — https://news.google.com/rss/articles/CBMigAFBVV95cUxOVVdCVzV5amtzWjRYNjBFMnB6U3h6VnQ5LXRXU1lIWVlfc2hHeHk0djEwVjk0UUIwUE1oX1NEb2JSd1pQelpyQzVaQk00SVNPTUlPS2luc25PaHA0ZmlnUkdHUDF4RWJwZlNsWWJRV3IxQ0JxcXhIXzViUGI0SUthQw?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yT2ZoYzRzZWZ1eVJtcmlnYUUza09jZkdISnB4amF4MU9GZmlrdTFSSUNDMnVGMGUwOUc3VmoyVWViQUVycmQyaFQycGNLMWs5dE9ZOEZqc0pTQQ?oc=5_
 
 ---
 
-**64. Opposition's unity pact faces test as principals plan make or break retreat**
+**64. Details of Upgrades Presidential Jet Has Undergone After Year-Long Overhaul**
 
-Opposition principals earlier met and agreed to establish a secretariat.
+The aircraft has been out of service since August 2025, when it was flown to the Netherlands for extensive maintenance amid concerns over its age and reliability.
 
-_Nation Africa — https://nation.africa/kenya/news/politics/opposition-s-unity-pact-faces-test-as-principals-plan-make-or-break-retreat-5567708_
+_Kenyans.co.ke — https://www.kenyans.co.ke/news/126420-details-upgrades-presidential-jet-has-undergone-after-year-long-overhaul_
 
 ---
 
-**65. The tax escape map: Billionaires are bolting for Florida from the West Coast and taking some $29 billion in tax revenue with them - Fortune**
+**65. Maresca sets sights on keeping Manchester City in title race ahead of Bournemouth clash**
 
-The tax escape map: Billionaires are bolting for Florida from the West Coast and taking some $29 billion in tax revenue with them FortunePolicy Lost New York $13 Billion Annually The Real DealFlorida draws billionaire relocations as West Coast tax fears reshape wealth flows Traders Union
+Enzo Maresca has made it clear that Manchester City's immediate ambition is not to predict how many trophies
 
-_Business Topic — https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLTVrcGZOaDg0dGtCSmg2YTdhU0hxTlVpX3FBbDk3Sm5lLXd6TktCMWlCWTVZeWNCQnZhaV9pUnNRQm1hR1h1UU9JcWZWQ2tyOVE5X3N5dnI5SzBSdENHZUUyOUJ0UlQ4R2JOUkF4MjZuc3ZWVjYxUzBUcmQwcHpySXNyX3kxRGxPTWRNUGtfOHNUUXBCbm5LdGg3SEhsRENqZVBHTS1TdzVYUzgwSXlfX2hnSGhRT0hza2M0RGg5RzN1dGgwaWVpM21ual91QjVQVnhzM1h3?oc=5_
+_K24 Digital — https://k24.digital/sports/epl/maresca-sets-sights-on-keeping-manchester-city-in-title-race-ahead-of-bournemouth-clash_
 
 ---
 
-**66. Prince Harry: royal misfit making unlikely UK return**
+**66. Russian skydiver sets world record in support of International Youth Festival**
 
-Prince Harry, who relocates back to Britain shortly with his family, will open a new chapter in his ever-eventful life which once seemed improbable amid royal feuds.
+Russian athlete and multiple world record holder Sergey Boytcov jumped from a hot air balloon at an altitude of 11,551 meters, dedicating the fete to the International Festival of Youth 2026. The record breaking fete achieved ahead of Russia's National Flag Day was part of the Stratum Jump 11–12, a project of the Russian company Created […] The post Russian skydiver sets world record in support of International Youth Festival appeared first on KBC Digital.
 
-_Standard World — https://www.standardmedia.co.ke/world/article/2001555978/prince-harry-royal-misfit-making-unlikely-uk-return_
+_KBC Digital — https://www.kbc.co.ke/russian-skydiver-sets-world-record-in-support-of-international-youth-festival/_
 
 ---
 
-**67. Man City agree £86m deal for teen midfielder Bouaddi**
+**67. Amazon drone delivery security: Can packages be stolen, tampered with or hacked? - Cleveland.com**
 
-Manchester City have agreed a deal in principle worth 100m euros (£85.6m) to sign 18-year-old Lille midfielder Ayyoub Bouaddi. BBC Sport reported earlier this week that the two clubs were…
+Amazon drone delivery security: Can packages be stolen, tampered with or hacked? Cleveland.comAmazon Prime Air drone delivery is expanding to nearly 500 US cities and towns this year About AmazonAmazon to expand drone service to nearly 500 cities after targeting 1 million deliveries this year CNBCDrone wars: Amazon, Walmart race to expand delivery across Phoenix metro The Business JournalsAmazon set to expand drone delivery of lightweight packages to 500 US cities Chronicle-Tribune
 
-_Capital FM Sports — https://capitalfm.africa/man-city-agree-86m-deal-for-teen-midfielder-bouaddi/_
+_Business Topic — https://news.google.com/rss/articles/CBMivgFBVV95cUxNNTVpaEJzc0JGdHd3QWw3VWItTFA0Q0N3ajhkSXJOWjhCbG50Y1FjR19QaXBJbG54Y1R5SWlQQWRKaG5jSTFXSTllcHoyQjZUMmE4VUdpVTRaY3l0eEFOMkNuSC1wdVNKaE52d3VnS05zWHBwZE81U3JzbDUxMTZFUjJqMU5fRkJFeW9fMVdlY2lLcXBxTE13c0ZBQTVxbmVXLTY5d25oOWd6bm5DN3N3d2h0TUFidXNJbmxyZ0tB0gHSAUFVX3lxTFB4VWVSYXk0bms5bTliS2N2YnFlVDQ0bjZMWXBZNUx5enNFMFBGZ09iTGpaUlh3N09PR2NpQXFEY1ROZnVSRG1xYkR3XzE2V1dOVFNGWUs2WmRaWHA0cXdHZnFxSXRJRF9NVi1WWkZCbGxPNjFLYzNEazMzTGs0d2NYX3RoNnVQcUdtMzdfa09LMXZLVGVldDBHX0lETG5zTjhIVVZESHl5VWhxMVlsWGROa2pndzJ6LWFkV1pXeHA4YXJLOXBxX0VaaGNhcTRxX3liZw?oc=5_
 
 ---
 
-**68. Gachagua: Why I won’t honour NCIC summons**
+**68. Maize seed price to reduce by 50% next month - Ruto - Citizen Digital**
 
-Ex-DP demands full evidence on alleged hate speech.
+Maize seed price to reduce by 50% next month - Ruto Citizen DigitalPresident Ruto Announces New Fertilizer Prices Countrywide The Kenya TimesRuto Announces New Fertilizer Prices from Next Month Kenyans.co.keFarmers rejoice as fertiliser prices plunge to KSh 2,500 from KSh 7k Tuko NewsFarmers Credit Affordable Fertilizer and Better Infrastructure for Higher Yields Business Today Kenya
 
-_Nation Africa — https://nation.africa/kenya/news/politics/gachagua-why-i-won-t-honour-ncic-summons-5568148_
+_Kenya Latest — https://news.google.com/rss/articles/CBMikgFBVV95cUxOOW5WeE9QWVM3Wks1Rnh4QmNyOFZBQXNvX092Mlg4VDBIUmI1d1oyY3BoLS1DQU9UcXlkb1IwM1duYUU0UnVuZWFReGFpNWRocS1aQ3ozU3g5dVRlM0QwajZZRWtrSF9YM25UclozbkE4dVhad2dvcjlCWm1YOVpDdlBfQXFNeFBiSlN3SW83cGpndw?oc=5_
 
 ---
 
-**69. Loan spam lands digital lender Sh1m bill**
+**69. People’s Daily defends China’s economic resilience, says annual targets on track - South China Morning Post**
 
-Platinum Credit Limited charged for persistent stream of promotional calls and messages.
+People's Daily defends China's economic resilience, says annual targets on track South China Morning PostChina remains a positive contributor to and an anchor of stability for global growth: Zhong Caiwen article Global TimesThe China Connection on CNBC UK: full details and when it's on TVGuide.co.ukPeople's Daily publishes signed article by Zhong Caiwen detailing China's economic resilience and vitality finance.biggo.com
 
-_Nation Africa — https://nation.africa/kenya/business/loan-spam-lands-digital-lender-sh1m-bill-5568192_
+_Business Topic — https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWZuZVZ4enA2VUdwQW5mQUpNX0pJZzAzcGpSbktGWXFTT3BoWnpfaENyQWlRVV93ajVEN2FCc0dCeEhwYW41VjdQWW5GVUZURXpXMXlvSkRKSEhvQVpZeFQ0d1dFbXMxZzlBWDlqMVJYTFh6ZEptSVZEZ0U4R1BzUzhRY3RnTm5fTmo3T0FhZ2lnYkgtZzVGTllFaG1nOURCbDRyQklDZ2JOUlVZajJoV2JuZjJjVV9pdnRRd050WdIBvwFBVV95cUxQcDVCRUNIbG9HcjNnRkpfMEtfaFJRQW0zcnZUdDZSYkFPcF81S3RsUlNxMmNPRVAxbzl2akZhSkZVTFFuY2xqN3RYS0hXaUg3U2g1NzUwWTEwbGVQcGZnSUphMkJETklFTjhlcVZJX3VvaXpSbldFSGg1dlJhQTlhelExYnhoUnV2RVo4VG51VHg1VjBZTmRON3Z2c090Zm0yM0I0eGoybS1fNF9EMElMTXZBMWN2VDlnT3ktUjJZTQ?oc=5_
 
 ---
 
-**70. Shaquille O’Neal reveals why he never made it into the Avengers**
+**70. Gachagua Heads to US for Political ‘Reflection’ After 56 day conclave - Capital FM Africa**
 
-Former NBA star Shaquille O'Neal has revealed why his long-held dream of appearing in a Marvel Avengers movie
+Gachagua Heads to US for Political 'Reflection' After 56 day conclave Capital FM AfricaGachagua turns to Gen Z as 56-day political consultations in Wamunyoro end the-star.co.keGachagua to Fly to U.S as Details of New 2027 Strategy Emerge Kenyans.co.keGachagua returns to Embu as he finalizes engagements ahead of US diaspora visit People DailyWill go to America: Gachagua announces date he'll end Wamunyoro consultations Tuko News
 
-_K24 Digital — https://k24.digital/entertainment/celebrity/shaquille-oneal-reveals-why-he-never-made-it-into-the-avengers_
+_Kenya Latest — https://news.google.com/rss/articles/CBMimAFBVV95cUxQSTNkRDM5NG1ESkpDU0V0V1BQbnRJWmg1cnpVWHpiNEp6LWR1ZmlVV2tFMU9IWFdQbTkzS2VrOEtmakMta0RZSEFHS1daT0NsX1JSdHJwR1BuUzNESnViSzE4V1QwUVVkVXlfNWUtVHc1dDlEd1lQQkhHdF9YLVJOSUZqWHFTU3E5Q1JNU2N3QklJOWk2YzZMXw?oc=5_
 
 ---
 
-**71. Tiketi ya Sifuna–Kalonzo yaendelea kupigiwa debe**
+**71. Ruto atua ngome ya Kalonzo na minofu uchaguzi ukikaribia**
 
-UCHAGUZI Mkuu wa 2027 unapokaribia, upinzani unaanza kuashiria mwelekeo wa kuungana na vuguvugu la Linda Mwananchi, huku mjadala kuhusu nani atabeba bendera ya urais ukizidi kupamba moto. Katika ishara ya mwelekeo huo, Seneta wa Kakamega Boni Khalwale ameibua uwezekano wa tiketi ya Seneta wa Nairobi Edwin Sifuna na Kalonzo Musyoka, akidai kuwa muungano huo unaweza kupatia upinzani nafasi nzuri ya kumkabili Rais William Ruto. Bw Khalwale alisema Ijumaa kwamba utafiti aliouhusisha na wasomi kutoka China unatabiri kuwa Sifuna akiwa mgombea wa urais na Kalonzo mgombea mwenza, wanaweza kupata asilimia 68 ya kura dhidi ya asilimia 29 ya Rais Ruto. “Nimesoma utafiti jana usiku ambao umefanywa na Wachina. Umesema kwamba sisi tulioko mrengo wa upinzani tukikufanya wewe kuwa mgombea urais, halafu Kalonzo Musyoka awe mgombea mwenza wako, wewe na Kalonzo mtapata asilimia 68 ya kura, huku William Ruto akienda Sugoi na asilimia 29, ” alidai Khalwale. Hata hivyo, Khalwale hakutaja taasisi iliyofanya utafiti huo, ulifanywa lini, sampuli iliyotumika au mbinu iliyotumiwa. Hakuna ripoti ya utafiti huo iliyowekwa wazi ili kuthibitisha takwimu hizo. Licha ya utata huo, kauli yake inaangazia hesabu inayozidi kutawala siasa za upinzani: je, Sifuna anaweza kuwa sura ya kizazi kipya cha upinzani huku Kalonzo akitoa uzoefu na ukomavu wa kisiasa? Sifuna amekuwa akipanda katika kura za maoni na sasa anatajwa miongoni mwa viongozi wanaoweza kupewa nafasi ya kuongoza upinzani. Utafiti wa TIFA uliotolewa Julai ulimweka Rais Ruto mbele kwa asilimia 24, Sifuna akifuata kwa asilimia 15 na Kalonzo akiwa na asilimia 13. Uchaguzi wa Kenya huamuliwa pia na miungano ya kikanda, nguvu za vyama, wagombea wenza na uwezo wa kuvutia wapiga kura nje ya ngome za viongozi. Kwa Sifuna, changamoto ni kugeuza umaarufu wake unaokua kuwa mtandao wa kitaifa. Kwa Kalonzo, changamoto inaweza kuwa kuamua ikiwa yuko tayari kuachana na azma ya kuwania urais na kukubali kuwa mgombea mwenza. Mjadala huo unajiri huku viongozi wa Linda Mwananchi wakiongeza shughuli za kisiasa na baadhi ya viongozi wa upinzani wakionyesha wako tayari kufanya kazi nao. Hata hivyo, bado hakuna makubaliano rasmi kuhusu mgombea wa upinzani, chama kitakachotumika au nafasi ya Kalonzo katika mpangilio huo. Kwa hivyo, tiketi ya Sifuna na Kalonzo bado ni uvumi wa kisiasa kuliko mpango uliokamilika. Lakini mjadala wake unaonyesha mabadiliko yanayoendelea katika upinzani huku 2027 ikikaribia: kutoka mashindano ya mtu mmoja mmoja hadi kutafuta tiketi moja inayoweza kuunganisha nguvu za kisiasa kutoka maeneo mbalimbali ya nchi. Iwapo Linda Mwananchi itaungana rasmi na makundi mengine ya upinzani, suala la nani atakuwa mgombea wa urais na nani atakuwa mgombea mwenza litakuwa mojawapo ya maamuzi magumu zaidi kuelekea uchaguzi huo. Kwa sasa, jina la Sifuna limeingia katika hesabu hiyo. Kalonzo ana uzoefu na ngome yake ya kisiasa. Swali kubwa ni ikiwa wawili hao wanaweza kugeuza nguvu zao kuwa muungano mmoja wenye mvuto wa kitaifa — na ikiwa viongozi wengine wa upinzani wako tayari kuunga mkono mpango huo.
+RAIS William Ruto amewataka viongozi wa upinzani kutafuta hoja bora za kupinga ajenda yake ya maendeleo badala ya kuwagawanya Wakenya kwa misingi ya ukabila. Rais alisema hayo jana alipofanya ziara katika Kaunti ya Machakos, ngome ya kisiasa ya kiongozi wa Wiper Patriotic Front Kalonzo Musyoka, huku akijaribu kuvutia wakazi wa Ukambani kuelekea uchaguzi wa 2027. Rais pia alishutumu upinzani kwa kukosa ajenda thabiti ya kisiasa na kudai baadhi yao wanafanya kazi kwa niaba ya viongozi wengine. “Ingawa umeajiriwa na umekubali kuwa kikaragosi, usijiaibishe. Mnaenda kusema tatizo kubwa la mpango wa nyumba za bei nafuu ni kuku kushindwa kupanda ngazi. Huo ni ujinga. Tafuteni hoja bora,” alisema Rais Ruto katika mikutano mitatu aliyoandaa Machakos. Aliongeza: “Mnaendelea pia kusema mtavunja SHA. Tafuteni hoja bora ya kuwasilisha kwa Wakenya.” Rais alisema wakati umefika ambapo Wakenya wanapaswa kuwahukumu viongozi kwa rekodi zao za uongozi, mipango na maono badala ya matusi na kauli za kisiasa. “Wakenya hawana haja na wale wanaowagawanya kwa kuwaita wengine binamu, wengine wasaliti na wengine maadui. Kenya inahitaji umoja. Sisi sote ni ndugu,” alisema katika mkutano Kimutwa Township.
 
-_Taifa Leo — https://taifaleo.nation.co.ke/habari/tiketi-ya-sifuna-kalonzo-yaendelea-kupigiwa-debe/_
+_Taifa Leo — https://taifaleo.nation.co.ke/habari/ruto-atua-ngome-ya-kalonzo-na-minofu-uchaguzi-ukikaribia/_
 
 ---
 
-**72. K’ONYANGO: A more connected world: Why cooperation should shape the future - the-star.co.ke**
+**72. Ruto Says Uhuru Rejected Attempts To Revive Political Partnership - Signs Tv**
 
-K'ONYANGO: A more connected world: Why cooperation should shape the future the-star.co.ke
+Ruto Says Uhuru Rejected Attempts To Revive Political Partnership Signs TvMy problem with Uhuru: Ruto lifts lid on how ex-boss snubbed repeated push to reconcile Daily NationGachagua urges Uhuru to reject handshake with Ruto Citizen DigitalGachagua tells Ruto to leave Uhuru alone, hits back at Murkomen Insider Bits News"He climbed down to oppose me": Ruto opens up on failed attempts to court Uhuru Tuko News
 
-_Business Topic — https://news.google.com/rss/articles/CBMitgFBVV95cUxQd0FqZ2VlcnZSRzFJRXktN2oyS2ZaREVRMm8zWURId1o0by1rdVZGV2t0U1pGeldlRndGeS1XS21tbzVfNGFiZ0sxTm5CRFlxN0VLenJuLWphcGFPOTBxTndsU0xYeHlydmlKTjVzTk05eVczamR3Y2ZEVHZKeHVLakIyNmt0NFJvV0c0U3hXdkQ4LVUxWjNCNTNXdGJveTY1TU1lZEpINEtJUWZFdVBNYWVCNWVRQQ?oc=5_
+_Kenya Latest — https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFRtMXlhWkxmekZvT1A2bXJobmxSektFd1ZRclBQeVZaYk94V25KN0oya0dWOVd5RWJwRjEzNy1lang2XzlTcnRIM3dZNDFuclVTZjQ3bGlXUzlIRGtYQlRXTzZEWGJTdzRXOWhrWnYtU3psYVBObG94X3E1RzNtVV9xbk5uUlVLZ2JVM0g2Q0s?oc=5_
 
 ---
 
-**73. Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion - CNBC**
+**73. The CEO of $1.2 billion learning platform Preply says it all started with his online search for an English tutor - Fortune**
 
-Equal-weight S&P 500 is leading the 2026 market and its flagship trade just hit $100 billion CNBCIs Invesco S&P 500 Equal Weight Consumer Discretionary ETF (RSPD) a Strong ETF Right Now? Yahoo FinanceWhy Equal-Weighted S&P 500 ETFs Are a Better Way to Play the Stock Market Now Barron'sEqual-Weighted S&P 500 ETFs (NYSEARCA: RSP) Outpace Market Benchmarks As Magnificent Seven Stocks Stumble foreignpolicyjournal.com
+The CEO of $1.2 billion learning platform Preply says it all started with his online search for an English tutor Fortune
 
-_Business Topic — https://news.google.com/rss/articles/CBMiekFVX3lxTE5IckxLSXNzT3VrdlV5UzNXRDUxTlQ3d1BBOWFEVk1xOXVTOU1xcGdaS2NxR1k3NmFrSFRaYUJtMTN6ZjRWbEJIakc4a3JPNEFxX01uV3liV2UtUVR4eG5tLTRMekJFOFJ0bGJ2QXVmanpZdV9wYWlzUFh30gF_QVVfeXFMTTNBUjd2b2JhclhwMnhVT1pZempacXhGd1FIZXRkeW9teGgtdmNURHBlYVFmOTB4QVh4a0RTRTV5T1dOUVdmUEZOZXZjaS1NMWIzWFhoaXhEVDBNSUU3LVJwclk1UVUtZ0t2akZId1REWUVlWGlpY2NnNHZPUnUzUQ?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdnRmQU8zVTRLaHB4N09jY2d1ak5qV3QzN2xzTDFWclpnQzNWaWdxYXozUXF0SmVCdUdVRFQ1Q1dxN0gzRjRqMlBpMnd4a2JMT1c3dFIwcTJYeGZiU0pqdGoxaVY0QkthRzVPS3VyVFhJV2wxX0w0cjcycFRqMmNpUllkVWl3OUc4SUNrOU85dVYwTGt0RzlxcjBBb0hwOU55TGNZcnNuRk0tc21Qa3FaTWFkX0pDdkREX3BoTm5SSktZSnB6cFRDSzZnM0o3YkV5R2hkWGVqNA?oc=5_
 
 ---
 
-**74. United's next decision: What to do with all those Boeing 737 Max 10 seats it ordered years ago - CNBC**
+**74. Palantir has been on a tear this year. Two numbers signal investors should protect their gains - CNBC**
 
-United's next decision: What to do with all those Boeing 737 Max 10 seats it ordered years ago CNBC
+Palantir has been on a tear this year. Two numbers signal investors should protect their gains CNBCPalantir and Sandisk Stocks Are Soaring: Wall Street Says to Buy 1 and Avoid the Other The Motley FoolPalantir and Sandisk Surge in August: Analysts Favor One AI Play Over the Other finance.biggo.com
 
-_Business Topic — https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2RoN2hGaGt0MzVVbmw4dldMNEJJOG8yU0ZRNVBqejYzeXJzZGVidElZcmpQRk52emlIenREVGE2eDRYUFhfREF1bGRkNkV5VWhLa1l0U2F5cGU2dkRvMFczSGZ5di1VaHlRSUZiTTVXYzBXNkxaRG1CVXF5RjQ0bHJR0gGHAUFVX3lxTE9fZmpHY2RKTnBsTFVpbVFjbUhOdXdaSmY5SGxWZnFaRl9Ja3RpRHJmX2p6R1VvaEwtcVc2eTZIa1lBMUt1LTRDZVcwYUZsM2pRX1dpQXpLTzB6ZWVoZlU1Mk5WX1loTFlrakhLQWx3cThRTEE2UUF1ejZlUXp4dnlZVnBzTHg0VQ?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMiygFBVV95cUxOVG16eXJ5OGI3MVNnTW5fcDNVUlVDUHBLSFVzNXJ6Yjd0NGJwMWJYTWVyT0hhTnl4Q2VOTFg1VmdVczlOaHBJVEd5MW1aQzlDNWZmeG1YWjlZeGoydUd6LU9DUGswLVItSWdxeHlfMi1pTy1hSXJjcTJJQ05aYjRKRVRlTGRkWWFSLUtmWDVDX3RYRlhPejU0MGRYV3podi11Q0FNUWt4VmEwWHRzaU9FREk2YnNCRHprTUJPZjVhYjdYdkdoZmxQbDhR?oc=5_
 
 ---
 
-**75. Kenyan Bank Charges: Full Comparison of ATM, M-Pesa, PesaLink and Account Fees**
+**75. India’s reliance on Russian oil hits all-time high - Financial Times**
 
-The Kenya Times ~ Trending, Breaking News and Videos Kenyan Bank Charges: Full Comparison of ATM, M-Pesa, PesaLink and Account Fees Bank customers in Kenya pay different amounts for everyday services depending on the institution, account type, and channel used. A review by The Kenya Times of the latest tariffs from major banks shows that charges range from as little as zero to hundreds of shillings for a single transaction. The comparison covers Equity Bank, KCB, […] This post Kenyan Bank Charges: Full Comparison of ATM, M-Pesa, PesaLink and Account Fees first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Morgan Wanyonyi
+India's reliance on Russian oil hits all-time high Financial TimesChina boosts imports of Russian crude, stymieing India's refiners ReutersChina Is Squeezing India Out of Russia's Oil Trade Crude Oil Prices Today | OilPrice.comPrice of Middle East conflict: Indian refiners forced to buy oil at premium; Russian discounts vanish The Times of IndiaIndia Has Sharply Increased Its Purchases of Russian Oil — FT UA.NEWS
 
-_The Kenya Times — https://thekenyatimes.com/business/kenyas-most-expensive-bank-charges-compared-kcb-equity-co-op-absa-and-ncba/_
+_Business Topic — https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEYyLWMxVS1GSlg2YTFtazRRUlhOS0dtYnRGY1BRYjFnX1k3SFVLb0NqX0R3bFhLYlpEUm44S2VjWUNCRDZQYXhERDl4dzcxcC1OR2I5azN1QVN5MW1vbFR2X1loYnAzRFBCX0lCRFpIWFFQZi1iRWpjaUVSSlk4bmdpODY?oc=5_
 
 ---
 
-**76. Messi fined for slapping opponent in MLS game**
+**76. Uhuru: Kenyans will choose their president in 2027 - standardmedia.co.ke**
 
-MIAMI, USA, Aug 22 – Inter Miami's Lionel Messi has been fined for slapping Philadelphia Union's Quinn Sullivan during their side's Major League Soccer (MLS) 2-2 draw on Wednesday. Messi,…
+Uhuru: Kenyans will choose their president in 2027 standardmedia.co.keUhuru: Kenyans must be free to choose their leaders the-star.co.keSifuna laughs off claims of being sponsored by former President Uhuru Citizen DigitalUhuru Responds to Ruto Over Claims Of Sponsoring Opposition Kenyans.co.ke'Sitaki kuitwa sponsor!' Uhuru reacts after Sifuna mention sparks cheers at Wamalwa memorial the-star.co.ke
 
-_Capital FM Sports — https://capitalfm.africa/messi-fined-for-slapping-opponent-in-mls-game/_
+_Kenya Latest — https://news.google.com/rss/articles/CBMirgFBVV95cUxNbzRLYnlIREZ0eThBZ2ZLS1FMWGxONmpWOHdYUklIaEotYWtvWGR2Zi1lWThLdTlBQ21SSjAxVnBYcFpqdEFMZWx5OUl0S2ZTRFZHZ19sN1VoZm9laDE1Q2U3SXpSV2JyUU5Fekkya3hDa3RSdWhQSEZqbFpiRTRKWGJJRWRZNjZVXzl3YVMtd0loandiV01xTzZxVmRvYV8tZzNTNWxyMkkwcE1GM2c?oc=5_
 
 ---
 
-**77. President Ruto calls on Church to help shape Kenya’s Beyond Vision 2030 development agenda**
+**77. Kenya’s Most Powerful Family Businesses and Where the Kenyattas Rank**
 
-President William Ruto says planning Kenya's long-term development requires participation beyond the national government. He wants religious organisations involved in shaping development priorities and the proposed National Infrastructure Fund. The President also outlined investments in education, roads, markets, housing and healthcare across Machakos County. President William Ruto has called on the Church and other religious... The post President Ruto calls on Church to help shape Kenya's Beyond Vision 2030 development agenda first appeared on Education News.
+The Kenya Times ~ Trending, Breaking News and Videos Kenya's Most Powerful Family Businesses and Where the Kenyattas Rank Several of Kenya's leading business families, including the Kenyatta family, control investments spanning banking, manufacturing, agriculture, real estate, hospitality and consumer goods. Among the families with the strongest publicly documented corporate interests are the Kenyattas, Ndegwas, Shahs and Chandarias, whose businesses and investments span several major sectors. The Kenyatta and Ndegwa families have prominent positions […] This post Kenya's Most Powerful Family Businesses and Where the Kenyattas Rank first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Mary Wanjohi
 
-_Education News — https://educationnews.co.ke/president-ruto-calls-on-church-to-help-shape-kenyas-beyond-vision-2030-development-agenda/?utm_source=rss&utm_medium=rss&utm_campaign=president-ruto-calls-on-church-to-help-shape-kenyas-beyond-vision-2030-development-agenda_
+_The Kenya Times — https://thekenyatimes.com/latest-kenya-times-news/kenyas-most-powerful-family-businesses-and-where-the-kenyattas-rank/_
 
 ---
 
-**78. Google Confirms Gemini 4 Replaces Gemini 3.5 Pro Entirely - Geeky Gadgets**
+**78. 4 Arrested Over Deaths of 18 Elephants in Amboseli**
 
-Google Confirms Gemini 4 Replaces Gemini 3.5 Pro Entirely Geeky GadgetsWe're waiting for AI models like they're Taylor Swift albums Axios
+Four suspects have been arrested in connection with the deaths of 18 elephants within the Amboseli ecosystem.
 
-_Business Topic — https://news.google.com/rss/articles/CBMiYEFVX3lxTE92MFFQTDBOalRBYXczV1dGSnZ4bFdhSWtDNWNwU0lrYjVzdm52NnhMdzdwSFRxeU9ucmRqSnFUMWphdTF0YzNOV29weVdpeHpLaWpRakFlc1pZOHN3TC15aQ?oc=5_
+_Nairobi Leo — https://nairobileo.co.ke/news/article/29692/4-arrested-over-deaths-of-18-elephants-in-amboseli_
 
 ---
 
-**79. What it was like to go through a trial that could revolutionize cancer treatment - The Washington Post**
+**79. 18-Year-Old Linked to Murder of 2 Elderly Women Arrested**
 
-What it was like to go through a trial that could revolutionize cancer treatment The Washington PostModerna, Merck vaccine cuts recurrence and spread of melanoma, raising new treatment hope ReutersCancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar CNBCWhy Is MRNA Stock Up Today? Moderna Closes 177% Higher MemeburnEstela Rodriguez: Melanoma Opens the Door for Personalized mRNA Cancer Therapy Oncodaily
+Detectives from the Directorate of Criminal Investigations (DCI) have arrested an 18-year-old suspect linked to the murder of two elderly women.
 
-_Business Topic — https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZHR0NGZucGh1SnJkQjRMWkh0UW12UFpHNGRkVHNmZV9uX2QwZkJSOExfQXROTnNOZmk5VGM4YnA3cTMwaHc3TUxhYzQwekNiaUxuVWVPZnVfNHdXUGFZcVhsQWZCd19DeHFpTzBFd292blpLc09oTUVGQTBzUjVHN0FkUXhLdTYwS2U5MXdaeFV5ZEtFTEVHUm1hSEIzNExZOTdGcjJsdjJnRDVpUDRGVWxqck1OQ2JBV1hN?oc=5_
+_Nairobi Leo — https://nairobileo.co.ke/news/article/29696/18-year-old-linked-to-murder-of-2-elderly-women-arrested_
 
 ---
 
-**80. Multi-Million Company Put on Notice as Govt Moves to Acquire Land**
+**80. Moses Kuria questions real motive behind push to split Mt Kenya - People Daily**
 
-Compulsory acquisition is allowed under Article 40 of the Constitution, which permits the State to acquire privately held land.
+Moses Kuria questions real motive behind push to split Mt Kenya People Daily
 
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126427-nlc-moves-compulsorily-acquire-217-hectares-del-monte-land_
+_Politics — https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUDV1akZMMzloU184NE1sQmM3SlpKM29uUEZ2WDd2YVh0U2hQd2pnWVZUTV9SOFVHSjROcVY1SFlaQ3dyWW5GX042U3ozblRQNTNvUkVfbjR0dUhPdk5GNkhGSk43d0ZleWZiLVJIRWhtU3F6NnJoY2tIQVE0cldPcHZtMXU2Q210QjFxeUlTTndJVG91dmgzelBkVVhBblR3LUlHSU41a1VjTVE?oc=5_
 
 ---
 
-**81. Kenya’s diaspora remittances fall Sh9bn amid global economic shocks - Daily Nation**
+**81. M-Pesa Operator Shot During Robbery in Migori as Gunmen Steal KSh200,000**
 
-Kenya's diaspora remittances fall Sh9bn amid global economic shocks Daily Nation
+A 42-year-old M-Pesa operator was shot and injured after two armed robbers raided his business at Moss Market in Nyarongi Sub-location, Otachi Location, Suna East, Migori County. The incident occurred on Thursday, August 20, 2026, as the businessman was reportedly closing his shop. According to police, the two attackers were armed with a firearm believed […] The post M-Pesa Operator Shot During Robbery in Migori as Gunmen Steal KSh200,000 appeared first on sauce.co.ke.
 
-_Business — https://news.google.com/rss/articles/CBMisgFBVV95cUxPWnBlWnpiU2hPYU1DdXRXWmFndUNjUjR1Yks2WktYZi11RzJ4V2xQc3JTYlJ5R0FUNnM3UERKdXZ0aFpoSjhIVGllcmdmSVpfTVZLNGhYajNJNk9RcnVkaG1OWWo2TXdrNDkzQlVfbDVTdHBKZGJBSHMzaXFQWlg1cmJFRVZKTjN4ckZSSk5xM2VwVzJZaGR6RjFzTU5ZZWZTaFY2dDYtMjYzOTlRNklHRU9R?oc=5_
+_Sauce Kenya — https://sauce.co.ke/2026/08/m-pesa-operator-shot-during-robbery-in-migori-as-gunmen-steal-ksh200000/_
 
 ---
 
-**82. Millions UDA and ODM Are Set to Receive From Political Parties Fund**
+**82. El Nino: Kenya's double disaster as millions face fresh crisis - standardmedia.co.ke**
 
-The United Democratic Alliance (UDA) and the Orange Democratic Movement (ODM) are set to receive the largest share of the Political Parties Fund (PPF) in the 2026/2027 financial year.
+El Nino: Kenya's double disaster as millions face fresh crisis standardmedia.co.keSee more headlines and perspectives on Google News
 
-_Nairobi Leo — https://nairobileo.co.ke/news/article/29697/millions-uda-and-odm-are-set-to-receive-from-political-parties-fund_
+_Kenya Latest — https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdEZxOFJjVW1iV2JPRnM0eElzUzdjdkQxOVozVVhiR01KMlBTR0dFdmhBdUprLV9tTVpHM3h0cFJ2eTBIQ3AxXzhqYTd4RWJUSzA3TnVEM240OV9PcGxTbVh1NGpfNkhiazJaY0FvWUhCQm5hdGhXYmtuX2VYWkZOMFl4UlBVbEsweWoxOVYyS0RaM2JMRW1JM2hlc2h2UDNNdUFlbmJfTnc5aVJyaWRVZ3hHM1NXUjRjLTQwLWJpeGJTcUhndzB1YlFtMmU5TWh1ZDV5M01lYw?oc=5_
 
 ---
 
-**83. Nurses Target National Hospitals in New Ultimatum to Govt**
+**83. Murkomen orders preventive action against political goons - the-star.co.ke**
 
-The nurses warned that they would withdraw services from county health facilities from July 29 if their grievances were not addressed.
+Murkomen orders preventive action against political goons the-star.co.keWorst Mistake: Murkomen's reckless remarks expose his aloofness standardmedia.co.ke'Kenya does not have a goons crisis,' Murkomen says as police deny links to criminal gangs Citizen DigitalOf Ruto's handlers, Murkomen confirms why ICC awaits UDA govt People DailyMurkomen urges Kenyans to shun rallies marred by goonism KBC Digital
 
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126423-src-given-7-days-resolve-nurses-dispute-or-face-national-hospital-strike_
+_Kenya Latest — https://news.google.com/rss/articles/CBMiogFBVV95cUxOeU5fdjVYbnBqcmN5aTZlbm5meHBWdnBEU200aGtZWHB0Q0xBR21id1VyVEhzUl9xdXo0UFJ0ZjFXTmRxS0lncS1meXZ3VElnQm1CdFNKSEJwNTgzeklBS3d3ZGlrY2lfQVpMRi1nREhvM3daT3dZbW9aRlFsN1BkQ01tR3dMRDNVVFRFbFZTVl9naU02dlItSGhQSzFWNFdWUVE?oc=5_
 
 ---
 
-**84. KWS Makes Arrests Over Deaths of 18 Elephants**
+**84. Bag ni ya nini? Charity Ngilu, Kalonzo jump on viral trend at Wamalwa Kijana’s memorial**
 
-As the investigations into the matter continue, the arrests form a great part of the probe, with the ministry saying all those involved in the incident will be brought to book.
+Wiper Party leader Kalonzo Musyoka shared a light moment with former Kitui Governor Charity Ngilu during a memorial
 
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126418-kws-arrests-four-over-deaths-18-elephants-amboseli_
+_K24 Digital — https://k24.digital/entertainment/celebrity/bag-ni-ya-nini-charity-ngilu-kalonzo-jump-on-viral-trend-at-wamalwa-kijanas-memorial_
 
 ---
 
-**85. UK orders reviews of franchising sector after Vodafone allegations - The Guardian**
+**85. Multiple-vehicle crash reported at Salgaa - the-star.co.ke**
 
-UK orders reviews of franchising sector after Vodafone allegations The GuardianSee more headlines and perspectives on Google News
+Multiple-vehicle crash reported at Salgaa the-star.co.keSeveral Feared Dead, Scores Injured in Multiple-Vehicle Crash at Salgaa Kenyans.co.keMultiple-Vehicle Crash Causes Major Traffic Snarl-Up On Nakuru-Eldoret Highway The Kenya TimesSalgaa Accident: Several People Feared Dead After Multi-Vehicle Crash on Nakuru-Eldoret Highway Tuko NewsSeveral Feared Dead in Multiple-Vehicle Crash at Salgaa Along Nakuru–Eldoret Highway Mwakilishi.com
 
-_Business Topic — https://news.google.com/rss/articles/CBMirwFBVV95cUxQQnBVVzNNRl9jZ0VVQWh1V0JkMHdpMmlMb0NsSHZJM3ZvRTNPSDVDcnBlN3REV1VHUVNmdEVtMHVyMm5UcmFsVEFwOFJ6UHlPeG1aWm1uLUNFMFZsbEsyR1F1emRYV19laE1uUUdqd1BuZ2x2eWpyNEJLaG13M1NiZHh3bGx4VngyQ0UtcFF0WTNJT2xHZWlWUHEtSl9uX0tzNDR0dXhwV0lzMFk1SDUw?oc=5_
+_Kenya Latest — https://news.google.com/rss/articles/CBMijAFBVV95cUxOTUFzOFpmUzVwcnFQZjVDaTFpSmlQRENWSmtELWVoT2tsYmJPXzRRZHFXVGVaUnZrMEFWOWpoYmlITktKUzQwVTJDU1VndTNhem5NdXVFM2ZybkFNbkotdWU0VzJPMUVTVjFhUjNyRENNMEJVdzRWb2YxTlJrVUVHUFA0YWcybDM2ZnZ4cw?oc=5_
 
 ---
 
-**86. Man leaves tired 7-year-old son alone on mountain during family hike**
+**86. New season, new look! Erling Haaland ditches long blonde hair for different hairstyle**
 
-A man who left his tired 7-year-old son to wait alone on Japan's Mount Fuji while he continued
+Football star Erling Haaland is set to sport a whole new look for the new English Premier League
 
-_K24 Digital — https://k24.digital/news/man-leaves-tired-7-year-old-son-alone-on-mountain-during-family-hike_
+_K24 Digital — https://k24.digital/sports/epl/new-season-new-look-erling-haaland-ditches-long-blonde-hair-for-different-hairstyle_
 
 ---
 
-**87. Gachagua attends Karatina church service as Mt Kenya politics takes shape - People Daily**
+**87. Your boss's monitoring app didn't just watch you — it shared your data to Facebook and a Russian search engine - Fortune**
 
-Gachagua attends Karatina church service as Mt Kenya politics takes shape People Daily
+Your boss's monitoring app didn't just watch you — it shared your data to Facebook and a Russian search engine FortuneSee more headlines and perspectives on Google News
 
-_Politics — https://news.google.com/rss/articles/CBMiuAFBVV95cUxObkQ1ZzFFMGtlVktVX0lKel9NcFczNFFfUWMtRnlOMFlfc29rYmRjY25EVVY2am1yYmdkWDI3VzNyN3dvT2kzUlo1Xy12dG52NnpOQkcwakoxMVF4M2RkcDE3Q3BkSTRLR09lVFRzVHNRbUdqa2diQWFnZW9JWS1KbmdIazBiVGZDQ1g4eXIwYTY2ZmRvV1Q3bnlmNFNiaUw5cThocjJaTUNGVTVrVEFBMDJMekRoX0xY?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMiggFBVV95cUxOeGRCY0ZHeDJhM1hKQ0lmNmpZejlfRVIzZFVMZ29PdHVqOWlhWWxjZGUyX09aTlVpT3UxbDN0NHgzZm12aEY3OVlRYms2STRpU1JKU3F6RDg5d3FiVGQ3RVI5d243ektVWURldFJVa0FXV1FDMldoU1Y4bWQ5THpyYXFn?oc=5_
 
 ---
 
-**88. Marketing’s Bottom Rung Is Being Automated Away. The Long-Term Cost Could Be Huge - inc.com**
+**88. Accuracy and Completeness of Online Patient Information on Nail-Patella Syndrome: A Pilot Cross-Sectional Study - Cureus**
 
-Marketing's Bottom Rung Is Being Automated Away. The Long-Term Cost Could Be Huge inc.com10,000 Marketing Jobs Are Gone And AI Agents Took Them ForbesA New Report Says Hiring Marketers Has Changed for Good. Here's How to Build Your Marketing Team for the AI Era inc.com
+Accuracy and Completeness of Online Patient Information on Nail-Patella Syndrome: A Pilot Cross-Sectional Study Cureus
 
-_Business Topic — https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMGNaRFk1T1VKa3JxblpCaFhQM1lqV0o1QTVEYk55TE9BemV5SnBwbmc5Ylg2elRQQlJFWUswall1ZlY2QjhPTVdmVGwtdVFnYl9JNDRVTC1MWklMd0ZRTmhkaVYtVDM0NFVnQ0dQTUFMVEhtUjZZdVp1UGdZV3djYXBEeDc0YklEMjZqcU1MUmdSa3NISlZkR3E2NUkxQjZfcVlldkxZaDlpRUFYdzd0VnZUYnlHekhMLU4wdUVTTFlRcnc?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdFZQZzFVMGZIX0poMld6eWZBMXYzbXBxZDdXRkVQVjFNanhGMElHMDFObGllVHhvd3hvT3hBZERPNkpTZ3hBNlFZVy02OXlIb2tGQ011eGV1ZUdZTTZWT1EwaXRkU3pXckkyRGs2V0JzaU9iUVFwNjhUN19sM2FrSjM1QXdvWjRFTGtYeEQySHJhUlFUYUdQTDZhZ2tuUkRKQ01VRm9nU0hSanJxVW53Q2F3ZXdJSnYxLWZ3b0VVYUFwMzFmbEVoLXVjdTdyUkxNT2stczJBRGZDaHVpV1BseEJkYw?oc=5_
 
 ---
 
-**89. Jacinta Mwatela: Reggae lover who helped unearth Kenya’s biggest scandals - Daily Nation**
+**89. Kijana Wamalwa: Queen’s English Genius From London Who Died as Kenya’s Poorest VP Living in Rented Houses**
 
-Jacinta Mwatela: Reggae lover who helped unearth Kenya's biggest scandals Daily Nation
+The Kenya Times ~ Trending, Breaking News and Videos Kijana Wamalwa: Queen's English Genius From London Who Died as Kenya's Poorest VP Living in Rented Houses When Kijana Wamalwa became Vice President in 2003, many Kenyans saw a man who had made it. He had studied in Britain, spoke polished Queen's English, and occupied the second-highest office in the country. But behind the smart suits and powerful title was a different story. Unlike many politicians who built huge fortunes during their […] This post Kijana Wamalwa: Queen's English Genius From London Who Died as Kenya's Poorest VP Living in Rented Houses first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Wiltord Otieno
 
-_Kenya Latest — https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFV3LWE2blpvajJPdW9ybGIzMEtOX3h2RThpc3NVZ3RzWHo5bE0xTDd0Z0JpTEFmbmlLWDZMY2I3M1FTQUhuMXlkcXc1cVQ0YjMyZElTaWlCT2pQQ2p6cFRQekxaOHN1ZXphN1pQVjVYV1J3VzI3MTk3U1RQVzRlNld3Wi1seUt4Vk04NnE0ckVaN2RaRUVIaW5Gc3ZwVnJqd3JRRFY5VDY4THE2MTVMdmk3SnU?oc=5_
+_The Kenya Times — https://thekenyatimes.com/explainers/why-kijana-wamalwa-had-rented-houses-while-serving-as-vice-president/_
 
 ---
 
-**90. China is training up thousands of humanoid robots - The Economist**
+**90. AWS Was Lagging Microsoft Azure and Google Cloud in Growth—Is Amazon Finally Catching Up? - Yahoo Finance**
 
-China is training up thousands of humanoid robots The EconomistWhat to expect as 2nd World Humanoid Robot Games get underway news.cgtn.comMessenger: A divided nation finds unity in opposition to data centers and Flock STLtoday.comChinese Robot Firms to Watch at World Robot Conference تسنیمBeyond marathons and backflips, China's robots face a commercial test Reuters
+AWS Was Lagging Microsoft Azure and Google Cloud in Growth—Is Amazon Finally Catching Up? Yahoo FinanceAmazon.com (NASDAQ:AMZN) Rating Increased to Strong-Buy at Rosenblatt Securities MarketBeatKey facts: AMZN Rosenblatt $335, AWS45%; $194B bonds; Anthropic $53.4B TradingViewAmazon Not Getting Enough Credit for AI Positioning, Analyst Says BenzingaAMZN vs. GOOGL: Rosenblatt Sees One Tech Stock as the 'Most Resilient Leader' TipRanks
 
-_Business Topic — https://news.google.com/rss/articles/CBMimwFBVV95cUxOaS02VEYyRkRTVnFEZUs4YVNjeEE0S1ppRkNSSjdIR18zaUxVTHZxNFNDckhrVno5RGkxUXNhLXpsZEswN09qRTVRY2YxNW1wenJjbVlJdXRxSTQ3RW8tUElyb3JhNkFURHBhMUN1SXc2eVJ5ekUtcmZtamRjMDFTYjZXVGVPNHBFQzV5Mk14cXc5OEVPOUVMbDZBNA?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMinwFBVV95cUxQNE1oWXpsU01pcUR1WTcySGo0TjRSSlJYeWZnQ2wtd25wVmd1T1lnOU9KajE1UzA4SG95U0lJU1BDa3NLNzhHc1ZVLTQ3STFjaUN5OUp1S3ptRUlPem5Xc2FxOXBMZU1uQmExbHpMVW5XWWRqS1daTE1jdkdpa2xnbkpLVjBFaEhLbk1mNXFsUG9BZERyWG1kRlRGb3ZBZXM?oc=5_
 
 ---
 
-**91. African businesses keep options open as Chinese AI gains ground - South China Morning Post**
+**91. Former Abercrombie CEO mentally fit for sex-trafficking trial, judge says - The Guardian**
 
-African businesses keep options open as Chinese AI gains ground South China Morning PostChina urges respect for digital sovereignty in AI race ReutersKazakhstan's Role in Pax Silica After WAICO The Times Of Central AsiaChinese scholar calls US AI and supply chain initiatives doomed UA.NEWS💬Money Quote: U.S. and China Can Share the AI Pie WSJ
+Former Abercrombie CEO mentally fit for sex-trafficking trial, judge says The GuardianAP Trending SummaryBrief at 1:50 p.m. EDT Goshen NewsAbercrombie's Former CEO To Face Sex-Trafficking Trial | The Wall Street Journal - newspaper MagzterEx-Abercrombie & Fitch CEO Is Found Mentally Fit to Face Trial Bloomberg.comEx-Abercrombie & Fitch CEO is mentally fit for sex trafficking trial, judge says The Verde Independent
 
-_Business Topic — https://news.google.com/rss/articles/CBMivAFBVV95cUxPakdKUWc4TkNfTWd0eUZtcWxHREUxWTBqYU1PSjR3NG03VWFnQ0F6Qm9MSi1qYlNpdUQtemRsWVdsQy1DazdVdHhncDJzN1dLWlBGZnpRZ2xJZ0NDbWo3Z0V0S3FzR2F2eXZlek9jWDFtTkZ6dFAxRml0UkI1SmUxdXprWnZzQmYtX2x5cWY2cEVVTXg5MVlHbnNVOTdIaHZETzFkcV9kT2oteW1nQ0diZ1h0cWZOLTVTLVdacw?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMiowFBVV95cUxPNG1rOEZuLWtWUHRBeTF6OEczQ2s4UlA5NHVvelpsaTdieUF1UHhHbnFUVW91UlJkcGNZMC1HWWtHaDFKT3EweDBzNGVIWmVVMVdZcUdpdGh6ak9NUE1oeTRrQS1MRkNveUxSNjhqWFdsUThDd2JQaUJBNFhUZ004YmF3QXd4ck1MdmExR2ptTkNOVkV6TnpoNEJmSjI2cWJTcVE4?oc=5_
 
 ---
 
-**92. ‘New season, new trim’ – Haaland reveals buzzcut**
+**92. Iran executes man accused of aiding US, Israel in anti-govt protests**
 
-MANCHESTER, England, August 23, 2026 – Whether it be Zlatan Ibrahimovic, Gareth Bale or Erling Haaland, football has witnessed some iconic man buns over the years. However, Haaland has decided…
+Iran on Sunday executed a man accused of carrying a chainsaw during January anti-government protests who was charged with acting as an agent of Israel and the United States.
 
-_Capital FM Sports — https://capitalfm.africa/new-season-new-trim-haaland-reveals-buzzcut/_
+_Standard World — https://www.standardmedia.co.ke/world/article/2001555976/iran-executes-man-accused-of-aiding-us-israel-in-anti-govt-protests_
 
 ---
 
-**93. CSs Make Immediate Changes to NTSA, KWS Leadership**
+**93. Sinopec's half-year profit grew 19.3% on year despite Iran war, falling demand - CNBC**
 
-NIS's Intelligence Service Complaints Board is also among the state agencies that have been affected by the new appointments made by the CSs via separate gazette notices.
+Sinopec's half-year profit grew 19.3% on year despite Iran war, falling demand CNBCChina Petroleum & Chemical Corporation Reports Earnings Results for the Half Year Ended June 30, 2026 marketscreener.comEn【Press Release】Sinopec FY2026 Interim Results TradingViewSinopec Publishes Unaudited Interim Results for First Half of 2026 TipRanksSinopec reports 19% profit jump in H1 2026 despite Middle East crisis Investing.com
 
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126415-murkomen-chirchir-make-leadership-appointments-ntsa-kws-fresh-shake_
+_Business Topic — https://news.google.com/rss/articles/CBMirAFBVV95cUxOMTZockNXakhFX2pvbDFfNjdqZ0ZNV2Vva2hTRE5NTV9EYXZJRjdNMEN1SUdKcDZ0TExaWmdhQm9nRnNxNTZ5aWtnX3dxQ0hUeDl5VjdGSHJOZERJVUJ6aWh2Y2Vod0FfSElVX19ES19uT0RIVVR6dnBRaHViSmxabl81V2ZTcERuOXp1WlpDeXFLdy1qRjlLVlJQaVNPR2Y3cXpXQW5nRDVROE1W0gGyAUFVX3lxTE5qVjNXNWR6MTM0MWtSaGdpYXVXVEs5bmJONENPc19ueGdLX0tUV3lrcXJmZlI1YjNLT0J4RmkyTVF6T0hENFExU3dQSUItSWQwVjEtTzJMa0RpNGtNeFZvek1RTG4xX2h5RkdGWmlYdEdleGlzb1d2SGJBSWNXenZZTHZJdjRMeVhLY1FDcUJxVWQ4elozSHlfZmVFSTJONXVNbVU3UElqcURoN0tHZnRldmc?oc=5_
 
 ---
 
-**94. Belgut Half Marathon raises funds for needy learners as over 2,000 athletes take part**
+**94. How to calm your child’s night-before-school jitters as Term 3 starts**
 
-More than 2,000 athletes participate as the annual race raises funds for vulnerable learners. Proceeds will supplement the Belgut Starehe Schools bursary kitty to keep needy students in school. The event combines athletics, education support and talent development while rewarding top-performing runners. A sporting event in Belgut, Kericho County, is emerging as an important avenue... The post Belgut Half Marathon raises funds for needy learners as over 2,000 athletes take part first appeared on Education News.
+As thousands of Kenyan learners prepare for school, the final evening before Term 3 reopens often brings a
 
-_Education News — https://educationnews.co.ke/belgut-half-marathon-raises-funds-for-needy-learners-as-over-2000-athletes-take-part/?utm_source=rss&utm_medium=rss&utm_campaign=belgut-half-marathon-raises-funds-for-needy-learners-as-over-2000-athletes-take-part_
+_K24 Digital — https://k24.digital/lifestyle/mental-wellnes/how-to-calm-your-childs-night-before-school-jitters-as-term-3-opens_
 
 ---
 
-**95. KUPPET backs court suspension of TSC social media restrictions on teachers**
+**95. Murkomen urges Kenyans to shun rallies marred by goonism**
 
-KUPPET Chairman Omboko Milemba says teachers should not face unnecessary restrictions when using digital platforms. He has called for responsible social media use while protecting teachers' freedom of expression. The High Court has temporarily halted enforcement of the disputed TSC circular as the case proceeds. Kenya Union of Post Primary Education Teachers (KUPPET) National Chairman... The post KUPPET backs court suspension of TSC social media restrictions on teachers first appeared on Education News.
+Interior and National Administration CS Kipchumba Murkomen has urged Kenyans to shun political rallies where goons are involved, warning that politicians who sponsor and facilitate violence should be held accountable. Murkomen said Kenyans should avoid attending meetings where political leaders hire or facilitate goons, as security agencies step up efforts to prevent violence at political […] The post Murkomen urges Kenyans to shun rallies marred by goonism appeared first on KBC Digital.
 
-_Education News — https://educationnews.co.ke/kuppet-backs-court-suspension-of-tsc-social-media-restrictions-on-teachers/?utm_source=rss&utm_medium=rss&utm_campaign=kuppet-backs-court-suspension-of-tsc-social-media-restrictions-on-teachers_
+_KBC Digital — https://www.kbc.co.ke/murkomen-urges-kenyans-to-shun-rallies-marred-by-goonism/_
 
 ---
 
-**96. Sifuna Mocks Ruto Over Claims Uhuru Is Funding Opposition Ahead of 2027**
+**96. Ndindi Nyoro begins nationwide political mobilisation ahead of 2027**
 
-Nairobi Senator and Linda Mwananchi leader Edwin Sifuna has dismissed allegations that former President Uhuru Kenyatta is financing opposition leaders seeking to challenge President William Ruto in the 2027 General Election. Sifuna appeared to mock Ruto after sharing a snippet from an interview in which the President was asked to provide evidence that Uhuru was […] The post Sifuna Mocks Ruto Over Claims Uhuru Is Funding Opposition Ahead of 2027 appeared first on sauce.co.ke.
+Kiharu MP Ndindi Nyoro has said he will take his campaign for national transformation across Kenya as he positions himself for the 2027 presidential race.
 
-_Sauce Kenya — https://sauce.co.ke/2026/08/sifuna-mocks-ruto-over-claims-uhuru-is-funding-opposition-ahead-of-2027/_
+_Standard Headlines — https://www.standardmedia.co.ke/article/2001556019/ndindi-nyoro-begins-nationwide-political-mobilisation-ahead-of-2027_
 
 ---
 
-**97. Trump says Canada wants ‘benefits’ of being US state as Carney says countries in trade war**
+**97. Justice Mutava’s troubled legacy in the Goldenberg affair**
 
-US President Donald Trump has said Canada wants “the benefits of being a State, without being one” after trade talks between the two countries collapsed late on Friday. In his first comments after negotiations broke down, triggering new 50% US tariffs on a range of Canadian goods, Trump also said US farmers had been charged […] The post Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war appeared first on KBC Digital.
+Tribunal found that judge had irregularly and inappropriately colluded with others to have the.
 
-_KBC Digital — https://www.kbc.co.ke/trump-says-canada-wants-benefits-of-being-us-state-as-carney-says-countries-in-trade-war/_
+_Nation Africa — https://nation.africa/kenya/news/justice-mutava-s-troubled-legacy-in-the-goldenberg-affair-5567988_
 
 ---
 
-**98. Taifa Gas Project Site Mechanical Engineer Moses Ochieng speaks during an interview with KNA at the Dongo Kundu Special Economic Zone in Mombasa. He said the Sh16 billion LPG terminal is aligned with the government's economic development and cle - facebook.com**
+**98. Monday blackout to hit parts of 5 counties**
 
-Taifa Gas Project Site Mechanical Engineer Moses Ochieng speaks during an interview with KNA at the Dongo Kundu Special Economic Zone in Mombasa. He said the Sh16 billion LPG terminal is aligned with the government's economic development and cle facebook.com
+Kenya Power has announced a planned electricity interruption expected to affect parts of five counties on Monday, August
 
-_Kenya News Agency — https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYkRTVlJNX3FaTm94VUVJQndxUEJJTHlCaTJEX2hZOXFCZUJ5TUt4TWVFOWxSd3lad2RtN0JiRHR4dWw0SHZKM0ZuVXFEX1VrMlFWNktuZEROOFhsMjBBV0F5SGhqSG5Vd1BvMzJvVDg3cjZoS1pFYzZvaUZVOENJeUpPSnVRNWhNVFpaMUduend3bVF0VEgyUHJweFprOXRrUFhDZFpGTGdENGZCbGpOZUJneVVhdnFYZjJNRG1VaUxtX2JXZF9EbFNRZ3JCeVRqWTRIWVZnbUsxVWhXNVE?oc=5_
+_K24 Digital — https://k24.digital/news/monday-blackout-to-hit-parts-of-5-counties_
 
 ---
 
-**99. 𝐓𝐡𝐞 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥 𝐒𝐞𝐜𝐫𝐞𝐭𝐚𝐫𝐲 𝐟𝐨𝐫 𝐏𝐮𝐛𝐥𝐢𝐜 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐚𝐧𝐝 𝐇𝐮𝐦𝐚𝐧 𝐂𝐚𝐩𝐢𝐭𝐚𝐥 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐃𝐫 𝐉𝐚𝐧𝐞 𝐈𝐦𝐛𝐮𝐧𝐲𝐚, 𝐡𝐚𝐬 𝐮𝐧𝐝𝐞𝐫𝐬𝐜𝐨𝐫𝐞𝐝 𝐭𝐡𝐞 𝐛𝐫𝐨𝐚𝐝𝐞𝐫 𝐫𝐨𝐥𝐞 𝐨𝐟 𝐞𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐊𝐞𝐧𝐲𝐚’𝐬 𝐡𝐮𝐦𝐚𝐧 𝐜𝐚𝐩𝐢𝐭𝐚𝐥. S - facebook.com**
+**99. Sh38.8m Nyandarua spending under EACC probe**
 
-𝐓𝐡𝐞 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥 𝐒𝐞𝐜𝐫𝐞𝐭𝐚𝐫𝐲 𝐟𝐨𝐫 𝐏𝐮𝐛𝐥𝐢𝐜 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐚𝐧𝐝 𝐇𝐮𝐦𝐚𝐧 𝐂𝐚𝐩𝐢𝐭𝐚𝐥 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐃𝐫 𝐉𝐚𝐧𝐞 𝐈𝐦𝐛𝐮𝐧𝐲𝐚, 𝐡𝐚𝐬 𝐮𝐧𝐝𝐞𝐫𝐬𝐜𝐨𝐫𝐞𝐝 𝐭𝐡𝐞 𝐛𝐫𝐨𝐚𝐝𝐞𝐫 𝐫𝐨𝐥𝐞 𝐨𝐟 𝐞𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐊𝐞𝐧𝐲𝐚'𝐬 𝐡𝐮𝐦𝐚𝐧 𝐜𝐚𝐩𝐢𝐭𝐚𝐥. S facebook.com
+A complaint alleges that millions of shillings were misappropriated in 2025.
 
-_Kenya News Agency — https://news.google.com/rss/articles/CBMi0glBVV95cUxQOEZLcm1vUExBZW1SemJtQ01iOTZtWDZ0Rnd3NWJ2TDVDTUVia1FIMHY5OEg3Y0tvR2RvZGpKQjV2QXQ1SERxb1lwcm9KcG5mNjBabzJDOGZkQTY2OXBXQTA1RHVMcXdXQU1ua3ZWWXY0bFJWMUxEOGhBc1A0NFUxYVhwenNfZ0duSjIwOEdVQ1ZuTjdoTjdRSGhycW9GdDUwUU1zV01iSDZ4b0YxQWk3UUJRaE5zUl9yd29ZTnY4MXhWV09hMGU3Yy1jWmxKLW1lSkZBMHUxUDlwTDgwOUJmSmE5RU5UX1N1X1U1Q1NUNmJaNHVhNGJJd0JUX0RhMzIwLU5BSE95X1ZaWElCTnpiRzM1T2ZoaGlaUzVKVjBDdEtyd0lTZklEMF91azdPX0FTLTU0UFZIX05fMnZZc1FFNzhXcEs4MGJCc0RNdjZzb1NSZVVOZ2RONVBUc093clZidVJ3MzUzV0kteEZFYmZUd21PT2FuMDFvbnhVblRFZlZpVGJ3WDBlZUZFa3ZvczZzSWtfcHpyUHcwR2tpNUJReXM0anVLb2lGMEd6bTNpN081cHRiTTJETElpa0JnaU9WclhDamEtbW9zcVBHejkwZWtpNVRJb0VKVGVQQ2VFZ05TeDQxcHI2V3R2Q2pJend5Qk43OF9nMWpiaThFWkM3VFNmVmd4anl1dFJ5QUZCZC0yZHhDV2VjR2R3eEY0alcyTElOUW9tc1hGZWNhbWV0RHFnSkdnd2RialRqWFA4aXlpd1J4VGtTdDFvVFVSNDBFQ2J5VmJSVmRYblo2ZkpHdDlXQ1JsRHNxd3ZoZXlFNlctcjBGYlpLTjdSUzlEUWZfWHFabVpMS1JudGN4WHBNMFUtQ3NueHZBTS0xbDN5QTdjcjVxS3NIR0pLQXhXZ3BzeXdLNnJZMjlmNF95WjB3WjhsbWhlNUNsYTdQNVJBbjNlWWh2Y1JMY0NtOGhpaFJwbnQ4Y1VRanJfenpnS0JmOHZtcnVRVXk1QmVKMzR2SWdocFRiZnlTbUlhY0hmWmh6b0FiMXpPQjBnbGZsOHl2TXBleGdIellwSWdYcVZ3R1RtWWJVQlpXYy1HTnpCOUFDcUV3bUE2UWFrZjFDOGFnVENiTlNmbVVNZmNET2l5S0czMXIyVXVhTzNmeXg1SEMtNUhJM2s3LVRqZ19ycDAzRHlGZXV4M1J4TTI1Y0pzaFZ5aXdLc2hERG1WNDJ2N1VPaXQ3S05fLUxUQUNQa1hHaEp1cm9Ba2VuWmt1cVpLbkFCMi13WnBLYTJGN3VoUVVtZzNlRHJFcU0yUENLZWlySTUtR3NRWDdGUzhLWE1meElDZnkzZXNKbjA4Z1BRMzBQQWVIdjRYYnRNNG50aC1xRFhhV2lEZS1wZWRCSTUwbWlxVXpfUDh2QTJfZmM2aXkwSkNPN1A0V1p1S2RERkl3SHZ6cjRlZkxhckpCZ3dYak1OcW1oU0UxSU1iaENSSGN5OXA4R2JkM2lJX2h2dFdubGQ1X1dGSG5kMXBqb25fZU9MVlJoZW9HeWZhWU9BREZnTnJBd05LZTZXZjJiVGhmV2pDMXB1LU82RUFHRjVzd0RsNUZLQ2N2R2g5WU1YWGphdXoxYlJia1JXdGE3b1F1Tkh3?oc=5_
+_Nation Africa — https://nation.africa/kenya/counties/nyandarua/sh38-8m-nyandarua-spending-under-eacc-probe-5568142_
 
 ---
 
-**100. KMPDU Raises Alarm Over New Bill Targeting Doctors, Issue Demands**
+**100. From long-time girlfriend to fiancée: What to know about Usain Bolt’s partner Kasi Bennett**
 
-The proposed legislation seeks to introduce additional regulatory measures, including provisions targeting the fraudulent acquisition of practicing licenses.
+Kasi Bennett, a Jamaican entrepreneur and mother of three, has stepped into a new chapter with sprint legend
 
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126421-kmpdu-calls-withdrawal-proposed-health-bill-says-existing-laws-are-enough_
+_K24 Digital — https://k24.digital/entertainment/celebrity/from-long-time-girlfriend-to-fiancee-what-to-know-about-usain-bolts-partner-kasi-bennett_
 
 ---
 

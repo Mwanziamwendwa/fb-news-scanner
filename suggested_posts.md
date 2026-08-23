@@ -1,6 +1,6 @@
-# Kenya News Suggestions - Generated 2026-08-23 14:10:16 EAT
+# Kenya News Suggestions - Generated 2026-08-23 14:41:39 EAT
 
-Scanned lookback gap of 23 minutes. Found 6 unique stories.
+Scanned lookback gap of 31 minutes. Found 8 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
@@ -21,54 +21,71 @@ Scanned lookback gap of 23 minutes. Found 6 unique stories.
 - **Viral Tea Breaking** (google_news_search_fallback): `https://viraltea.co.ke/rss/category/breaking` → `https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20Breaking&hl=en-KE&gl=KE&ceid=KE:en`
 - **Viral Tea National** (google_news_search_fallback): `https://viraltea.co.ke/rss/category/national` → `https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20National&hl=en-KE&gl=KE&ceid=KE:en`
 - **Viral Tea Local** (google_news_search_fallback): `https://viraltea.co.ke/rss/category/local` → `https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20Local&hl=en-KE&gl=KE&ceid=KE:en`
+- **Kenyapedia Money** (url_variant): `https://www.kenyapedia.co.ke/rss/category/money-and-finances` → `http://www.kenyapedia.co.ke/rss/category/money-and-finances`
 
 ---
 
-**1. Gachagua To Make Major Announcement Tomorrow Ahead of Long US Tour**
+**1. She started with Sh5,000. Six years later, her yarn business has five branches**
 
-Gachagua said after adressing Kenyans, he will be travelling to the US where he will stay for a while.
+From watching her mother crochet to running a growing business.
 
-_Nairobi Leo — https://nairobileo.co.ke/news/article/29698/gachagua-to-make-major-announcement-tomorrow-ahead-of-long-us-tour_
-
----
-
-**2. Why I believe TSC commissioner nominee Antonina Lentoijoni can end the culture of teacher stagnation**
-
-Ashford Kimani sees Lentoijoni's proposed career pathways as offering renewed hope to long-serving classroom teachers. The approach could allow professional advancement without compelling accomplished teachers to move into school administration. Kimani argues that transparent progression, adequate funding and automation could restore confidence in the teaching profession. I do not know Commissioner nominee Antonina Lentoijoni in... The post Why I believe TSC commissioner nominee Antonina Lentoijoni can end the culture of teacher stagnation first appeared on Education News.
-
-_Education News — https://educationnews.co.ke/why-i-believe-tsc-commissioner-nominee-antonina-lentoijoni-can-end-the-culture-of-teacher-stagnation/?utm_source=rss&utm_medium=rss&utm_campaign=why-i-believe-tsc-commissioner-nominee-antonina-lentoijoni-can-end-the-culture-of-teacher-stagnation_
+_Nation Africa — https://nation.africa/kenya/life-and-style/she-started-with-sh5-000-six-years-later-her-yarn-business-has-five-branches--5567904_
 
 ---
 
-**3. 𝐓𝐡𝐞 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥 𝐒𝐞𝐜𝐫𝐞𝐭𝐚𝐫𝐲 𝐟𝐨𝐫 𝐏𝐮𝐛𝐥𝐢𝐜 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐚𝐧𝐝 𝐇𝐮𝐦𝐚𝐧 𝐂𝐚𝐩𝐢𝐭𝐚𝐥 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐃𝐫 𝐉𝐚𝐧𝐞 𝐈𝐦𝐛𝐮𝐧𝐲𝐚, 𝐡𝐚𝐬 𝐮𝐧𝐝𝐞𝐫𝐬𝐜𝐨𝐫𝐞𝐝 𝐭𝐡𝐞 𝐛𝐫𝐨𝐚𝐝𝐞𝐫 𝐫𝐨𝐥𝐞 𝐨𝐟 𝐞𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐊𝐞𝐧𝐲𝐚’𝐬 𝐡𝐮𝐦𝐚𝐧 𝐜𝐚𝐩𝐢𝐭𝐚𝐥. S - facebook.com**
+**2. President Ruto orders new Govt payroll system as crackdown targets irregular payments**
 
-𝐓𝐡𝐞 𝐏𝐫𝐢𝐧𝐜𝐢𝐩𝐚𝐥 𝐒𝐞𝐜𝐫𝐞𝐭𝐚𝐫𝐲 𝐟𝐨𝐫 𝐏𝐮𝐛𝐥𝐢𝐜 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐚𝐧𝐝 𝐇𝐮𝐦𝐚𝐧 𝐂𝐚𝐩𝐢𝐭𝐚𝐥 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭, 𝐃𝐫 𝐉𝐚𝐧𝐞 𝐈𝐦𝐛𝐮𝐧𝐲𝐚, 𝐡𝐚𝐬 𝐮𝐧𝐝𝐞𝐫𝐬𝐜𝐨𝐫𝐞𝐝 𝐭𝐡𝐞 𝐛𝐫𝐨𝐚𝐝𝐞𝐫 𝐫𝐨𝐥𝐞 𝐨𝐟 𝐞𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 𝐢𝐧 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐢𝐧𝐠 𝐊𝐞𝐧𝐲𝐚'𝐬 𝐡𝐮𝐦𝐚𝐧 𝐜𝐚𝐩𝐢𝐭𝐚𝐥. S facebook.com
+The government is tightening payroll controls to eliminate irregularities and strengthen accountability across public institutions. State agencies will migrate to a revamped human-resource and payroll system alongside extensive verification of employee records. The reforms will strengthen cybersecurity, payroll oversight and integration with other public financial-management platforms. President William Ruto has directed the government to establish... The post President Ruto orders new Govt payroll system as crackdown targets irregular payments first appeared on Education News.
 
-_Kenya News Agency — https://news.google.com/rss/articles/CBMi0glBVV95cUxQOEZLcm1vUExBZW1SemJtQ01iOTZtWDZ0Rnd3NWJ2TDVDTUVia1FIMHY5OEg3Y0tvR2RvZGpKQjV2QXQ1SERxb1lwcm9KcG5mNjBabzJDOGZkQTY2OXBXQTA1RHVMcXdXQU1ua3ZWWXY0bFJWMUxEOGhBc1A0NFUxYVhwenNfZ0duSjIwOEdVQ1ZuTjdoTjdRSGhycW9GdDUwUU1zV01iSDZ4b0YxQWk3UUJRaE5zUl9yd29ZTnY4MXhWV09hMGU3Yy1jWmxKLW1lSkZBMHUxUDlwTDgwOUJmSmE5RU5UX1N1X1U1Q1NUNmJaNHVhNGJJd0JUX0RhMzIwLU5BSE95X1ZaWElCTnpiRzM1T2ZoaGlaUzVKVjBDdEtyd0lTZklEMF91azdPX0FTLTU0UFZIX05fMnZZc1FFNzhXcEs4MGJCc0RNdjZzb1NSZVVOZ2RONVBUc093clZidVJ3MzUzV0kteEZFYmZUd21PT2FuMDFvbnhVblRFZlZpVGJ3WDBlZUZFa3ZvczZzSWtfcHpyUHcwR2tpNUJReXM0anVLb2lGMEd6bTNpN081cHRiTTJETElpa0JnaU9WclhDamEtbW9zcVBHejkwZWtpNVRJb0VKVGVQQ2VFZ05TeDQxcHI2V3R2Q2pJend5Qk43OF9nMWpiaThFWkM3VFNmVmd4anl1dFJ5QUZCZC0yZHhDV2VjR2R3eEY0alcyTElOUW9tc1hGZWNhbWV0RHFnSkdnd2RialRqWFA4aXlpd1J4VGtTdDFvVFVSNDBFQ2J5VmJSVmRYblo2ZkpHdDlXQ1JsRHNxd3ZoZXlFNlctcjBGYlpLTjdSUzlEUWZfWHFabVpMS1JudGN4WHBNMFUtQ3NueHZBTS0xbDN5QTdjcjVxS3NIR0pLQXhXZ3BzeXdLNnJZMjlmNF95WjB3WjhsbWhlNUNsYTdQNVJBbjNlWWh2Y1JMY0NtOGhpaFJwbnQ4Y1VRanJfenpnS0JmOHZtcnVRVXk1QmVKMzR2SWdocFRiZnlTbUlhY0hmWmh6b0FiMXpPQjBnbGZsOHl2TXBleGdIellwSWdYcVZ3R1RtWWJVQlpXYy1HTnpCOUFDcUV3bUE2UWFrZjFDOGFnVENiTlNmbVVNZmNET2l5S0czMXIyVXVhTzNmeXg1SEMtNUhJM2s3LVRqZ19ycDAzRHlGZXV4M1J4TTI1Y0pzaFZ5aXdLc2hERG1WNDJ2N1VPaXQ3S05fLUxUQUNQa1hHaEp1cm9Ba2VuWmt1cVpLbkFCMi13WnBLYTJGN3VoUVVtZzNlRHJFcU0yUENLZWlySTUtR3NRWDdGUzhLWE1meElDZnkzZXNKbjA4Z1BRMzBQQWVIdjRYYnRNNG50aC1xRFhhV2lEZS1wZWRCSTUwbWlxVXpfUDh2QTJfZmM2aXkwSkNPN1A0V1p1S2RERkl3SHZ6cjRlZkxhckpCZ3dYak1OcW1oU0UxSU1iaENSSGN5OXA4R2JkM2lJX2h2dFdubGQ1X1dGSG5kMXBqb25fZU9MVlJoZW9HeWZhWU9BREZnTnJBd05LZTZXZjJiVGhmV2pDMXB1LU82RUFHRjVzd0RsNUZLQ2N2R2g5WU1YWGphdXoxYlJia1JXdGE3b1F1Tkh3?oc=5_
-
----
-
-**4. Uhuru Responds to Ruto Over Claims Of Sponsoring Opposition**
-
-His response followed Ruto's claims that he is sponsoring the opposition to frustrate his government.
-
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126430-uhuru-rules-out-return-politics-dismisses-sponsor-allegations_
+_Education News — https://educationnews.co.ke/president-ruto-orders-new-govt-payroll-system-as-crackdown-targets-irregular-payments/?utm_source=rss&utm_medium=rss&utm_campaign=president-ruto-orders-new-govt-payroll-system-as-crackdown-targets-irregular-payments_
 
 ---
 
-**5. Personal care products are awash in unlabeled toxic chemicals, study finds - The Guardian**
+**3. Kenya dethrones Uganda to reclaim 2026 FEASSA crown after thrilling Morogoro showdown**
 
-Personal care products are awash in unlabeled toxic chemicals, study finds The Guardian
+Kenya topped the regional school games after collecting 20 gold medals across diverse sporting disciplines. Uganda finished a close second with 19 titles after dominating football, swimming and several indoor events. Morogoro witnessed Kenyan triumphs in athletics, rugby, hockey, volleyball, handball, chess and other disciplines. Kenya has reclaimed the East African school sports crown after... The post Kenya dethrones Uganda to reclaim 2026 FEASSA crown after thrilling Morogoro showdown first appeared on Education News.
 
-_Business Topic — https://news.google.com/rss/articles/CBMinAFBVV95cUxNSExPQXpTWW9XQVlCcURCSDV2OU5RUFlubFVMUGdQaTdMeUI0ZlJOejNvY1pFaDVmSVhrVENXbm5UdjU0ZmJ0aDRrVW1mbGUzOWt3OC0xbDNGMVI1dDBRTGZ1dTd2UUVxYTJFb3V3ZnhZSk9TMU5TR19ZMkdjZ0o5Rm1BM3g4ZHhvcDNCWmN5V3BWejljM1FpX0lVSXo?oc=5_
+_Education News — https://educationnews.co.ke/kenya-dethrones-uganda-to-reclaim-2026-feassa-crown-after-thrilling-morogoro-showdown/?utm_source=rss&utm_medium=rss&utm_campaign=kenya-dethrones-uganda-to-reclaim-2026-feassa-crown-after-thrilling-morogoro-showdown_
 
 ---
 
-**6. Accuracy and Completeness of Online Patient Information on Nail-Patella Syndrome: A Pilot Cross-Sectional Study - Cureus**
+**4. Murkomen urges Kenyans to shun rallies marred by goonism**
 
-Accuracy and Completeness of Online Patient Information on Nail-Patella Syndrome: A Pilot Cross-Sectional Study Cureus
+Interior and National Administration CS Kipchumba Murkomen has urged Kenyans to shun political rallies where goons are involved, warning that politicians who sponsor and facilitate violence should be held accountable. Murkomen said Kenyans should avoid attending meetings where political leaders hire or facilitate goons, as security agencies step up efforts to prevent violence at political […] The post Murkomen urges Kenyans to shun rallies marred by goonism appeared first on KBC Digital.
 
-_Business Topic — https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdFZQZzFVMGZIX0poMld6eWZBMXYzbXBxZDdXRkVQVjFNanhGMElHMDFObGllVHhvd3hvT3hBZERPNkpTZ3hBNlFZVy02OXlIb2tGQ011eGV1ZUdZTTZWT1EwaXRkU3pXckkyRGs2V0JzaU9iUVFwNjhUN19sM2FrSjM1QXdvWjRFTGtYeEQySHJhUlFUYUdQTDZhZ2tuUkRKQ01VRm9nU0hSanJxVW53Q2F3ZXdJSnYxLWZ3b0VVYUFwMzFmbEVoLXVjdTdyUkxNT2stczJBRGZDaHVpV1BseEJkYw?oc=5_
+_KBC Digital — https://www.kbc.co.ke/murkomen-urges-kenyans-to-shun-rallies-marred-by-goonism/_
+
+---
+
+**5. Uhuru hits back at Ruto: Kenyans will choose their president in 2027**
+
+Jameni chungeni, sitaki kuitwa sponsor, Uhuru said, drawing laughter from the audience.
+
+_Standard Headlines — https://www.standardmedia.co.ke/article/2001556000/uhuru-hits-back-at-ruto-kenyans-will-choose-their-president-in-2027_
+
+---
+
+**6. New season, new look! Erling Haaland ditches long blonde hair for different hairstyle**
+
+Football star Erling Haaland is set to sport a whole new look for the new English Premier League
+
+_K24 Digital — https://k24.digital/sports/epl/new-season-new-look-erling-haaland-ditches-long-blonde-hair-for-different-hairstyle_
+
+---
+
+**7. Man leaves tired 7-year-old son alone on mountain during family hike**
+
+A man who left his tired 7-year-old son to wait alone on Japan's Mount Fuji while he continued
+
+_K24 Digital — https://k24.digital/news/man-leaves-tired-7-year-old-son-alone-on-mountain-during-family-hike_
+
+---
+
+**8. 50%+1 Race: Counties That Could Decide Ruto’s 2027 Re-Election**
+
+The Kenya Times ~ Trending, Breaking News and Videos 50%+1 Race: Counties That Could Decide Ruto's 2027 Re-Election President William Ruto has led the latest opinion polls and ranks as the preferred candidate in the 2027 elections. His path to a second term will depend on how his support holds up across Kenya's major voting blocs. Retaining previous support in 2022 and increasing influence in opposition-leaning counties could determine whether he crosses the constitutional 50% […] This post 50%+1 Race: Counties That Could Decide Ruto's 2027 Re-Election first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Morgan Wanyonyi
+
+_The Kenya Times — https://thekenyatimes.com/politics/nairobi-kiambu-nakuru-counties-that-could-decide-kenyas-2027-presidential-election/_
 
 ---
 

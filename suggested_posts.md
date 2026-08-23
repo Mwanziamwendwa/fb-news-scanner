@@ -1,6 +1,6 @@
-# Kenya News Suggestions - Generated 2026-08-23 11:14:34 EAT
+# Kenya News Suggestions - Generated 2026-08-23 11:53:58 EAT
 
-Scanned lookback gap of 21 minutes. Found 10 unique stories.
+Scanned lookback gap of 39 minutes. Found 17 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
@@ -24,83 +24,139 @@ Scanned lookback gap of 21 minutes. Found 10 unique stories.
 
 ---
 
-**1. FKF Super Cup preview: Gor Mahia aim for Tusker scalp in league’s curtain-raiser**
+**1. M-Pesa Operator Shot During Robbery in Migori as Gunmen Steal KSh200,000**
 
-Gor Mahia and Tusker FC will renew their rivalry on Sunday, August 23, 2026 when they meet in
+A 42-year-old M-Pesa operator was shot and injured after two armed robbers raided his business at Moss Market in Nyarongi Sub-location, Otachi Location, Suna East, Migori County. The incident occurred on Thursday, August 20, 2026, as the businessman was reportedly closing his shop. According to police, the two attackers were armed with a firearm believed […] The post M-Pesa Operator Shot During Robbery in Migori as Gunmen Steal KSh200,000 appeared first on sauce.co.ke.
 
-_K24 Digital — https://k24.digital/sports/kpl/fkf-super-cup-preview-gor-mahia-aim-for-tusker-scalp-in-leagues-curtain-raiser_
-
----
-
-**2. UDA, ODM Get Largest Share of Ksh1.4B Political Fund Ahead of 2027 Elections**
-
-Rigathi Gachagua's DCP has missed out on the funds allocation as the 2027 election clock is ticking.
-
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126425-uda-set-receive-ksh550-million-political-parties-fund_
+_Sauce Kenya — https://sauce.co.ke/2026/08/m-pesa-operator-shot-during-robbery-in-migori-as-gunmen-steal-ksh200000/_
 
 ---
 
-**3. Aliyejifanya padri na kuongoza misa kadhaa Turkana ndani**
+**2. Women aspirants condemn political violence ahead of 2027 polls**
 
-MWANAUME anayeshtakiwa kwa kujifanya padri wa Kanisa Katoliki aliingia katika shughuli za Jimbo Katoliki la Lodwar, kuongoza misa pamoja na Askofu John Mbinda na baadaye kuongoza ibada katika makanisa kadhaa kabla ya kutiliwa shaka. Mshukiwa huyo, Jones Bogonko Onchonga, sasa amezua maswali katika Jimbo la Kanisa Katoliki la Lodwar kuhusu jinsi alivyoweza kutekeleza majukumu ya kasisi bila kuwa na mamlaka hayo. Mnamo Agosti 16, 2026, jimbo hilo lilitoa taarifa likiwaonya mapadri na waumini kuwa Bw Onchonga si padri wa Kanisa Katoliki. “Rev Fr Jones Bogonko Onchonga, M.C si padri wa Kanisa Katoliki. Kwa hakika, yeye ni mwanamume aliyeoa mwenye watoto wawili huko Kisii,” ilisema taarifa iliyotiwa saini na Askofu Mbinda. Jimbo lilimlaumu Bw Onchonga kwa kukiuka sheria kadhaa za Kanisa Katoliki, ikiwemo kujifanya kutoa sakramenti, kuendesha ibada bila ruhusa na kutumia nyaraka za kanisa kwa njia isiyo halali. Alifikishwa mbele ya Hakimu Mkuu Evanson Ngigi mjini Lodwar Agosti 14 na kukiri shtaka la kujifanya mtu mwingine kinyume na kifungu cha 382 cha Sheria ya Adhabu. Hata hivyo, alibadilisha msimamo huo Agosti 17 mbele ya Hakimu Michael Lokitam. Inadaiwa kuwa kati ya Julai 31 na Agosti 12 alitumia udanganyifu kumshawishi Askofu Mbinda na viongozi wa jimbo kwamba alikuwa padri aliyeteuliwa na aliyepewa mamlaka ya kuendesha shughuli za kanisa. Kwa sasa anazuiliwa katika Gereza la GK Lodwar baada ya kukosa dhamana ya Sh100,000 pamoja na mdhamini wa kiwango hicho, au dhamana ya pesa taslimu ya Sh50,000 Kabla ya kutiliwa shaka, Bw Onchonga alikuwa tayari amepata nafasi ndani ya jimbo hilo. Mnamo Agosti 5, aliungana na Askofu Mbinda kama mmoja wa mapadre walioshiriki misa katika Kanisa Kuu la St Augustine wakati wa uzinduzi wa Legion of Mary. Baada ya misa, Askofu Mbinda aliondoka kuelekea Nairobi huku Bw Onchonga akiendelea kuongoza misa nyingine. Mnamo Agosti 9, waumini katika Shrine ya St Mary's, Lodaraja, karibu na Mto Kawalase, walianza kumtilia shaka. Akiwa amevalia vazi la kasisi la kijani, alidai kuwa alikuwa na uhusiano wa kifamilia na Askofu Mbinda. Waumini walisema alionekana kuchanganyikiwa wakati wa kuendesha misa. Picha yake akiendesha ibada ilisambazwa katika kundi la WhatsApp la mapadre na askofu, na kusababisha maswali zaidi kuhusu utambulisho wake. Mpelelezi mmoja alisema Bw Onchonga wakati fulani alijaribu kumpa muumini sakramenti ambayo haikuwa imetakaswa. Akihojiwa katika ofisi za DCI Lodwar, Bw Onchonga alisema aliwahi kukutana na Askofu Mbinda katika Chuo Kikuu cha Tangaza na alitaka kuwasiliana naye tena baada ya kuondoka Tanzania. Sasa jimbo hilo linakabiliwa na maswali kuhusu taratibu za kuthibitisha watu wanaohudumu kama mapadre na iwapo mtu yeyote ndani ya kanisa alimsaidia mshukiwa huyo kupata nafasi hiyo.
+Women aspiring for elective positions in the Mt Kenya region have called for a political environment that gives them equal opportunities to compete, warning that violence, costly party processes and intimidation could undermine efforts to increase women's representation in leadership. The women said political participation should not only be about encouraging women to seek office, […] The post Women aspirants condemn political violence ahead of 2027 polls appeared first on KBC Digital.
 
-_Taifa Leo — https://taifaleo.nation.co.ke/habari/aliyejifanya-padri-na-kuongoza-misa-kadhaa-turkana-ndani/_
-
----
-
-**4. ‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks - The Guardian**
-
-'We are hitting a different chapter': OpenAI leader warns of threat of 'persistent' AI cyber-attacks The GuardianPacing model development in an era of cyber-critical capabilities OpenAIOpenAI to rewrite its safety rules post-Hugging Face AxiosArtificial Intelligence: Rogue AI Is a Scary But Fixable Problem Bloomberg.comWhat to make of OpenAI's pause on its march toward superintelligence LinkedIn
-
-_Business Topic — https://news.google.com/rss/articles/CBMilgFBVV95cUxQTU9VbHZPQ2czTUlfNVZMVk53TkZRbUhPTTJJQ3o3SjE4VEpiZWx2UHBpWG5MZkN6aG9ZVWsycTk1ME9pNFNmaWFybG1oMmxlY2NoZEEyZlZwT09SY2dxdWZIYjFmSGRLNG91dkJLU1ZrYV8yRHY0eHc5TnR1UktESUpUR1l6SlRueXlIbU9aeW5TYTZqR0E?oc=5_
+_KBC Digital — https://www.kbc.co.ke/women-aspirants-condemn-political-violence-ahead-of-2027-polls/_
 
 ---
 
-**5. Kenyan Bank Charges: Full Comparison of ATM, M-Pesa, PesaLink and Account Fees**
+**3. Malaba Border Post generates over Ksh11 billion in revenue**
 
-The Kenya Times ~ Trending, Breaking News and Videos Kenyan Bank Charges: Full Comparison of ATM, M-Pesa, PesaLink and Account Fees Bank customers in Kenya pay different amounts for everyday services depending on the institution, account type, and channel used. A review by The Kenya Times of the latest tariffs from major banks shows that charges range from as little as zero to hundreds of shillings for a single transaction. The comparison covers Equity Bank, KCB, […] This post Kenyan Bank Charges: Full Comparison of ATM, M-Pesa, PesaLink and Account Fees first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Morgan Wanyonyi
+The Malaba One Stop Border Post (OSBP) generated more than Ksh11 billion in the last financial year (2025/2026). The OSBP surpassed its target of Ksh10,619,791,008.54 during the period, achieving 104 per cent of the target. The border post has recorded a steady increase in revenue generation, from Ksh1,485,508,679 in the 2014/2015 financial year to Ksh11.04 […] The post Malaba Border Post generates over Ksh11 billion in revenue appeared first on KBC Digital.
 
-_The Kenya Times — https://thekenyatimes.com/business/kenyas-most-expensive-bank-charges-compared-kcb-equity-co-op-absa-and-ncba/_
-
----
-
-**6. Sifuna Goes after Ruto over President's Evidence on Uhuru Sponsoring Linda Mwananchi**
-
-President Ruto was pressed in a newspaper interview to produce evidence that former president Uhuru Kenyatta is sponsoring Sifuna and his team.
-
-_Nairobi Leo — https://nairobileo.co.ke/news/article/29695/sifuna-goes-after-ruto-over-presidents-evidence-on-uhuru-sponsoring-linda-mwananchi_
+_KBC Digital — https://www.kbc.co.ke/malaba-border-post-generates-over-ksh11-billion-in-revenue/_
 
 ---
 
-**7. Prof. Olive Mugenda: The woman who broke Kenya’s university leadership glass ceiling**
+**4. Major roads likely to experience traffic snarl-up as schools reopen**
 
-Prof. Olive Mugenda was the first woman to lead a Kenyan public university, serving as Kenyatta University's Vice-Chancellor from 2006 to 2016. She has gone on to hold senior roles across Kenya's institutional landscape, including Chancellor of KCA University and Board Chairperson of HF Group PLC. Her career has earned her national honours and international... The post Prof. Olive Mugenda: The woman who broke Kenya's university leadership glass ceiling first appeared on Education News.
+The reopening of schools on Monday, August 24, 2026, is likely to bring heavier traffic to some of Kenya's
 
-_Education News — https://educationnews.co.ke/prof-olive-mugenda-the-woman-who-broke-kenyas-university-leadership-glass-ceiling/?utm_source=rss&utm_medium=rss&utm_campaign=prof-olive-mugenda-the-woman-who-broke-kenyas-university-leadership-glass-ceiling_
-
----
-
-**8. WhatsApp Set to Introduce New Radical Feature Affecting iPhone Users**
-
-WhatsApp began rolling out its initial Liquid Glass redesign more broadly earlier this year after months of testing.
-
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126424-whatsapp-set-major-iphone-redesign-more-liquid-glass-features_
+_K24 Digital — https://k24.digital/lifestyle/travel-and-leisure/major-roads-likely-to-experience-traffic-snarl-up-as-schools-reopen_
 
 ---
 
-**9. President Ruto: How new economic blueprint will be designed**
+**5. Sifuna Mocks Ruto Over Claims Uhuru Is Funding Opposition Ahead of 2027**
 
-Opposition leaders have called the initiative a 2027 campaign tool.
+Nairobi Senator and Linda Mwananchi leader Edwin Sifuna has dismissed allegations that former President Uhuru Kenyatta is financing opposition leaders seeking to challenge President William Ruto in the 2027 General Election. Sifuna appeared to mock Ruto after sharing a snippet from an interview in which the President was asked to provide evidence that Uhuru was […] The post Sifuna Mocks Ruto Over Claims Uhuru Is Funding Opposition Ahead of 2027 appeared first on sauce.co.ke.
 
-_Nation Africa — https://nation.africa/kenya/news/president-ruto-how-new-economic-blueprint-will-be-designed-5567790_
+_Sauce Kenya — https://sauce.co.ke/2026/08/sifuna-mocks-ruto-over-claims-uhuru-is-funding-opposition-ahead-of-2027/_
 
 ---
 
-**10. The Magic Faraway Tree review: A magical family adventure that mixes fantasy with real-life family struggles**
+**6. How goons turned a Beyond 2030 Workshop into a Tutam Rally**
 
-The Magic Faraway Tree is a 2026 family adventure fantasy film based on the much-loved children's book series
+The Beyond 2030 banners had mysteriously disappeared. In their place were banners bearing.
 
-_K24 Digital — https://k24.digital/entertainment/movies/the-magic-faraway-tree-review-a-magical-family-adventure-that-mixes-fantasy-with-real-life-family-struggles_
+_Nation Africa — https://nation.africa/kenya/life-and-style/lifestyle/how-goons-turned-a-beyond-2030-workshop-into-a-tutam-rally-5567314_
+
+---
+
+**7. Anthropic’s best AI model struggles to attract users as cheaper tools thrive - Financial Times**
+
+Anthropic's best AI model struggles to attract users as cheaper tools thrive Financial TimesAnthropic sees AI risks rising, no plan to release stronger "Model 2" AxiosAlmost Nobody Is Using Anthropic's Fable 5 analyticsindiamag.comAnthropic's Model 2 Scores 62.8% on CoBench v2 HackerNoonAnthropic's most capable model, codenamed "Model 2," is for internal use only the-decoder.com
+
+_Business Topic — https://news.google.com/rss/articles/CBMihAFBVV95cUxOQldWM1lpRFZ5SjhkcXQxalo3S3p0RWw2RHR1Rm5vaXlONzU5a1dSM0VoWGJ6dVJQYWE2Q2VlU0QxT0V2OVpsWDE1ZlJDeE90cEl5TDNrQUxZNWlEMVNkczNGWHVJVmNVQ3c5Ym9GQnp5V2gxSG5Hc0NpNHhRSFFHS3kxZ08?oc=5_
+
+---
+
+**8. KUSNET petitions Ruto to push Treasury on stalled promises to SNE teachers**
+
+KUSNET has petitioned President Ruto to intervene after the Treasury has failed to honour its promises to SNE teachers for over a year. Torome has accused CS John Mbadi of stalling implementation despite TSC having made the necessary requests. President Ruto had earlier pledged a one job-group upgrade and a review of the Sh20,000 disability... The post KUSNET petitions Ruto to push Treasury on stalled promises to SNE teachers first appeared on Education News.
+
+_Education News — https://educationnews.co.ke/kusnet-petitions-ruto-to-push-treasury-on-stalled-promises-to-sne-teachers/?utm_source=rss&utm_medium=rss&utm_campaign=kusnet-petitions-ruto-to-push-treasury-on-stalled-promises-to-sne-teachers_
+
+---
+
+**9. Prince Indah celebrates Mama Ida Odinga, praises her as a champion of women’s empowerment**
+
+Ohangla musician Evance Ochieng Owino, widely known as Prince Indah, has celebrated Mama Ida Odinga as she marks
+
+_K24 Digital — https://k24.digital/entertainment/celebrity/prince-indah-celebrates-mama-ida-odinga-praises-her-as-a-champion-of-womens-empowerment_
+
+---
+
+**10. Jacinta Mwatela: Reggae lover who helped unearth Kenya’s biggest scandals**
+
+Whichever office she found herself in, the staunch Catholic smoked out financial illegalities.
+
+_Nation Africa — https://nation.africa/kenya/news/jacinta-mwatela-reggae-lover-who-helped-unearth-kenya-s-biggest-scandals--5567872_
+
+---
+
+**11. Nobody owns Mt Kenya votes: MP Kariuki takes direct swipe at Gachagua - People Daily**
+
+Nobody owns Mt Kenya votes: MP Kariuki takes direct swipe at Gachagua People Daily
+
+_Politics — https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2doaFN0X0JNWDZFSTFPekp5NE1lR0dyWnI2UDBVSWdJMXdhQ2NsNHN0bFh6ZVdBaUo2bHVTVk5BT0IyUXJGYVBrSzhocHZwVEQtN0hxZmI0MkRuZU1fVmxCSFFldGJTWUxFOFR1bVJ1bXRIRHRTdmNneFZWLXZBU2RTNkNVeDVDdEQ2anZ0TXMtOXhFSGNfZmVuS1JyaUlvRno5cG5CbzhuLWZVVFNzUG1B?oc=5_
+
+---
+
+**12. Nurses Target National Hospitals in New Ultimatum to Govt**
+
+The nurses warned that they would withdraw services from county health facilities from July 29 if their grievances were not addressed.
+
+_Kenyans.co.ke — https://www.kenyans.co.ke/news/126423-src-given-7-days-resolve-nurses-dispute-or-face-national-hospital-strike_
+
+---
+
+**13. CrossCountry cancels 'almost all' UK services due to power cut - BBC**
+
+CrossCountry cancels 'almost all' UK services due to power cut BBCSee more headlines and perspectives on Google News
+
+_Business Topic — https://news.google.com/rss/articles/CBMiWkFVX3lxTE00SF9nbXJsc3I2RGJWajB2NW9GdHFEQUo0Y0xVSllkZk91Y3R1a3FSbG9pU0R4c3BNVFo3QWh3eGFIaUlMWUdsTlVpYzVqLU1lX3JscWlvR3ZOZw?oc=5_
+
+---
+
+**14. KCB and Kabras lead Driftwood charge as Quins, Leos bow out**
+
+KCB Rugby, Kabras Sugar, Menengai Oilers and Daystar Falcons have booked their places in the Driftwood Sevens quarter-finals after making strong starts to the third leg of the National Sevens Circuit.
+
+_Standard Sports — https://www.standardmedia.co.ke/sports/article/2001555983/kcb-and-kabras-lead-driftwood-charge-as-quins-leos-bow-out_
+
+---
+
+**15. Shaquille O’Neal reveals why he never made it into the Avengers**
+
+Former NBA star Shaquille O'Neal has revealed why his long-held dream of appearing in a Marvel Avengers movie
+
+_K24 Digital — https://k24.digital/entertainment/celebrity/shaquille-oneal-reveals-why-he-never-made-it-into-the-avengers_
+
+---
+
+**16. Safari to Pagak or Singapore? Why Homa Bay should worry us**
+
+Last weeks happenings in Homa Bay, and many more elsewhere, speak to a country that could be headed to Pagak, and not to the Singapore city-state.
+
+_Standard Politics — https://www.standardmedia.co.ke/politics/article/2001555982/safari-to-pagak-or-singapore-why-homa-bay-should-worry-us_
+
+---
+
+**17. Newcastle United vs Liverpool: Preview, team news and prediction**
+
+A new chapter begins for both Newcastle United and Liverpool when the two sides meet at St James'
+
+_K24 Digital — https://k24.digital/sports/epl/newcastle-united-vs-liverpool-preview-team-news-and-prediction_
 
 ---
 

@@ -1,6 +1,6 @@
-# Kenya News Suggestions - Generated 2026-08-23 10:07:54 EAT
+# Kenya News Suggestions - Generated 2026-08-23 10:52:45 EAT
 
-Scanned lookback gap of 48 minutes. Found 12 unique stories.
+Scanned lookback gap of 44 minutes. Found 14 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
@@ -24,99 +24,115 @@ Scanned lookback gap of 48 minutes. Found 12 unique stories.
 
 ---
 
-**1. Kajiado Governor Ole Lenku Threatens To Exit ODM To Join Sifuna’s Linda Mwananchi Party**
+**1. KMPDU Raises Alarm Over New Bill Targeting Doctors, Issue Demands**
 
-Kajiado Governor Joseph Ole Lenku has threatened to leave the Orange Democratic Movement (ODM) and align his supporters with the Linda Mwananchi movement unless party leadership issues a formal apology regarding its cooperation with United Democratic Alliance (UDA) figures. Speaking on the political situation in the county, Lenku warned that ODM risks dismantling its local […] The post Kajiado Governor Ole Lenku Threatens To Exit ODM To Join Sifuna's Linda Mwananchi Party appeared first on Ghafla.
+The proposed legislation seeks to introduce additional regulatory measures, including provisions targeting the fraudulent acquisition of practicing licenses.
 
-_Ghafla KE — https://www.ghafla.co.ke/kajiado-governor-ole-lenku-threatens-to-exit-odm-to-join-sifunas-linda-mwananchi-party/_
-
----
-
-**2. How alleged priest impostor gained bishop’s trust to lead Masses in Diocese of Lodwar**
-
-The diocese issued a notice with two photographs of Mr Onchonga, warning faithful that he is.
-
-_Nation Africa — https://nation.africa/kenya/counties/turkana/how-alleged-priest-impostor-gained-bishop-s-trust-to-lead-masses-in-diocese-of-lodwar-5567864_
+_Kenyans.co.ke — https://www.kenyans.co.ke/news/126421-kmpdu-calls-withdrawal-proposed-health-bill-says-existing-laws-are-enough_
 
 ---
 
-**3. From Tissue Signaling to Liquid Biopsy: A pAKT-Driven microRNA Model for Oral Squamous Cell Carcinoma Detection - Cureus**
+**2. PubMatic (PUBM) Stock Fair Value Rises After Strong Q2 And Analyst Target Increases - Yahoo Finance**
 
-From Tissue Signaling to Liquid Biopsy: A pAKT-Driven microRNA Model for Oral Squamous Cell Carcinoma Detection Cureus
+PubMatic (PUBM) Stock Fair Value Rises After Strong Q2 And Analyst Target Increases Yahoo Finance
 
-_Business Topic — https://news.google.com/rss/articles/CBMi_AFBVV95cUxOX1VJX01zUE8wbGZVZmpiQy1zYzBNYVlUTHVocXFfRjlwaktkdFBqYnFYWjFPclBtRGx4RWZDaklkLVVtdGFXal96S2djSFlZbXlyTHhTZi0ycHRkblZvLWlaNjc5cTY0ZUJCazR3cW80N3ZNSFFfTVB3ZnJhVDBLMlpkSF9aMllPYW5oWmpjeHBkQ1lONjdSWTdpejRQN0VMS0huNDhXQVpwbDU2VldwRlZHbW81SFpjOWFtYnA4VDBxb08yOHp3eHBwWHBzZ0NCSFhPaER0SFJSLUFic0lPUk9NUndSWXVpVlpnaGIxNndHdkNXVHhqUmRGUjg?oc=5_
-
----
-
-**4. From George Saitoti to Michuki, Nkaissery and Ole Lenku: Other Interior CSs before Murkomen**
-
-Before Kipchumba Murkomen, Kenyas powerful Interior and national security docket had passed through the hands of several political heavyweights, military men and technocrats
-
-_Standard Politics — https://www.standardmedia.co.ke/politics/article/2001555952/from-george-saitoti-to-michuki-nkaissery-and-ole-lenku-other-interior-css-before-murkomen_
+_Business Topic — https://news.google.com/rss/articles/CBMimwFBVV95cUxNX1BYVkdWRDliZGRyLXkzS2g5UUx3cjNlcnVyQ05yNXZzOU90c2hhVUhIcE5EdlIyMlZCN2h2b3k1dS0zMFdJcEJDNkZBOUNKZ1dQaE55WFhJOUVnd0F3b1pPekc1ejBQRDZGVXpJMmhyekEtbmQyS1VyU1pWbGNWNDJsRGdaM1YtamlhdVdwVWJfMElUQVVWY195MA?oc=5_
 
 ---
 
-**5. Slippery blocs: How Ruto's 'tutam' bid is facing test across key regions**
+**3. Thousands expected at Sweden climate demo as election looms**
 
-President William Ruto's re-election bid is entering a critical phase as shifting political alliances and growing competition in some of the country's key voting blocs raise questions
+Around 10,000 people are expected to turn out for a climate demonstration in Stockholm on Sunday, according to Swedish police and organisers, just weeks ahead of a general election.
 
-_Standard Politics — https://www.standardmedia.co.ke/politics/article/2001555943/slippery-blocs-how-ruto-s-tutam-bid-is-facing-test-across-key-regions_
-
----
-
-**6. Ruto atua ngome ya Kalonzo na minofu uchaguzi ukikaribia**
-
-RAIS William Ruto amewataka viongozi wa upinzani kutafuta hoja bora za kupinga ajenda yake ya maendeleo badala ya kuwagawanya Wakenya kwa misingi ya ukabila. Rais alisema hayo jana alipofanya ziara katika Kaunti ya Machakos, ngome ya kisiasa ya kiongozi wa Wiper Patriotic Front Kalonzo Musyoka, huku akijaribu kuvutia wakazi wa Ukambani kuelekea uchaguzi wa 2027. Rais pia alishutumu upinzani kwa kukosa ajenda thabiti ya kisiasa na kudai baadhi yao wanafanya kazi kwa niaba ya viongozi wengine. “Ingawa umeajiriwa na umekubali kuwa kikaragosi, usijiaibishe. Mnaenda kusema tatizo kubwa la mpango wa nyumba za bei nafuu ni kuku kushindwa kupanda ngazi. Huo ni ujinga. Tafuteni hoja bora,” alisema Rais Ruto katika mikutano mitatu aliyoandaa Machakos. Aliongeza: “Mnaendelea pia kusema mtavunja SHA. Tafuteni hoja bora ya kuwasilisha kwa Wakenya.” Rais alisema wakati umefika ambapo Wakenya wanapaswa kuwahukumu viongozi kwa rekodi zao za uongozi, mipango na maono badala ya matusi na kauli za kisiasa. “Wakenya hawana haja na wale wanaowagawanya kwa kuwaita wengine binamu, wengine wasaliti na wengine maadui. Kenya inahitaji umoja. Sisi sote ni ndugu,” alisema katika mkutano Kimutwa Township.
-
-_Taifa Leo — https://taifaleo.nation.co.ke/habari/ruto-atua-ngome-ya-kalonzo-na-minofu-uchaguzi-ukikaribia/_
+_Standard World — https://www.standardmedia.co.ke/world/article/2001555977/thousands-expected-at-sweden-climate-demo-as-election-looms_
 
 ---
 
-**7. Oscar Sudi shares rare before-and-after photo showing his transformation over the years**
+**4. Why your cake sinks in the middle even when it looks perfectly baked**
 
-Kapseret Member of Parliament Oscar Sudi has shared a rare before-and-after photo showing how his appearance has changed
+A cake can look perfectly baked when you take it out of the oven, only to sink in
 
-_K24 Digital — https://k24.digital/entertainment/celebrity/oscar-sudi-shares-rare-before-and-after-photo-showing-his-transformation-over-the-years_
-
----
-
-**8. 4 arrested over deaths of 18 elephants in Amboseli as finding point to cyanide poisoning**
-
-Miano said the findings “remain subject to further scientific verification before the investigation is deemed complete.”
-
-_Capital FM News — https://capitalfm.africa/4-arrested-over-deaths-of-18-elephants-in-amboseli-as-finding-point-to-cyanide-poisoning/_
+_K24 Digital — https://k24.digital/lifestyle/food-and-culinary/why-your-cake-sinks-in-the-middle-even-when-it-looks-perfectly-baked_
 
 ---
 
-**9. How to lose weight in a healthy and sustainable way**
+**5. Kisii police hunt brewer accused of getting grade 3 pupil drunk on illicit alcohol**
 
-Losing weight is not simply about eating less or spending hours exercising. For someone looking to shed excess
+Police in Kisii County have launched a manhunt for a suspect accused of luring a Grade 3 pupil into drinking illicit brew. A medical examination at Keumbu Sub-County Hospital has confirmed that the 8-year-old boy was intoxicated after being enticed by a neighbour. Human rights activists have condemned the incident and called for swift arrest... The post Kisii police hunt brewer accused of getting grade 3 pupil drunk on illicit alcohol first appeared on Education News.
 
-_K24 Digital — https://k24.digital/lifestyle/health-and-fitness/how-to-lose-weight-in-a-healthy-and-sustainable-way_
-
----
-
-**10. Trump says Canada wants ‘benefits’ of being US state as Carney says countries in trade war**
-
-US President Donald Trump has said Canada wants “the benefits of being a State, without being one” after trade talks between the two countries collapsed late on Friday. In his first comments after negotiations broke down, triggering new 50% US tariffs on a range of Canadian goods, Trump also said US farmers had been charged […] The post Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war appeared first on KBC Digital.
-
-_KBC Digital — https://www.kbc.co.ke/trump-says-canada-wants-benefits-of-being-us-state-as-carney-says-countries-in-trade-war/_
+_Education News — https://educationnews.co.ke/kisii-police-hunt-brewer-accused-of-getting-grade-3-pupil-drunk-on-illicit-alcohol/?utm_source=rss&utm_medium=rss&utm_campaign=kisii-police-hunt-brewer-accused-of-getting-grade-3-pupil-drunk-on-illicit-alcohol_
 
 ---
 
-**11. Chinese humanoid robot smashes Usain Bolt’s 100m record**
+**6. Drama at Kakamega Funeral as Politicians Fight after Disagreement [Video]**
 
-A humanoid robot from China has posted a remarkable 100-metre time that is faster than the long-standing world
+Mourners took it upon themselves to separate the two politicians who couldn't control their anger.
 
-_K24 Digital — https://k24.digital/sports/athletics/chinese-humanoid-robot-smashes-usain-bolts-100m-record_
+_Nairobi Leo — https://nairobileo.co.ke/news/article/29694/drama-at-kakamega-funeral-as-politicians-fight-after-disagreement-video_
 
 ---
 
-**12. It Ends review: A moody existential horror built for Gen Z**
+**7. Why super-rich families are trading private island living for mainland real estates**
 
-Every generation deserves its own postgrad malaise movie. Not every attempt is going to be “The Graduate” or
+For years, owning a private island has been viewed as one of the clearest signs of extreme wealth.
 
-_K24 Digital — https://k24.digital/entertainment/movies/it-ends-review-a-moody-existential-horror-built-for-gen-z_
+_K24 Digital — https://k24.digital/lifestyle/home-and-living/why-super-rich-families-are-trading-private-island-living-for-mainland-real-estates_
+
+---
+
+**8. 'Just a minute': Big man dodges bill, leaving colleagues baffled**
+
+In other news, a Cabinet secretary recently found himself at the mercy of goons, who extorted him.
+
+_Nation Africa — https://nation.africa/kenya/news/-just-a-minute-big-man-dodges-bill-leaving-colleagues-baffled-5567838_
+
+---
+
+**9. NTSA Ordered to Cancel Titles of Six Vehicles Linked to Crime**
+
+The Asset and Recovery Authority is mandated by the state to collect every asset that has been required through illegal means on behalf of the state.
+
+_Kenyans.co.ke — https://www.kenyans.co.ke/news/126422-ntsa-ordered-seize-ownership-six-vehicles-forfeited-proceeds-crime_
+
+---
+
+**10. Murkomen Dismisses Claims of National Security Crisis Over Political Gangs**
+
+Interior Cabinet Secretary Kipchumba Murkomen has dismissed claims that Kenya is facing a national security crisis linked to the growing presence of goons and criminal gangs in political activities. Speaking in Eldoret on Friday, Murkomen said reports of politically linked gangs had been exaggerated for political purposes and maintained that the country remained secure. “Those […] The post Murkomen Dismisses Claims of National Security Crisis Over Political Gangs appeared first on Ghafla.
+
+_Ghafla KE — https://www.ghafla.co.ke/murkomen-dismisses-claims-of-national-security-crisis-over-political-gangs/_
+
+---
+
+**11. Wamalwa Memorial To Bring Together Government And Opposition Figures In Kitale**
+
+Former President Uhuru Kenyatta is set to attend the annual memorial service for the late Vice-President Michael Kijana Wamalwa in Kitale, Trans Nzoia County, where he will also officially launch a book documenting the late leader's life and legacy. The commemorations will take place at Wamalwa's Milimani home and mausoleum to mark 23 years since […] The post Wamalwa Memorial To Bring Together Government And Opposition Figures In Kitale appeared first on Ghafla.
+
+_Ghafla — https://www.ghafla.co.ke/wamalwa-memorial-to-bring-together-government-and-opposition-figures-in-kitale/_
+
+---
+
+**12. Uhuru hails Ethiopia’s rich civilisation, cultural heritage**
+
+The former President spoke during the closing ceremony of the Ethiopian National Dialogue Conference in Addis Ababa. The post Uhuru hails Ethiopia's rich civilisation, cultural heritage appeared first on KBC Digital.
+
+_KBC Digital — https://www.kbc.co.ke/uhuru-hails-ethiopias-rich-civilisation-cultural-heritage/_
+
+---
+
+**13. From Safaricom to KCB: Tracing Rosemary Koech Kimwatu’s Remarkable Journey in Tech, Law and Data Protection**
+
+The Kenya Times ~ Trending, Breaking News and Videos From Safaricom to KCB: Tracing Rosemary Koech Kimwatu's Remarkable Journey in Tech, Law and Data Protection Rosemary Koech Kimwatu was a Kenyan technology-policy lawyer and data-protection executive whose career spanned nearly two decades across law, fintech, public policy, and data governance. She was best known as Head of Data Protection at KCB Bank Group, where she led data-protection compliance and governance. Rosemary Koech-Kimwatu was a married mother of four and lived […] This post From Safaricom to KCB: Tracing Rosemary Koech Kimwatu's Remarkable Journey in Tech, Law and Data Protection first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Daisy Moraa
+
+_The Kenya Times — https://thekenyatimes.com/profiles/rosemary-koech-kimwatu-career-and-death/_
+
+---
+
+**14. Iran executes man accused of aiding US, Israel in anti-govt protests**
+
+Iran on Sunday executed a man accused of carrying a chainsaw during January anti-government protests who was charged with acting as an agent of Israel and the United States.
+
+_Standard World — https://www.standardmedia.co.ke/world/article/2001555976/iran-executes-man-accused-of-aiding-us-israel-in-anti-govt-protests_
 
 ---
 

@@ -1,6 +1,6 @@
-# Kenya News Suggestions - Generated 2026-08-23 06:26:46 EAT
+# Kenya News Suggestions - Generated 2026-08-23 07:07:49 EAT
 
-Scanned lookback gap of 70 minutes. Found 15 unique stories.
+Scanned lookback gap of 41 minutes. Found 13 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
@@ -9,6 +9,11 @@ Scanned lookback gap of 70 minutes. Found 15 unique stories.
 - **Mwakilishi** (google_news_search_fallback): `https://mwakilishi.com/feed` → `https://news.google.com/rss/search?q=Kenya%20Mwakilishi&hl=en-KE&gl=KE&ceid=KE:en`
 - **Sharp Daily** (google_news_search_fallback): `https://sharpdaily.co.ke/feed/` → `https://news.google.com/rss/search?q=Kenya%20Sharp%20Daily&hl=en-KE&gl=KE&ceid=KE:en`
 - **KenyaMOJA** (google_news_search_fallback): `https://www.kenyamoja.com/news/nairobi-leo/feed` → `https://news.google.com/rss/search?q=Kenya%20KenyaMOJA&hl=en-KE&gl=KE&ceid=KE:en`
+- **Capital FM News** (url_variant): `https://capitalfm.africa/news/feed/` → `http://capitalfm.africa/news/feed/`
+- **Capital FM Sports** (url_variant): `https://capitalfm.africa/sports/feed/` → `http://capitalfm.africa/sports/feed/`
+- **Capital FM Lifestyle** (url_variant): `https://capitalfm.africa/lifestyle/feed/` → `http://capitalfm.africa/lifestyle/feed/`
+- **Capital FM Business** (google_news_search_fallback): `https://capitalfm.africa/business/feed/` → `https://news.google.com/rss/search?q=Kenya%20Capital%20FM%20Business&hl=en-KE&gl=KE&ceid=KE:en`
+- **Capital FM Kenya** (url_variant): `https://www.capitalfm.co.ke/news/feed/` → `http://www.capitalfm.co.ke/news/feed/`
 - **Getembe Latest** (google_news_search_fallback): `https://getembetv.co.ke/rss/latest-posts` → `https://news.google.com/rss/search?q=Kenya%20Getembe%20Latest&hl=en-KE&gl=KE&ceid=KE:en`
 - **Getembe News** (google_news_search_fallback): `https://getembetv.co.ke/rss/category/news` → `https://news.google.com/rss/search?q=Kenya%20Getembe%20News&hl=en-KE&gl=KE&ceid=KE:en`
 - **Getembe Business** (google_news_search_fallback): `https://getembetv.co.ke/rss/category/business` → `https://news.google.com/rss/search?q=Kenya%20Getembe%20Business&hl=en-KE&gl=KE&ceid=KE:en`
@@ -23,123 +28,107 @@ Scanned lookback gap of 70 minutes. Found 15 unique stories.
 
 ---
 
-**1. What to do when ‘work spouses’ get in the way of your marriage**
+**1. Tiketi ya Sifuna–Kalonzo yaendelea kupigiwa debe**
 
-The two can become confidants of sorts, allowing them to discuss their home life, bringing them.
+UCHAGUZI Mkuu wa 2027 unapokaribia, upinzani unaanza kuashiria mwelekeo wa kuungana na vuguvugu la Linda Mwananchi, huku mjadala kuhusu nani atabeba bendera ya urais ukizidi kupamba moto. Katika ishara ya mwelekeo huo, Seneta wa Kakamega Boni Khalwale ameibua uwezekano wa tiketi ya Seneta wa Nairobi Edwin Sifuna na Kalonzo Musyoka, akidai kuwa muungano huo unaweza kupatia upinzani nafasi nzuri ya kumkabili Rais William Ruto. Bw Khalwale alisema Ijumaa kwamba utafiti aliouhusisha na wasomi kutoka China unatabiri kuwa Sifuna akiwa mgombea wa urais na Kalonzo mgombea mwenza, wanaweza kupata asilimia 68 ya kura dhidi ya asilimia 29 ya Rais Ruto. “Nimesoma utafiti jana usiku ambao umefanywa na Wachina. Umesema kwamba sisi tulioko mrengo wa upinzani tukikufanya wewe kuwa mgombea urais, halafu Kalonzo Musyoka awe mgombea mwenza wako, wewe na Kalonzo mtapata asilimia 68 ya kura, huku William Ruto akienda Sugoi na asilimia 29, ” alidai Khalwale. Hata hivyo, Khalwale hakutaja taasisi iliyofanya utafiti huo, ulifanywa lini, sampuli iliyotumika au mbinu iliyotumiwa. Hakuna ripoti ya utafiti huo iliyowekwa wazi ili kuthibitisha takwimu hizo. Licha ya utata huo, kauli yake inaangazia hesabu inayozidi kutawala siasa za upinzani: je, Sifuna anaweza kuwa sura ya kizazi kipya cha upinzani huku Kalonzo akitoa uzoefu na ukomavu wa kisiasa? Sifuna amekuwa akipanda katika kura za maoni na sasa anatajwa miongoni mwa viongozi wanaoweza kupewa nafasi ya kuongoza upinzani. Utafiti wa TIFA uliotolewa Julai ulimweka Rais Ruto mbele kwa asilimia 24, Sifuna akifuata kwa asilimia 15 na Kalonzo akiwa na asilimia 13. Uchaguzi wa Kenya huamuliwa pia na miungano ya kikanda, nguvu za vyama, wagombea wenza na uwezo wa kuvutia wapiga kura nje ya ngome za viongozi. Kwa Sifuna, changamoto ni kugeuza umaarufu wake unaokua kuwa mtandao wa kitaifa. Kwa Kalonzo, changamoto inaweza kuwa kuamua ikiwa yuko tayari kuachana na azma ya kuwania urais na kukubali kuwa mgombea mwenza. Mjadala huo unajiri huku viongozi wa Linda Mwananchi wakiongeza shughuli za kisiasa na baadhi ya viongozi wa upinzani wakionyesha wako tayari kufanya kazi nao. Hata hivyo, bado hakuna makubaliano rasmi kuhusu mgombea wa upinzani, chama kitakachotumika au nafasi ya Kalonzo katika mpangilio huo. Kwa hivyo, tiketi ya Sifuna na Kalonzo bado ni uvumi wa kisiasa kuliko mpango uliokamilika. Lakini mjadala wake unaonyesha mabadiliko yanayoendelea katika upinzani huku 2027 ikikaribia: kutoka mashindano ya mtu mmoja mmoja hadi kutafuta tiketi moja inayoweza kuunganisha nguvu za kisiasa kutoka maeneo mbalimbali ya nchi. Iwapo Linda Mwananchi itaungana rasmi na makundi mengine ya upinzani, suala la nani atakuwa mgombea wa urais na nani atakuwa mgombea mwenza litakuwa mojawapo ya maamuzi magumu zaidi kuelekea uchaguzi huo. Kwa sasa, jina la Sifuna limeingia katika hesabu hiyo. Kalonzo ana uzoefu na ngome yake ya kisiasa. Swali kubwa ni ikiwa wawili hao wanaweza kugeuza nguvu zao kuwa muungano mmoja wenye mvuto wa kitaifa — na ikiwa viongozi wengine wa upinzani wako tayari kuunga mkono mpango huo.
 
-_Nation Africa — https://nation.africa/kenya/life-and-style/lifestyle/what-to-do-when-work-spouses-get-in-the-way-of-your-marriage-5567296_
-
----
-
-**2. Here is why we stopped going to church**
-
-There is a growing number of young Kenyans who have no desire to go to church.
-
-_Nation Africa — https://nation.africa/kenya/life-and-style/lifestyle/here-is-why-we-stopped-going-to-church-5567354_
+_Taifa Leo — https://taifaleo.nation.co.ke/habari/tiketi-ya-sifuna-kalonzo-yaendelea-kupigiwa-debe/_
 
 ---
 
-**3. Opposition's unity pact faces test as principals plan make or break retreat**
+**2. Nurse Judy fires back at Kenyans in America doubting her six-figure nursing salary**
 
-Opposition principals earlier met and agreed to establish a secretariat.
+Nurse Judy has responded to Kenyans in America who have questioned her six-figure nursing pay, saying she has
 
-_Nation Africa — https://nation.africa/kenya/news/politics/opposition-s-unity-pact-faces-test-as-principals-plan-make-or-break-retreat-5567708_
-
----
-
-**4. Baringo Talai Women Urge Mama Ngina to Persuade Uhuru to Back Ruto in 2027**
-
-Women from the Talai community in Baringo County have appealed to former First Lady Mama Ngina Kenyatta to persuade her son, former President Uhuru Kenyatta, to support President William Ruto's bid for a second term in the 2027 General Election. The women said Uhuru should honour what they described as a commitment he made to […] The post Baringo Talai Women Urge Mama Ngina to Persuade Uhuru to Back Ruto in 2027 appeared first on Ghafla.
-
-_Ghafla — https://www.ghafla.co.ke/baringo-talai-women-urge-mama-ngina-to-persuade-uhuru-to-back-ruto-in-2027/_
+_K24 Digital — https://k24.digital/entertainment/celebrity/nurse-judy-fires-back-at-kenyans-in-america-doubting-her-six-figure-nursing-salary_
 
 ---
 
-**5. My problem with Uhuru: Ruto lifts lid on how ex-boss snubbed repeated push to reconcile**
+**3. India’s reliance on Russian oil hits all-time high - Financial Times**
 
-Ruto lifts the lid on a decade-long political marriage that collapsed in a heap.
+India's reliance on Russian oil hits all-time high Financial TimesRussian share of India's oil imports surges to record high in July ReutersWhat Trump tariffs? Russia accounts for more than half of India's crude oil imports The Times of IndiaChina Is Squeezing India Out of Russia's Oil Trade Crude Oil Prices Today | OilPrice.com50% cut in Russian oil purchases could raise Indias oil bill by USD 5-10 bn, push inflation: Economist The Tribune
 
-_Nation Africa — https://nation.africa/kenya/news/politics/my-problem-with-uhuru-ruto-lifts-lid-on-how-ex-boss-snubbed-repeated-push-to-reconcile-5567716_
-
----
-
-**6. How Sh188bn debts stalled 580 road projects**
-
-Pending bills for road construction constitute the largest portion of government debt to.
-
-_Nation Africa — https://nation.africa/kenya/business/how-sh188bn-debts-stalled-580-road-projects--5567784_
+_Business Topic — https://news.google.com/rss/articles/CBMihAFBVV95cUxNdEYyLWMxVS1GSlg2YTFtazRRUlhOS0dtYnRGY1BRYjFnX1k3SFVLb0NqX0R3bFhLYlpEUm44S2VjWUNCRDZQYXhERDl4dzcxcC1OR2I5azN1QVN5MW1vbFR2X1loYnAzRFBCX0lCRFpIWFFQZi1iRWpjaUVSSlk4bmdpODY?oc=5_
 
 ---
 
-**7. From Sh35bn to Sh45.85bn: Irony of Talanta Sports City’s Sh10bn tax bill**
+**4. De Zerbi admits Tottenham are still a work in progress after Brentford defeat**
 
-Sports PS Mwangi said the additional cost doesn't represent unexplained inflation, but taxes.
+Tottenham Hotspur manager Roberto De Zerbi conceded that his revamped squad has yet to develop into a cohesive
 
-_Nation Africa — https://nation.africa/kenya/sports/football/from-sh35bn-to-sh45-85bn-irony-of-talanta-sports-city-s-sh10bn-tax-bill-5567788_
-
----
-
-**8. Kindiki Warns Gachagua That His “Days in Politics Are Numbered” Over Arrogance And Insults**
-
-Deputy President Kithure Kindiki has invoked the biblical phrase “Mene Mene Tekel Upharsin” to warn former Deputy President Rigathi Gachagua that his political influence is fading, stating that leaders without a tangible record of achievement will be rejected by voters. Speaking at Kinoru Stadium in Meru Town on Saturday, August 22, 2026, Kindiki criticized Gachagua's […] The post Kindiki Warns Gachagua That His “Days in Politics Are Numbered” Over Arrogance And Insults appeared first on Ghafla.
-
-_Ghafla — https://www.ghafla.co.ke/kindiki-warns-gachagua-that-his-days-in-politics-are-numbered-over-arrogance-and-insults/_
+_K24 Digital — https://k24.digital/sports/epl/de-zerbi-admits-tottenham-are-still-a-work-in-progress-after-brentford-defeat_
 
 ---
 
-**9. Murkomen Orders Security Agencies to Act Early Against Political Goons**
+**5. Inside South Korea’s chipmaking cram schools - Financial Times**
 
-Interior Cabinet Secretary Kipchumba Murkomen has directed security agencies to take preventive action against individuals suspected of planning to disrupt political rallies, including arresting alleged facilitators before they reach public gatherings. Murkomen said the National Police Service (NPS) and the Directorate of Criminal Investigations (DCI) should make greater use of intelligence to identify potential threats […] The post Murkomen Orders Security Agencies to Act Early Against Political Goons appeared first on Ghafla.
+Inside South Korea's chipmaking cram schools Financial TimesKorea Nanomeister High School located in Muan-myeon, Miryang-si, Gyeongsangnam-do on the 12th. The s.. 매일경제Korea Nanomeister High School is located in Muan-myeon, Miryang-si, Gyeongsangnam-do on the 12th. Th.. 매일경제Korea Nanomeister High School located in Muan-myeon, Miryang-si, Gyeongsangnam-do on the morning of 매일경제
 
-_Ghafla KE — https://www.ghafla.co.ke/murkomen-orders-security-agencies-to-act-early-against-political-goons/_
-
----
-
-**10. Dr Mutiso Killers were paid Sh300,000 down payment, fresh court filings show**
-
-Fresh court filings reveal that the murder had been planned months earlier.
-
-_Nation Africa — https://nation.africa/kenya/news/dr-mutiso-killers-were-paid-sh300-000-down-payment-fresh-court-filings-show--5567736_
+_Business Topic — https://news.google.com/rss/articles/CBMihAFBVV95cUxNeGtoNHVaekVNcG02SGs2bGhEYi0xa1YwSU9USmFYaGZPYWowUEREV0JRTkN3d2FmNTZpbk5IMnhXNVl2X2U0d2FvNFFHMEhHaXVtWWFPeG5CRGZmOWFWYklBd0x4WGhnYmkydUpwVjlES2szdU1YMTZyR3pIY3ZCRmJnWUw?oc=5_
 
 ---
 
-**11. Ruto adai Uhuru amekataa handisheki licha ya juhudi zake za kutaka wapatanishwe**
+**6. Worst Mistake: Murkomen's reckless remarks expose his aloofness**
 
-HAKUNA siri kwamba uhusiano kati ya Rais William Ruto na mtangulizi wake Uhuru Kenyatta umeharibika. Lakini kiwango cha uhasama kati ya viongozi hao wawili, ambao wakati mmoja walionekana kuwa washirika wasioweza kutenganishwa, unaonekana katika juhudi za Rais Ruto za miaka minne zilizolenga kurejesha uhusiano wao. Katika mahojiano ya kipekee na Taifa Jumapili katika Ikulu ya Nairobi Ijumaa, Agosti 21, Rais Ruto alifichua kwa mara ya kwanza kwa undani jinsi alivyoshindwa kumshawishi Bw Kenyatta kujitenga na siasa za vyama na kuchukua nafasi ya kiongozi mstaafu anayewaunganisha Wakenya. Rais alisema aliwahi kumtembelea Bw Kenyatta nyumbani kwake Ichaweri, Gatundu, Kiambu, na pia ofisini kwake karibu na Ikulu, akimshawishi kusaidia kujenga maono mapya ya taifa. “Nilienda kumuona Ichaweri na pia katika ofisi yake hapa jirani na nikamuomba kwamba, kama kiongozi wa zamani wa nchi, na wa pekee aliye hai sasa, tafadhali tusaidie kujenga maono mapya ya nchi,” alisema. Lakini kwa mujibu wa Rais, Bw Kenyatta alichagua kuendelea kushiriki siasa za upinzani. “Mtangulizi wangu alikuwa na nafasi ya kuwa kiongozi wa kitaifa, na kuwa mtu wa kuunganisha nchi yetu. Lakini alichagua kushuka na kuwa kiongozi wa upinzani,” alisema. Uhusiano wa Ruto na Kenyatta uliwahi kuwa miongoni mwa ushirikiano wenye nguvu zaidi katika siasa za Kenya. Wawili hao waligombea urais pamoja mwaka 2013 na 2017 chini ya chama cha Jubilee. Ushirikiano huo ulijengwa baada ya ghasia za baada ya uchaguzi wa 2007/08 na mashtaka katika Mahakama ya Kimataifa kuhusu Uhalifu (ICC) yaliyowakabili viongozi kadhaa wa Kenya. Lakini mambo yalibadilika katika muhula wa pili wa Bw Kenyatta. Handisheki ya Machi 2018 kati ya Bw Kenyatta na aliyekuwa kiongozi wa ODM Raila Odinga yalimuacha Dkt Ruto ametengwa kisiasa. Mvutano huo ulifikia kilele katika uchaguzi wa 2022 ambapo Bw Kenyatta alikataa kumuunga mkono aliyekuwa naibu wake na badala yake akamuunga mkono Bw Odinga. Dkt Ruto alishinda uchaguzi huo. Sasa, miaka minne baada ya kuingia Ikulu, majeraha ya zamani bado yanaonekana. Bw Kenyatta bado ni mwenyekiti wa Baraza la Azimio, chombo kikuu cha kufanya maamuzi katika muungano huo, na pia anaongoza chama cha Jubilee. Baada ya kifo cha Bw Odinga, amempa kiongozi wa Wiper Patriotic Front Kalonzo Musyoka jukumu la kuongoza Azimio na anaunga mkono aliyekuwa Waziri wa Usalama wa Ndani Fred Matiang'i katika juhudi za kumuondoa Dkt Ruto madarakani mwaka ujao. Lakini Rais Ruto alisema alijaribu kuzuia mgawanyiko huo. Alifichua kuwa wakati mmoja alizungumza na Bw Odinga kuhusu haja ya viongozi wakuu wa kisiasa kufanya kazi pamoja kujenga maono ya muda mrefu ya Kenya. “Sasa sisi ni wazee. Sisi ni viongozi wa nchi hii. Kwa nini tusifanye kazi pamoja, tujenge maono makubwa ambayo tunaweza kuyakabidhi kwa kizazi kijacho cha viongozi?” Rais alikumbuka akimwambia Bw Odinga. Kwa mujibu wake, Bw Odinga alikubaliana naye na wakapendekeza kumtafuta Bw Kenyatta. Mnamo Desemba 9, 2024, Rais Ruto alisafiri hadi nyumbani kwa Bw Kenyatta Ichaweri kwa mkutano wa ana kwa ana uliolenga kufungua ukurasa mpya kati ya viongozi hao wawili. Miezi kadhaa baadaye, Bw Kenyatta alirejea Ikulu mnamo Agosti 2025 na kufanya mazungumzo ya faragha na Rais, yakiwemo masuala ya amani nchini DRC. Lakini juhudi hizo hazikubadilisha uhusiano wao kisiasa. Dkt Ruto sasa anamlaumu mtangulizi wake kwa kuchagua kuunga upinzani badala ya kusaidia kujenga mwafaka wa kitaifa. Uhasama huo umeenea pia katika mjadala wa uchumi. Rais alidai Bw Kenyatta alitabiri kuwa serikali yake ingeanguka ndani ya miezi mitatu kutokana na hali mbaya ya uchumi aliyokuwa ameacha. “Kenya ilikuwa inakabiliwa na uhaba wa fedha za kigeni, mfumuko mkubwa wa bei, mikopo ghali na hofu kuhusu uwezo wake wa kutimiza majukumu ya nje,” alisema. Kwa mujibu wa Rais, Bw Kenyatta aliwaambia washirika wake wa Azimio kuwa serikali mpya haingeweza kudumu. “Alijua kuhusu uwezekano wa kushindwa kulipa deni, alijua hali ya uchumi,” alisema. “Nina hakika ana tatizo kwamba… niliweza kuongoza nchi na hatukushindwa kulipa.” Rais pia alilinganisha deni la umma lililoachwa na tawala zilizotangulia. Alisema utawala wa Daniel arap Moi uliacha deni la takriban Sh630 bilioni mwaka 2002, Mwai Kibaki Sh1.8 trilioni, huku Bw Kenyatta akiacha deni la karibu Sh10.3 trilioni. Kwa sasa, alisema, deni linakaribia Sh13 trilioni. Hata hivyo, Rais alikiri kwamba miradi ya miundombinu ya utawala wa Bw Kenyatta haikuwa mibaya. “Utawala wa Uhuru haukuwekeza katika mambo yasiyofaa,” alisema. Tofauti, kwa mujibu wa Dkt Ruto, ni kwamba serikali yake inatafuta njia mbadala za kufadhili miradi bila kutegemea sana mikopo ya serikali.
+Murkomen is under intense public scrutiny following remarks dismissing public alarm over the rising political violence, by claiming that a goon crisis was non-existent in the country
 
-_Taifa Leo — https://taifaleo.nation.co.ke/habari/ruto-adai-uhuru-amekataa-handisheki-licha-ya-juhudi-zake-za-kutaka-wapatanishwe/_
-
----
-
-**12. Trifork Group AG (OCSE:TRIFOR) (Q2 2026) Earnings Call Highlights: Double-Digit Organic Growth ... - Yahoo! Finance Canada**
-
-Trifork Group AG (OCSE:TRIFOR) (Q2 2026) Earnings Call Highlights: Double-Digit Organic Growth ... Yahoo! Finance CanadaTRIFOR: Product-led growth and margin gains support strong outlook, with dividend proposed from asset sales TradingViewTrifork Group AG Reiterates Earnings Guidance for 2026 marketscreener.com47/2026・Trifork Group: Interim report for the quarter ending 30 June 2026 The Manila TimesTRIFOR: 11% organic growth and 21% EBITDA boost, with Products and public sector driving momentum TradingView
-
-_Business Topic — https://news.google.com/rss/articles/CBMigwFBVV95cUxNN1JpWjNpUGV2ZXdDQ2JLSi0tSkpKR1NVUEx0cVNLS0lpS1lMdklDbWF5ZHNJUmhxTTNGZDh5clBJeHZrLU1lZjdxQWNUdjk3QkpKLWhnQjVPV3p6MUNhVDNZb3NCUGFWRnpmM3k3WGQweFVBVjRzSkxoelVaNThCOGhobw?oc=5_
+_Standard Headlines — https://www.standardmedia.co.ke/article/2001555957/worst-mistake-murkomen-s-reckless-remarks-expose-his-aloofness_
 
 ---
 
-**13. Gachagua faces fresh threats to his grip on Mt Kenya**
+**7. ‘Juggernaut’ BT’s decade-long turnaround hits crunch time - Financial Times**
 
-Gachagua is facing renewed threats to his grip on the vote-rich Mt Kenya.
+'Juggernaut' BT's decade-long turnaround hits crunch time Financial Times
 
-_Nation Africa — https://nation.africa/kenya/news/politics/gachagua-faces-fresh-threats-to-his-grip-on-mt-kenya-5567538_
-
----
-
-**14. Fact-Check: Ruto says only two women promises remain. Is that true?**
-
-Four years after the 2022 election, several commitments to women have yet to be fully implemented.
-
-_Nation Africa — https://nation.africa/kenya/news/gender/fact-check-ruto-says-only-two-women-promises-remain-is-that-true--5565196_
+_Business Topic — https://news.google.com/rss/articles/CBMicEFVX3lxTE42Vmx2aEpST29KLXZ1dWszbHU0eUxkeUdvdlNMNGRzUGsyREN0ZUxzLUN1X0tEQklLd1dteVZZWFRSa2hiUmMycXNBNGJaekJlVkgxc3QzSVhpbFdIUzlJaDZLR04yakxvY0NGLUhLY0M?oc=5_
 
 ---
 
-**15. Schools reopen under debt, funding pressure as shortest, final-term exams loom**
+**8. Kesogon reclaim East Africa volleyball gong as ACK Chepsaita settle for silver**
 
-For schools already struggling with debt, securing supplies on credit is becoming harder.
+Kesogon Mixed Senior School bagged their second regional girls' gong after an emphatic win against compatriots St Marthas Mwitoti in a final match played at the Morogoro Teachers Training College
 
-_Nation Africa — https://nation.africa/kenya/news/education/schools-reopen-under-debt-funding-pressure-as-shortest-final-term-exams-loom-5567680_
+_Standard Sports — https://www.standardmedia.co.ke/sports/article/2001555965/kesogon-reclaim-east-africa-volleyball-gong-as-ack-chepsaita-settle-for-silver_
+
+---
+
+**9. Investors try to catch ‘falling knife’ with bets on risky funds during chip rout - Financial Times**
+
+Investors try to catch 'falling knife' with bets on risky funds during chip rout Financial Times
+
+_Business Topic — https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnpYQlJMSmJvX19tS1ZrdjNBaG1uZG9hcVo2czdEVEFPR3lKVHMyMlRnX1NNVVE1VkxLNnNnWVJHVll6UFlzdnBNcTB0TTVWNW42ZFVic3BKdFZtTTNWY1BZZmhHZzYyYlNBaWVZWFIzWWNadUl3NnJyTjc3bVh4aU4wY24?oc=5_
+
+---
+
+**10. Wanyonyi triumphs in Lausanne as stars eye glory in Silesia**
+
+Measured steps and a tactical homestretch push decided the winner of the mens 800m showdown at the Lausanne Diamond League in Switzerland on Friday night.
+
+_Standard Sports — https://www.standardmedia.co.ke/sports/article/2001555964/wanyonyi-triumphs-in-lausanne-as-stars-eye-glory-in-silesia_
+
+---
+
+**11. Beyond the finish line: From survival to strength**
+
+Other women in sports have and continue to face physical sexual and emotional abuse, as well as financial control.
+
+_Standard Sports — https://www.standardmedia.co.ke/sports/article/2001555956/beyond-the-finish-line-from-survival-to-strength_
+
+---
+
+**12. Coffee chain Blank Street raises funds from General Atlantic to fuel expansion and ice cream push - Financial Times**
+
+Coffee chain Blank Street raises funds from General Atlantic to fuel expansion and ice cream push Financial TimesA venture capital-backed coffee chain debuts in L.A. Are locals buying it? Los Angeles TimesBlank Street Opens First West Coast Cafe in Studio City LAmagBlank Street Expands To Los Angeles, Adding Ice Cream To The Menu ForbesBlank Street Coffee makes its West Coast debut in Los Angeles Yahoo Finance
+
+_Business Topic — https://news.google.com/rss/articles/CBMihAFBVV95cUxPcGloREFYdWEwNURjTnZoZzhZVVNtZVdEc3gwTnBCVVZrclRZTlVhenBKVXE3UFlzRFhZbnZtOXY3azgydktVbmtuQUlKM1dtaTBYNnkzYl8zZVdnei1DZEJrM2hialFiQnI1MlZnTWowSGhtbmxpUE1sdk1SN0NJaXc2Yno?oc=5_
+
+---
+
+**13. Legal tech start-ups put AI disruption in a risky new wrapper - Financial Times**
+
+Legal tech start-ups put AI disruption in a risky new wrapper Financial Times
+
+_Business Topic — https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjNwNzBheXBqNDlrQWlnVXZoejNoRE9YQW1od000QlJ0alRNSFFLWnlCRVNFblpreENVbWEwU05iaW51WHpINHN4Z2ozeTZieVRSOGVvdnJYaVJHcWhacVFadk1yT2pGYTRQQTRwOHNlSFJ6czk2SzRMelZMVXJrdlFCdng?oc=5_
 
 ---
 

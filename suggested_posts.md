@@ -1,6 +1,6 @@
-# Kenya News Suggestions - Generated 2026-08-23 11:53:58 EAT
+# Kenya News Suggestions - Generated 2026-08-23 12:15:29 EAT
 
-Scanned lookback gap of 39 minutes. Found 17 unique stories.
+Scanned lookback gap of 21 minutes. Found 9 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
@@ -24,139 +24,75 @@ Scanned lookback gap of 39 minutes. Found 17 unique stories.
 
 ---
 
-**1. M-Pesa Operator Shot During Robbery in Migori as Gunmen Steal KSh200,000**
+**1. Detectives arrest suspect linked to murders of two elderly women in Trans Nzoia, Bungoma**
 
-A 42-year-old M-Pesa operator was shot and injured after two armed robbers raided his business at Moss Market in Nyarongi Sub-location, Otachi Location, Suna East, Migori County. The incident occurred on Thursday, August 20, 2026, as the businessman was reportedly closing his shop. According to police, the two attackers were armed with a firearm believed […] The post M-Pesa Operator Shot During Robbery in Migori as Gunmen Steal KSh200,000 appeared first on sauce.co.ke.
+Detectives have arrested an 18-year-old man suspected of murdering an elderly woman in Trans Nzoia County and linked to the killing of another in Bungoma County. The first victim, identified as Florence Khosa, was admitted to Cheranganyi Nursing Home with serious injuries sustained during the attack and later succumbed to her injuries while undergoing treatment. […] The post Detectives arrest suspect linked to murders of two elderly women in Trans Nzoia, Bungoma appeared first on KBC Digital.
 
-_Sauce Kenya — https://sauce.co.ke/2026/08/m-pesa-operator-shot-during-robbery-in-migori-as-gunmen-steal-ksh200000/_
-
----
-
-**2. Women aspirants condemn political violence ahead of 2027 polls**
-
-Women aspiring for elective positions in the Mt Kenya region have called for a political environment that gives them equal opportunities to compete, warning that violence, costly party processes and intimidation could undermine efforts to increase women's representation in leadership. The women said political participation should not only be about encouraging women to seek office, […] The post Women aspirants condemn political violence ahead of 2027 polls appeared first on KBC Digital.
-
-_KBC Digital — https://www.kbc.co.ke/women-aspirants-condemn-political-violence-ahead-of-2027-polls/_
+_KBC Digital — https://www.kbc.co.ke/detectives-arrest-suspect-linked-to-murders-of-two-elderly-women-in-trans-nzoia-bungoma/_
 
 ---
 
-**3. Malaba Border Post generates over Ksh11 billion in revenue**
+**2. Sell U.S. dollar versus these currencies, BCA says - Yahoo Finance**
 
-The Malaba One Stop Border Post (OSBP) generated more than Ksh11 billion in the last financial year (2025/2026). The OSBP surpassed its target of Ksh10,619,791,008.54 during the period, achieving 104 per cent of the target. The border post has recorded a steady increase in revenue generation, from Ksh1,485,508,679 in the 2014/2015 financial year to Ksh11.04 […] The post Malaba Border Post generates over Ksh11 billion in revenue appeared first on KBC Digital.
+Sell U.S. dollar versus these currencies, BCA says Yahoo Finance
 
-_KBC Digital — https://www.kbc.co.ke/malaba-border-post-generates-over-ksh11-billion-in-revenue/_
-
----
-
-**4. Major roads likely to experience traffic snarl-up as schools reopen**
-
-The reopening of schools on Monday, August 24, 2026, is likely to bring heavier traffic to some of Kenya's
-
-_K24 Digital — https://k24.digital/lifestyle/travel-and-leisure/major-roads-likely-to-experience-traffic-snarl-up-as-schools-reopen_
+_Business Topic — https://news.google.com/rss/articles/CBMiogFBVV95cUxOb2tfY1k0SHNPSzZHUkQ4c1RndmNTTlBrRm42YTk4OWd6RG9GRmJ5TEx6MGx5bmlWa3ZLYTZNUjh1d2lTanpNMGNqNlRqd2dPd3psQVBmSTZ4Um5JNG1WSjZUQS1XNDFMMzlQd296a3FEbVZqOHZjM2lvWGJJUExrVzA2VmtfdlVRTlV4N0VYNTh6ZnBpeXJ1XzY0ajE1T2swN2c?oc=5_
 
 ---
 
-**5. Sifuna Mocks Ruto Over Claims Uhuru Is Funding Opposition Ahead of 2027**
+**3. Kenya Power Explains Sudden Reduction in Electricity Tokens**
 
-Nairobi Senator and Linda Mwananchi leader Edwin Sifuna has dismissed allegations that former President Uhuru Kenyatta is financing opposition leaders seeking to challenge President William Ruto in the 2027 General Election. Sifuna appeared to mock Ruto after sharing a snippet from an interview in which the President was asked to provide evidence that Uhuru was […] The post Sifuna Mocks Ruto Over Claims Uhuru Is Funding Opposition Ahead of 2027 appeared first on sauce.co.ke.
+The explanation comes amid heightened attention to electricity costs following new adjustments announced by the Energy and Petroleum Regulatory Authority (EPRA) for August 2026.
 
-_Sauce Kenya — https://sauce.co.ke/2026/08/sifuna-mocks-ruto-over-claims-uhuru-is-funding-opposition-ahead-of-2027/_
-
----
-
-**6. How goons turned a Beyond 2030 Workshop into a Tutam Rally**
-
-The Beyond 2030 banners had mysteriously disappeared. In their place were banners bearing.
-
-_Nation Africa — https://nation.africa/kenya/life-and-style/lifestyle/how-goons-turned-a-beyond-2030-workshop-into-a-tutam-rally-5567314_
+_Kenyans.co.ke — https://www.kenyans.co.ke/news/126426-kenya-power-explains-why-customers-are-getting-fewer-electricity-tokens-after-outcry_
 
 ---
 
-**7. Anthropic’s best AI model struggles to attract users as cheaper tools thrive - Financial Times**
+**4. Why Sogomo is wrong: Education leadership needs generalists, not necessarily educationists**
 
-Anthropic's best AI model struggles to attract users as cheaper tools thrive Financial TimesAnthropic sees AI risks rising, no plan to release stronger "Model 2" AxiosAlmost Nobody Is Using Anthropic's Fable 5 analyticsindiamag.comAnthropic's Model 2 Scores 62.8% on CoBench v2 HackerNoonAnthropic's most capable model, codenamed "Model 2," is for internal use only the-decoder.com
+Kennedy Buhere challenges Benjamin Sogomo's argument that education leadership requires basic education management experience. He cites past ministers and senior officials from outside education who drove major sector reforms. Buhere argues effective leadership rests on vision, courage, sound judgement and trust in technical experts. Former Chief Executive Officer of the Teachers Service Commission (TSC), Mr... The post Why Sogomo is wrong: Education leadership needs generalists, not necessarily educationists first appeared on Education News.
 
-_Business Topic — https://news.google.com/rss/articles/CBMihAFBVV95cUxOQldWM1lpRFZ5SjhkcXQxalo3S3p0RWw2RHR1Rm5vaXlONzU5a1dSM0VoWGJ6dVJQYWE2Q2VlU0QxT0V2OVpsWDE1ZlJDeE90cEl5TDNrQUxZNWlEMVNkczNGWHVJVmNVQ3c5Ym9GQnp5V2gxSG5Hc0NpNHhRSFFHS3kxZ08?oc=5_
-
----
-
-**8. KUSNET petitions Ruto to push Treasury on stalled promises to SNE teachers**
-
-KUSNET has petitioned President Ruto to intervene after the Treasury has failed to honour its promises to SNE teachers for over a year. Torome has accused CS John Mbadi of stalling implementation despite TSC having made the necessary requests. President Ruto had earlier pledged a one job-group upgrade and a review of the Sh20,000 disability... The post KUSNET petitions Ruto to push Treasury on stalled promises to SNE teachers first appeared on Education News.
-
-_Education News — https://educationnews.co.ke/kusnet-petitions-ruto-to-push-treasury-on-stalled-promises-to-sne-teachers/?utm_source=rss&utm_medium=rss&utm_campaign=kusnet-petitions-ruto-to-push-treasury-on-stalled-promises-to-sne-teachers_
+_Education News — https://educationnews.co.ke/why-sogomo-is-wrong-education-leadership-needs-generalists-not-necessarily-educationists/?utm_source=rss&utm_medium=rss&utm_campaign=why-sogomo-is-wrong-education-leadership-needs-generalists-not-necessarily-educationists_
 
 ---
 
-**9. Prince Indah celebrates Mama Ida Odinga, praises her as a champion of women’s empowerment**
+**5. ‘The line’s running half-empty’: Llanwern steelworks feels the heat from cheap steel imports - The Guardian**
 
-Ohangla musician Evance Ochieng Owino, widely known as Prince Indah, has celebrated Mama Ida Odinga as she marks
+'The line's running half-empty': Llanwern steelworks feels the heat from cheap steel imports The Guardian
 
-_K24 Digital — https://k24.digital/entertainment/celebrity/prince-indah-celebrates-mama-ida-odinga-praises-her-as-a-champion-of-womens-empowerment_
-
----
-
-**10. Jacinta Mwatela: Reggae lover who helped unearth Kenya’s biggest scandals**
-
-Whichever office she found herself in, the staunch Catholic smoked out financial illegalities.
-
-_Nation Africa — https://nation.africa/kenya/news/jacinta-mwatela-reggae-lover-who-helped-unearth-kenya-s-biggest-scandals--5567872_
+_Business Topic — https://news.google.com/rss/articles/CBMikgFBVV95cUxNdHRwWHBNX3k3djNhWUpqU2FRX2NOUGY2OEpqaFlZcmxWeHF5Y3JmbXVHZWhzTllLZWY1UG9TR3RaZ3daV19HT1hQUkhFSUc1cTFpbU5aX1FoY2VKR2hNejdkaE9XTUxuaXVyQmVGWkJxTDdXSkE3QUJCb2hzaWZNaWtfYjRtZkV5SFgtWnFMbFJkZw?oc=5_
 
 ---
 
-**11. Nobody owns Mt Kenya votes: MP Kariuki takes direct swipe at Gachagua - People Daily**
+**6. Millions UDA and ODM Are Set to Receive From Political Parties Fund**
 
-Nobody owns Mt Kenya votes: MP Kariuki takes direct swipe at Gachagua People Daily
+The United Democratic Alliance (UDA) and the Orange Democratic Movement (ODM) are set to receive the largest share of the Political Parties Fund (PPF) in the 2026/2027 financial year.
 
-_Politics — https://news.google.com/rss/articles/CBMisgFBVV95cUxOd2doaFN0X0JNWDZFSTFPekp5NE1lR0dyWnI2UDBVSWdJMXdhQ2NsNHN0bFh6ZVdBaUo2bHVTVk5BT0IyUXJGYVBrSzhocHZwVEQtN0hxZmI0MkRuZU1fVmxCSFFldGJTWUxFOFR1bVJ1bXRIRHRTdmNneFZWLXZBU2RTNkNVeDVDdEQ2anZ0TXMtOXhFSGNfZmVuS1JyaUlvRno5cG5CbzhuLWZVVFNzUG1B?oc=5_
-
----
-
-**12. Nurses Target National Hospitals in New Ultimatum to Govt**
-
-The nurses warned that they would withdraw services from county health facilities from July 29 if their grievances were not addressed.
-
-_Kenyans.co.ke — https://www.kenyans.co.ke/news/126423-src-given-7-days-resolve-nurses-dispute-or-face-national-hospital-strike_
+_Nairobi Leo — https://nairobileo.co.ke/news/article/29697/millions-uda-and-odm-are-set-to-receive-from-political-parties-fund_
 
 ---
 
-**13. CrossCountry cancels 'almost all' UK services due to power cut - BBC**
+**7. Two New 26- and 30-Storey Towers Set to Transform Nairobi’s Skyline as Govt Asks Kenyans for Views**
 
-CrossCountry cancels 'almost all' UK services due to power cut BBCSee more headlines and perspectives on Google News
+The Kenya Times ~ Trending, Breaking News and Videos Two New 26- and 30-Storey Towers Set to Transform Nairobi's Skyline as Govt Asks Kenyans for Views The National Environment Management Authority (NEMA) has invited members of the public to comment on two major high-rise developments proposed in Nairobi's Westlands and Kilimani areas before it decides whether to approve them. In notices published in the Kenya Gazette, NEMA said it has received Environmental and Social Impact Assessment reports for the projects, which, […] This post Two New 26- and 30-Storey Towers Set to Transform Nairobi's Skyline as Govt Asks Kenyans for Views first appeared on The Kenya Times ~ Trending, Breaking News and Videos and is written by Wiltord Otieno
 
-_Business Topic — https://news.google.com/rss/articles/CBMiWkFVX3lxTE00SF9nbXJsc3I2RGJWajB2NW9GdHFEQUo0Y0xVSllkZk91Y3R1a3FSbG9pU0R4c3BNVFo3QWh3eGFIaUlMWUdsTlVpYzVqLU1lX3JscWlvR3ZOZw?oc=5_
-
----
-
-**14. KCB and Kabras lead Driftwood charge as Quins, Leos bow out**
-
-KCB Rugby, Kabras Sugar, Menengai Oilers and Daystar Falcons have booked their places in the Driftwood Sevens quarter-finals after making strong starts to the third leg of the National Sevens Circuit.
-
-_Standard Sports — https://www.standardmedia.co.ke/sports/article/2001555983/kcb-and-kabras-lead-driftwood-charge-as-quins-leos-bow-out_
+_The Kenya Times — https://thekenyatimes.com/latest-kenya-times-news/nema-seeks-public-input-on-26-storey-westlands-30-storey-kilimani-projects/_
 
 ---
 
-**15. Shaquille O’Neal reveals why he never made it into the Avengers**
+**8. The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats - The New York Times**
 
-Former NBA star Shaquille O'Neal has revealed why his long-held dream of appearing in a Marvel Avengers movie
+The World's Breadbaskets Are Getting Pounded by War, Weather and Trade Spats The New York Times'Perfect Storm' of Trump's War and Super El Niño to Drive Food Prices Even Higher Common DreamsWhich food prices could rise as war and heatwaves hit supplies? Euronews.comThe Next Food Inflation Shock Is Being Built Before It Reaches Menus ForbesConcerns Mount About The Global Food Supply. Farmers Face Rising Challenges Driven By Wars And Weather. International Business Times
 
-_K24 Digital — https://k24.digital/entertainment/celebrity/shaquille-oneal-reveals-why-he-never-made-it-into-the-avengers_
-
----
-
-**16. Safari to Pagak or Singapore? Why Homa Bay should worry us**
-
-Last weeks happenings in Homa Bay, and many more elsewhere, speak to a country that could be headed to Pagak, and not to the Singapore city-state.
-
-_Standard Politics — https://www.standardmedia.co.ke/politics/article/2001555982/safari-to-pagak-or-singapore-why-homa-bay-should-worry-us_
+_Business Topic — https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVdmZVA5MjBDNkpYQVJYM3VTWkE2QXpKWmNrYUdSZnUwN0xSTy1HUWhrWTA3M1RtSHp5ZGpQQVFZRXZIb1hXYWcyZXFYVm1VU0p2SGN1cS1QZ3ZWQ29WWHNkSEpiMFgzYWpkVlNBTXJJQlRmaVVwUmxEWTVPNTJBX0FfRHZKMGxrN05IOA?oc=5_
 
 ---
 
-**17. Newcastle United vs Liverpool: Preview, team news and prediction**
+**9. How Kenya can rebuild TVET into a powerhouse of skills, jobs and economic transformation**
 
-A new chapter begins for both Newcastle United and Liverpool when the two sides meet at St James'
+Kenya has continued to treat TVET as a second-choice pathway, despite growing calls for it to become a central driver of jobs and industrialisation. Experts have called for stronger alignment between TVET training and labour market needs, alongside modern workshops, better-trained instructors and stronger private sector partnerships. Analysts have urged Kenya to reform public perception... The post How Kenya can rebuild TVET into a powerhouse of skills, jobs and economic transformation first appeared on Education News.
 
-_K24 Digital — https://k24.digital/sports/epl/newcastle-united-vs-liverpool-preview-team-news-and-prediction_
+_Education News — https://educationnews.co.ke/how-kenya-can-rebuild-tvet-into-a-powerhouse-of-skills-jobs-and-economic-transformation/?utm_source=rss&utm_medium=rss&utm_campaign=how-kenya-can-rebuild-tvet-into-a-powerhouse-of-skills-jobs-and-economic-transformation_
 
 ---
 

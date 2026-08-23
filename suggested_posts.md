@@ -1,6 +1,6 @@
-# Kenya News Suggestions - Generated 2026-08-23 03:30:23 EAT
+# Kenya News Suggestions - Generated 2026-08-23 05:15:56 EAT
 
-Scanned lookback gap of 49 minutes. Found 2 unique stories.
+Scanned lookback gap of 105 minutes. Found 6 unique stories.
 
 ## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)
 
@@ -23,19 +23,51 @@ Scanned lookback gap of 49 minutes. Found 2 unique stories.
 
 ---
 
-**1. Newmont (NEM) Stock Looks Near Fair Value After A Strong Run - Yahoo Finance**
+**1. Ruto Steps Up Attack on Kalonzo Over SHA Pledge, Accuses Opposition of Lacking Alternatives**
 
-Newmont (NEM) Stock Looks Near Fair Value After A Strong Run Yahoo FinanceNewmont stock rebound: Technical outlook Traders UnionWhy Is Newmont Stock Surging Friday? BenzingaNewmont gains as higher gold prices add to momentum from strong cash flow and buybacks Quiver QuantitativeNewmont Shares Up 35% In August, To Breakout of Range thebull.com.au
+President William Ruto has renewed his criticism of Wiper leader Kalonzo Musyoka, questioning the opposition leader's ability to offer workable alternatives to the government's policies ahead of the 2027 General Election. Speaking at a rally in Machakos on Saturday, August 22, Ruto took aim at Kalonzo's recent pledge to abolish the Social Health Authority (SHA) […] The post Ruto Steps Up Attack on Kalonzo Over SHA Pledge, Accuses Opposition of Lacking Alternatives appeared first on Ghafla.
 
-_Business Topic — https://news.google.com/rss/articles/CBMimAFBVV95cUxORmFVWUJnVWpYanZOSFBmQ0tzWFhJSnFxRnYxUW41UGR1ZzJlTmpfSkdkTUttS3pfb2M5NFdUYWFHbTlleldhQTZfQ09BV29PNHprcUdvenQ3MUtfLS10Tnduc3NXY054RzFfNUpwS2JKMDZRTXhXYVFKdTBRUm1CM2JYUEZfRmNKbkQzMkFCX1hxRFE1UGN3WA?oc=5_
+_Ghafla — https://www.ghafla.co.ke/ruto-steps-up-attack-on-kalonzo-over-sha-pledge-accuses-opposition-of-lacking-alternatives/_
 
 ---
 
-**2. Anthropic's Investors Want a $2 Trillion IPO. The Last Record-Setting IPO Has Made Its Buyers Nothing in Two Months. - Yahoo Finance**
+**2. Iterative Development of an AI-Assisted Data Extraction Tool for Literature Synthesis in Oncology - Cureus**
 
-Anthropic's Investors Want a $2 Trillion IPO. The Last Record-Setting IPO Has Made Its Buyers Nothing in Two Months. Yahoo FinanceAnthropic investors bet on $2tn valuation in record IPO Financial TimesAnthropic's Annualized Revenue Tops $65 Billion Before IPO Bloomberg.comCitigroup May Be Added to Anthropic's IPO Team of Bankers marketscreener.comAnthropic made $11.5 billion last quarter! A year earlier it made $787 million WION
+Iterative Development of an AI-Assisted Data Extraction Tool for Literature Synthesis in Oncology Cureus
 
-_Business Topic — https://news.google.com/rss/articles/CBMiowFBVV95cUxPcWNTLVdSNHg3T1haR3E0MUd6ZEZJTmNCOTNtbmRsU2FYSDNWX3gtc0VnOWFPV2lNc3Y5U0hWX0lYdFdzX0hQamkxYXlWT3RKSGtjUndCT1F0Q2tzTHRzcFVWTWZXT2pGRVM0YklOQ1JwaDcxby1aNlFlUmpYT3dtejNYSlByYzNtYzktd2ZUTEw4RHV0TUJtM0JxeDZtN3ZtcHBR?oc=5_
+_Business Topic — https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR2RqYUg2RnpBeDVuVnpXSUpiWmpPVFM0d2szV09WUV81UGpNd0NIME5BYkhJQmRvT1BEN2lzTFpfcWZ3Y2w5bGNJdGhVRFB4RTBTY1NHVV9jRjYzbmVsLXpsY2NGZnBBb2twYnlST2cwd1p4VlFLRHU5STdTb0U4cVFadnQ2bFZ4VU9QWUY2Tkt0V2FMeVZ3WGRNV1lrQ1FMbHpfRm9CMDJaZ0NMbnFiSlR4RXpyZkRsS2tpZzdKYnJoMGhTYTFfZ1ZFaUFRZ1NZbFE?oc=5_
+
+---
+
+**3. MUGWE: What Ndindi Nyoro means for the interregnum of kingpins - the-star.co.ke**
+
+MUGWE: What Ndindi Nyoro means for the interregnum of kingpins the-star.co.keThe Ndindi Nyoro gamble: Is Kiharu MP building alternative centre to challenge Gachagua's Mt Kenya dominance? People DailyNyoro's break with Ruto redraws 2027 opposition map Daily Nation"Be like Raila, resign": Nyoro challenged to seek re-election on his new party Tuko NewsKiharu MP Ndindi Nyoro welcomes three UDA MCAs to People's Party of Kenya The Eastleigh Voice
+
+_Kenya Latest — https://news.google.com/rss/articles/CBMijwFBVV95cUxNNTllZWNuaV9lSjhlWFdPMnNkbUlXNHN0UkgzQ2Q0ekdrTmtYaTJXdFZ0a2pDY2QycUJvQkppTWdiSUNGRU5lc0JudVAwbHVjem5MalFob3VaYTlVcm1oaDhuMVcteDlPYl9kbFlKMS1DUlRFWjZ0a0ZsZlhnWTRmWXNFdm9WUk1MNEJibHcyaw?oc=5_
+
+---
+
+**4. SportPesa Casino launches ‘Every Spin Counts’ and ‘Shinda Heavy’ rewards - Daily Nation**
+
+SportPesa Casino launches 'Every Spin Counts' and 'Shinda Heavy' rewards Daily Nation
+
+_Business Topic — https://news.google.com/rss/articles/CBMimgFBVV95cUxOc3dwWDNsOUtjaVowLUxibTY3RlZLdTRWMHU2dlN5dmRUQjlsN2NWTTdmT1czV05rUU9neVZjTHg2MExadmY0VkdSQ1lFdlZDbTlZZTJOV1VvcVAwSFNpdkNFS2RIQW5vZmYwWjRHNFpaVjJLRDh2cnVCcWl6Ym5HbVNpeERIMjJtLWhkVkxQYUtSalFPRW9sRlpn?oc=5_
+
+---
+
+**5. National Atomic Co Kazatomprom JSC (NATKY) (Q2 2026) Earnings Call Highlights: Production ... - Yahoo Finance**
+
+National Atomic Co Kazatomprom JSC (NATKY) (Q2 2026) Earnings Call Highlights: Production ... Yahoo FinanceNational Atomic Company Kazatomprom JSC: Strong 1H2026 results, disciplined 2026 outlook, and continued global uranium leadership TradingViewKazatomprom Earnings Call: Growth Meets Cost Headwinds TipRanksNational Atomic Company Kazatomprom JSC: Revenue and production rose, costs increased, and new large contracts require EGM approval TradingViewNational Atomic Company Kazatomprom JSC: Revenue up 9% and realized price up 16%, but net profit fell on FX and cost pressures TradingView
+
+_Business Topic — https://news.google.com/rss/articles/CBMioAFBVV95cUxPaVNxR1loWW9mcF9pZFFqQm9PUGJzcVhleHlQZDZweEU4R1ZxTG1jSjJ6VFJhOEhXSENWaURURVFMVG9aYmNtQW56TkhNcEhFakZwaHh4SXhmNWFjcV80d0NSd0Rjd1NqOW5HUXNkaE1mMEd1WUlBcVVpRFRtby1zMm9BX3NBLVh0QlZaX3VpRjhzS2RWakZFeXk0TXBaNWN1?oc=5_
+
+---
+
+**6. Kenya Power Announces Planned Power Maintenance in Several Counties on August 23**
+
+Kenya Power has announced a series of planned power maintenance exercises scheduled for Sunday, August 23, 2026, affecting parts of Nairobi, Kajiado, Uasin Gishu, Kilifi, Laikipia and Nyeri counties. The scheduled interruptions will take place at different times depending on the affected area, with some customers expected to remain without electricity for several hours. Residents […] The post Kenya Power Announces Planned Power Maintenance in Several Counties on August 23 appeared first on Ghafla.
+
+_Ghafla — https://www.ghafla.co.ke/kenya-power-announces-planned-power-maintenance-in-several-counties-on-august-23/_
 
 ---
 

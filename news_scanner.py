@@ -21,6 +21,10 @@ FEED_HEALTH_FILE = "feed_health.json"
 # File used by the Dynamic Agent to track exactly when your last manual scan completed
 LAST_RUN_STATE_FILE = "last_run_state.json"
 
+# File used by the Self-Healing Agent to remember feed fixes across manual runs,
+# so a feed that was repaired last time doesn't have to be re-discovered every run.
+FEED_OVERRIDES_FILE = "feed_overrides.json"
+
 MAX_SUGGESTIONS_PER_RUN = 100
 LOG_RETENTION_DAYS = 14
 FEED_TIMEOUT_SECONDS = 15
@@ -404,24 +408,69 @@ def main():
         except (OSError, json.JSONDecodeError, ValueError):
             print("[WARN] Could not read seen_log.json, starting fresh.")
 
+    # Feed fixes remembered from previous manual runs: {category: working_url}.
+    # This is what lets the Self-Healing Agent get smarter with each manual run
+    # instead of re-discovering the same fix from scratch every time.
+    feed_overrides = {}
+    if os.path.exists(FEED_OVERRIDES_FILE):
+        try:
+            with open(FEED_OVERRIDES_FILE, "r", encoding="utf-8") as f:
+                loaded = json.load(f)
+            if isinstance(loaded, dict):
+                feed_overrides = loaded
+            else:
+                print("[WARN] feed_overrides.json has an unexpected structure, starting fresh.")
+        except (OSError, json.JSONDecodeError, ValueError):
+            print("[WARN] Could not read feed_overrides.json, starting fresh.")
+
+    if feed_overrides:
+        print(f"[SELF-HEALING AGENT] Loaded {len(feed_overrides)} remembered feed fix(es) from previous run(s).")
+
     health_data = {}
     fresh_extracted_stories = []
     suggested_fixes = []
+    overrides_changed = False
 
     def resolve_feed(feed):
-        working_url = feed["url"]
+        """
+        Resolve a feed to a working URL.
+
+        Order of attempts:
+          1. A remembered override from a previous manual run, if one exists
+             and still works -- this is the "learned" fast path, no repair
+             chain needed.
+          2. The original URL, if it's reachable as-is.
+          3. The full repair chain (url variants -> homepage autodiscovery ->
+             Google News fallback) when neither of the above works.
+
+        Returns (feed, working_url, fix_method, is_new_fix) where is_new_fix
+        tells the caller whether this fix was just discovered this run (and
+        so needs to be persisted) or was reused from feed_overrides.json.
+        """
+        category = feed["category"]
+        original_url = feed["url"]
+
+        override_url = feed_overrides.get(category)
+        if override_url and override_url != original_url:
+            if is_link_reachable(override_url) and _is_valid_feed(override_url):
+                return feed, override_url, "remembered_override", False
+            print(f"[SELF-HEALING AGENT] Remembered fix for {category} stopped working, re-repairing...")
+
+        working_url = original_url
         fix_method = None
+        is_new_fix = False
 
         if not is_link_reachable(working_url):
-            print(f"[SELF-HEALING AGENT] {feed['category']} unreachable, attempting repair...")
-            fixed_url, fix_method = find_working_feed_url(feed["url"], category=feed["category"])
+            print(f"[SELF-HEALING AGENT] {category} unreachable, attempting repair...")
+            fixed_url, fix_method = find_working_feed_url(original_url, category=category)
             if fixed_url:
-                print(f"[SELF-HEALING AGENT] Fixed {feed['category']} via {fix_method}: {fixed_url}")
+                print(f"[SELF-HEALING AGENT] Fixed {category} via {fix_method}: {fixed_url}")
                 working_url = fixed_url
+                is_new_fix = True
             else:
                 working_url = None
 
-        return feed, working_url, fix_method
+        return feed, working_url, fix_method, is_new_fix
 
     resolved = []
     with ThreadPoolExecutor(max_workers=12) as pool:
@@ -431,9 +480,11 @@ def main():
 
     resolved.sort(key=lambda r: FEEDS.index(r[0]))
 
-    for feed, working_url, fix_method in resolved:
+    for feed, working_url, fix_method, is_new_fix in resolved:
+        category = feed["category"]
+
         if working_url:
-            health_data[feed["category"]] = {
+            health_data[category] = {
                 "status": "ALIVE",
                 "url_used": working_url,
                 "auto_fixed": fix_method is not None,
@@ -441,11 +492,21 @@ def main():
             }
             if fix_method:
                 suggested_fixes.append({
-                    "category": feed["category"],
+                    "category": category,
                     "original_url": feed["url"],
                     "working_url": working_url,
                     "method": fix_method,
+                    "reused": not is_new_fix,
                 })
+
+            # A repair that's actually different from the original URL gets
+            # remembered so next manual run can use it straight away via
+            # the "remembered_override" fast path above.
+            if is_new_fix and working_url != feed["url"]:
+                if feed_overrides.get(category) != working_url:
+                    feed_overrides[category] = working_url
+                    overrides_changed = True
+
             try:
                 parsed = feedparser.parse(working_url)
                 for entry in parsed.entries:
@@ -466,23 +527,35 @@ def main():
 
                         if 0 <= age_mins <= time_gap_minutes and link not in seen_log:
                             fresh_extracted_stories.append({
-                                "category": feed["category"],
+                                "category": category,
                                 "title": title,
                                 "link": link,
                             })
             except Exception as e:
-                print(f"[WARN] Failed to parse {feed['category']} ({working_url}): {e}")
+                print(f"[WARN] Failed to parse {category} ({working_url}): {e}")
                 continue
         else:
-            health_data[feed["category"]] = {
+            health_data[category] = {
                 "status": "DEAD",
                 "url_used": None,
                 "auto_fixed": False,
                 "fix_method": None,
             }
+            # A feed that's fully dead (repair chain exhausted, no reachable
+            # URL at all) can't have a valid remembered fix either -- drop
+            # any stale override so we don't keep offering a URL that no
+            # longer resolves anything.
+            if feed_overrides.pop(category, None) is not None:
+                overrides_changed = True
+                print(f"[SELF-HEALING AGENT] Cleared stale override for {category} (feed is fully dead).")
 
     with open(FEED_HEALTH_FILE, "w", encoding="utf-8") as f:
         json.dump(health_data, f, indent=2)
+
+    if overrides_changed:
+        with open(FEED_OVERRIDES_FILE, "w", encoding="utf-8") as f:
+            json.dump(feed_overrides, f, indent=2)
+        print(f"[SELF-HEALING AGENT] Saved {len(feed_overrides)} feed override(s) to {FEED_OVERRIDES_FILE}.")
 
     random.shuffle(fresh_extracted_stories)
     deduped_candidates = []
@@ -536,13 +609,21 @@ def main():
             f.write(f"## Run: {now_utc.astimezone(NAIROBI_TZ).strftime('%Y-%m-%d %H:%M:%S')} EAT\n\n")
             f.write(f"Scanned lookback gap of {time_gap_minutes} minutes. Found {len(clean_suggestions)} unique stories.\n\n")
             if suggested_fixes:
-                f.write("### Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)\n\n")
-                for fix in suggested_fixes:
-                    f.write(
-                        f"- **{fix['category']}** ({fix['method']}): "
-                        f"`{fix['original_url']}` -> `{fix['working_url']}`\n"
-                    )
-                f.write("\n")
+                new_fixes = [fx for fx in suggested_fixes if not fx["reused"]]
+                reused_fixes = [fx for fx in suggested_fixes if fx["reused"]]
+                if new_fixes:
+                    f.write("### Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)\n\n")
+                    for fix in new_fixes:
+                        f.write(
+                            f"- **{fix['category']}** ({fix['method']}): "
+                            f"`{fix['original_url']}` -> `{fix['working_url']}`\n"
+                        )
+                    f.write("\n")
+                if reused_fixes:
+                    f.write("### Feed URLs still running on a remembered fix\n\n")
+                    for fix in reused_fixes:
+                        f.write(f"- **{fix['category']}**: `{fix['working_url']}`\n")
+                    f.write("\n")
             f.write("---\n\n")
 
             for index, item in enumerate(clean_suggestions, 1):

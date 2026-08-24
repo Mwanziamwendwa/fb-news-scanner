@@ -160,11 +160,21 @@ def clean_and_strip_paywall_text(text):
         return ""
     cleaned_text = re.sub(r'<[^<]+?>', '', text)
     cleaned_text = html.unescape(cleaned_text)
+    # Normalize BEFORE pattern matching, not after: real-world CMS content
+    # (Standard Media in particular) frequently uses &nbsp; for spacing --
+    # html.unescape() turns that into U+00A0, not a plain space -- and
+    # curly quotes (&#8217;) instead of straight apostrophes. The literal
+    # spaces and straight "'" baked into PAYWALL_AND_BIO_PATTERNS silently
+    # fail to match across either of those, letting whole boilerplate
+    # sentences slip through untouched.
     cleaned_text = re.sub(r'\s+', ' ', cleaned_text)
     cleaned_text = cleaned_text.replace('\u2019', "'").replace('\u2018', "'")
     for pattern in PAYWALL_AND_BIO_PATTERNS:
         cleaned_text = re.sub(pattern, "", cleaned_text, flags=re.IGNORECASE | re.DOTALL)
     cleaned_text = re.sub(r'\s+', ' ', cleaned_text).strip()
+    # Removing a boilerplate sentence from the middle/start/end can leave
+    # an orphaned punctuation mark where the boilerplate used to connect
+    # to real content (e.g. ". Treasury Secretary..." or "...enterprises. .")
     cleaned_text = re.sub(r'^[.,;:!?\s]+', '', cleaned_text)
     cleaned_text = re.sub(r'(?:\s*[.,;:!?]){2,}\s*$', '.', cleaned_text)
     return cleaned_text
@@ -190,6 +200,9 @@ def is_link_reachable(url):
         res = requests.head(url, headers=FEED_REQUEST_HEADERS, timeout=FEED_HEALTH_CHECK_TIMEOUT_SECONDS)
         if res.status_code < 400:
             return True
+        # Some servers reject HEAD (403/405) but are fine with GET.
+        # stream=True defers the body download; close the connection
+        # explicitly since we only need the status code, not the content.
         with requests.get(
             url, headers=FEED_REQUEST_HEADERS,
             timeout=FEED_HEALTH_CHECK_TIMEOUT_SECONDS, stream=True
@@ -206,6 +219,14 @@ _RSS_LINK_RE = re.compile(
 
 
 def _url_variants(url):
+    """
+    Cheap, mechanical rewrites to try when a URL 404s/times out --
+    covers the most common ways URLs rot over time (protocol change,
+    added/dropped www, trailing slash, /feed vs /rss/, or a dropped
+    /feed suffix entirely). Not a guess at new content, just URL-shape
+    permutations of the exact same address. Shared by both the feed
+    self-healing agent and the article-fetch self-healing agent below.
+    """
     variants = []
     seen = {url}
 
@@ -242,6 +263,13 @@ def _url_variants(url):
 
 
 def _autodiscover_feed_from_homepage(url):
+    """
+    Falls back to fetching the site's homepage and reading its
+    <link rel="alternate" type="application/rss+xml"> tag -- the
+    standard way browsers/readers find a site's real feed URL. Returns
+    None (never raises) if the homepage can't be reached or has no
+    such tag.
+    """
     try:
         match = re.match(r"^(https?://[^/]+)", url)
         if not match:
@@ -261,11 +289,26 @@ def _autodiscover_feed_from_homepage(url):
 
 
 def _google_news_search_fallback(category):
+    """
+    Last-resort tier: builds a real, valid Google News RSS search feed
+    for the feed's category name (e.g. "Politics" -> Kenya politics
+    news). This is a genuine working RSS endpoint -- unlike a raw
+    Google homepage URL -- so if a publisher's own feed is gone for
+    good, coverage of that category can still continue via Google
+    News search results until the real feed is fixed or replaced.
+    """
     query = requests.utils.quote(f"Kenya {category}")
     return f"https://news.google.com/rss/search?q={query}&hl=en-KE&gl=KE&ceid=KE:en"
 
 
 def _is_valid_feed(url):
+    """
+    HTTP-reachable isn't the same as "is actually an RSS/Atom feed" --
+    a rewritten URL (e.g. dropped /feed suffix) can 200 with the site's
+    homepage HTML instead. Confirm feedparser can find at least one
+    entry before treating a candidate as a real fix, so feed_health.json
+    doesn't report ALIVE for a fix that silently yields nothing.
+    """
     try:
         parsed = feedparser.parse(url)
         return bool(parsed.entries)
@@ -274,6 +317,16 @@ def _is_valid_feed(url):
 
 
 def find_working_feed_url(original_url, category=None):
+    """
+    Self-healing agent: when a configured feed URL is unreachable,
+    tries mechanical URL variants first (fast, no guessing at content),
+    then falls back to reading the real feed URL off the site's
+    homepage, then finally to a genuine Google News search feed for
+    that category so coverage continues even if the original site is
+    down for good. Returns (working_url, method) if something
+    reachable was found, or (None, None) if nothing worked -- in which
+    case the feed is skipped this run exactly as before.
+    """
     for candidate in _url_variants(original_url):
         if is_link_reachable(candidate) and _is_valid_feed(candidate):
             return candidate, "url_variant"
@@ -303,10 +356,19 @@ def contains_sensitive_content(text):
     return False
 
 
+# Tags whose text is never part of real article body copy -- stripped
+# before paragraph extraction so nav/ad/related-links text can't leak
+# into the fetched section.
 _NON_CONTENT_TAGS = ["script", "style", "nav", "footer", "header", "aside", "form", "iframe", "noscript"]
 
 
 def _extract_paragraphs(soup):
+    """
+    Pulls candidate body text out of a parsed article page. Prefers an
+    <article> tag (used by most WordPress/CMS-driven Kenyan news sites)
+    and falls back to all <p> tags on the page if no <article> tag is
+    present. Returns the joined paragraph text, not yet word-bounded.
+    """
     for tag in soup.find_all(_NON_CONTENT_TAGS):
         tag.decompose()
 
@@ -314,11 +376,18 @@ def _extract_paragraphs(soup):
     scope = container if container else soup
 
     paragraphs = [p.get_text(" ", strip=True) for p in scope.find_all("p")]
-    paragraphs = [p for p in paragraphs if len(p.split()) > 4]
+    paragraphs = [p for p in paragraphs if len(p.split()) > 4]  # drop stray one-liners/captions
     return " ".join(paragraphs)
 
 
 def bound_section_by_words(text, max_words=SUMMARY_MAX_WORDS):
+    """
+    Caps `text` at max_words, cut only at a sentence boundary -- never
+    mid-sentence, never with a trailing ellipsis. No minimum floor: a
+    short cleaned text is returned exactly as-is, since a story is
+    never dropped here for being short. Only used to keep a long
+    article from turning into an unreadably long single post.
+    """
     words = text.split()
     if len(words) <= max_words:
         return text
@@ -335,10 +404,13 @@ def bound_section_by_words(text, max_words=SUMMARY_MAX_WORDS):
 
     if section:
         return section
+    # No single sentence fit within the cap (one very long run-on
+    # sentence) -- fall back to a hard word cut at max_words.
     return " ".join(words[:max_words])
 
 
 def _fetch_page(url):
+    """Single raw GET attempt. Returns (soup, ok) -- never raises."""
     try:
         resp = requests.get(url, headers=FEED_REQUEST_HEADERS, timeout=ARTICLE_FETCH_TIMEOUT_SECONDS)
         if not resp.ok:
@@ -349,6 +421,16 @@ def _fetch_page(url):
 
 
 def fetch_article_section(url):
+    """
+    Self-healing agent: fetches the article page at `url` and returns a
+    cleaned, up-to-350-word section of real body text -- exactly as
+    written, no AI rewriting. If the exact URL fails (dead link,
+    redirect rot, timeout), retries the same mechanical URL variants
+    used for feed healing (protocol swap, www swap, trailing slash)
+    before giving up on this story. A story is only skipped if the
+    page truly can't be reached or yields no usable text at all --
+    never because the extracted text is "too short".
+    """
     soup = _fetch_page(url)
 
     if soup is None:
@@ -375,6 +457,9 @@ def main():
     print("[PIPELINE RUN] Starting Dynamic Multi-Agent News Scanner...")
     now_utc = datetime.now(pytz.utc)
 
+    # ----------------==========================================================
+    # LOOKBACK WINDOW: FIXED AT 24 HOURS
+    # ----------------==========================================================
     LOOKBACK_WINDOW_MINUTES = 24 * 60
     time_gap_minutes = LOOKBACK_WINDOW_MINUTES
 
@@ -409,6 +494,12 @@ def main():
     suggested_fixes = []
 
     def resolve_feed(feed):
+        """
+        Reachability check + self-healing repair for one feed. Run in a
+        thread pool below -- with ~60 feeds each carrying up to a
+        10-15s timeout, doing this sequentially could stretch a single
+        run to many minutes whenever several feeds are down at once.
+        """
         working_url = feed["url"]
         fix_method = None
 
@@ -431,6 +522,10 @@ def main():
 
     resolved.sort(key=lambda r: FEEDS.index(r[0]))
 
+    # Extraction Pass -- title/link/category only at this stage. The
+    # post-body text now comes from fetching each selected story's own
+    # article page (see the fetch pass below), not the RSS
+    # <summary>/<description> field.
     for feed, working_url, fix_method in resolved:
         if working_url:
             health_data[feed["category"]] = {
@@ -484,6 +579,10 @@ def main():
     with open(FEED_HEALTH_FILE, "w", encoding="utf-8") as f:
         json.dump(health_data, f, indent=2)
 
+    # Cross-Feed Deduplication (title-based, cheap -- no article fetch
+    # needed yet). Shuffled first so feeds later in FEEDS get a fair
+    # shot at filling the per-run cap instead of the same feeds winning
+    # every run.
     random.shuffle(fresh_extracted_stories)
     deduped_candidates = []
     for story in fresh_extracted_stories:
@@ -497,6 +596,11 @@ def main():
             if len(deduped_candidates) >= MAX_SUGGESTIONS_PER_RUN:
                 break
 
+    # Article-Fetch Pass -- only for the deduped/capped candidate set,
+    # run concurrently since this is the slow, network-bound step. A
+    # story is only dropped here if its article page is truly
+    # unreachable (even after the self-healing retry) or yields zero
+    # usable text -- never because the text was short.
     def fetch_for_story(story):
         section = fetch_article_section(story["link"])
         return story, section
@@ -517,26 +621,18 @@ def main():
             if story.get("link"):
                 seen_log.append(story["link"])
 
+    # Restore a stable, deterministic order for the written output
+    # (fetch completion order is nondeterministic across runs).
     candidate_order = {c["link"]: i for i, c in enumerate(deduped_candidates)}
     clean_suggestions.sort(key=lambda s: candidate_order.get(s["link"], 0))
 
-    # ------------------------------------------------------------------
-    # CHANGED: suggested_posts.md is now APPENDED to, never overwritten.
-    # Every run's new stories are added under a fresh dated section at
-    # the bottom of the file. Nothing already written is ever deleted
-    # by the scanner itself -- Kefa is the only one who removes lines,
-    # by deleting them manually after posting them to Facebook.
-    # ------------------------------------------------------------------
+    # Output to suggested_posts.md -- headline + summary only.
     if clean_suggestions:
-        file_is_new = not os.path.exists(SUGGESTED_POSTS_FILE) or os.path.getsize(SUGGESTED_POSTS_FILE) == 0
-        with open(SUGGESTED_POSTS_FILE, "a", encoding="utf-8") as f:
-            if file_is_new:
-                f.write("# Kenya News Suggestions\n\n")
-                f.write("Delete a story's lines after you've posted it, so this file only ever shows what's still pending.\n\n")
-            f.write(f"## Run: {now_utc.astimezone(NAIROBI_TZ).strftime('%Y-%m-%d %H:%M:%S')} EAT\n\n")
+        with open(SUGGESTED_POSTS_FILE, "w", encoding="utf-8") as f:
+            f.write(f"# Kenya News Suggestions - Generated {now_utc.astimezone(NAIROBI_TZ).strftime('%Y-%m-%d %H:%M:%S')} EAT\n\n")
             f.write(f"Scanned lookback gap of {time_gap_minutes} minutes. Found {len(clean_suggestions)} unique stories.\n\n")
             if suggested_fixes:
-                f.write("### Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)\n\n")
+                f.write("## Feed URLs auto-fixed this run (update FEEDS in news_scanner.py)\n\n")
                 for fix in suggested_fixes:
                     f.write(
                         f"- **{fix['category']}** ({fix['method']}): "
@@ -547,10 +643,13 @@ def main():
 
             for index, item in enumerate(clean_suggestions, 1):
                 sensitive_tag = "⚠️ [SENSITIVE] " if item["sensitive"] else ""
+                # Post-ready format: bold headline, then the fetched
+                # article summary as one flowing paragraph. No link, no
+                # category -- link is kept only in seen_log.json for dedup.
                 f.write(f"**{index}. {sensitive_tag}{item['title']}**\n\n")
                 f.write(f"{item['summary']}\n\n")
                 f.write("---\n\n")
-        print(f"[SUCCESS] Appended {len(clean_suggestions)} unique updates to {SUGGESTED_POSTS_FILE}.")
+        print(f"[SUCCESS] Saved {len(clean_suggestions)} unique updates to {SUGGESTED_POSTS_FILE}.")
     else:
         print(f"[INFO] Zero new entries published in the tracked {time_gap_minutes}-minute timeframe gap.")
 

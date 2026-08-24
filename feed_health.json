@@ -49,9 +49,9 @@
   },
   "SPM Buzz": {
     "status": "ALIVE",
-    "url_used": "http://spmbuzz.com/feed/",
-    "auto_fixed": true,
-    "fix_method": "url_variant"
+    "url_used": "https://spmbuzz.com/feed/",
+    "auto_fixed": false,
+    "fix_method": null
   },
   "Ghafla": {
     "status": "ALIVE",
@@ -91,9 +91,9 @@
   },
   "Nation Africa": {
     "status": "ALIVE",
-    "url_used": "https://nation.africa/kenya/rss.xml",
-    "auto_fixed": false,
-    "fix_method": null
+    "url_used": "https://www.nation.africa/kenya/rss.xml",
+    "auto_fixed": true,
+    "fix_method": "url_variant"
   },
   "Business Daily Africa": {
     "status": "ALIVE",

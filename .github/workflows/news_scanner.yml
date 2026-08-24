@@ -1,8 +1,6 @@
 name: Kenya News Scanner
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "*/30 * * * *"
 permissions:
   contents: write
 concurrency:
@@ -11,10 +9,6 @@ concurrency:
 jobs:
   scan-and-post:
     runs-on: ubuntu-latest
-    # Guards against a single stuck run blocking every queued run behind
-    # it, since cancel-in-progress is false and the cron fires every 30
-    # minutes. 10 minutes is comfortably above a normal run (feed checks
-    # now run concurrently) but well under the 30-minute cadence.
     timeout-minutes: 10
     steps:
       - name: Checkout repository

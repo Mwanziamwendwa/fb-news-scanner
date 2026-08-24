@@ -91,9 +91,9 @@
   },
   "Nation Africa": {
     "status": "ALIVE",
-    "url_used": "https://nation.africa/kenya/rss.xml",
-    "auto_fixed": false,
-    "fix_method": null
+    "url_used": "https://www.nation.africa/kenya/rss.xml",
+    "auto_fixed": true,
+    "fix_method": "url_variant"
   },
   "Business Daily Africa": {
     "status": "ALIVE",

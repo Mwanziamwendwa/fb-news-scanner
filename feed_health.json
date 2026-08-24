@@ -318,8 +318,8 @@
     "fix_method": null
   },
   "Kenyapedia Jobs": {
-    "status": "DEAD",
-    "url_used": null,
+    "status": "ALIVE",
+    "url_used": "https://www.kenyapedia.co.ke/rss/category/jobs",
     "auto_fixed": false,
     "fix_method": null
   },
@@ -336,26 +336,26 @@
     "fix_method": null
   },
   "Kenyapedia Debt": {
-    "status": "DEAD",
-    "url_used": null,
+    "status": "ALIVE",
+    "url_used": "https://www.kenyapedia.co.ke/rss/category/debt-and-borrowing",
     "auto_fixed": false,
     "fix_method": null
   },
   "Kenyapedia Economy": {
-    "status": "DEAD",
-    "url_used": null,
+    "status": "ALIVE",
+    "url_used": "https://www.kenyapedia.co.ke/rss/category/kenya-economy",
     "auto_fixed": false,
     "fix_method": null
   },
   "Kenyapedia Education": {
-    "status": "DEAD",
-    "url_used": null,
+    "status": "ALIVE",
+    "url_used": "https://www.kenyapedia.co.ke/rss/category/education-funding",
     "auto_fixed": false,
     "fix_method": null
   },
   "Kenyapedia Taxes": {
-    "status": "DEAD",
-    "url_used": null,
+    "status": "ALIVE",
+    "url_used": "https://www.kenyapedia.co.ke/rss/category/taxes-50",
     "auto_fixed": false,
     "fix_method": null
   },

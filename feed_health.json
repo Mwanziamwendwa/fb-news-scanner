@@ -91,9 +91,9 @@
   },
   "Nation Africa": {
     "status": "ALIVE",
-    "url_used": "https://nation.africa/kenya/rss.xml",
-    "auto_fixed": false,
-    "fix_method": null
+    "url_used": "https://www.nation.africa/kenya/rss.xml",
+    "auto_fixed": true,
+    "fix_method": "url_variant"
   },
   "Business Daily Africa": {
     "status": "ALIVE",
@@ -313,9 +313,9 @@
   },
   "Kenyapedia Latest": {
     "status": "ALIVE",
-    "url_used": "https://www.kenyapedia.co.ke/rss/latest-posts",
-    "auto_fixed": false,
-    "fix_method": null
+    "url_used": "http://www.kenyapedia.co.ke/rss/latest-posts",
+    "auto_fixed": true,
+    "fix_method": "url_variant"
   },
   "Kenyapedia Jobs": {
     "status": "ALIVE",
@@ -330,14 +330,14 @@
     "fix_method": null
   },
   "Kenyapedia Grants": {
-    "status": "ALIVE",
-    "url_used": "https://www.kenyapedia.co.ke/rss/category/business-grants-and-financing",
+    "status": "DEAD",
+    "url_used": null,
     "auto_fixed": false,
     "fix_method": null
   },
   "Kenyapedia Debt": {
-    "status": "ALIVE",
-    "url_used": "https://www.kenyapedia.co.ke/rss/category/debt-and-borrowing",
+    "status": "DEAD",
+    "url_used": null,
     "auto_fixed": false,
     "fix_method": null
   },
@@ -348,8 +348,8 @@
     "fix_method": null
   },
   "Kenyapedia Education": {
-    "status": "ALIVE",
-    "url_used": "https://www.kenyapedia.co.ke/rss/category/education-funding",
+    "status": "DEAD",
+    "url_used": null,
     "auto_fixed": false,
     "fix_method": null
   },
@@ -366,8 +366,8 @@
     "fix_method": null
   },
   "Kenyapedia Recent News": {
-    "status": "ALIVE",
-    "url_used": "https://www.kenyapedia.co.ke/rss/category/recent-news",
+    "status": "DEAD",
+    "url_used": null,
     "auto_fixed": false,
     "fix_method": null
   }

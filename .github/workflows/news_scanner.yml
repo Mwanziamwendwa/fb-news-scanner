@@ -30,7 +30,7 @@ jobs:
         run: |
           git config user.name "Kenya News Scanner"
           git config user.email "actions@github.com"
-          for f in suggested_posts.md seen_log.json feed_health.json last_run_state.json; do
+          for f in suggested_posts.md seen_log.json feed_health.json feed_overrides.json last_run_state.json; do
             if [ -f "$f" ]; then
               git add "$f"
             fi

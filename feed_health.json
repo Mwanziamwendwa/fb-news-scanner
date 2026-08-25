@@ -63,7 +63,7 @@
     "status": "ALIVE",
     "url_used": "http://ghafla.co.ke/ke/feed",
     "auto_fixed": true,
-    "fix_method": "url_variant"
+    "fix_method": "remembered_override"
   },
   "K24 Digital": {
     "status": "ALIVE",
@@ -111,7 +111,7 @@
     "status": "ALIVE",
     "url_used": "https://news.google.com/rss/search?q=Kenya%20Kenya%20News%20Agency&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": true,
-    "fix_method": "google_news_search_fallback"
+    "fix_method": "remembered_override"
   },
   "Taifa Leo": {
     "status": "ALIVE",
@@ -135,13 +135,13 @@
     "status": "ALIVE",
     "url_used": "https://news.google.com/rss/search?q=Kenya%20Mwakilishi&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": true,
-    "fix_method": "google_news_search_fallback"
+    "fix_method": "remembered_override"
   },
   "Sharp Daily": {
     "status": "ALIVE",
     "url_used": "https://news.google.com/rss/search?q=Kenya%20Sharp%20Daily&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": true,
-    "fix_method": "google_news_search_fallback"
+    "fix_method": "remembered_override"
   },
   "News Trends KE": {
     "status": "ALIVE",
@@ -171,7 +171,7 @@
     "status": "ALIVE",
     "url_used": "https://news.google.com/rss/search?q=Kenya%20KenyaMOJA&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": true,
-    "fix_method": "google_news_search_fallback"
+    "fix_method": "remembered_override"
   },
   "Nairobi Gossip Club": {
     "status": "ALIVE",
@@ -249,67 +249,67 @@
     "status": "ALIVE",
     "url_used": "https://news.google.com/rss/search?q=Kenya%20Getembe%20Latest&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": true,
-    "fix_method": "google_news_search_fallback"
+    "fix_method": "remembered_override"
   },
   "Getembe News": {
     "status": "ALIVE",
     "url_used": "https://news.google.com/rss/search?q=Kenya%20Getembe%20News&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": true,
-    "fix_method": "google_news_search_fallback"
+    "fix_method": "remembered_override"
   },
   "Getembe Business": {
     "status": "ALIVE",
     "url_used": "https://news.google.com/rss/search?q=Kenya%20Getembe%20Business&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": true,
-    "fix_method": "google_news_search_fallback"
+    "fix_method": "remembered_override"
   },
   "Getembe Education": {
     "status": "ALIVE",
     "url_used": "https://news.google.com/rss/search?q=Kenya%20Getembe%20Education&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": true,
-    "fix_method": "google_news_search_fallback"
+    "fix_method": "remembered_override"
   },
   "Getembe Politics": {
     "status": "ALIVE",
     "url_used": "https://news.google.com/rss/search?q=Kenya%20Getembe%20Politics&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": true,
-    "fix_method": "google_news_search_fallback"
+    "fix_method": "remembered_override"
   },
   "Getembe Health": {
     "status": "ALIVE",
     "url_used": "https://news.google.com/rss/search?q=Kenya%20Getembe%20Health&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": true,
-    "fix_method": "google_news_search_fallback"
+    "fix_method": "remembered_override"
   },
   "Viral Tea Latest": {
     "status": "ALIVE",
     "url_used": "https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20Latest&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": true,
-    "fix_method": "google_news_search_fallback"
+    "fix_method": "remembered_override"
   },
   "Viral Tea News": {
     "status": "ALIVE",
     "url_used": "https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20News&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": true,
-    "fix_method": "google_news_search_fallback"
+    "fix_method": "remembered_override"
   },
   "Viral Tea Breaking": {
     "status": "ALIVE",
     "url_used": "https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20Breaking&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": true,
-    "fix_method": "google_news_search_fallback"
+    "fix_method": "remembered_override"
   },
   "Viral Tea National": {
     "status": "ALIVE",
     "url_used": "https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20National&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": true,
-    "fix_method": "google_news_search_fallback"
+    "fix_method": "remembered_override"
   },
   "Viral Tea Local": {
     "status": "ALIVE",
     "url_used": "https://news.google.com/rss/search?q=Kenya%20Viral%20Tea%20Local&hl=en-KE&gl=KE&ceid=KE:en",
     "auto_fixed": true,
-    "fix_method": "google_news_search_fallback"
+    "fix_method": "remembered_override"
   },
   "Kenyapedia Latest": {
     "status": "ALIVE",
